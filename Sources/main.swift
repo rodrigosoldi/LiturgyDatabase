@@ -4,7 +4,18 @@
 import Foundation
 
 do {
-	let databaseUtil = try DatabaseUtil()
+	let arguments = CommandLine.arguments
+	print("Args: \(arguments)")
+
+	let path: String? = arguments.count > 1 ? arguments[1] : nil
+	var databaseUtil: DatabaseUtil!
+	if let path {
+		let fileURL: URL = URL(fileURLWithPath: path)
+		databaseUtil = try DatabaseUtil(fileURL: fileURL)
+	} else {
+		databaseUtil = try DatabaseUtil()
+	}
+
 	let jsonUtil = JSONUtil()
 	let fileUtil = FileUtil()
 	let liturgyUtil = LiturgyUtil()
@@ -23,7 +34,7 @@ do {
 
 		for liturgy in liturgies {
 			// Salvando o objeto no Realm
-			print("Data: \(liturgy.date) - \(liturgy.liturgy)")
+			print("\(liturgy.date) - \(liturgy.liturgy)")
 			try databaseUtil.save(liturgy: liturgy)
 		}
 	}
