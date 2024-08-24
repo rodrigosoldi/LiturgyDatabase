@@ -1,0 +1,68 @@
+{
+    "liturgies": [
+        {
+            "date": "",
+            "liturgy": "",
+            "liturgicalColor": "",
+            "firstReading": {
+                "reference": "",
+                "title": "",
+                "intro": "",
+                "verses": [
+                    {
+                        "reference": "",
+                        "text": ""
+                    }
+                ]
+            },
+            "psalm": {
+                "reference": "",
+                "chorus": "",
+                "verses": [
+                    {
+                        "reference": "",
+                        "text": ""
+                    }
+                ]
+            },
+            "secondReading": {
+                "reference": "",
+                "title": "",
+                "intro": "",
+                "verses": [
+                    {
+                        "reference": "",
+                        "text": ""
+                    }
+                ]
+            },
+            "gospel": {
+                "gospelAcclamation": {
+                    "chorus": "",
+                    "verses": [
+                        {
+                            "reference": "",
+                            "text": ""
+                        }
+                    ]
+                },
+                "reading": {
+                    "reference": "",
+                    "title": "",
+                    "intro": "",
+                    "verses": [
+                        {
+                            "reference": "",
+                            "text": ""
+                        },
+                        {
+                            "reference": "",
+                            "text": ""
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
+
