@@ -27,7 +27,7 @@ Once you have your Swift package set up, adding LiturgyMakeRealmDatabase as a de
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/rodrigosoldi/LiturgyMakeRealmDatabase.ig", branch: "main")
+    .package(url: "https://github.com/rodrigosoldi/LiturgyMakeRealmDatabase.git", branch: "main")
 ]
 ```
 
