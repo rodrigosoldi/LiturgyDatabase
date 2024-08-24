@@ -1,0 +1,83 @@
+{
+    "liturgies": [
+        {
+            "date": "18/08/24",
+            "liturgy": "Assunção da Bem-aventurada Virgem Maria, Solenidade",
+            "liturgicalColor": "BRANCO",
+            "firstReading": {
+                "reference": "Cron 15,3-4.15-16; 16,1-2",
+                "title": "Leitura do Primeiro Livro das Crônicas",
+                "intro": "Naqueles dias,",
+                "verses": [
+                    {
+                        "reference": "3",
+                        "text": "Davi convocou todo o Israel em Jerusalém, a fim de transportar a arca do Senhor para o lugar que lhe havia preparado."
+                    },
+                    {
+                        "reference": "4",
+                        "text": "Davi reuniu também os filhos de Aarão e os levitas."
+                    }
+                ]
+            },            
+            "psalm": {
+                "reference": "Sl 131(132)",
+                "chorus": "Subi, Senhor, para o lugar de vosso pouso, subi com vossa arca poderosa!",
+                "verses": [
+                    {
+                        "reference": null,
+                        "text": "Nós soubemos que a arca estava em Éfrata e nos campos de Iaar a encontramos: entremos no lugar em que ele habita, ante o escabelo de seus pés o adoremos!"
+                    },
+                    {
+                        "reference": null,
+                        "text": "Que se vistam de alegria os vossos santos, e os vossos sacerdotes, de justiça! Por causa de Davi, o vosso servo, não afasteis do vosso Ungido a vossa face!"
+                    },
+                    {
+                        "reference": null,
+                        "text": "Pois o Senhor quis para si Jerusalém e a desejou para que fosse sua morada: \"Eis o lugar do meu repouso para sempre, eu fico aqui: este é o lugar que preferi!\""
+                    }
+                ]
+            },
+            "secondReading": {
+                "reference": "I Cor 15,54-57",
+                "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                "intro": "Irmãos:",
+                "verses": [
+                    {
+                        "reference": "54",
+                        "text": "Quando este ser corruptível estiver vestido de incorruptibilidade e este ser mortal estiver vestido de imortalidade, então estará cumprida a palavra da Escritura: \"A morte foi tragada pela vitória."
+                    },
+                    {
+                        "reference": "55",
+                        "text": "Ó morte, onde está a tua vitória? Onde está o teu aguilhão?\""
+                    }
+                ]
+            },
+            "gospel": {
+                "gospelAcclamation": {
+                    "chorus": "Aleluia, Aleluia, Aleluia.",
+                    "verses": [
+                        {
+                            "reference": null,
+                            "text": "Felizes aqueles que ouvem a palavra de Deus e a guardam!"
+                        }
+                    ]
+                },
+                "reading": {
+                    "reference": "Lc 11,27-28",
+                    "title": null,
+                    "intro": "Naquele tempo,",
+                    "verses": [
+                        {
+                            "reference": "27",
+                            "text": "Enquanto Jesus falava ao povo uma mulher levantou a voz no meio da multidão e lhe disse: \"Feliz o ventre que te trouxe e os seios que te amamentaram\"."
+                        },
+                        {
+                            "reference": "28",
+                            "text": "Jesus respondeu: \"Muito mais felizes são aqueles que ouvem a palavra de Deus e a põem em prática\"."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
