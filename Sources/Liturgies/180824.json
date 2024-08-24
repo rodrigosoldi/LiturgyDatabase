@@ -24,7 +24,7 @@
                 "chorus": "Subi, Senhor, para o lugar de vosso pouso, subi com vossa arca poderosa!",
                 "verses": [
                     {
-                        "reference": null,
+                        "reference": "test",
                         "text": "Nós soubemos que a arca estava em Éfrata e nos campos de Iaar a encontramos: entremos no lugar em que ele habita, ante o escabelo de seus pés o adoremos!"
                     },
                     {
