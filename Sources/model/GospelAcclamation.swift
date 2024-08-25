@@ -11,5 +11,5 @@ import RealmSwift
 public class GospelAcclamation: Object {
 	@Persisted(primaryKey: true) public var _id: UUID
 	@Persisted public var chorus: String
-	@Persisted public var verses: List<Verse>
+	@Persisted public var text: String?
 }

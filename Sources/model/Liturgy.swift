@@ -14,9 +14,9 @@ public class Liturgy: Object {
 	@Persisted public var date: String
 	@Persisted public var liturgy: String
 	@Persisted public var liturgicalColor: String
-	@Persisted public var firstReading: Reading?
-	@Persisted public var psalm: Psalm?
-	@Persisted public var secondReading: Reading?
-	@Persisted public var gospel: Gospel?
+	@Persisted public var firstReadings: List<Reading>
+	@Persisted public var psalms: List<Psalm>
+	@Persisted public var secondReadings: List<Reading>
+	@Persisted public var gospels: List<Gospel>
 
 }

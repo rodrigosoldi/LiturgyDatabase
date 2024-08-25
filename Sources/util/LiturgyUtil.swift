@@ -21,21 +21,39 @@ struct LiturgyUtil {
 		let date = json["date"].stringValue
 		let _liturgy = json["liturgy"].stringValue
 		let liturgicalColor = json["liturgicalColor"].stringValue
-		let firstReading: Reading? = json["firstReading"].exists() ? fetchReading(json["firstReading"]) : nil
-		let psalm: Psalm? = fetchPsalm(json["psalm"])
-		let secondReading: Reading? = json["secondReading"].exists() ? fetchReading(json["secondReading"]) : nil
-		let gospel: Gospel? = json["gospel"].exists() ? fetchGospel(json["gospel"]) : nil
+		let firstReadings: List<Reading> = fetchReadings(json["firstReadings"].arrayValue)
+		let psalms: List<Psalm> = fetchPsalms(json["psalms"].arrayValue)
+		let secondReadings: List<Reading> = fetchReadings(json["secondReadings"].arrayValue)
+		let gospels: List<Gospel> = fetchGospels(json["gospels"].arrayValue)
 
 		let liturgy = Liturgy()
 		liturgy._id = UUID()
 		liturgy.date = date
 		liturgy.liturgy = _liturgy
 		liturgy.liturgicalColor = liturgicalColor
-		liturgy.firstReading = firstReading
-		liturgy.psalm = psalm
-		liturgy.secondReading = secondReading
-		liturgy.gospel = gospel
+		liturgy.firstReadings = firstReadings
+		liturgy.psalms = psalms
+		liturgy.secondReadings = secondReadings
+		liturgy.gospels = gospels
 		return liturgy
+	}
+
+	func fetchReadings(_ jsonArray: [JSON]) -> List<Reading> {
+		guard jsonArray.count > 0 else {
+			return List()
+		}
+
+		let list = List<Reading>()
+
+		for json in jsonArray {
+			guard let reading = fetchReading(json) else {
+				continue
+			}
+
+			list.append(reading)
+		}
+
+		return list
 	}
 
 	func fetchReading(_ json: JSON) -> Reading? {
@@ -43,9 +61,26 @@ struct LiturgyUtil {
 		reading._id = UUID()
 		reading.reference = json["reference"].stringValue
 		reading.title = json["title"].string
-		reading.intro = json["intro"].string
-		reading.verses = fetchVerses(json["verses"].arrayValue)
+		reading.text = json["text"].stringValue
 		return reading
+	}
+
+	func fetchPsalms(_ jsonArray: [JSON]) -> List<Psalm> {
+		guard jsonArray.count > 0 else {
+			return List()
+		}
+
+		let list = List<Psalm>()
+
+		for json in jsonArray {
+			guard let psalm = fetchPsalm(json) else {
+				continue
+			}
+
+			list.append(psalm)
+		}
+
+		return list
 	}
 
 	func fetchPsalm(_ json: JSON) -> Psalm? {
@@ -53,8 +88,26 @@ struct LiturgyUtil {
 		psalm._id = UUID()
 		psalm.reference = json["reference"].stringValue
 		psalm.chorus = json["chorus"].stringValue
-		psalm.verses = fetchVerses(json["verses"].arrayValue)
+		psalm.texts = fetchPSalmTexts(json["texts"].arrayValue)
 		return psalm
+	}
+
+	func fetchGospels(_ jsonArray: [JSON]) -> List<Gospel> {
+		guard jsonArray.count > 0 else {
+			return List()
+		}
+
+		let list = List<Gospel>()
+
+		for json in jsonArray {
+			guard let gospel = fetchGospel(json) else {
+				continue
+			}
+
+			list.append(gospel)
+		}
+
+		return list
 	}
 
 	func fetchGospel(_ json: JSON) -> Gospel? {
@@ -69,39 +122,26 @@ struct LiturgyUtil {
 		let gospelAcclamation = GospelAcclamation()
 		gospelAcclamation._id = UUID()
 		gospelAcclamation.chorus = json["chorus"].stringValue
-		gospelAcclamation.verses = fetchVerses(json["verses"].arrayValue)
+		gospelAcclamation.text = json["text"].string
 		return gospelAcclamation
 	}
 
-	func fetchVerses(_ versesJSON: [JSON]) -> List<Verse> {
-		guard versesJSON.count > 0 else {
+	func fetchPSalmTexts(_ textsJSON: [JSON]) -> List<String> {
+		guard textsJSON.count > 0 else {
 			return List()
 		}
 
-		let list = List<Verse>()
+		let list = List<String>()
 
-		for verseJSON in versesJSON {
-			guard let verse = fetchVerse(verseJSON) else {
+		for textJSON in textsJSON {
+			guard let text = textJSON.string else {
 				continue
 			}
 
-			list.append(verse)
+			list.append(text)
 		}
 
 		return list
-	}
-
-	func fetchVerse(_ json: JSON) -> Verse? {
-		guard json["text"].exists() else {
-			return nil
-		}
-
-		let verse = Verse()
-		verse._id = UUID()
-		verse.reference = json["reference"].string
-		verse.text = json["text"].stringValue
-
-		return verse
 	}
 
 }

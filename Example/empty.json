@@ -4,65 +4,40 @@
             "date": "",
             "liturgy": "",
             "liturgicalColor": "",
-            "firstReading": {
-                "reference": "",
-                "title": "",
-                "intro": "",
-                "verses": [
-                    {
-                        "reference": "",
-                        "text": ""
-                    }
-                ]
-            },
-            "psalm": {
-                "reference": "",
-                "chorus": "",
-                "verses": [
-                    {
-                        "reference": "",
-                        "text": ""
-                    }
-                ]
-            },
-            "secondReading": {
-                "reference": "",
-                "title": "",
-                "intro": "",
-                "verses": [
-                    {
-                        "reference": "",
-                        "text": ""
-                    }
-                ]
-            },
-            "gospel": {
-                "gospelAcclamation": {
-                    "chorus": "",
-                    "verses": [
-                        {
-                            "reference": "",
-                            "text": ""
-                        }
-                    ]
-                },
-                "reading": {
+            "firstReadings": [
+                {
                     "reference": "",
                     "title": "",
-                    "intro": "",
-                    "verses": [
-                        {
-                            "reference": "",
-                            "text": ""
-                        },
-                        {
-                            "reference": "",
-                            "text": ""
-                        }
-                    ]
+                    "text": ""
                 }
-            }
+            ],
+            "psalms": [
+                {
+                    "reference": "",
+                    "chorus": "",
+                    "texts": []
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "",
+                    "title": "",
+				    "text": ""
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "",
+                        "text": ""
+                    },
+                    "reading": {
+                        "reference": "",
+                        "title": null,
+					    "text": ""
+                    }
+                }
+            ]
         }
     ]
 }
-

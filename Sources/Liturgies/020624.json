@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+        {
+            "date": "02/06/24",
+            "liturgy": "9º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Dt 5,12-15",
+                    "title": "Leitura do Livro do Deuteronômio",
+                    "text": "Assim fala o Senhor: 12 \"Guarda o dia de sábado, para o santificares, como o Senhor teu Deus te mandou.13 Trabalharás seis dias e neles farás todas as tuas obras. 14 O sétimo dia é o do sábado, o dia do descanso dedicado ao Senhor teu Deus. Não farás trabalho algum, nem tu, nem teu filho, nem tua filha, nem teu escravo, nem tua escrava, nem teu boi, nem teu jumento, nem algum de teus animais, nem o estrangeiro que vive em tuas cidades, para que assim teu escravo e tua escrava repousem da mesma forma que tu. 15 Lembra-te de que foste escravo no Egito e que de lá o Senhor teu Deus te fez sair com mão forte e braço estendido. É por isso que o Senhor teu Deus te mandou guardar o sábado\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 80(81)",
+                    "chorus": "Exultai no Senhor, a nossa força!",
+                    "texts": [
+                        "Cantai salmos, tocai tamborim, harpa e lira suaves tocai! Na lua nova soai a trombeta, na lua cheia, na festa solene!",
+                        "Porque isso é costume em Jacó, um preceito do Deus de Israel; uma lei que foi dada a José, quando o povo saiu do Egito.",
+                        "Eis que ouço uma voz que não conheço: \"Aliviei as tuas costas de seu fardo, cestos pesados eu tirei de tuas mãos. Na angústia a mim clamaste, e te salvei.",
+                        "Em teu meio não exista um deus estranho nem adores a um deus desconhecido! Porque eu sou o teu Deus e teu Senhor, que da terra do Egito te arranquei\"."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "2Cor 4,6-11",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+				    "text": "Irmãos: 6 Deus, que disse: \"Do meio das trevas brilhe a luz\", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo. 7 Ora, trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. 8 Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; 9 perseguidos, mas não desamparados; derrubados, mas não aniquilados; 10 por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. 11 De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vossa Palavra é a verdade; santificai-nos na verdade"
+                    },
+                    "reading": {
+                        "reference": "Mc 2,23-3,6",
+                        "title": "PROCLAMAÇÃO do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "23 Jesus estava passando por uns campos de trigo, em dia de sábado. Seus discípulos começaram a arrancar espigas, enquanto caminhavam. 24 Então os fariseus disseram a Jesus: \"Olha! Por que eles fazem em dia de sábado o que não é permitido?\" 25 Jesus lhes disse: \"Por acaso, nunca lestes o que Davi e seus companheiros fizeram quando passaram necessidade e tiveram fome? 26 Como ele entrou na casa de Deus, no tempo em que Abiatar era sumo sacerdote, comeu os pães oferecidos a Deus, e os deu também aos seus companheiros? No entanto, só aos sacerdotes é permitido comer esses pães\". 27 E acrescentou: \"O sábado foi feito para o homem, e não o homem para o sábado. 28 Portanto, o Filho do Homem é Senhor também do sábado\". 3,1 Jesus entrou de novo na sinagoga. Havia ali um homem com a mão seca. 2 Alguns o observavam para ver se haveria de curar em dia de sábado, para poderem acusá-lo. 3 Jesus disse ao homem da mão seca: \"Levanta-te e fica aqui no meio!\" 4 E perguntou-lhes: \"É permitido no sábado fazer o bem ou fazer o mal? Salvar uma vida ou deixá-la morrer?\" Mas eles nada disseram. 5 Jesus, então, olhou ao seu redor, cheio de ira e tristeza, porque eram duros de coração; e disse ao homem: \"Estende a mão\". Ele a estendeu e a mão ficou curada. 6 Ao saírem, os fariseus, com os partidários de Herodes, imediatamente tramaram, contra Jesus, a maneira como haveriam de matá-lo."
+                    }
+                }
+            ]
+        }
+    ]
+}

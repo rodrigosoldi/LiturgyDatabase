@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "01/06/24",
+            "liturgy": "Memória de São Justino, mártir",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "Jd 17.20b-25",
+                    "title": "Leitura da Carta de São Judas",
+                    "text": "17 Vós, porém, amados, lembrai-vos das palavras preditas pelos apóstolos de nosso Senhor Jesus Cristo. 20b Edificai-vos sobre o fundamento da vossa santíssima fé e rezai, no Santo Espírito, 21 de modo que vos mantenhais no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo, para a vida eterna. 22 E a uns, que estão com dúvidas, deveis tratar com piedade. 23 A outros, deveis salvá-los arrancando-os do fogo. De outros ainda deveis ter piedade, mas com temor, aborrecendo a própria veste manchada pela carne... 24 Àquele que é capaz de guardar-vos da queda e de apresentar-vos perante a sua glória irrepreensíveis e jubilosos, 25 ao único Deus, nosso Salvador, por Jesus Cristo, nosso Senhor: glória, majestade, poder e domínio, desde antes de todos os séculos, e agora, e por todos os séculos. Amém."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 62(63)",
+                    "chorus": "A minha alma tem sede de vós, ó Senhor!",
+                    "texts": [
+                        "Sois vós, ó Senhor, o meu Deus!* Desde a aurora ansioso vos busco! A minh'alma tem sede de vós,† minha carne também vos deseja,* como terra sedenta e sem água!",
+                        "Venho, assim, contemplar-vos no templo,*para ver vossa glória e poder. Vosso amor vale mais do que a vida:* e por isso meus lábios vos louvam.",
+                        "Quero, pois vos louvar pela vida,*e elevar para vós minhas mãos! A minh'alma será saciada,*como em grande banquete de festa; cantará a alegria em meus lábios,*ao cantar para vós meu louvor!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "A palavra de Cristo ricamente habite em vós, dando graças, por ele, a Deus Pai!"
+                    },
+                    "reading": {
+                        "reference": "Mc 11,27-33",
+                        "title": "PROCLAMAÇÃO do Evangelho de Jesus Cristo + segundo Marcos.",
+					    "text": "Naquele tempo, 27 Jesus e os discípulos foram de novo a Jerusalém. Enquanto Jesus estava andando no Templo, os sumos sacerdotes, os mestres da Lei e os anciãos aproximaram-se dele e perguntaram: 28 \"Com que autoridade fazes essas coisas? Quem te deu autoridade para fazer isso?\" 29 Jesus respondeu: \"Vou fazer-vos uma só pergunta. Se me responderdes, eu vos direi com que autoridade faço isso. 30 O batismo de João vinha do céu ou dos homens? Respondei-me\". 31 Eles discutiam entre si: \"Se respondermos que vinha do céu, ele vai dizer: 'Por que não acreditastes em João?' 32 Devemos então dizer que vinha dos homens?\" Mas eles tinham medo da multidão, porque todos, de fato, tinham João na qualidade de profeta. 33 Então eles responderam a Jesus: \"Não sabemos\". E Jesus disse: \"Pois eu também não vos digo com que autoridade faço essas coisas\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
