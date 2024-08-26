@@ -7,6 +7,7 @@
 
 import Foundation
 import RealmSwift
+import LiturgyCommon
 
 struct DatabaseUtil {
 
@@ -24,7 +25,7 @@ struct DatabaseUtil {
 		print("Realm file created at: \(self.realm.configuration.fileURL!.path)")
 	}
 
-	func save(liturgy: Liturgy) throws {
+	func save(liturgy: DBLiturgy) throws {
 		try realm.write {
 			realm.add(liturgy)
 		}

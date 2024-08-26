@@ -2,18 +2,24 @@
 // https://docs.swift.org/swift-book
 
 import Foundation
+import LiturgyCommon
 
 do {
 	let arguments = CommandLine.arguments
 	print("Args: \(arguments)")
 
 	let path: String? = arguments.count > 1 ? arguments[1] : nil
-	var databaseUtil: DatabaseUtil!
+	var databaseUtil: DatabaseUtil?
 	if let path {
 		let fileURL: URL = URL(fileURLWithPath: path)
 		databaseUtil = try DatabaseUtil(fileURL: fileURL)
 	} else {
 		databaseUtil = try DatabaseUtil()
+	}
+
+	guard let databaseUtil else {
+		print("Unable to create Database Util")
+		exit(1)
 	}
 
 	let jsonUtil = JSONUtil()

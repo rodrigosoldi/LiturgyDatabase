@@ -9,11 +9,12 @@ import Foundation
 
 struct FileUtil {
 
-	private let bundleName = "LiturgyMakeRealmDatabase"
+	private let packageName = "LiturgyDatabase"
+	private let productName = "LiturgyMakeDatabase"
 
 	func getLiturgiesFolderPath() -> String {
 		print("Main Bundle Path: \(Bundle.main.bundlePath)")
-		let bundlePath = Bundle.main.bundlePath + "/\(bundleName)_\(bundleName).bundle"
+		let bundlePath = Bundle.main.bundlePath + "/\(packageName)_\(productName).bundle"
 
 		print("Bundle Path: \(bundlePath)")
 		let bundle = Bundle(path: bundlePath)
