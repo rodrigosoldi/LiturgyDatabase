@@ -16,7 +16,7 @@ extension GospelAcclamation {
 		}
 		
 		self.init(
-			_id: gospelAcclamation._id,
+			id: gospelAcclamation._id,
 			chorus: gospelAcclamation.chorus,
 			text: gospelAcclamation.text)
 	}

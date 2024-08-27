@@ -16,7 +16,7 @@ extension Reading {
 		}
 		
 		self.init(
-			_id: reading._id,
+			id: reading._id,
 			reference: reading.reference,
 			title: reading.title,
 			text: reading.text)

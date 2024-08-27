@@ -13,7 +13,7 @@ extension Psalm {
 	init(_ psalm: DBPsalm) {
 		let texts = Array(psalm.texts)
 		self.init(
-			_id: psalm._id,
+			id: psalm._id,
 			reference: psalm.reference,
 			chorus: psalm.chorus,
 			texts: texts)

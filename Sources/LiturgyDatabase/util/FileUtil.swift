@@ -13,8 +13,6 @@ protocol FileUtil {
 
 struct FileUtilImpl: FileUtil {
 
-	private let packageName = "LiturgyDatabase"
-	private let productName = "LiturgyDatabase"
 	private let databaseName = "database.realm"
 
 	func databasePath() throws -> URL {
@@ -25,8 +23,7 @@ struct FileUtilImpl: FileUtil {
 	}
 
 	private func bundle() throws -> Bundle {
-		let bundlePath = Bundle.main.bundlePath + "/\(packageName)_\(productName).bundle"
-		
+		let bundlePath = Bundle.module.bundlePath
 		guard let bundle = Bundle(path: bundlePath) else {
 			throw LiturgyError.unableToFindBundle
 		}

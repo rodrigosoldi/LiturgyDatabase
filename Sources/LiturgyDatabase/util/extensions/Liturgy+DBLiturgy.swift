@@ -26,7 +26,7 @@ extension Liturgy {
 		let gospels = dbGospels.compactMap({ Gospel($0) })
 
 		self.init(
-			_id: liturgy._id,
+			id: liturgy._id,
 			date: liturgy.date,
 			liturgy: liturgy.liturgy,
 			liturgicalColor: liturgicalColor,

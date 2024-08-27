@@ -33,7 +33,7 @@ let package = Package(
 			],
 			path: "Sources/LiturgyDatabase",
 			resources: [
-				.copy("../../Database/")
+ 				.copy("resources/database.realm")
 			]
 		),
 		.target(

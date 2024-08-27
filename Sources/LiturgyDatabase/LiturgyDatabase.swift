@@ -20,7 +20,7 @@ public class LiturgyDatabaseImpl: LiturgyDatabase {
 
 	private let fileUtil: FileUtil
 	private let queue: DispatchQueue = DispatchQueue(label: "com.soldi.LiturgyDatabase.databaseQueue")
-	private let realm: Realm
+	private var realm: Realm!
 
 	public convenience init() throws {
 		try self.init(fileUtil: FileUtilImpl())
@@ -30,7 +30,9 @@ public class LiturgyDatabaseImpl: LiturgyDatabase {
 		self.fileUtil = fileUtil
 		let fileURL = try fileUtil.databasePath()
 		let configuration = Realm.Configuration(fileURL: fileURL, readOnly: true)
-		self.realm = try Realm(configuration: configuration)
+		try queue.sync {
+			self.realm = try Realm(configuration: configuration, queue: queue)
+		}
 	}
 
 	public func fetchAll() async throws -> [Liturgy] {

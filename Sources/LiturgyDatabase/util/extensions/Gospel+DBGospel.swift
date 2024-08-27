@@ -12,7 +12,7 @@ extension Gospel {
 
 	init(_ gospel: DBGospel) {
 		self.init(
-			_id: gospel._id,
+			id: gospel._id,
 			gospelAcclamation: GospelAcclamation(gospel.gospelAcclamation),
 			reading: Reading(gospel.reading))
 	}

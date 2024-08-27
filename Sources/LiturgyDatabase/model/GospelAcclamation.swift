@@ -7,8 +7,14 @@
 
 import Foundation
 
-public struct GospelAcclamation {
-	public let _id: UUID
+public struct GospelAcclamation: Identifiable {
+	public let id: UUID
 	public let chorus: String
 	public let text: String?
+
+	public init(id: UUID, chorus: String, text: String?) {
+		self.id = id
+		self.chorus = chorus
+		self.text = text
+	}
 }
