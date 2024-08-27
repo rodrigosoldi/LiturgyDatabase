@@ -1,6 +1,11 @@
 <p align="center">
+<a href="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase"><img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase">
+</a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat"></a>
-<a href="https://github.com/rodrigosoldi/LiturgyDatabase/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
+<a href="https://github.com/rodrigosoldi/LiturgyDatabase/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/rodrigosoldi/liturgydatabase?color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Frodrigosoldi%2FLiturgyDatabase%2Fblob%2Fmain%2FLICENSE">
+</a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigosoldi/liturgydatabase">
+<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/rodrigosoldi/liturgydatabase/release">
 </p>
 
 # LiturgyDatabase
