@@ -28,7 +28,7 @@ struct LiturgyListView: View {
 		.navigationBarTitleDisplayMode(.large)
 		.task {
 			Task {
-				liturgies = try await liturgyDatabase.fetchAll()
+				liturgies = try await liturgyDatabase.fetchAll().sorted(by: { $0.date < $1.date })
 			}
 		}
     }

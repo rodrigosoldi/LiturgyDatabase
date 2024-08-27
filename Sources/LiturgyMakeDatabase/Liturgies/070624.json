@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "07/06/24",
+            "liturgy": "Solenidade do Sagrado Coração de Jesus",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Os 11,1.3-4.8c-9",
+                    "title": "Leitura da Profecia de Oseias",
+                    "text": "Assim diz o Senhor: 1 \"Quando Israel era criança, eu já o amava, e desde o Egito chamei meu filho. 3 Ensinei Efraim a dar os primeiros passos, tomei-o em meus braços, mas eles não reconheceram que eu cuidava deles. 4 Eu os atraía com laços de humanidade, com laços de amor; era para eles como quem leva uma criança ao colo, e rebaixava-me a dar-lhes de comer. 8c Meu coração comove-se no íntimo e arde de compaixão. 9 Não darei largas à minha ira, não voltarei a destruir Efraim, eu sou Deus, e não homem; o santo no meio de vós, e não me servirei do terror\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Is 12,2-3.4bcd.5-6",
+                    "chorus": "Com alegria bebereis do manancial da salvação.",
+                    "texts": [
+                        "Eis o Deus, meu Salvador, eu confio e nada temo; o Senhor é minha força, meu louvor e salvação.",
+                        "Com alegria bebereis no manancial da salvação. E direis naquele dia: \"Dai louvores ao Senhor, invocai seu santo nome, anunciai suas maravilhas, entre os povos proclamai que seu nome é o mais sublime.",
+                        "Louvai cantando ao nosso Deus, que fez prodígios e portentos, publicai em toda a terra suas grandes maravilhas! Exultai cantando alegres, habitantes de Sião, porque é grande em vosso meio o Deus Santo de Israel!\""
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Ef 3,8-12.14-19",
+                    "title": "Leitura da Carta de São Paulo aos Efésios",
+				    "text": "Irmãos: 8 Eu, que sou o último de todos os santos, recebi esta graça de anunciar aos pagãos a insondável riqueza de Cristo 9 e de mostrar a todos como Deus realiza o mistério desde sempre escondido nele, o criador do universo. 10 Assim, doravante, as autoridades e poderes nos céus conhecem, graças à Igreja, a multiforme sabedoria de Deus, 11 de acordo com o desígnio eterno que ele executou em Jesus Cristo, nosso Senhor. 12 Em Cristo nós temos, pela fé nele, a liberdade de nos aproximarmos de Deus com toda a confiança. 14 É por isso que dobro os joelhos diante do Pai, 15 de quem toda e qualquer família recebe seu nome, no céu e sobre a terra. 16 Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; 17 que ele faça habitar, pela fé, Cristo em vossos corações, que estejais enraizados e fundados no amor. 18 Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, 19 e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Tomai sobre vós o meu jugo e de mim aprendei que sou de manso e humilde coração."
+                    },
+                    "reading": {
+                        "reference": "Jo 19,31-37",
+                        "title": "PROCLAMAÇÃO do Evangelho de Jesus Cristo + segundo João",
+					    "text": "31 Era o dia da preparação para a Páscoa. Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene. Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz. 32 Os soldados foram e quebraram as pernas de um e, depois, do outro que foram crucificados com Jesus. 33 Ao se aproximarem de Jesus,  e vendo que já estava morto, não lhe quebraram as pernas; 34 mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água. 35 Aquele que viu, dá testemunho, e seu testemunho é verdadeiro; e ele sabe que fala a verdade, para que vós também acrediteis. 36 Isso aconteceu para que se cumprisse a Escritura, que diz: \"Não quebrarão nenhum dos seus ossos\". 37 E outra Escritura ainda diz: \"Olharão para aquele que transpassaram\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

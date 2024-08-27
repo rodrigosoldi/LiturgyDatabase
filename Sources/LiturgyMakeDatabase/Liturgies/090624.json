@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+        {
+            "date": "09/06/24",
+            "liturgy": "10º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Gn 3,9-15",
+                    "title": "Leitura do Livro do Gênesis",
+                    "text": "Depois que o homem comeu da fruta da árvore, 9 o Senhor Deus chamou Adão, dizendo: \"Onde estás?\" 10 E ele respondeu: \"Ouvi tua voz no jardim, e fiquei com medo, porque estava nu; e me escondi\". 11 Disse-lhe o Senhor Deus: \"E quem te disse que estavas nu? Então comeste da árvore, de cujo fruto te proibi comer?\" 12 Adão disse: \"A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi\". 13 Disse o Senhor Deus à mulher: \"Por que fizeste isso?\" E a mulher respondeu: \"A serpente enganou-me e eu comi\". 14 Então o Senhor Deus disse à serpente: \"Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens! Rastejarás sobre o ventre e comerás pó todos os dias da tua vida! 15 Porei inimizade entre ti e a mulher, entre a tua descendência e a dela. Esta te ferirá a cabeça e tu lhe ferirás o calcanhar\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 129(130),1-2.3-4ab.4c-6.7-8",
+                    "chorus": "No Senhor toda graça e redenção!",
+                    "texts": [
+                        "Das profundezas eu clamo a vós, Senhor, *escutai a minha voz! Vossos ouvidos estejam bem atentos *ao clamor da minha prece!",
+                        "Se levardes em conta nossas faltas, *quem haverá de subsistir? Mas em vós se encontra o perdão, *eu vos temo e em vós espero.",
+                        "No Senhor ponho a minha esperança, *espero em sua palavra. A minh'alma espera no Senhor *mais que o vigia pela aurora.",
+                        "Espere Israel pelo Senhor, *mais que o vigia pela aurora! Pois no Senhor se encontra toda graça *e copiosa redenção. Ele vem libertar a Israel *de toda a sua culpa."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "2Cor 4,13-18.5,1",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+				    "text": "Irmãos: 13 Sustentados pelo mesmo espírito de fé, conforme o que está escrito: \"Eu creio e, por isso, falei\", nós também cremos e, por isso, falamos, 14 certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. 15 E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus. 16 Por isso, não desanimamos. Mesmo se o nosso homem exterior se vai arruinando, o nosso homem interior, pelo contrário, vai-se renovando, dia a dia. 17 Com efeito, o volume insignificante de uma tribulação momentânea acarreta para nós uma glória eterna e incomensurável. 18 E isso acontece, porque voltamos os nossos olhares para as coisas invisíveis e não para as coisas visíveis. Pois o que é visível é passageiro, mas o que é invisível é eterno. 5,1 De fato, sabemos que, se a tenda em que moramos neste mundo for destruída, Deus nos dá uma outra moradia no céu que não é obra de mãos humanas, mas que é eterna."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O príncipe deste mundo agora será expulso; e eu, da terra levantado, atrairei todos a mim mesmo."
+                    },
+                    "reading": {
+                        "reference": "Mc 3,20-35",
+                        "title": "PROCLAMAÇÃO do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 20 Jesus voltou para casa com os seus discípulos. E de novo se reuniu tanta gente que eles nem sequer podiam comer. 21 Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si. 22 Os mestres da Lei, que tinham vindo de Jerusalém, diziam que ele estava possuído por Belzebu, e que pelo príncipe dos demônios ele expulsava os demônios. 23 Então Jesus os chamou e falou-lhes em parábolas: \"Como é que Satanás pode expulsar a Satanás? 24 Se um reino se divide contra si mesmo, ele não poderá manter-se. 25 Se uma família se divide contra si mesma, ela não poderá manter-se. 26 Assim, se Satanás se levanta contra si mesmo e se divide, não poderá sobreviver, mas será destruído. 27 Ninguém pode entrar na casa de um homem forte para roubar seus bens, sem antes o amarrar. Só depois poderá saquear sua casa. 28 Em verdade vos digo: tudo será perdoado aos homens, tanto os pecados, como qualquer blasfêmia que tiverem dito. 29 Mas quem blasfemar contra o Espírito Santo, nunca será perdoado, mas será culpado de um pecado eterno\". 30 Jesus falou isso, porque diziam: \"Ele está possuído por um espírito mau\". 31 Nisso chegaram sua mãe e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. 32 Havia uma multidão sentada ao redor dele. Então lhe disseram: \"Tua mãe e teus irmãos estão lá fora à tua procura\". 33 Ele respondeu: \"Quem é minha mãe, e quem são meus irmãos?\" 34 E olhando para os que estavam sentados ao seu redor, disse: \"Aqui estão minha mãe e meus irmãos. 35 Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

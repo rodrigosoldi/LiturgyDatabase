@@ -1,0 +1,39 @@
+{
+    "liturgies": [
+        {
+            "date": "05/06/24",
+            "liturgy": "9ª Semana do Tempo Comum | São Bonifácio, bispo e mártir",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "1 Tm 1,1-3.6-12",
+                    "title": "Início da Segunda Carta de São Paulo a Timóteo",
+                    "text": "1 Paulo, Apóstolo de Jesus Cristo pelo desígnio de Deus referente à promessa de vida que temos em Cristo Jesus, 2 a Timóteo, meu querido filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor! 3 Dou graças a Deus, — a quem sirvo com a consciência pura, como aprendi dos meus antepassados —, quando me lembro de ti, dia e noite, nas minhas orações. 6 Por este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos. 7 Pois Deus não nos deu um espírito de timidez mas de fortaleza, de amor e sobriedade. 8 Não te envergonhes do testemunho de Nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo Evangelho, fortificado pelo poder de Deus. 9 Deus nos salvou e nos chamou com uma vocação santa, não devido às nossas obras, mas em virtude do seu desígnio e da sua graça, que nos foi dada em Cristo Jesus desde toda a eternidade. 10 Esta graça foi revelada agora, pela manifestação de nosso Salvador, Jesus Cristo. Ele não só destruiu a morte, como também fez brilhar a vida e a imortalidade por meio do Evangelho, 11 do qual fui constituído anunciador, apóstolo e mestre. 12 Esta é a causa pela qual estou sofrendo, mas não me envergonho, porque sei em quem coloquei a minha fé. E tenho a certeza de que ele é capaz de guardar aquilo que me foi confiado até ao grande dia."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 122(123),1-2a.2bcd",
+                    "chorus": "Ó Senhor, para vós eu levanto meus olhos.",
+                    "texts": [
+                        "Eu levanto os meus olhos para vós,*que habitais nos altos céus. Como os olhos dos escravos estão fitos* nas mãos do seu senhor.",
+                        "Como os olhos das escravas estão fitos* nas mãos de sua senhora, assim os nossos olhos, no Senhor,* até de nós ter piedade."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Eu sou a ressurreição, eu sou a vida, quem crê em mim, ainda que morra, viverá."
+                    },
+                    "reading": {
+                        "reference": "Mc 12,18-27",
+                        "title": "PROCLAMAÇÃO do Evangelho de Jesus Cristo + segundo Marcos.",
+					    "text": "Naquele tempo, 18 vieram ter com Jesus alguns saduceus, os quais afirmam que não existe ressurreição e lhe propuseram este caso: 19 \"Mestre, Moisés deu-nos esta prescrição: Se morrer o irmão de alguém, e deixar a esposa sem filhos, o irmão desse homem deve casar-se com a viúva, a fim de garantir a descendência de seu irmão\". 20 Ora, havia sete irmãos, o mais velho casou-se, e morreu sem deixar descendência. 21 O segundo casou-se com a viúva, e morreu sem deixar descendência. E a mesma coisa aconteceu com o terceiro. 22 E nenhum dos sete deixou descendência. Por último, morreu também a mulher. 23 Na ressurreição, quando eles ressuscitarem, de quem será ela mulher? Por que os sete se casaram com ela!\" 24 Jesus respondeu: \"Acaso, vós não estais enganados, por não conhecerdes as Escrituras, nem o poder de Deus? 25 Com efeito, quando os mortos ressuscitarem, os homens e as mulheres não se casarão, pois serão como os anjos do céu. 26 Quanto ao fato da ressurreição dos mortos, não lestes, no livro de Moisés, na passagem da sarça ardente, como Deus lhe falou: 'Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó'? 27 Ora, ele não é Deus de mortos, mas de vivos! Vós estais muito enganados\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
