@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "15/06/24",
+            "liturgy": "10ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Rs 19,19-21",
+                    "title": "Leitura do Primeiro Livro dos Reis",
+                    "text": "Naqueles dias, 19 o profeta Elias partiu dali e encontrou Eliseu, filho de Safat, lavrando a terra com doze juntas de bois; e ele mesmo conduzia a última. Elias, ao passar perto de Eliseu, lançou sobre ele o seu manto. 20 Então Eliseu deixou os bois e correu atrás de Elias, dizendo: \"Deixa-me primeiro ir beijar meu pai e minha mãe, depois te seguirei\". Elias respondeu: \"Vai e volta! Pois o que te fiz eu?\" 21 Ele retirou-se, tomou a junta de bois e os imolou. Com a madeira do arado e da canga assou a carne e deu de comer à sua gente. Depois levantou-se, seguiu Elias e pôs-se ao seu serviço."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 15(16),1-2a e 5.7-8.9-10",
+                    "chorus": "O Senhor é a porção da minha herança.",
+                    "texts": [
+                        "Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: \"Somente vós sois meu Senhor. Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos!",
+                        "Eu bendigo o Senhor, que me aconselha, e até de noite me adverte o coração. Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo.",
+                        "Eis por que meu coração está em festa, minha alma rejubila de alegria, e até meu corpo no repouso está tranquilo; pois não haveis de me deixar entregue à morte, nem vosso amigo conhecer a corrupção."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Inclinai meu coração às vossas advertências, e dai-me vossa lei como um presente vantajoso!"
+                    },
+                    "reading": {
+                        "reference": "Mt 5,33-37",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos:33 \"Vós ouvistes o que foi dito aos antigos: 'Não jurarás falso', mas 'cumprirás os teus juramentos feitos ao Senhor'. 34 Eu, porém, vos digo: Não jureis de modo algum: nem pelo céu, porque é o trono de Deus; 35 nem pela terra, porque é o suporte onde apoia os seus pés; nem por Jerusalém, porque é a cidade do Grande Rei. 36 Não jures tão pouco pela tua cabeça, porque tu não podes tornar branco ou preto um só fio de cabelo. 37 Seja o vosso 'sim': 'Sim', e o vosso 'não': 'Não'. Tudo o que for além disso vem do Maligno\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

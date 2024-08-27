@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "12/06/24",
+            "liturgy": "10ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Rs 18,20-39",
+                    "title": "Leitura do Primeiro Livro dos Reis",
+                    "text": "Naqueles dias, 20 Acab convocou todos os filhos de Israel e reuniu os profetas de Baal no monte Carmelo. 21 Então Elias, aproximando-se de todo o povo, disse: \"Até quando andareis mancando com os dois pés? Se o Senhor é o verdadeiro Deus, segui-o; mas, se é Baal, segui a ele\". O povo não respondeu uma palavra. 22 Então Elias disse ao povo: \"Eu sou o único profeta do Senhor que resta, ao passo que os profetas de Baal são quatrocentos e cinquenta. 23 Deem-nos dois novilhos; que eles escolham um novilho e, depois de cortá-lo em pedaços, coloquem-no sobre a lenha, mas sem pôr fogo por baixo. Eu prepararei depois o outro novilho e o colocarei sobre a lenha e tampouco lhe porei fogo. 24 Em seguida, invocareis o nome de vosso deus e eu invocarei o nome do Senhor. O Deus que ouvir, enviando fogo, este é o Deus verdadeiro\". Todo o povo respondeu, dizendo: \"Ótima proposição\". 25 Elias disse então aos profetas de Baal: \"Escolhei vós um novilho e começai, pois sois maioria. E invocai o nome de vosso deus, mas não lhe ponhais fogo\". 26 Eles tomaram o novilho que lhes foi dado e prepararam-no. E invocavam o nome de Baal desde a manhã até ao meio-dia, dizendo: \"Baal, ouve-nos!\" Mas não se ouvia voz alguma e ninguém que respondesse. E dançavam ao redor do altar que tinham levantado. 27 Ao meio-dia, Elias zombou deles, dizendo: \"Gritai mais alto, pois sendo um deus, tem suas ocupações. Porventura ausentou-se ou está de viagem; ou talvez esteja dormindo e é preciso que o acordem\". 28 Então eles gritavam ainda mais forte, e retalhavam-se, segundo o seu costume, com espadas e lanças, até o sangue escorrer. 29 Passado o meio-dia, entraram em transe até a hora do sacrifício vespertino. Mas não se ouviu voz nenhuma, nem resposta nem sinal de atenção. 30 Então Elias disse a todo o povo: \"Aproximai-vos de mim\". Todo o povo veio para perto dele. E ele refez o altar do Senhor que tinha sido demolido. 31 Tomou doze pedras, segundo o número das doze tribos dos filhos de Jacó, a quem Deus tinha dito: \"Teu nome será Israel\", 32 e edificou com as pedras um altar ao nome do Senhor. Fez em redor do altar um rego, capaz de conter duas medidas de sementes. 33 Empilhou a lenha, esquartejou o novilho e colocou-o sobre a lenha, 34 e disse: \"Enchei quatro talhas de água e derramai-a sobre o holocausto e sobre a lenha\". Depois, disse: \"Outra vez\". E eles assim fizeram uma segunda vez. E acrescentou: \"Ainda uma terceira vez\". E assim foi feito. 35 A água correu em volta do altar e o rego ficou completamente cheio. 36 Chegada a hora do sacrifício, o profeta Elias aproximou-se e disse: \"Senhor, Deus de Abraão, de Isaac e de Israel, mostra hoje que tu és Deus em Israel, e que eu sou teu servo e que é por ordem tua que fiz estas coisas. 37 Ouve-me, Senhor, ouve-me, para que este povo reconheça que tu, Senhor, és Deus, e que és tu que convertes os seus corações!\" 38 Então caiu o fogo do Senhor, que devorou o holocausto, a lenha, as pedras e a poeira, e secou a água que estava no rego. 39 Vendo isto, o povo todo prostrou-se com o rosto em terra, exclamando: \"É o Senhor que é Deus, é o Senhor que é Deus!\""
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 15(16),1-2a.4.5 e 8.11",
+                    "chorus": "Guardai-me, ó Deus, porque em vós me refugio!",
+                    "texts": [
+                        "Guardai-me, ó Deus, porque em vós me refugio! Digo ao Senhor: \"Somente vós sois meu Senhor\".",
+                        "Multiplicam, no entanto, suas dores os que correm para os deuses estrangeiros; seus sacrifícios sanguinários não partilho, nem seus nomes passarão pelos meus lábios.",
+                        "Ó Senhor, sois minha herança e minha taça, meu destino está seguro em vossas mãos! Tenho sempre o Senhor ante meus olhos, pois se o tenho a meu lado não vacilo.",
+                        "Vós me ensinais vosso caminho para a vida; junto a vós, felicidade sem limites, delícia eterna e alegria ao vosso lado!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Fazei-me conhecer vossa estrada, vossa verdade me oriente e me conduza!"
+                    },
+                    "reading": {
+                        "reference": "Mt 5,17-19",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 17 \"Não penseis que vim abolir a Lei e os Profetas. Não vim para abolir, mas para dar-lhes pleno cumprimento. 18 Em verdade, eu vos digo: antes que o céu e a terra deixem de existir, nem uma só letra ou vírgula serão tiradas da Lei, sem que tudo se cumpra. 19 Portanto, quem desobedecer a um só destes mandamentos, por menor que seja, e ensinar os outros a fazerem o mesmo, será considerado o menor no Reino dos Céus. Porém, quem os praticar e ensinar será considerado grande no Reino dos Céus\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
