@@ -1,25 +1,32 @@
 <p align="center">
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat"></a>
-<a href="https://github.com/rodrigosoldi/LiturgyMakeRealmDatabase/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
+<a href="https://github.com/rodrigosoldi/LiturgyDatabase/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-black"></a>
 </p>
 
-# LiturgyMakeRealmDatabase
+# LiturgyDatabase
 
 **This repo is updated periodically with new liturgies**
 
-An executable swift spm project to create a Realm Database with Catholic Liturgy.
-This project provides a tool to automatically generate a Realm database containing Catholic liturgies using JSON”
+A little repo with two products:
+- Library: **LiturgyDatabase**
+  - A tool to consume generated database
+- Executable: **LiturgyMakeDatabase**
+    - An executable swift spm project to create a Database with Catholic Liturgy.
 
 ## Table of Contents
 
-- [LiturgyMakeRealmDatabase](#liturgymakerealmdatabase)
+- [LiturgyDatabase](#liturgydatabase)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
     - [Swift Package Manager](#swift-package-manager)
     - [Manually](#manually)
   - [Usage](#usage)
-  - [Features](#features)
+    - [LiturgyDatabase](#liturgydatabase-1)
+    - [LiturgyMakeDatabase](#liturgymakedatabase)
   - [Examples](#examples)
+    - [LiturgyDatabase](#liturgydatabase-2)
+    - [LiturgyMakeDatabase](#liturgymakedatabase-1)
+  - [Features](#features)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
@@ -31,36 +38,42 @@ This project provides a tool to automatically generate a Realm database containi
 
 The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler.
 
-Once you have your Swift package set up, adding LiturgyMakeRealmDatabase as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift` or the Package list in Xcode.
+Once you have your Swift package set up, adding LiturgyDatabase as a dependency is as easy as adding it to the `dependencies` value of your `Package.swift` or the Package list in Xcode.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/rodrigosoldi/LiturgyMakeRealmDatabase.git", branch: "main")
+    .package(url: "https://github.com/rodrigosoldi/LiturgyDatabase.git", from: "1.0.0")
 ]
 ```
 
-Normally you'll want to depend on the `LiturgyMakeRealmDatabase` target:
+Normally you'll want to depend on the `LiturgyDatabase` target:
 
 ```swift
-.product(name: "LiturgyMakeRealmDatabase")
+.product(name: "LiturgyDatabase")
 ```
 
 ### Manually
 
-If you prefer not to use any of the aforementioned dependency managers, you can download `LiturgyMakeRealmDatabase` and run it manually.
+If you prefer not to use any of the aforementioned dependency managers, you can download `LiturgyDatabase` and run it manually.
 
 ```bash
-git clone https://github.com/rodrigosoldi/LiturgyMakeRealmDatabase.git
+git clone https://github.com/rodrigosoldi/LiturgyDatabase.git
 ```
 
 ## Usage
 
 _*Make sure you have `swift` installed on your machine._
 
+### LiturgyDatabase
+
+Use `LiturgyDatabase` to fetch and filter all liturgies on database.
+
+### LiturgyMakeDatabase
+
 To execute the project run:
 
 ```swift
-swift run LiturgyMakeRealmDatabase <PATH_TO_CREATE_DATABASE.realm>
+swift run LiturgyMakeDatabase <PATH_TO_CREATE_DATABASE.realm>
 ```
 
 It will iterate all jsons in folder `Liturgies` trying to add them to the database.
@@ -72,13 +85,16 @@ You will see the path of the database, and a little description for each liturgy
 
 If you don't want run the project, go to [Database Folder](./Database) and use `database.realm` to develop.
 
-## Features
-
-- [x] Make from JSON
-- [ ] Get JSON from server
-- [ ] SPM project consuming it database _(in progress)_
-
 ## Examples
+
+### LiturgyDatabase
+
+```swift
+let liturgyDatabase: LiturgyDatabase = try LiturgyDatabaseImpl()
+let liturgies: [Liturgy] = try await liturgyDatabase.fetchAll()
+```
+
+### LiturgyMakeDatabase
 
 Once you download the project you will see an [Example JSON](./Example/example.json) at folder `Examples`. Feel free to update it json and run project to see updates.
 Follow its structure to create new liturgies.
@@ -164,6 +180,12 @@ I suggest creating one JSON file per liturgy day, but the structure is already p
 }
 ```
 
+## Features
+
+- [x] Make from JSON
+- [X] SPM project consuming it database
+- [ ] Get JSON from server
+
 ## Contributing
 
 Feel free to fork the project and collaborate.
@@ -176,7 +198,7 @@ Feel free to fork the project and collaborate.
 
 ## License
 
-LiturgyMakeRealmDatabase is released under the MIT license. See [LICENSE](./LICENSE) for details.
+LiturgyDatabase is released under the MIT license. See [LICENSE](./LICENSE) for details.
 
 ## Contact
 
