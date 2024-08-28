@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+        {
+            "date": "23/06/24",
+            "liturgy": "12º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Jó 38,1.8-11",
+                    "title": "Leitura do Livro de Jó",
+                    "text": "1 O Senhor respondeu a Jó, do meio da tempestade, e disse: 8 \"Quem fechou o mar com portas, quando ele jorrou com ímpeto do seio materno, 9 quando eu lhe dava nuvens por vestes e névoas espessas por faixas; 10 quando marquei seus limites e coloquei portas e trancas, 11 e disse: 'Até aqui chegarás, e não além; aqui cessa a arrogância de tuas ondas?'\""
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 106(107),23-24.25-26.28-29.30-31",
+                    "chorus": "Dai graças ao Senhor, porque ele é bom, porque eterna é a sua misericórdia!",
+                    "texts": [
+                        "Os que sulcam o alto-mar com seus navios, para ir comerciar nas grandes águas, testemunharam os prodígios do Senhor e as suas maravilhas no alto-mar.",
+                        "Ele ordenou, e levantou-se o furacão, arremessando grandes ondas para o alto; aos céus subiam e desciam aos abismos, seus corações desfaleciam de pavor.",
+                        "Mas gritaram ao Senhor na aflição, e ele os libertou daquela angústia. Transformou a tempestade em bonança, e as ondas do oceano se calaram.",
+                        "Alegraram-se ao ver o mar tranquilo, e ao porto desejado os conduziu. Agradeçam ao Senhor por seu amor e por suas maravilhas entre os homens!"
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "2Cor 5,14-17",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+				    "text": "Irmãos: 14 O amor de Cristo nos pressiona, pois julgamos que um só morreu por todos, e que, logo, todos morreram. 15 De fato, Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou. 16 Assim, doravante, não conhecemos ninguém conforme a natureza humana. E, se uma vez conhecemos Cristo segundo a carne, agora já não o conhecemos assim. 17 Portanto, se alguém está em Cristo, é uma criatura nova. O mundo velho desapareceu. Tudo agora é novo."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Um grande profeta surgiu, surgiu e entre nós se mostrou, é Deus que seu povo visita, seu povo, meu Deus visitou."
+                    },
+                    "reading": {
+                        "reference": "Mc 4,35-41",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele dia, ao cair da tarde, Jesus disse a seus discípulos: \"Vamos para a outra margem!\" 36 Eles despediram a multidão e levaram Jesus consigo, assim como estava, na barca. Havia ainda outras barcas com ele. 37 Começou a soprar uma ventania muito forte e as ondas se lançavam dentro da barca, de modo que a barca já começava a se encher. 38 Jesus estava na parte de trás, dormindo sobre um travesseiro. Os discípulos o acordaram e disseram: \"Mestre, estamos perecendo e tu não te importas?\" 39 Ele se levantou e ordenou ao vento e ao mar: \"Silêncio! Cala-te!\" O ventou cessou e houve uma grande calmaria. 40 Então Jesus perguntou aos discípulos: \"Por que sois tão medrosos? Ainda não tendes fé?\" 41 Eles sentiram um grande medo e diziam uns aos outros: \"Quem é este, a quem até o vento e o mar obedecem?\""
+                    }
+                }
+            ]
+        }
+    ]
+}

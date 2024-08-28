@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "16/06/24",
+            "liturgy": "11º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Ez 17,22-24",
+                    "title": "Leitura da Profecia de Ezequiel",
+                    "text": "22 Assim diz o Senhor Deus: \"Eu mesmo tirarei um galho da copa do cedro, do mais alto de seus ramos arrancarei um broto e o plantarei sobre um monte alto e elevado. 23 Vou plantá-lo sobre o alto monte de Israel. Ele produzirá folhagem, dará frutos e se tornará um cedro majestoso. Debaixo dele pousarão todos os pássaros, à sombra de sua ramagem as aves farão ninhos. 24 E todas as árvores do campo saberão que eu sou o Senhor, que abaixo a árvore alta e elevo a árvore baixa; faço secar a árvore verde e brotar a árvore seca. Eu, o Senhor, digo e faço\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 91(92),2-3.13-14.15-16",
+                    "chorus": "Como é bom agradecermos ao Senhor.",
+                    "texts": [
+                        "Como é bom agradecermos ao Senhor e cantar salmos de louvor ao Deus Altíssimo! Anunciar pela manhã vossa bondade, e o vosso amor fiel, a noite inteira.",
+                        "O justo crescerá como a palmeira, florirá igual ao cedro que há no Líbano; na casa do Senhor estão plantados, nos átrios de meu Deus florescerão.",
+                        "Mesmo no tempo da velhice darão frutos, cheios de seiva e de folhas verdejantes; e dirão: \"É justo mesmo o Senhor Deus: meu Rochedo, não existe nele o mal!\""
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "2Cor 5,6-10",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+				    "text": "Irmãos: 6 Estamos sempre cheios de confiança e bem lembrados de que, enquanto moramos no corpo, somos peregrinos longe do Senhor; 7 pois caminhamos na fé e não na visão clara. 8 Mas estamos cheios de confiança e preferimos deixar a moradia do nosso corpo, para ir morar junto do Senhor. 9 Por isso, também nos empenhamos em ser agradáveis a ele, quer estejamos no corpo, quer já tenhamos deixado essa morada. 10 Aliás, todos nós temos de comparecer às claras perante o tribunal de Cristo, para cada um receber a devida recompensa —  prêmio ou castigo — do que tiver feito ao longo de sua vida corporal."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Semente é de Deus a Palavra, o Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+                    },
+                    "reading": {
+                        "reference": "Mc 4,26-34",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos.",
+					    "text": "Naquele tempo, 26 Jesus disse à multidão: \"O Reino de Deus é como quando alguém espalha a semente na terra. 27 Ele vai dormir e acorda, noite e dia, e a semente vai germinando e crescendo, mas ele não sabe como isso acontece. 28 A terra, por si mesma, produz o fruto: primeiro aparecem as folhas, depois vem a espiga e, por fim, os grãos que enchem a espiga. 29 Quando as espigas estão maduras, o homem mete logo a foice, porque o tempo da colheita chegou\". 30 E Jesus continuou: \"Com que mais poderemos comparar o Reino de Deus? Que parábola usaremos para representá-lo? 31 O Reino de Deus é como um grão de mostarda que, ao ser semeado na terra, é a menor de todas as sementes da terra. 32 Quando é semeado, cresce e se torna maior do que todas as hortaliças, e estende ramos tão grandes, que os pássaros do céu podem abrigar-se à sua sombra\". 33 Jesus anunciava a Palavra usando muitas parábolas como estas, conforme eles podiam compreender. 34 E só lhes falava por meio de parábolas, mas, quando estava sozinho com os discípulos, explicava tudo."
+                    }
+                }
+            ]
+        }
+    ]
+}

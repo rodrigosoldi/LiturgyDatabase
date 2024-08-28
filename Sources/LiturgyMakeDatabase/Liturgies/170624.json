@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "17/06/24",
+            "liturgy": "11ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Rs 21,1-16",
+                    "title": "Leitura do Primeiro Livro dos Reis",
+                    "text": "Naquele tempo: 1 Nabot de Jezrael possuía uma vinha em Jezrael, ao lado do palácio de Acab, rei de Samaria. 2 Acab falou a Nabot: \"Cede-me a tua vinha, para que eu a transforme numa horta, pois está perto da minha casa. Em troca eu te darei uma vinha melhor, ou, se preferires, pagarei em dinheiro o seu valor\". 3 Mas Nabot respondeu a Acab: \"O Senhor me livre de te ceder a herança de meus pais\". 4 Acab voltou para casa aborrecido e irritado por causa desta resposta que lhe deu Nabot de Jezrael: \"Não te cederei a herança de meus pais\". Deitou-se na cama, com o rosto voltado para a parede, e não quis comer nada. 5 Sua mulher Jezabel aproximou-se dele e disse-lhe: \"Por que estás triste e não queres comer?\" 6 Ele respondeu: \"Porque eu conversei com Nabot de Jezrael e lhe fiz a proposta de me ceder a sua vinha pelo seu preço em dinheiro, ou, se preferisse, eu lhe daria em troca outra vinha. Mas ele respondeu que não me cede a vinha\". 7 Então sua mulher Jezabel disse-lhe: \"Bela figura de rei de Israel estás fazendo! Levanta-te, toma alimento e fica de bom humor, pois eu te darei a vinha de Nabot de Jezrael\". 8 Ela escreveu então cartas em nome de Acab, selou-as com o selo real, e enviou-as aos anciãos e nobres da cidade de Nabot. 9 Nas cartas estava escrito o seguinte: \"Proclamai um jejum e fazei Nabot sentar-se entre os primeiros do povo, 10 e subornai dois homens perversos contra ele, que deem este testemunho: 'Tu amaldiçoaste a Deus e ao rei!' Levai-o depois para fora e apedrejai-o até que morra\". 11 Os homens da cidade, anciãos e nobres concidadãos de Nabot, fizeram conforme a ordem recebida de Jezabel, como estava escrito nas cartas que lhes tinha enviado. 12 Proclamaram um jejum e fizeram Nabot sentar-se entre os primeiros do povo. 13 Chegaram os dois homens perversos, sentaram-se diante dele e testemunharam contra Nabot diante de toda a assembleia, dizendo: \"Nabot amaldiçoou a Deus e ao rei\". Em virtude disto, levaram-no para fora da cidade e mataram-no a pedradas. 14 Depois mandaram a notícia a Jezabel: \"Nabot foi apedrejado e morto\". 15 Ao saber que Nabot tinha sido apedrejado e estava morto, Jezabel disse a Acab:\"Levanta-te e toma posse da vinha que Nabot de Jezrael não te quis ceder por seu preço em dinheiro; pois Nabot já não vive; está morto\". 16 Quando Acab soube que Nabot estava morto, levantou-se para descer até a vinha de Nabot de Jezrael e dela tomar posse."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 5,2-3.5-6.7",
+                    "chorus": "Atendei o meu gemido, ó Senhor!",
+                    "texts": [
+                        "Escutai, ó Senhor Deus, minhas palavras, atendei o meu gemido! Ficai atento ao clamor da minha prece, ó meu Rei e meu Senhor!",
+                        "Não sois um Deus a quem agrade a iniquidade, não pode o mau morar convosco; nem os ímpios poderão permanecer perante os vossos olhos.",
+                        "Detestais o que pratica a iniquidade e destruís o mentiroso. Ó Senhor, abominais o sanguinário, o perverso e enganador."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vossa palavra é uma luz para os meus passos, e uma lâmpada luzente em meu caminho."
+                    },
+                    "reading": {
+                        "reference": "Mt 5,38-42",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 38 \"Ouvistes o que foi dito:'Olho por olho e dente por dente!' 39 Eu, porém, vos digo: Não enfrenteis quem é malvado! Pelo contrário, se alguém te dá um tapa na face direita, oferece-lhe também a esquerda! 40 Se alguém quiser abrir um processo para tomar a tua túnica, dá-lhe também o manto! 41 Se alguém te forçar a andar um quilômetro, caminha dois com ele! 42 Dá a quem te pedir e não vires as costas a quem te pede emprestado\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
