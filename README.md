@@ -1,16 +1,17 @@
 <p align="center">
-<a href="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase"><img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase">
-</a>
+<a href="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase"><img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/rodrigosoldi/liturgydatabase"></a>
 <a href="https://swift.org/package-manager/"><img src="https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat"></a>
-<a href="https://github.com/rodrigosoldi/LiturgyDatabase/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/rodrigosoldi/liturgydatabase?color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Frodrigosoldi%2FLiturgyDatabase%2Fblob%2Fmain%2FLICENSE">
-</a>
+<a href="https://github.com/rodrigosoldi/LiturgyDatabase/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/rodrigosoldi/liturgydatabase?color=%23ffffff&link=https%3A%2F%2Fgithub.com%2Frodrigosoldi%2FLiturgyDatabase%2Fblob%2Fmain%2FLICENSE"></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigosoldi/liturgydatabase">
 <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/m/rodrigosoldi/liturgydatabase/release">
 </p>
 
 # LiturgyDatabase
 
+- Liturgies from **_June, 1st_** to **_June, 30th_**
+
 **This repo is updated periodically with new liturgies**
+**All liturgies are in Portuguese**
 
 A little repo with two products:
 - Library: **LiturgyDatabase**
@@ -175,7 +176,7 @@ I suggest creating one JSON file per liturgy day, but the structure is already p
                     },
                     "reading": {
                         "reference": "Lc 1,39-56",
-                        "title": null,
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
                         "text": "Naqueles dias, 39 Maria partiu para a região montanhosa, dirigindo-se, apressadamente, a uma cidade da Judeia. 40 Entrou na casa de Zacarias e cumprimentou Isabel. 41 Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre e Isabel ficou cheia do Espírito Santo. 42 Com um grande grito, exclamou: \"Bendita és tu entre as mulheres e bendito é o fruto do teu ventre!\" 43 Como posso merecer que a mãe do meu Senhor me venha visitar? 44 Logo que a tua saudação chegou aos meus ouvidos, a criança pulou de alegria no meu ventre. 45 Bem-aventurada aquela que acreditou, porque será cumprido, o que o Senhor lhe prometeu\". 46 Então Maria disse: \"A minha alma engrandece o Senhor, 47 e o meu espírito se alegra em Deus, meu Salvador, 48 porque olhou para a humildade de sua serva. Doravante todas as gerações me chamarão bem-aventurada, 49 porque o Todo-poderoso fez grandes coisas em meu favor. O seu nome é santo, 50 e sua misericórdia se estende, de geração em geração, a todos os que o respeitam. 51 Ele mostrou a força de seu braço: dispersou os soberbos de coração. 52 Derrubou do trono os poderosos e elevou os humildes. 53 Encheu de bens os famintos, e despediu os ricos de mãos vazias. 54 Socorreu Israel, seu servo, lembrando-se de sua misericórdia, 55 conforme prometera aos nossos pais, em favor de Abraão e de sua descendência, para sempre\". 56 Maria ficou três meses com Isabel; depois voltou para casa."
                     }
                 }
@@ -207,7 +208,7 @@ LiturgyDatabase is released under the MIT license. See [LICENSE](./LICENSE) for 
 
 ## Contact
 
-- [rodrigo.soldi@gmail.com](mailto:rodrigo.soldi@gmail.com)
+- [Mail Me](mailto:rodrigosoldi@icloud.com)
 
 ## Credits
 
