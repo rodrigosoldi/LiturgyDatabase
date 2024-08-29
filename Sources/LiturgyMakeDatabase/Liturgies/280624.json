@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "28/06/24",
+            "liturgy": "Memória Santo Irineu, bispo e mártir",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "2Rs 25,1-12",
+                    "title": "Leitura do Segundo Livro dos Reis",
+                    "text": "1 No nono ano do reinado de Sedecias, no dia dez do décimo mês, Nabucodonosor, rei da Babilônia, veio atacar Jerusalém com todo o seu exército. Puseram-lhe um cerco e construíram torres de assalto ao seu redor. 2 A cidade ficou sitiada e rodeada de valas até ao décimo primeiro ano do reinado de Sedecias. 3 No dia nove do quarto mês, quando a fome se agravava na cidade e a população não tinha mais o que comer, 4 abriram uma brecha na muralha da cidade. Então o rei fugiu de noite, com todos os guerreiros, pela porta entre os dois muros, perto do jardim real, se bem que os caldeus cercavam a cidade, e seguiram pela estrada que conduz à Araba. 5 Mas o exército dos caldeus perseguiu o rei e alcançou-o na planície de Jericó, enquanto todo o seu exército se dispersou e o abandonou. 6 Os caldeus prenderam o rei e levaram-no a Rebla, à presença do rei da Babilônia, que pronunciou sentença contra ele. 7 Matou os filhos de Sedecias, na sua presença, vasou-lhe os olhos e, preso com uma corrente de bronze, levou-o para a Babilônia. 8 No dia sete do quinto mês, data que corresponde ao ano dezenove do reinado de Nabucodonosor, rei da Babilônia, Nabuzardã, comandante da guarda e oficial do rei da Babilônia, fez a sua entrada em Jerusalém. 9 Ele incendiou o templo do Senhor e o palácio do rei e entregou às chamas todas as casas e os edifícios de Jerusalém. 10 Todo o exército dos caldeus, que acompanhava o comandante da guarda, destruiu as muralhas que rodeavam Jerusalém. 11 Nabuzardã, comandante da guarda, exilou o resto da população que tinha ficado na cidade, os desertores que se tinham passado ao rei da Babilônia e o resto do povo. 12 E, dos pobres do país, o comandante da guarda deixou uma parte, como vinhateiros e agricultores."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 136(137),1-2.3.4-5.6",
+                    "chorus": "Que se prenda a minha língua ao céu da boca, se de ti Jerusalém, eu me esquecer!",
+                    "texts": [
+                        "Junto aos rios da Babilônia nos sentávamos chorando, com saudades de Sião. Nos salgueiros por ali penduramos nossas harpas.",
+                        "Pois foi lá que os opressores nos pediram nossos cânticos; nossos guardas exigiam alegria na tristeza: \"Cantai hoje para nós algum canto de Sião!\"",
+                        "Como havemos de cantar os cantares do Senhor numa terra estrangeira? Se de ti, Jerusalém, † algum dia eu me esquecer, que resseque a minha mão! Que se cole a minha língua e se prenda ao céu da boca, se de ti não me lembrar! Se não for Jerusalém minha grande alegria!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O Cristo tomou sobre si nossas dores, carregou em seu corpo as nossas fraquezas."
+                    },
+                    "reading": {
+                        "reference": "Mt 8,1-4",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "1 Tendo Jesus descido do monte, numerosas multidões o seguiam. 2 Eis que um leproso se aproximou e se ajoelhou diante dele, dizendo: \"Senhor, se queres, tu tens o poder de me purificar\". 3 Jesus estendeu a mão, tocou nele e disse: \"Eu quero, fica limpo\". No mesmo instante, o homem ficou curado da lepra. 4 Então Jesus lhe disse: \"Olha, não digas nada a ninguém, mas vai mostrar-te ao sacerdote, e faze a oferta que Moisés ordenou, para servir de testemunho para eles\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
