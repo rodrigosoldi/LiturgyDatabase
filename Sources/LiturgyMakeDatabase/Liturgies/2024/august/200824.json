@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "20/08/24",
+            "liturgy": "São Bernardo, abade e doutor da Igreja",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Ez 28,1-10",
+                    "title": "Leitura da Profecia de Ezequiel",
+                    "text": "A palavra do Senhor foi-me dirigida nestes termos: 2 \"Filho do homem, dize ao príncipe da cidade de Tiro: Assim fala o Senhor Deus: Porque o teu coração se tornou orgulhoso, tu disseste: 'Eu sou um deus e ocupo o trono divino no coração dos mares'. Tu, porém, és um homem e não um deus, mas pensaste ter a mente igual à de um deus. 3 Sim, tu és mais sábio do que Daniel! Segredo algum te é obscuro. 4 Com talento e habilidade adquiriste uma fortuna, acumulaste ouro e prata em teus tesouros. 5 Com grande tino comercial aumentaste tua fortuna, e com ela teu coração se tornou soberbo. 6 Por isso, assim diz o Senhor Deus: Por teres igualado tua mente à de um deus, 7 vou trazer contra ti os povos mais violentos dos estrangeiros. Eles puxarão suas espadas contra a tua bela sabedoria e profanarão o teu esplendor. 8 Eles te farão baixar à cova, e morrerás de morte violenta no coração dos mares. 9 Porventura, ousarás dizer: 'Sou um deus! na presença de teus algozes, tu que és um homem e não deus, nas mãos dos que te apunhalam? 10 Morrerás da morte dos incircuncisos, pela mão de estrangeiros, pois fui eu que falei - oráculo do Senhor Deus\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Dt 32,26-27ab.27cd-28.30.35cd-36ab",
+                    "chorus": "Sou eu que tiro a vida, sou eu quem faz viver!",
+                    "texts": [
+                        "Pensei: \"Vou espalhá-los pela terra, farei cessar sua memória inteiramente\". Mas receava a reação dos inimigos, a má interpretação dos adversários.",
+                        "Eles diriam: Nossa mão prevaleceu, não foi o Senhor Deus que isto fez. Porque meu povo é gente sem juízo, é gente que não tem discernimento.",
+                        "Como pode um homem só perseguir mil, como dois podem fazer fugir dez mil? Não é porque sua Rocha os vendeu, não é porque o Senhor os entregou?",
+                        "Já vem o dia em que serão arruinados e o seu destino se apressa em chegar. Porque o Senhor fará justiça ao seu povo e salvará todos aqueles que o servem."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Jesus Cristo, Senhor nosso, embora sendo rico, para nós se tornou pobre, a fim de enriquecer-nos, mediante sua pobreza."
+                    },
+                    "reading": {
+                        "reference": "Mt 19,23-30",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 23 Jesus disse aos discípulos: \"Em verdade vos digo, dificilmente um rico entrará no Reino dos Céus. 24 E digo ainda: é mais fácil um camelo entrar pelo buraco de uma agulha, do que um rico entrar no Reino de Deus\". 25 Ouvindo isso, os discípulos ficaram muito espantados, e perguntaram: \"Então, quem pode ser salvo?\" 26 Jesus olhou para eles e disse: \"Para os homens isso é impossível, mas para Deus tudo é possível\". 27 Pedro tomou a palavra e disse a Jesus: \"Vê! Nós deixamos tudo e te seguimos. O que haveremos de receber?\" 28 Jesus respondeu: \"Em verdade vos digo, quando o mundo for renovado e o Filho do Homem se sentar no trono de sua glória, também vós, que me seguistes, havereis de sentar-vos em doze tronos, para julgar as doze tribos de Israel. 29 E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos, campos, por causa do meu nome, receberá cem vezes mais e terá como herança a vida eterna. 30 Muitos que agora são os primeiros, serão os últimos. E muitos que agora são os últimos, serão os primeiros\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "liturgies": [
+        {
+            "date": "28/08/24",
+            "liturgy": "Santo Agostinho, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "2Ts 3,6-10.16-18",
+                    "title": "Início da Segunda Carta de São Paulo aos Tessalonicenses",
+                    "text": "Nós vos ordenamos, irmãos, em nome de nosso Senhor Jesus Cristo, que vos afasteis de todo irmão que se comporta de maneira desordenada e contrária à tradição que de nós receberam. 7 Bem sabeis como deveis seguir o nosso exemplo, pois não temos vivido entre vós na ociosidade. 8 De ninguém recebemos de graça o pão que comemos. Pelo contrário, trabalhamos com esforço e cansaço, de dia e de noite, para não sermos pesados a ninguém. 9 Não que não tivéssemos o direito de fazê-lo, mas queríamos apresentar-nos como exemplo a ser imitado. 10 Com efeito, quando estávamos entre vós, demos esta regra: \"Quem não quer trabalhar, também não deve comer\". 16 Que o Senhor da paz, ele próprio, vos dê a paz, sempre e em toda a parte. O Senhor esteja com todos vós. 17 Esta saudação é de meu próprio punho, de Paulo. Assim é que assino todas as minhas cartas; é a minha letra. 18 A graça de nosso Senhor Jesus Cristo esteja com todos vós."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 127(128),1-2.4-5",
+                    "chorus": "Felizes todos que respeitam o Senhor!",
+                    "texts": [
+                        "Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!",
+                        "Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O amor de Deus se realiza em todo aquele, que guarda sua palavra fielmente."
+                    },
+                    "reading": {
+                        "reference": "Mt 23,27-32",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, disse Jesus: 27 \"Ai de vós, mestres da Lei e fariseus hipócritas! Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão! 28 Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça. 29 Aí de vós, mestres da Lei e fariseus hipócritas! Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, 30 e dizeis: 'Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas'. 31 Com isso, confessais que sois filhos daqueles que mataram os profetas. 32 Completai, pois, a medida de vossos pais!\""
+                    }
+                }
+            ]
+        }
+    ]
+}

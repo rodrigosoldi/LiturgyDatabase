@@ -1,0 +1,45 @@
+{
+    "liturgies": [
+        {
+            "date": "06/08/24",
+            "liturgy": "Transfiguração do Senhor, Festa",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Dn 7,9-10,13-14 ou 2Pd 1,16-19",
+                    "title": "Leitura da Profecia de Daniel",
+                    "text": "9 Eu continuava olhando até que foram colocados uns tronos, e um Ancião de muitos dias aí tomou lugar. Sua veste era branca como neve e os cabelos da cabeça, como lã pura; seu trono eram chamas de fogo, e as rodas do trono, como fogo em brasa. 10 Derramava-se aí um rio de fogo que nascia diante dele; serviam-no milhares de milhares, e milhões de milhões assistiam-no ao trono; foi instalado o tribunal e os livros foram abertos. 13 Continuei insistindo na visão noturna, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. 14 Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá."
+                },
+                {
+                    "reference": "2Pd 1,16-19",
+                    "title": "Leitura da Segunda Carta de São Pedro",
+                    "text": "Caríssimos: 16 Não foi seguindo fábulas habilmente inventadas que vos demos a conhecer o poder e a vinda de nosso Senhor Jesus Cristo, mas sim, por termos sido testemunhas oculares da sua majestade. 17 Efetivamente, ele recebeu honra e glória da parte de Deus Pai, quando do seio da esplêndida glória se fez ouvir aquela voz que dizia: \"Este é o meu Filho bem-amado, no qual ponho o meu bem-querer\". 18 Esta voz, nós a ouvimos, vinda do céu, quando estávamos com ele no monte santo. 19 E assim se nos tornou ainda mais firme a palavra da profecia, que fazeis bem em ter diante dos olhos, como lâmpada que brilha em lugar escuro, até clarear o dia e levantar-se a estrela da manhã em vossos corações."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 96(97),1-2.5-6.9",
+                    "chorus": "Deus é Rei, é o Altíssimo, muito acima do universo.",
+                    "texts": [
+                        "Deus é Rei! Exulte a terra de alegria, e as ilhas numerosas rejubilem! Treva e nuvem o rodeiam no seu trono, que se apoia na justiça e no direito.",
+                        "As montanhas se derretem como cera ante a face do Senhor de toda a terra; e assim proclama o céu sua justiça, todos os povos podem ver a sua glória.",
+                        "Porque vós sois o Altíssimo, Senhor, muito acima do universo que criastes, e de muito superais todos os deuses."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Eis meu Filho muito amado, nele está meu bem-querer, escutai-o, todos vós!"
+                    },
+                    "reading": {
+                        "reference": "Mc 9,2-10",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 2 Jesus tomou consigo Pedro, Tiago e João, e os levou sozinhos a um lugar à parte sobre uma alta montanha. E transfigurou-se diante deles. 3 Suas roupas ficaram brilhantes e tão brancas como nenhuma lavadeira sobre a terra poderia alvejar. 4 Apareceram-lhe Elias e Moisés, e estavam conversando com Jesus. 5 Então Pedro tomou a palavra e disse a Jesus: \"Mestre, é bom ficarmos aqui. Vamos fazer três tendas: uma para ti, outra para Moisés e outra para Elias\". 6 Pedro não sabia o que dizer, pois estavam todos com muito medo. 7 Então desceu uma nuvem e os encobriu com sua sombra. E da nuvem saiu uma voz: \"Este é o meu Filho amado. Escutai o que ele diz!\" 8 E, de repente, olhando em volta, não viram mais ninguém, a não ser somente Jesus com eles. 9 Ao descerem da montanha, Jesus ordenou que não contassem a ninguém o que tinham visto, até que o Filho do Homem tivesse ressuscitado dos mortos. 10 Eles observaram esta ordem, mas comentavam entre si, o que queria dizer \"ressuscitar dos mortos\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

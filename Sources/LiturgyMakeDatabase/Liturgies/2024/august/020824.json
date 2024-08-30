@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "02/08/24",
+            "liturgy": "17ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Jr 26,1-9",
+                    "title": "Leitura do Livro do Profeta Jeremias",
+                    "text": "1 No início do reinado de Joaquim, filho de Josias, rei de Judá, foi comunicada da parte do Senhor, esta palavra, que dizia: 2 \"Assim fala o Senhor: Põe-te de pé no átrio da casa do Senhor e fala a todos os que vêm das cidades de Judá, para adorar o Senhor no templo, todas as palavras que eu te mandei dizer. Não retires uma só palavra; 3 talvez eles as ouçam e voltem do mau caminho, e eu me arrependa da decisão de castigá-los por suas más obras. 4 A eles então dirás: Isto diz o Senhor: Se não vos dispuserdes a viver segundo a lei que vos dei, 5 a escutar as palavras dos meus servos, os profetas, que eu vos tenho enviado com solicitude e para vossa orientação, e que vós não tendes escutado, 6 farei desta casa uma segunda Silo e farei desta uma cidade amaldiçoada por todos os povos da terra\". 7 Os sacerdotes e profetas,e todo o povo presente ouviram Jeremias dizer estas palavras na casa do Senhor. 8 Quando Jeremias acabou de dizer tudo e que o Senhor lhe ordenara falasse a todo o povo, prenderam-no os sacerdotes, os profetas e o povo, dizendo: \"Este homem tem que morrer! 9 Por que dizes, em nome do Senhor, a profecia: 'Esta casa será como Silo, e esta cidade será devastada e vazia de habitantes?'\" Todo o povo juntou-se contra Jeremias na casa do Senhor."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 68(69),5.8-10.14",
+                    "chorus": "Respondei-me, ó Senhor, pelo vosso imenso amor.",
+                    "texts": [
+                        "Mais numerosos que os cabelos da cabeça, são aqueles que me odeiam sem motivo; meus inimigos são mais fortes do que eu; contra mim eles se voltam com mentiras! Por acaso poderei restituir alguma coisa que de outros não roubei?",
+                        "Por vossa causa é que sofri tantos insultos, e o meu rosto se cobriu de confusão; eu me tornei como um estranho a meus irmãos, como estrangeiro para os filhos de minha mãe. Pois meu zelo e meu amor por vossa casa me devoram como fogo abrasador; e os insultos de infiéis que vos ultrajam recaíram todos eles sobre mim!",
+                        "Por isso elevo para vós minha oração, neste tempo favorável, Senhor Deus! Respondei-me pelo vosso imenso amor, pela vossa salvação que nunca falha!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "A palavra do Senhor permanece eternamente, e esta é a palavra que vos foi anunciada"
+                    },
+                    "reading": {
+                        "reference": "Mt 13,54-58",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 54 dirigindo-se para a sua terra, Jesus ensinava na sinagoga, de modo que ficavam admirados. E diziam: \"De onde lhe vem essa sabedoria e esses milagres? 55 Não é ele o filho do carpinteiro? Sua mãe não se chama Maria, e seus irmãos não são Tiago, José, Simão e Judas? 56 E suas irmãs não moram conosco? Então, de onde lhe vem tudo isso?\" 57 E ficaram escandalizados por causa dele. Jesus, porém, disse: \"Um profeta só não é estimado em sua própria pátria e em sua família!\" 58 E Jesus não fez ali muitos milagres, porque eles não tinham fé."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "08/08/24",
+            "liturgy": "São Domingos, presbítero, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Jr 31,31-34",
+                    "title": "Leitura do Livro do Profeta Jeremias",
+                    "text": "31 \"Eis que virão dias, diz o Senhor, em que concluirei com a casa de Israel e a casa de Judá uma nova aliança; 32 não como a aliança que fiz com seus pais, quando os tomei pela mão para retirá-los da terra do Egito, e que eles violaram, mas eu fiz valer a força sobre eles, diz o Senhor. 33 Esta será a aliança que concluirei com a casa de Israel, depois desses dias, diz o Senhor: imprimirei minha lei em suas entranhas, e hei de inscrevê-la em seu coração; serei seu Deus e eles serão meu povo. 34 Não será mais necessário ensinar seu próximo ou seu irmão, dizendo: 'Conhece o Senhor!'; todos me reconhecerão, do menor ao maior deles, diz o Senhor, pois perdoarei sua maldade, e não mais lembrarei o seu pecado\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 50(51),12-13.14-15.18-19",
+                    "chorus": "Ó Senhor, criai em mim um coração que seja puro!",
+                    "texts": [
+                        "Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso Santo Espírito!",
+                        "Dai-me de novo a alegria de ser salvo e confirmai-me com espírito generoso! Ensinarei vosso caminho aos pecadores, e para vós se voltarão os transviados.",
+                        "Pois não são de vosso agrado os sacrifícios, e, se oferto um holocausto, o rejeitais. Meu sacrifício é minha alma penitente, não desprezeis um coração arrependido!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Tu és Pedro e sobre esta pedra eu irei construir minha Igreja. E as portas do inferno não irão derrotá-la!"
+                    },
+                    "reading": {
+                        "reference": "Mt  16,13-23",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 13 Jesus foi à região de Cesareia de Filipe e ali perguntou aos seus discípulos: \"Quem dizem os homens ser o Filho do Homem?\" 14 Eles responderam: \"Alguns dizem que é João Batista; outros que é Elias; Outros ainda, que é Jeremias ou algum dos profetas\". 15 Então Jesus lhes perguntou: \"E vós, quem dizeis que eu sou?\" 16 Simão Pedro respondeu: \"Tu és o Messias, o Filho do Deus vivo\". 17 Respondendo, Jesus lhe disse: \"Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18 Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19 Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus\". 20 Jesus, então, ordenou aos discípulos que não dissessem a ninguém que ele era o Messias. 21 Jesus começou a mostrar aos seus discípulos que devia ir à Jerusalém e sofrer muito da parte dos anciãos, dos sumos sacerdotes e dos mestres da Lei, e que devia ser morto e ressuscitar no terceiro dia. 22 Então Pedro tomou Jesus à parte e começou a repreendê-lo, dizendo: \"Deus não permita tal coisa, Senhor! Que isto nunca te aconteça!\" 23 Jesus, porém, voltou-se para Pedro, e disse: \"Vai para longe, Satanás! Tu és para mim uma pedra de tropeço, porque não pensas as coisas de Deus mas sim as coisas dos homens!\""
+                    }
+                }
+            ]
+        }
+    ]
+}
