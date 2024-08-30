@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "09/07/24",
+            "liturgy": "Santa Paulina do Coração Agonizante de Jesus, virgem",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Os 8,4-7.11-13",
+                    "title": "Leitura da Profecia de Oséias",
+                    "text": "Assim fala o Senhor: 4 \"Eles constituíram reis sem minha vontade; constituíram príncipes sem meu conhecimento; sua prata e seu ouro serviram para fazer ídolos e para sua perdição. 5 Teu bezerro, ó Samaria, foi jogado ao chão; minha cólera inflamou-se contra eles. Até quando ficarão sem purificar-se? 6 Esse bezerro provém de Israel; um artesão fabricou-o, isso não é um deus; será feito em pedaços, esse bezerro de Samaria. 7 Semeiam ventos, colherão tempestades; se não há espiga, o grão não dará farinha; e, mesmo que dê, estranhos a comerão. 11 Efraim ergueu muitos altares em expiação do pecado, mas seus altares resultaram-lhe em pecado. 12 Eu lhes deixei, por escrito, grande número de preceitos, mas estes foram considerados coisa que não lhes toca. 13 Gostam de oferecer sacrifícios, imolam carnes e comem; mas o Senhor não os recebe. Antes, o Senhor lembra seus pecados e castiga suas culpas: eles deverão voltar para o Egito\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 113B(115),3-4.5-6.7ab-8.9-10",
+                    "chorus": "Confia, Israel, no Senhor!",
+                    "texts": [
+                        "É nos céus que está o nosso Deus, ele faz tudo aquilo que quer. São os deuses pagãos ouro e prata, todos eles são obras humanas.",
+                        "Têm boca e não podem falar, têm olhos e não podem ver;  têm nariz e não podem cheirar, tendo ouvidos, não podem ouvir.",
+                        "Têm mãos e não podem pegar, têm pés e não podem andar. Como eles serão seus autores, que os fabricam e neles confiam.",
+                        "Confia, Israel, no Senhor. Ele é teu auxílio e escudo! Confia, Aarão, no Senhor. Ele é teu auxílio e escudo!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Eu sou o bom pastor, conheço minhas ovelhas e elas me conhecem, assim fala o Senhor."
+                    },
+                    "reading": {
+                        "reference": "Mt 9,32-38",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 32 apresentaram a Jesus um homem mudo, que estava possuído pelo demônio. 33 Quando o demônio foi expulso, o mudo começou a falar. As multidões ficaram admiradas e diziam: \"Nunca se viu coisa igual em Israel\". 34 Os fariseus, porém, diziam: \"É pelo chefe dos demônios que ele expulsa os demônios\". 35 Jesus percorria todas as cidades e povoados, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando todo tipo de doença e enfermidade. 36 Vendo Jesus as multidões, compadeceu-se delas, porque estavam cansadas e abatidas, como ovelhas que não têm pastor. Então disse a seus discípulos: 37 \"A messe é grande, mas os trabalhadores são poucos. 38 Pedi pois ao dono da messe que envie trabalhadores para a sua colheita!\""
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "07/07/24",
+            "liturgy": "14ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Ez 2,2-5",
+                    "title": "Leitura da Profecia de Ezequiel",
+                    "text": "2 Naqueles dias, depois de me ter falado, entrou em mim um espírito que me pôs de pé. Então, eu ouvi aquele que me falava, 3 o qual me disse: \"Filho do homem, eu te envio aos israelitas, nação de rebeldes, que se afastaram de mim. Eles e seus pais se revoltaram contra mim até ao dia de hoje. 4 A estes filhos de cabeça dura e coração de pedra, vou-te enviar, e tu lhes dirás: 'Assim diz o Senhor Deus'. 5 Quer te escutem, quer não - pois são um bando de rebeldes - ficarão sabendo que houve entre eles um profeta\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 122(123),1-2a.2bcd.3-4",
+                    "chorus": "Os nossos olhos, estão fitos no Senhor: tende piedade, ó Senhor tende piedade!",
+                    "texts": [
+                        "Eu levanto os meus olhos para vós, que habitais nos altos céus. Como os olhos dos escravos estão fitos nas mãos do seu senhor.",
+                        "Como os olhos das escravas estão fitos nas mãos de sua senhora, c assim os nossos olhos, no Senhor, d até de nós ter piedade.",
+                        "Tende piedade, ó Senhor, tende piedade; já é demais esse desprezo! Estamos fartos do escárnio dos ricaços e do desprezo dos soberbos!"
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "2Cor 12,7-10",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+				    "text": "Irmãos: 7 Para que a extraordinária grandeza das revelações não me ensoberbecesse, foi espetado na minha carne um espinho, que é como um anjo de Satanás a esbofetear-me, a fim de que eu não me exalte demais. 8 A esse propósito, roguei três vezes ao Senhor que o afastasse de mim. 9 Mas ele disse-me: \"Basta-te a minha graça. Pois é na fraqueza que a força se manifesta\". Por isso, de bom grado, eu me gloriarei das minhas fraquezas, para que a força de Cristo habite em mim. 10 Eis porque eu me comprazo nas fraquezas, nas injúrias, nas necessidades, nas perseguições e nas angústias sofridas por amor a Cristo. Pois, quando eu me sinto fraco, é então que sou forte."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O Espírito do Senhor, sobre mim fez a sua unção; enviou-me aos empobrecidos a fazer feliz proclamação."
+                    },
+                    "reading": {
+                        "reference": "Mc 6,1-6",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 1 Jesus foi a Nazaré, sua terra, e seus discípulos o acompanharam. 2 Quando chegou o sábado, começou a ensinar na sinagoga. Muitos que o escutavam ficavam admirados e diziam: \"De onde recebeu ele tudo isto? Como conseguiu tanta sabedoria? E esses grandes milagres que são realizados por suas mãos? 3 Este homem não é o carpinteiro, filho de Maria e irmão de Tiago, de Joset, de Judas e de Simão? Suas irmãs não moram aqui conosco?\" E ficaram escandalizados por causa dele. 4 Jesus lhes dizia: \"Um profeta só não é estimado em sua pátria, entre seus parentes e familiares\". 5 E ali não pôde fazer milagre algum. Apenas curou alguns doentes, impondo-lhes as mãos. 6 E admirou-se com a falta de fé deles. Jesus percorria os povoados das redondezas, ensinando."
+                    }
+                }
+            ]
+        }
+    ]
+}

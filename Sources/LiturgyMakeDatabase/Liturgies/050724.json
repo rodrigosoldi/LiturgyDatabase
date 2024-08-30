@@ -1,0 +1,43 @@
+{
+    "liturgies": [
+        {
+            "date": "05/07/24",
+            "liturgy": "13ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Am 8,4-6.9-12",
+                    "title": "Leitura da Profecia de Amós",
+                    "text": "4 Ouvi isto, vós que maltratais os humildes e causais a prostração dos pobres da terra; 5 vós que andais dizendo: \"Quando passará a lua nova, para vendermos bem a mercadoria? E o sábado, para darmos pronta saída ao trigo, para diminuir medidas, aumentar pesos, e adulterar balanças, 6 dominar os pobres com dinheiro e os humildes com um par de sandálias, e para pôr à venda o refugo do trigo?\" 9 \"Acontecerá que naquele dia, diz o Senhor Deus, farei que o sol se ponha ao meio-dia e em pleno dia escureça a terra; 10 mudarei em luto vossas festas e em pranto todos os vossos cânticos; farei vestir saco a todas as cinturas e tornarei calvas todas as cabeças, o país porá luto, como por um filho único, e o final desse dia terminará em amargura. 11 Eis que virão dias, diz o Senhor, em que enviarei fome sobre a terra; não fome de pão, nem sede de água, mas de ouvir a palavra do Senhor\". 12 Os homens vaguearão de um mar a outro mar, circulando do norte para o oriente, em busca da palavra do Senhor, mas não a encontrarão."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 118(119),2.10.20.30.40.131",
+                    "chorus": "O homem não vive somente de pão, mas de toda palavra da boca de Deus.",
+                    "texts": [
+                        "Feliz o homem que observa seus preceitos, e de todo o coração procura a Deus!",
+                        "De todo o coração eu vos procuro, não deixeis que eu abandone a vossa lei!",
+                        "Minha alma se consome o tempo todo em desejar as vossas justas decisões.",
+                        "Escolhi seguir a trilha da verdade, diante de mim eu coloquei vossos preceitos.",
+                        "Como anseio pelos vossos mandamentos! Dai-me a vida, ó Senhor, porque sois justo!",
+                        "Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+                    },
+                    "reading": {
+                        "reference": "Mt 9,9-13",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 9 Jesus viu um homem chamado Mateus, sentado na coletoria de impostos, e disse-lhe: \"Segue-me!\" Ele se levantou e seguiu a Jesus. 10 Enquanto Jesus estava à mesa, em casa de Mateus, vieram muitos cobradores de impostos e pecadores e sentaram-se à mesa com Jesus e seus discípulos. 11 Alguns fariseus viram isso e perguntaram aos discípulos: \"Por que vosso mestre come com os cobradores de impostos e pecadores?\" 12 Jesus ouviu a pergunta e respondeu: \"Aqueles que têm saúde não precisam de médico, mas sim os doentes. 13 Aprendei, pois, o que significa: 'Quero misericórdia e não sacrifício'. De fato, eu não vim para chamar os justos, mas os pecadores\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

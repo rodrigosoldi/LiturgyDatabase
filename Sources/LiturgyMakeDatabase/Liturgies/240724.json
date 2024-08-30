@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "24/07/24",
+            "liturgy": "16ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Jr 1,1.4-10",
+                    "title": "Início do Livro do Profeta Jeremias",
+                    "text": "1 Palavras de Jeremias, filho de Helcias, um dos sacerdotes de Anatot, da tribo de Benjamim. 4 Foi-me dirigida a palavra do Senhor, dizendo: 5 \"Antes de formar-te no ventre materno, eu te conheci; antes de saíres do seio de tua mãe, eu te consagrei e te fiz profeta das nações\". 6 Disse eu: \"Ah! Senhor Deus, eu não sei falar, sou muito novo\". 7 Disse-me o Senhor: \"Não digas que és muito novo; a todos a quem eu te enviar, irás, e tudo que eu te mandar dizer, dirás. 8 Não tenhas medo deles, pois estou contigo para defender-te\", diz o Senhor. 9 O Senhor estendeu a mão, tocou-me a boca e disse-me: \"Eis que ponho minhas palavras em tua boca. 10 Eu te constituí hoje sobre povos e reinos com poder para extirpar e destruir, devastar e derrubar, construir e plantar\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 70(71),1-2.3-4a.5-6ab.15ab e 17",
+                    "chorus": "Minha boca anunciará vossa justiça.",
+                    "texts": [
+                        "Eu procuro meu refúgio em vós, Senhor: que eu não seja envergonhado para sempre! Porque sois justo, defendei-me e libertai-me! Escutai a minha voz, vinde salvar-me!",
+                        "Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Porque sois a minha força e meu amparo, o meu refúgio, proteção e segurança! Libertai-me, ó meu Deus, das mãos do ímpio",
+                        "Porque sois, ó Senhor Deus, minha esperança, em vós confio desde a minha juventude! Sois meu apoio desde antes que eu nascesse, desde o seio maternal, o meu amparo.",
+                        "Minha boca anunciará todos os dias vossa justiça e vossas graças incontáveis. Vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "A semente é de Deus a palavra, o Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+                    },
+                    "reading": {
+                        "reference": "Mt 13,1-9",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "1 Naquele dia, Jesus saiu de casa e foi sentar-se às margens do mar da Galileia. 2 Uma grande multidão reuniu-se em volta dele. Por isso Jesus entrou numa barca e sentou-se, enquanto a multidão ficava de pé, na praia. 3 E disse-lhes muitas coisas em parábolas: \"O semeador saiu para semear. 4 Enquanto semeava, algumas sementes caíram à beira do caminho, e os pássaros vieram e as comeram. 5 Outras sementes caíram em terreno pedregoso, onde não havia muita terra. As sementes logo brotaram, porque a terra não era profunda. 6 Mas, quando o sol apareceu, as plantas ficaram queimadas e secaram, porque não tinham raiz. 7 Outras sementes caíram no meio dos espinhos. Os espinhos cresceram e sufocaram as plantas. 8 Outras sementes, porém, caíram em terra boa, e produziram à base de cem, de sessenta e de trinta frutos por semente. 9 Quem tem ouvidos, ouça!\""
+                    }
+                }
+            ]
+        }
+    ]
+}

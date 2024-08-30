@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "25/07/24",
+            "liturgy": "São Tiago, Apóstolo",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "2Cor 4,7-15",
+                    "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                    "text": "Irmãos, 7 trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. 8 Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; 9 perseguidos, mas não desamparados; derrubados, mas não aniquilados; 10 por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. 11 De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. 12 Assim, a morte age em nós, enquanto a vida age em vós. 13 Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: \"Eu creio e, por isso, falei\", nós também cremos e, por isso, falamos, 14 certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. 15 E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 125(126),1-2ab.2cd-3.4-5.6",
+                    "chorus": "Os que lançam as sementes entre lágrimas, ceifarão com alegria.",
+                    "texts": [
+                        "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções.",
+                        "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!",
+                        "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria.",
+                        "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Eu vos designei para que vades e deis frutos, e o vosso fruto permaneça, assim disse o Senhor."
+                    },
+                    "reading": {
+                        "reference": "Mt 20,20-28",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 20 a mãe dos filhos de Zebedeu aproximou-se de Jesus com seus filhos e ajoelhou-se com a intenção de fazer um pedido. 21 Jesus perguntou: \"O que tu queres?\" Ela respondeu: \"Manda que estes meus dois filhos se sentem, no teu Reino, um à tua direita e outro à tua esquerda\". 22 Jesus, então, respondeu-lhes: \"Não sabeis o que estais pedindo. Por acaso podeis beber o cálice que eu vou beber?\" Eles responderam: \"Podemos\". 23 Então Jesus lhes disse: \"De fato, vós bebereis do meu cálice, mas não depende de mim conceder o lugar à minha direita ou à minha esquerda. Meu Pai é quem dará esses lugares àqueles para os quais ele os preparou\". 24 Quando os outros dez discípulos ouviram isso, ficaram irritados contra os dois irmãos. 25 Jesus, porém, chamou-os, e disse: \"Vós sabeis que os chefes das nações têm poder sobre elas e os grandes as oprimem. 26 Entre vós não deverá ser assim. Quem quiser tornar-se grande, torne-se vosso servidor; 27 quem quiser ser o primeiro, seja vosso servo. 28 Pois, o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

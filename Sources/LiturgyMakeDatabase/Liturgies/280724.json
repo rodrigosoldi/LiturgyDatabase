@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "28/07/24",
+            "liturgy": "17ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "2Rs 4,42-44",
+                    "title": "Leitura do Segundo Livro dos Reis",
+                    "text": "Naqueles dias, 42 veio também um homem de Baal-Salisa, trazendo em seu alforje para Eliseu, o homem de Deus, pães dos primeiros frutos da terra: eram vinte pães de cevada e trigo novo. E Eliseu disse: \"Dá ao povo para que coma\". 43 Mas o seu servo respondeu-lhe: \"Como vou distribuir tão pouco para cem pessoas?\" Eliseu disse outra vez: \"Dá ao povo para que coma; pois assim diz o Senhor: 'Comerão e ainda sobrará'\". 44 O homem distribuiu e ainda sobrou, conforme a palavra do Senhor."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 144(145),10-11.15-16.17-18",
+                    "chorus": "Saciai os vossos filhos, ó Senhor!",
+                    "texts": [
+                        "Que vossas obras, ó Senhor, vos glorifiquem, e os vossos santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder!",
+                        "Todos os olhos, ó Senhor, em vós esperam e vós lhes dais no tempo certo o alimento; vós abris a vossa mão prodigamente e saciais todo ser vivo com fartura.",
+                        "É justo o Senhor em seus caminhos, é santo em toda obra que ele faz. Ele está perto da pessoa que o invoca de todo aquele que o invoca lealmente."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Ef 4,1-6",
+                    "title": "Leitura da Carta de São Paulo aos Efésios",
+				    "text": "Irmãos: 1 Eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2 com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3 Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4 Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5 Há um só Senhor, uma só fé, um só batismo, 6 um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Um grande profeta surgiu, surgiu e entre nós se mostrou; é Deus que seu povo visita, seu povo, meu Deus visitou!"
+                    },
+                    "reading": {
+                        "reference": "Jo 6,1-15",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+					    "text": "Naquele tempo, 1 Jesus foi para o outro lado do mar da Galileia, também chamado de Tiberíades. 2 Uma grande multidão o seguia, porque via os sinais que ele operava a favor dos doentes. 3 Jesus subiu ao monte e sentou-se aí, com os seus discípulos. 4 Estava próxima a Páscoa, a festa dos judeus. 5 Levantando os olhos, e vendo que uma grande multidão estava vindo ao seu encontro, Jesus disse a Filipe: \"Onde vamos comprar pão para que eles possam comer?\" 6 Disse isso para pô-lo à prova, pois ele mesmo sabia muito bem o que ia fazer. 7 Filipe respondeu: \"Nem duzentas moedas de prata bastariam para dar um pedaço de pão a cada um\". 8 Um dos discípulos, André, o irmão de Simão Pedro, disse: 9 \"Está aqui um menino com cinco pães de cevada e dois peixes. Mas o que é isso para tanta gente?\" 10 Jesus disse: \"Fazei sentar as pessoas\". Havia muita relva naquele lugar, e lá se sentaram, aproximadamente, cinco mil homens. 11 Jesus tomou os pães, deu graças e distribuiu-os aos que estavam sentados, tanto quanto queriam. E fez o mesmo com os peixes. 12 Quando todos ficaram satisfeitos, Jesus disse aos discípulos: \"Recolhei os pedaços que sobraram, para que nada se perca!\" 13 Recolheram os pedaços e encheram doze cestos com as sobras dos cinco pães, deixadas pelos que haviam comido. 14 Vendo o sinal que Jesus tinha realizado, aqueles homens exclamavam: \"Este é verdadeiramente o Profeta, aquele que deve vir ao mundo\". 15 Mas, quando notou que estavam querendo levá-lo para proclamá-lo rei, Jesus retirou-se de novo, sozinho, para o monte."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "15/07/24",
+            "liturgy": "São Boaventura, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Is 1,10-17",
+                    "title": "Leitura do Livro do Profeta Isaías",
+                    "text": "10 Ouvi a palavra do Senhor, magistrados de Sodoma, prestai ouvidos ao ensinamento do nosso Deus, povo de Gomorra. 11 Que me importa a abundância de vossos sacrifícios? - diz o Senhor. Estou farto de holocaustos de carneiros e de gordura de animais cevados; do sangue de touros, de cordeiros e de bodes, não me agrado. 12 Quando entrais para vos apresentar diante de mim, quem vos pediu para pisardes os meus átrios? 13 Não continueis a trazer oferendas vazias! O incenso é para mim uma abominação! Não suporto lua nova, sábado, convocação de assembleia: iniquidade com reunião solene! 14 Vossas luas novas e vossas solenidades, eu as detesto! Elas são para mim um peso, estou cansado de suportá-las. 15 Quando estendeis as vossas mãos, escondo de vós os meus olhos. Ainda que multipliqueis a oração, eu não ouço: Vossas mãos estão cheias de sangue! 16 Lavai-vos, purificai-vos. Tirai a maldade de vossas ações de minha frente. Deixai de fazer o mal! 17 Aprendei a fazer o bem! Procurai o direito, corrigi o opressor. Julgai a causa do órfão, defendei a viúva."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 49(50),8-9.16bc-17.21 e 23",
+                    "chorus": "A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus.",
+                    "texts": [
+                        "Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos; não preciso dos novilhos de tua casa nem dos carneiros que estão nos teus rebanhos.",
+                        "Como ousas repetir os meus preceitos e trazer minha Aliança em tua boca? Tu que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios!",
+                        "Diante disso que fizeste, eu calarei? Acaso pensas que eu sou igual a ti? É disso que te acuso e repreendo e manifesto essas coisas aos teus olhos.",
+                        "Quem me oferece um sacrifício de louvor este sim é que honra de verdade. A todo homem que procede retamente eu mostrarei a salvação que vem de Deus."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles!"
+                    },
+                    "reading": {
+                        "reference": "Mt 10,34-11,1",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 34 \"Não penseis que vim trazer paz à terra; não vim trazer a paz, mas sim a espada. 35 De fato, vim separar o filho de seu pai, a filha de sua mãe, a nora de sua sogra. 36 E os inimigos do homem serão os seus próprios familiares. 37 Quem ama seu pai ou sua mãe mais do que a mim, não é digno de mim. Quem ama seu filho ou sua filha mais do que a mim, não é digno de mim. 38 Quem não toma a sua cruz e não me segue, não é digno de mim. 39 Quem procura conservar a sua vida vai perdê-la. E quem perde a sua vida por causa de mim, vai encontrá-la. 40 Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou. 41 Quem recebe um profeta, por ser profeta, receberá a recompensa de profeta. E quem recebe um justo, por ser justo, receberá a recompensa de justo. 42 Quem der, ainda que seja apenas um copo de água fresca, a um desses pequeninos, por ser meu discípulo, em verdade vos digo: não perderá a sua recompensa\". 11,1 Quando Jesus acabou de dar essas instruções aos doze discípulos, partiu daí, a fim de ensinar e pregar nas cidades deles."
+                    }
+                }
+            ]
+        }
+    ]
+}

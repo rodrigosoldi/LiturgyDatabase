@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "17/07/24",
+            "liturgy": "Bem-aventurado Inácio de Azevedo, presbítero, e companheiros, mártires, Memória",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "Is 10,5-7.13-16",
+                    "title": "Leitura do Livro do Profeta Isaías",
+                    "text": "Assim fala o Senhor: 5 \"Ai de Assur, vara de minha cólera, bastão em minhas mãos, instrumento de minha indignação! 6 Eu o envio contra uma nação ímpia e ordeno-lhe, contra um povo que me excita à ira, que o submeta à pilhagem e ao saque, que o calque aos pés como lama nas ruas. 7 Mas ele assim não pensava, seu propósito não era esse; pelo contrário, sua intenção era esmagar e exterminar não poucas nações. 13 Pois diz o rei da Assíria: 'Realizei isso pela força da minha mão e com minha sagacidade, pois tenho experiência; aboli as fronteiras dos povos, saqueei seus tesouros, e derrubei de golpe os ocupantes de altos postos; 14 minha mão empalmou como um ninho a riqueza dos povos; e como se apanha uma ninhada de ovos, assim ajuntei eu os povos da terra, e não houve quem batesse asa ou abrisse o bico e desse um pio'. 15 Mas acaso gloria-se o machado, em detrimento do lenhador que com ele corta? Ou se exalta a serra contra o serrador que a maneja? Como se a vara movesse quem a levanta e um bastão erguesse aquele que não é madeira. 16 Por isso, enviará o Dominador, Senhor dos exércitos, contra aqueles fortes guerreiros o raquitismo; e abalará sua glória com convulsões que queimam como fogo\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 93(94),5-6.7-8.9-10.14-15",
+                    "chorus": "O Senhor não rejeita o seu povo.",
+                    "texts": [
+                        "Eis que oprimem, Senhor, vosso povo e humilham a vossa herança; estrangeiro e viúva trucidam, e assassinam o pobre e o órfão!",
+                        "Eles dizem: \"O Senhor não nos vê e o Deus de Jacó não percebe!\" Entendei, ó estultos do povo; insensatos, quando é que vereis?",
+                        "O que fez o ouvido, não ouve? Quem os olhos formou, não verá? Quem educa as nações, não castiga? Quem os homens ensina, não sabe?",
+                        "O Senhor não rejeita o seu povo e não pode esquecer sua herança: voltarão a juízo as sentenças; quem é reto andará na justiça."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+                    },
+                    "reading": {
+                        "reference": "Mt 11,25-27",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "25 Naquele tempo, Jesus pôs-se a dizer: \"Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos. 26 Sim, Pai, porque assim foi do teu agrado. 27 Tudo me foi entregue por meu Pai, e ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho o quiser revelar\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

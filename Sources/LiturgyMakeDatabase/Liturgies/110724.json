@@ -1,0 +1,39 @@
+{
+    "liturgies": [
+        {
+            "date": "11/07/24",
+            "liturgy": "São Bento, abade, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Os 11,1-4.8c-9",
+                    "title": "Leitura da Profecia de Oséias",
+                    "text": "Assim fala o Senhor: 1 \"Quando Israel era criança, eu já o amava, e desde o Egito chamei meu filho. 2 Quanto mais eu os chamava tanto mais eles se afastavam de mim; imolavam aos Baals e sacrificavam aos ídolos. 3 Ensinei Efraim a dar os primeiros passos, tomei-o em meus braços, mas eles não reconheceram que eu cuidava deles. 4 Eu os atraía com laços de humanidade, com laços de amor; era para eles como quem leva uma criança ao colo, e rebaixava-me a dar-lhes de comer. 8c Meu coração comove-se no íntimo e arde de compaixão. 9 Não darei largas à minha ira, não voltarei a destruir Efraim, eu sou Deus, e não homem; o santo no meio de vós, e não me servirei do terror\""
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 79(80),2ac e 3b.15-16",
+                    "chorus": "Sobre nós iluminai a vossa face e, então, seremos salvos, ó Senhor!",
+                    "texts": [
+                        "Ó Pastor de Israel, prestai ouvidos. Vós, que sobre os querubins vos assentais, despertai vosso poder, ó nosso Deus, e vinde logo nos trazer a salvação!",
+                        "Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Convertei-vos e crede no Evangelho, pois, o reino de Deus está chegando!"
+                    },
+                    "reading": {
+                        "reference": "Mt 10,7-15",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 7 \"Em vosso caminho, anunciai: 'O Reino dos Céus está próximo'. 8 Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça deveis dar! 9 Não leveis ouro nem prata, nem dinheiro nos vossos cintos; 10 nem sacola para o caminho, nem duas túnicas, nem sandálias, nem bastão, porque o operário tem direito ao seu sustento. 11 Em qualquer cidade ou povoado onde entrardes, informai-vos para saber quem ali seja digno. Hospedai-vos com ele até a vossa partida. 12 Ao entrardes numa casa, saudai-a. 13 Se a casa for digna, desça sobre ela a vossa paz; se ela não for digna, volte para vós a vossa paz. 14 Se alguém não vos receber, nem escutar vossa palavra, saí daquela casa ou daquela cidade, e sacudi a poeira dos vossos pés. 15 Em verdade vos digo, as cidades de Sodoma e Gomorra serão tratadas com menos dureza do que aquela cidade, no dia do juízo\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

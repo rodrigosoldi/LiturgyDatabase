@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "26/07/24",
+            "liturgy": "Santos Joaquim e Ana, pais da Bem-aventurada Virgem Maria, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Eclo 44,1.10-15",
+                    "title": "Leitura do Livro do Eclesiástico",
+                    "text": "1 Vamos fazer o elogio dos homens famosos, nossos antepassados através das gerações. 10 Estes, são homens de misericórdia; seus gestos de bondade não serão esquecidos. 11 Eles permanecem com seus descendentes; seus próprios netos são a sua melhor herança. 12 A descendência deles mantém-se fiel às alianças, 13 e, graças a eles, também os seus filhos. Sua descendência permanece para sempre, e sua glória jamais se apagará. 14 Seus corpos serão sepultados na paz e seu nome dura através das gerações. 15 Os povos proclamarão a sua sabedoria, e a assembleia vai celebrar o seu louvor."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 131(132),11.13-14.17-18",
+                    "chorus": "O Senhor vai dar-lhe o trono de seu pai, o rei Davi.",
+                    "texts": [
+                        "O Senhor fez a Davi um juramento, uma promessa que jamais renegará: \"Um herdeiro que é fruto do teu ventre colocarei sobre o trono em teu lugar!\"",
+                        "Pois o Senhor quis para si Jerusalém e a desejou para que fosse sua morada: \"Eis o lugar do meu repouso para sempre, eu fico aqui: este é o lugar que preferi!\"",
+                        "\"De Davi farei brotar um forte Herdeiro, acenderei ao meu Ungido uma lâmpada. Cobrirei de confusão seus inimigos,  mas sobre ele brilhará minha coroa!\""
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Esperavam estes pais a redenção de Israel, e o Espírito do Senhor estava sobre eles."
+                    },
+                    "reading": {
+                        "reference": "Mt 13,16-17",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 16 \"Felizes sois vós, porque vossos olhos veem e vossos ouvidos ouvem. 17 Em verdade vos digo, muitos profetas e justos desejaram ver o que vedes, e não viram, desejaram ouvir o que ouvis, e não ouviram\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
