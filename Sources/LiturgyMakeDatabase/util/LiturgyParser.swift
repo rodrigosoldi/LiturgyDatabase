@@ -1,5 +1,5 @@
 //
-//  LiturgyUtil.swift
+//  LiturgyParser.swift
 //
 //
 //  Created by Rodrigo Soldi on 24/08/24.
@@ -10,7 +10,7 @@ import SwiftyJSON
 import RealmSwift
 import LiturgyCommon
 
-struct LiturgyUtil {
+struct LiturgyParser {
 
 	func fetchLiturgies(_ json: JSON) -> [DBLiturgy] {
 		return json["liturgies"]

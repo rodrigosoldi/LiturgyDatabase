@@ -12,7 +12,7 @@ struct FileUtil {
 	private let packageName = "LiturgyDatabase"
 	private let productName = "LiturgyMakeDatabase"
 
-	func getLiturgiesFolderPath() -> String {
+	func getLiturgiesFolderPath() throws -> String {
 		print("Main Bundle Path: \(Bundle.main.bundlePath)")
 		let bundlePath = Bundle.main.bundlePath + "/\(packageName)_\(productName).bundle"
 
@@ -20,7 +20,18 @@ struct FileUtil {
 		let bundle = Bundle(path: bundlePath)
 
 		let filePath = (bundle?.bundlePath ?? "") + "/Liturgies"
-		return filePath
+		var isDirectory: ObjCBool = false
+
+		if FileManager.default.fileExists(atPath: filePath, isDirectory: &isDirectory), isDirectory.boolValue {
+			return filePath			
+		} else {
+			let filePath = (bundle?.bundlePath ?? "") + "/Contents/Resources/Liturgies" // if run using xcode
+			if FileManager.default.fileExists(atPath: filePath, isDirectory: &isDirectory), isDirectory.boolValue {
+				return filePath
+			}
+		}
+
+		throw NSError(domain: "com.soldi.LiturgyDatabase", code: -1)
 	}
 
 	func getLiturgiesFiles(basePath: String) -> [String] {
