@@ -8,7 +8,7 @@
 
 # LiturgyDatabase
 
-- Liturgies from **_June, 1st_** to **_June, 30th_**
+- Liturgies from **_June, 1st_** to **_July, 31th_**
 
 **This repo is updated periodically with new liturgies**
 **All liturgies are in Portuguese**
