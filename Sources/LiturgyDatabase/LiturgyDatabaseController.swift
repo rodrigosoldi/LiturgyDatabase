@@ -1,5 +1,5 @@
 //
-//  LiturgyDatabase.swift
+//  LiturgyDatabaseController.swift
 //  
 //
 //  Created by Rodrigo Soldi on 25/08/24.
@@ -9,13 +9,13 @@ import Foundation
 import RealmSwift
 import LiturgyCommon
 
-public protocol LiturgyDatabase {
+public protocol LiturgyDatabaseControllable {
 	func fetchAll() async throws -> [Liturgy]
 	func fetchAll(filter: String) async throws -> [Liturgy]
 	func fetchLiturgy(byDate date: String) async throws -> Liturgy?
 }
 
-public class LiturgyDatabaseImpl: LiturgyDatabase {
+public class LiturgyDatabaseController: LiturgyDatabaseControllable {
 
 
 	private let fileUtil: FileUtil

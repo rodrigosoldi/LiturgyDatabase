@@ -96,8 +96,8 @@ If you don't want run the project, go to [Database Folder](./Database) and use `
 ### LiturgyDatabase
 
 ```swift
-let liturgyDatabase: LiturgyDatabase = try LiturgyDatabaseImpl()
-let liturgies: [Liturgy] = try await liturgyDatabase.fetchAll()
+let liturgyDatabaseController: LiturgyDatabaseControllable = try LiturgyDatabaseController()
+let liturgies: [Liturgy] = try await liturgyDatabaseController.fetchAll()
 ```
 
 ### LiturgyMakeDatabase

@@ -11,7 +11,7 @@ import LiturgyDatabase
 struct LiturgyListView: View {
 
 	@State private var liturgies: [Liturgy] = []
-	private let liturgyDatabase: LiturgyDatabase = try! LiturgyDatabaseImpl()
+	private let liturgyDatabase: LiturgyDatabaseControllable = try! LiturgyDatabaseController()
 
     var body: some View {
 		NavigationView(content: {
