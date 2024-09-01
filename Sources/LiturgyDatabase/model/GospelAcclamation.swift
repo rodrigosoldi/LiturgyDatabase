@@ -17,4 +17,10 @@ public struct GospelAcclamation: Identifiable {
 		self.chorus = chorus
 		self.text = text
 	}
+
+	public func contains(_ _text: String) -> Bool {
+		return id.uuidString.lowercased().contains(_text) ||
+		chorus.lowercased().contains(_text) ||
+		text?.lowercased().contains(_text) ?? false
+	}
 }

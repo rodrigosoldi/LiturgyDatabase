@@ -19,4 +19,11 @@ public struct Reading: Identifiable {
 		self.title = title
 		self.text = text
 	}
+
+	public func contains(_ _text: String) -> Bool {
+		return id.uuidString.lowercased().contains(_text) ||
+		reference.lowercased().contains(_text) ||
+		title?.lowercased().contains(_text) ?? false ||
+		text.lowercased().contains(_text)
+	}
 }

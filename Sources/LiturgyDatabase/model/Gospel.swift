@@ -17,4 +17,11 @@ public struct Gospel: Identifiable {
 		self.gospelAcclamation = gospelAcclamation
 		self.reading = reading
 	}
+
+	public func contains(_ _text: String) -> Bool {
+		return id.uuidString.lowercased().contains(_text) ||
+		gospelAcclamation?.contains(_text) ?? false ||
+		reading?.contains(_text) ?? false
+	}
+
 }

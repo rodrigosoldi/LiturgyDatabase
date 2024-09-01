@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Liturgy: Identifiable {
+public struct Liturgy: Identifiable, Equatable {
 
 	public let id: UUID
 	public let date: String
@@ -28,4 +28,30 @@ public struct Liturgy: Identifiable {
 		self.secondReadings = secondReadings
 		self.gospels = gospels
 	}
+
+	public static func ==(lhs: Liturgy, rhs: Liturgy) -> Bool {
+		return lhs.id == rhs.id
+	}
+
+	public func contains(_ _text: String?) -> Bool {
+		guard let _text else {
+			return false
+		}
+
+		guard !_text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
+			return false
+		}
+
+		let text = _text.lowercased()
+
+		return id.uuidString.lowercased().contains(text) ||
+		date.lowercased().contains(text) ||
+		liturgy.lowercased().contains(text) ||
+		liturgicalColor.rawValue.lowercased().contains(text) ||
+		firstReadings.contains(where: { $0.contains(text) }) ||
+		psalms.contains(where: { $0.contains(text) }) ||
+		secondReadings.contains(where: { $0.contains(text) })
+
+	}
+
 }

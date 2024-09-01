@@ -19,7 +19,14 @@ public struct Psalm: Identifiable {
 		self.chorus = chorus
 		self.texts = texts
 	}
-	
+
+	public func contains(_ _text: String) -> Bool {
+		return id.uuidString.lowercased().contains(_text) ||
+		reference.lowercased().contains(_text) ||
+		chorus.lowercased().contains(_text) ||
+		texts.contains(where: { $0.lowercased().contains(_text) })
+	}
+
 }
 
 extension Psalm {
