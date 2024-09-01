@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+        {
+            "date": "15/09/24",
+            "liturgy": "24º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Is 50,5-9a",
+                    "title": "Leitura do Livro do Profeta Isaías",
+                    "text": "O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás. 6 Ofereci as costas para me baterem e as faces para me arrancarem a barba: não desviei o rosto de bofetões e cusparadas. 7 Mas, o Senhor Deus é meu Auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado. 8 A meu lado está quem me justifica; alguém me fará objeções? Vejamos. Quem é meu adversário? Aproxime-se. 9a Sim, o Senhor Deus é meu Auxiliador; quem é que me vai condenar?"
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 114(115),1-2.3-4.5-6.8-9",
+                    "chorus": "Andarei na presença de Deus, junto a ele, na terra dos vivos.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                    "texts": [
+                        "Eu amo o Senhor, porque ouve o grito da minha oração. Inclinou para mim seu ouvido, no dia em que eu o invoquei.",
+                        "Prendiam-me as cordas da morte, apertavam-me os laços do abismo; invadiam-me angústia e tristeza: eu então invoquei o Senhor \"Salvai, ó Senhor, minha vida!\"",
+                        "O Senhor é justiça e bondade, nosso Deus é amor-compaixão. É o Senhor quem defende os humildes: eu estava oprimido, e salvou-me.",
+                        "Libertou minha vida da morte, enxugou de meus olhos o pranto e livrou os meus pés do tropeço. Andarei na presença de Deus, junto a ele na terra dos vivos."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Tg 2,14-18",
+                    "title": "Leitura da Carta de São Tiago 2,14-18 14",
+				    "text": "Meus irmãos: que adianta alguém dizer que tem fé, quando não a põe em prática? A fé seria então capaz de salvá-lo? 15 Imaginai que um irmão ou uma irmã não têm o que vestir e que lhes falta a comida de cada dia; 16 se então alguém de vós lhes disser: \"Ide em paz, aquecei-vos\", e: \"Comei à vontade\", sem lhes dar o necessário para o corpo, que adiantará isso? 17 Assim também a fé: se não se traduz em obras, por si só está morta. 18 Em compensação, alguém poderá dizer: \"Tu tens a fé e eu tenho a prática!\" Tu, mostra-me a tua fé sem as obras, que eu te mostrarei a minha fé pelas obras!"
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Eu de nada me glorio, a não ser da cruz de Cristo; vejo o mundo em cruz pregado e para o mundo em cruz me avisto."
+                    },
+                    "reading": {
+                        "reference": "Mc 8,27-35",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 27 Jesus partiu com seus discípulos para os povoados de Cesareia de Filipe. No caminho perguntou aos discípulos: \"Quem dizem os homens que eu sou?\" 28 Eles responderam: \"Alguns dizem que tu és João Batista; outros que és Elias; outros, ainda, que és um dos profetas\". 29 Então ele perguntou: \"E vós, quem dizeis que eu sou?\" Pedro respondeu: \"Tu és o Messias\". 30 Jesus proibiu-lhes severamente de falar a alguém a seu respeito. 31 Em seguida, começou a ensiná-los, dizendo que o Filho do Homem devia sofrer muito, ser rejeitado pelos anciãos, pelos sumos sacerdotes e doutores da Lei; devia ser morto, e ressuscitar depois de três dias. 32 Ele dizia isso abertamente. Então Pedro tomou Jesus à parte e começou a repreendê-lo. 33 Jesus voltou-se, olhou para os discípulos e repreendeu a Pedro, dizendo: \"Vai para longe de mim, Satanás! Tu não pensas como Deus, e sim como os homens\". 34 Então chamou a multidão com seus discípulos e disse: \"Se alguém me quer seguir, renuncie a si mesmo, tome a sua cruz e me siga. 35 Pois quem quiser salvar a sua vida, vai perdê-la; mas quem perder a sua vida por causa de mim e do Evangelho, vai salvá-la\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

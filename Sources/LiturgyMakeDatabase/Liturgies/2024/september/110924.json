@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "11/09/24",
+            "liturgy": "23ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Cor 7,25-31",
+                    "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                    "text": "Irmãos, 25 a respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: 26 Penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. 27 Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Não procures ligar-te. 28 Se, porém, casares, não pecas. E, se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. 29 Eu digo, irmãos, o tempo está abreviado. Então, que, doravante, os que têm mulher vivam como se não tivessem mulher; 30 e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres, e os que fazem compras, como se não possuíssem coisa alguma; 31 e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 44(45),11-12.14-15.16-17",
+                    "chorus": "Escutai, minha filha, olhai, ouvi isto!",
+                    "texts": [
+                        "Escutai, minha filha, olhai, ouvi isto: \"Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!",
+                        "Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo.",
+                        "Entre cantos de festa e com grande alegria, ingressam, então, no palácio real\". Deixareis vossos pais, mas tereis muitos filhos; fareis deles os reis soberanos da terra."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Meus discípulos, alegrai-vos, exultai de alegria, pois grande é a recompensa que nos céus tereis um dia!"
+                    },
+                    "reading": {
+                        "reference": "Lc 6,20-26",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 20 Jesus levantando os olhos para os seus discípulos, disse: \"Bem-aventurados vós, os pobres, porque vosso é o Reino de Deus! 21 Bem-aventurados, vós que agora tendes fome, porque sereis saciados! Bem-aventurados vós, que agora chorais, porque havereis de rir! 22 Bem-aventurados sereis, quando os homens vos odiarem, vos expulsarem, vos insultarem e amaldiçoarem o vosso nome, por causa do Filho do Homem! 23 Alegrai-vos, nesse dia, e exultai pois será grande a vossa recompensa no céu; porque era assim que os antepassados deles tratavam os profetas. 24 Mas, ai de vós, ricos, porque já tendes vossa consolação! 25 Ai de vós, que agora tendes fartura, porque passareis fome! Ai de vós, que agora rides, porque tereis luto e lágrimas! 26 Ai de vós quando todos vos elogiam! Era assim que os antepassados deles tratavam os falsos profetas\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

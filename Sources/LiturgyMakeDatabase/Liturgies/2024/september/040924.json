@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "04/09/24",
+            "liturgy": "22ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Cor 3,1-9",
+                    "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                    "text": "Irmãos, não pude falar-vos como a pessoas espirituais. Tive que vos falar como a pessoas carnais, como a crianças na vida em Cristo. 2 Pude oferecer-vos somente leite, não alimento sólido, pois ainda não éreis capazes de tomá-lo. E nem atualmente sois capazes de receber alimento sólido, 3 visto que ainda sois carnais. As rivalidades e rixas que existem aí, no meio de vós, acaso não mostram que sois carnais e que procedeis de acordo com os impulsos naturais? 4 Quando um declara: \"Eu sou de Paulo\", e outro: \"Eu sou de Apolo\", não estais procedendo como pessoas simplesmente naturais? 5 Pois, o que é Apolo? O que é Paulo? Não passam de servidores, pelos quais chegastes à fé. E cada um deles exerce seu serviço segundo o dom recebido de Deus. 6 Eu plantei, Apolo regou, mas Deus é que fazia crescer. 7 De modo que nem o que planta, nem o que rega são, propriamente, importantes. Quem é importante é aquele que faz crescer: Deus. 8 Aquele que planta e aquele que rega formam uma unidade, mas cada um receberá o seu próprio salário, proporcional ao seu trabalho. 9 Com efeito, nós somos cooperadores de Deus, e vós sois lavoura de Deus, construção de Deus."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 32(33),12-13.14-15.20-21",
+                    "chorus": "Feliz o povo que o Senhor escolheu por sua herança!",
+                    "texts": [
+                        "Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens.",
+                        "Ele contempla do lugar onde reside e vê a todos os que habitam sobre a terra. Ele formou o coração de cada um e por todos os seus atos se interessa.",
+                        "No Senhor nós esperamos confiantes, porque ele é nosso auxílio e proteção! Por isso o nosso coração se alegra nele, seu santo nome é nossa única esperança."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O Espírito do Senhor repousa sobre mim e enviou-me a anunciar aos pobres o Evangelho."
+                    },
+                    "reading": {
+                        "reference": "Lc 4,38-44",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 38 Jesus saiu da sinagoga e entrou na casa de Simão. A sogra de Simão estava sofrendo com febre alta, e pediram a Jesus em favor dela. 39 Inclinando-se sobre ela, Jesus ameaçou a febre, e a febre a deixou. Imediatamente, ela se levantou e começou a servi-los. 40 Ao pôr do sol, todos os que tinham doentes atingidos por diversos males, os levaram a Jesus. Jesus colocava as mãos em cada um deles e os curava. 41 De muitas pessoas também saíam demônios, gritando: \"Tu és o Filho de Deus\". Jesus os ameaçava, e não os deixava falar, porque sabiam que ele era o Messias. 42 Ao raiar do dia, Jesus saiu, e foi para um lugar deserto. As multidões o procuravam e, indo até ele, tentavam impedi-lo que os deixasse. 43 Mas Jesus disse: \"Eu devo anunciar a boa-nova do Reino de Deus também a outras cidades, porque para isso é que eu fui enviado\". 44 E pregava nas sinagogas da Judeia."
+                    }
+                }
+            ]
+        }
+    ]
+}

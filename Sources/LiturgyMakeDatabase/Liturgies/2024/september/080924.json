@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "08/09/24",
+            "liturgy": "23º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Is 35,4-7a",
+                    "title": "Leitura do Livro do Profeta Isaías",
+                    "text": "Dizei às pessoas deprimidas: \"Criai ânimo, não tenhais medo! Vede, é vosso Deus, é a vingança que vem, é a recompensa de Deus; é ele que vem para vos salvar\". 5 Então se abrirão os olhos dos cegos e se descerrarão os ouvidos dos surdos. 6 O coxo saltará como um cervo e se desatará a língua dos mudos, assim como brotarão águas no deserto e jorrarão torrentes no ermo. 7a A terra árida se transformará em lago, e a região sedenta, em fontes d'água."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 144(145),17-18.19-20.21",
+                    "chorus": "Bendize, ó minha alma ao Senhor. Bendirei ao Senhor toda a vida!\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                    "texts": [
+                        "O Senhor é fiel para sempre, faz justiça aos que são oprimidos; ele dá alimento aos famintos, é o Senhor quem liberta os cativos.",
+                        "O Senhor abre os olhos aos cegos o Senhor faz erguer-se o caído; o Senhor ama aquele que é justo. É o Senhor quem protege o estrangeiro.",
+                        "Ele ampara a viúva e o órfão mas confunde os caminhos dos maus. O Senhor reinará para sempre! Ó Sião, o teu Deus reinará para sempre e por todos os séculos!"
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Tg 2,1-5",
+                    "title": "Leitura da Carta de São Tiago",
+				    "text": "Meus irmãos: a fé que tendes em nosso Senhor Jesus Cristo glorificado não deve admitir acepção de pessoas. 2 Pois bem, imaginai que na vossa reunião entra uma pessoa com anel de ouro no dedo e bem vestida, e também um pobre, com sua roupa surrada, 3 e vós dedicais atenção ao que está bem vestido, dizendo-lhe: \"Vem sentar-te aqui, à vontade\", enquanto dizeis ao pobre: \"Fica aí, de pé\", ou então: \"Senta-te aqui no chão, aos meus pés\", 4 não fizestes, então, discriminação entre vós? E não vos tornastes juízes com critérios injustos? 5 Meus queridos irmãos, escutai: não escolheu Deus os pobres deste mundo para serem ricos na fé e herdeiros do Reino que prometeu aos que o amam?"
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Jesus Cristo pregava o Evangelho, a Boa-Nova do Reino e curava seu povo doente de todos os males, sua gente!"
+                    },
+                    "reading": {
+                        "reference": "Mc 7,31-37",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 31 Jesus saiu de novo da região de Tiro, passou por Sidônia e continuou até o mar da Galileia, atravessando a região da Decápole. 32 Trouxeram então um homem surdo, que falava com dificuldade, e pediram que Jesus lhe impusesse a mão. 33 Jesus afastou-se com o homem, para fora da multidão; em seguida, colocou os dedos nos seus ouvidos, cuspiu e com a saliva tocou a língua dele. 34 Olhando para o céu, suspirou e disse: \"Efatá!\", que quer dizer: \"Abre-te!\" 35 Imediatamente seus ouvidos se abriram, sua língua se soltou e ele começou a falar sem dificuldade. 36 Jesus recomendou com insistência que não contassem a ninguém. Mas, quanto mais ele recomendava, mais eles divulgavam. 37 Muito impressionados, diziam: \"Ele tem feito bem todas as coisas: Aos surdos faz ouvir e aos mudos falar\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

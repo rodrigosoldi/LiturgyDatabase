@@ -13,4 +13,5 @@ public enum LiturgicalColor: String {
 	case green = "VERDE"
 	case black = "PRETO"
 	case purple = "ROXO"
+	case pink = "ROSA"
 }

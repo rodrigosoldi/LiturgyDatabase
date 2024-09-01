@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "13/09/24",
+            "liturgy": "São João Crisóstomo, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "1Cor 9,16-19.22b-27",
+                    "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                    "text": "Irmãos, 16 pregar o evangelho não é para mim motivo de glória. É antes uma necessidade para mim, uma imposição. Ai de mim se eu não pregar o evangelho! 17 Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário. Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado. 18 Em que consiste então o meu salário? Em pregar o evangelho, oferecendo-o de graça, sem usar os direitos que o evangelho me dá. 19 Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível. 22b Com todos, eu me fiz tudo, para certamente salvar alguns. 23 Por causa do evangelho eu faço tudo, para ter parte nele. 24 Acaso não sabeis que os que correm no estádio correm todos juntos, mas um só ganha o prêmio? Correi de tal maneira que conquisteis o prêmio. 25 Todo atleta se sujeita a uma disciplina rigorosa em relação a tudo, e eles procedem assim, para receberem uma coroa corruptível. Quanto a nós, a coroa que buscamos é incorruptível! 26 Por isso, eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. 27 Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a boa-nova aos outros, eu mesmo seja reprovado."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 83(84),3.4.5-6.12",
+                    "chorus": "Quão amável, ó Senhor, é vossa casa!",
+                    "texts": [
+                        "Minha alma desfalece de saudades e anseia pelos átrios do Senhor! Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo!",
+                        "Mesmo o pardal encontra abrigo em vossa casa, e a andorinha ali prepara o seu ninho, para nele seus filhotes colocar: vossos altares, ó Senhor Deus do universo! vossos altares, ó meu Rei e meu Senhor!",
+                        "Felizes os que habitam vossa casa; para sempre haverão de vos louvar! Felizes os que em vós têm sua força, e se decidem a partir quais peregrinos!",
+                        "O Senhor Deus é como um sol, é um escudo,e largamente distribui a graça e a glória O Senhor nunca recusa bem algum àqueles que caminham na justiça."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                    },
+                    "reading": {
+                        "reference": "Lc 6,39-42",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 39 Jesus contou uma parábola aos discípulos: \"Pode um cego guiar outro cego? Não cairão os dois num buraco? 40 Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. 41 Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho? 42 Como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
