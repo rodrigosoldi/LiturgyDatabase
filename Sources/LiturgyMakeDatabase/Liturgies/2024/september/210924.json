@@ -1,0 +1,39 @@
+{
+    "liturgies": [
+        {
+            "date": "21/09/24",
+            "liturgy": "São Mateus, Apóstolo e Evangelista, Festa",
+            "liturgicalColor": "VERMELHO",
+            "firstReadings": [
+                {
+                    "reference": "Ef 4,1-7.11-13",
+                    "title": "Leitura da Carta de São Paulo aos Efésios",
+                    "text": "Irmãos, 1 eu, prisioneiro no Senhor, vos exorto a caminhardes de acordo com a vocação que recebestes: 2 Com toda a humildade e mansidão, suportai-vos uns aos outros com paciência, no amor. 3 Aplicai-vos a guardar a unidade do espírito pelo vínculo da paz. 4 Há um só Corpo e um só Espírito, como também é uma só a esperança à qual fostes chamados. 5 Há um só Senhor, uma só fé, um só batismo, 6 um só Deus e Pai de todos, que reina sobre todos, age por meio de todos e permanece em todos. 7 Cada um de nós recebeu a graça na medida em que Cristo lha deu. 11 E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. 12 Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, 13 até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 18(19A),2-3.4-5",
+                    "chorus": "Seu som ressoa e se espalha em toda a terra.",
+                    "texts": [
+                        "Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite esta mensagem, a noite à noite publica esta notícia.",
+                        "Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "A vós, ó Deus, louvamos, a vós, Senhor, cantamos, vos louva, ó Senhor, o coro dos apóstolos."
+                    },
+                    "reading": {
+                        "reference": "Mt 9,9-13",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquele tempo, 9 Jesus viu um homem chamado Mateus, sentado na coletoria de impostos, e disse-lhe: \"Segue-me!\" Ele se levantou e seguiu a Jesus. 10 Enquanto Jesus estava à mesa, em casa de Mateus, vieram muitos cobradores de impostos e pecadores e sentaram-se à mesa com Jesus e seus discípulos. 11 Alguns fariseus viram isso e perguntaram aos discípulos: \"Por que vosso mestre come com os cobradores de impostos e pecadores?\" 12 Jesus ouviu a pergunta e respondeu: \"Aqueles que têm saúde não precisam de médico, mas sim os doentes. 13 Aprendei, pois, o que significa: 'Quero misericórdia e não sacrifício'. De fato, eu não vim para chamar os justos, mas os pecadores\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+        {
+            "date": "02/10/24",
+            "liturgy": "Santos Anjos da Guarda, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Ex 23,20-23",
+                    "title": "Leitura do Livro do Êxodo",
+                    "text": "Assim diz o Senhor: 20 \"Vou enviar um anjo que vá à tua frente, que te guarde pelo caminho e te conduza ao lugar que te preparei. 21 Respeita-o e ouve a sua voz. Não lhe sejas rebelde, porque não suportará as vossas transgressões, e nele está o meu nome. 22 Se ouvires a sua voz e fizeres tudo o que eu disser, serei inimigo dos teus inimigos, e adversário dos teus adversários. 23 O meu anjo irá à tua frente e te conduzirá à terra dos amorreus, dos hititas, dos fereseus, dos cananeus, dos heveus e dos jebuseus, e eu os exterminarei\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 90(91),1-2.3-4.5-6.10-11",
+                    "chorus": "O Senhor deu uma ordem aos seus anjos, para em todos os caminhos te guardarem.",
+                    "texts": [
+                        "Quem habita ao abrigo do Altíssimo e vive à sombra do Senhor onipotente, diz ao Senhor: \"Sois meu refúgio e proteção, sois o meu Deus, no qual confio inteiramente\".",
+                        "Do caçador e do seu laço ele te livra. Ele te salva da palavra que destrói. Com suas asas haverá de proteger-te, com seu escudo e suas armas, defender-te.",
+                        "Não temerás terror algum durante a noite, nem a flecha disparada em pleno dia; nem a peste que caminha pelo escuro, nem a desgraça que devasta ao meio-dia.",
+                        "Nenhum mal há de chegar perto de ti, nem a desgraça baterá à tua porta; pois o Senhor deu uma ordem a seus anjos para em todos os caminhos te guardarem."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Bendizei ao Senhor Deus, os seus poderes, seus ministros que fazeis sua vontade!"
+                    },
+                    "reading": {
+                        "reference": "Mt 18,1-5.10",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+					    "text": "Naquela hora, 1 Os discípulos aproximaram-se de Jesus e perguntaram: \"Quem é o maior no Reino dos Céus?\" 2 Jesus chamou uma criança, colocou-a no meio deles 3 e disse: \"Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus. 4 Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus. 5 E quem recebe em meu nome uma criança como esta, é a mim que recebe. 10 Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

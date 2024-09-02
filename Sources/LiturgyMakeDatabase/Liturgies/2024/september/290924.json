@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+        {
+            "date": "29/09/24",
+            "liturgy": "26º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Nm 11,25-29",
+                    "title": "Leitura do Livro dos Números",
+                    "text": "Naqueles dias, 25 o Senhor desceu na nuvem e falou a Moisés. Retirou um pouco do espírito que Moisés possuía e o deu aos setenta anciãos. Assim que repousou sobre eles o espírito, puseram-se a profetizar, mas não continuaram. 26 Dois homens, porém, tinham ficado no acampamento. Um chamava-se Eldad e o outro Medad. O espírito repousou igualmente sobre os dois, que estavam na lista, mas não tinham ido à Tenda, e eles profetizavam no acampamento. 27 Um jovem correu a avisar Moisés que Eldad e Medad estavam profetizando no acampamento. 28 Josué, filho de Nun, ajudante de Moisés desde a juventude, disse: \"Moisés, meu Senhor, manda que eles se calem!\" 29 Moisés respondeu: \"Tens ciúmes por mim? Quem dera que todo o povo do Senhor fosse profeta, e que o Senhor lhe concedesse o seu espírito!\""
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 18(19),8.10.12-13.14",
+                    "chorus": "A lei do Senhor Deus é perfeita, alegria ao coração.",
+                    "texts": [
+                        "A lei do Senhor Deus é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes.",
+                        "É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente.",
+                        "E vosso servo, instruído por elas, se empenha em guardá-las. Mas quem pode perceber suas faltas? Perdoai as que não vejo!",
+                        "E preservai o vosso servo do orgulho: não domine sobre mim! E assim puro, eu serei preservado dos delitos mais perversos."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Tg 5,1-6",
+                    "title": "Leitura da Carta de São Tiago",
+				    "text": "E agora, ricos, chorai e gemei, por causa das desgraças que estão para cair sobre vós. 2 Vossa riqueza está apodrecendo, e vossas roupas estão carcomidas pelas traças. 3 Vosso ouro e vossa prata estão enferrujados, e a ferrugem deles vai servir de testemunho contra vós e devorar vossas carnes, como fogo! Amontoastes tesouros nos últimos dias. 4 Vede: o salário dos trabalhadores que ceifaram os vossos campos, que vós deixastes de pagar, está gritando, e o clamor dos trabalhadores chegou aos ouvidos do Senhor todo-poderoso. 5 Vós vivestes luxuosamente na terra, entregues à boa vida, cevando os vossos corações para o dia da matança. 6 Condenastes o justo e o assassinastes; ele não resiste a vós."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vossa palavra é verdade, orienta e dá vigor; na verdade santifica vosso povo, ó Senhor!"
+                    },
+                    "reading": {
+                        "reference": "Mc 9,38-43.45.47-48",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 38 João disse a Jesus: \"Mestre, vimos um homem expulsar demônios em teu nome. Mas nós o proibimos, porque ele não nos segue\". 39 Jesus disse: \"Não o proibais, pois ninguém faz milagres em meu nome para depois falar mal de mim. 40 Quem não é contra nós é a nosso favor. 41 Em verdade eu vos digo: quem vos der a beber um copo de água, porque sois de Cristo, não ficará sem receber a sua recompensa. 42 E, se alguém escandalizar um destes pequeninos que creem, melhor seria que fosse jogado no mar com uma pedra de moinho amarrada ao pescoço. 43 Se tua mão te leva a pecar, corta-a! É melhor entrar na Vida sem uma das mãos, do que, tendo as duas, ir para o inferno, para o fogo que nunca se apaga. 45 Se teu pé te leva a pecar, corta-o! É melhor entrar na Vida sem um dos pés, do que, tendo os dois, ser jogado no inferno. 47 Se teu olho te leva a pecar, arranca-o! É melhor entrar no Reino de Deus com um olho só, do que, tendo os dois, ser jogado no inferno, 48 'onde o verme deles não morre, e o fogo não se apaga'\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

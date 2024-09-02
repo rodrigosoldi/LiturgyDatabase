@@ -1,0 +1,43 @@
+{
+    "liturgies": [
+        {
+            "date": "05/10/24",
+            "liturgy": "26ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Jó 42,1-3.5-6.12-16",
+                    "title": "Leitura do Livro de Jó",
+                    "text": "Jó respondeu ao Senhor, dizendo: 2 \"Reconheço que podes tudo e que para ti nenhum pensamento é oculto. 3 - Quem é esse que ofusca a Providência, sem nada entender? Falei, pois, de coisas que não entendia, de maravilhas que ultrapassam a minha compreensão. 5 Conhecia o Senhor apenas por ouvir falar, mas, agora, eu o vejo com meus olhos. 6 Por isso me retrato e faço penitência no pó e na cinza\". 12 O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas. 13 Teve outros sete filhos e três filhas: 14 a primeira chamava-se \"Rola\", a segunda \"Cássia\", e a terceira \"Azeviche\". 15 Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança, entre os seus irmãos. 16 Depois destes acontecimentos, Jó viveu cento e quarenta anos, e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 118(119),66.71.75.91.125.130",
+                    "chorus": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos.",
+                    "texts": [
+                        "Dai-me bom senso, retidão, sabedoria, pois tenho fé nos vossos santos mandamentos!",
+                        "Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!",
+                        "Sei que os vossos julgamentos são corretos, e com justiça me provastes, ó Senhor!",
+                        "Porque mandastes, tudo existe até agora; todas as coisas, ó Senhor, vos obedecem!",
+                        "Sou vosso servo: concedei-me inteligência, para que eu possa compreender vossa Aliança!",
+                        "Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+                    },
+                    "reading": {
+                        "reference": "Lc 10,17-24",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 17 os setenta e dois voltaram muito contentes, dizendo: \"Senhor, até os demônios nos obedeceram por causa do teu nome\". 18 Jesus respondeu: \"Eu vi Satanás cair do céu, como um relâmpago. 19 Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal. 20 Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu\". 21 Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22 Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\". 23 Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes! 24 Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

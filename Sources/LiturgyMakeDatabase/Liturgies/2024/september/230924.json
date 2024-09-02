@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "23/09/24",
+            "liturgy": "São Pio de Pietrelcina, presbítero, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Pr 3,27-34",
+                    "title": "Leitura do Livro dos Provérbios",
+                    "text": "Meu filho, 27 Não recuses um favor a quem dele necessita, se tu podes fazê-lo. 28 Não digas ao próximo: \"Vai embora, volta amanhã, então te darei\", quando podes dar logo! 29 Não trames o mal contra o próximo, quando ele vive contigo cheio de confiança. 30 Não abras processo contra alguém sem motivo, se não te fez mal algum! 31 Não invejes o homem violento, e não escolhas nenhum de seus caminhos, 32 porque o Senhor detesta o perverso, mas reserva sua amizade aos íntegros. 33 O Senhor amaldiçoa a casa do ímpio, mas abençoa a morada dos justos. 34 Ele zomba dos zombadores, mas concede o seu favor aos humildes."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 14(15),1a-3ab.3cd-4ab.5",
+                    "chorus": "O justo habitará no monte santo do Senhor.",
+                    "texts": [
+                        "\"Senhor quem entrará em vossa casa?\" Aquele que caminha sem pecado e pratica a justiça fielmente; que pensa a verdade no seu íntimo e não solta em calúnias sua língua.",
+                        "Que em nada prejudica o seu irmão, nem cobre de insultos seu vizinho; que não dá valor algum ao homem ímpio, mas honra os que respeitam o Senhor.",
+                        "Não empresta o seu dinheiro com usura, nem se deixa subornar contra o inocente. Jamais vacilará quem vive assim!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vós sois a luz do mundo; brilhe a todos a vossa luz. Vendo eles vossas obras, deem glória ao Pai celeste!"
+                    },
+                    "reading": {
+                        "reference": "Lc 8,16-18",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, disse Jesus à multidão: 16 \"Ninguém acende uma lâmpada para cobri-la com uma vasilha ou colocá-la debaixo da cama; ao contrário, coloca-a no candeeiro, a fim de que todos os que entram, vejam a luz. 17 Com efeito, tudo o que está escondido deverá tornar-se manifesto; e tudo o que está em segredo deverá torna-se conhecido e claramente manifesto. Portanto, prestai atenção à maneira como vós ouvis! Pois a quem tem alguma coisa, será dado ainda mais; e àquele que não tem, será tirado até mesmo o que ele pensa ter\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

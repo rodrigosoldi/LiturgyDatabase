@@ -1,0 +1,43 @@
+{
+    "liturgies": [
+        {
+            "date": "24/09/24",
+            "liturgy": "25ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Pr 21,1-6.10-13",
+                    "title": "Leitura do Livro dos Provérbios",
+                    "text": "O coração do rei nas mãos do Senhor é como água corrente; ele o dirige para onde quer. 2 O homem pensa que o seu caminho é sempre reto, mas é o Senhor quem sonda os corações. 3 Praticar a justiça e o direito é mais agradável ao Senhor do que os sacrifícios. 4 Olhar arrogante e coração orgulhoso, a lâmpada dos malvados não é senão o pecado. 5 Os projetos do homem aplicado produzem abundância, mas todos os apressados só alcançam indigência. 6 Tesouros adquiridos com língua mentirosa são ilusão passageira dos que procuram a morte. 10 A alma do malvado deseja o mal, ele olha sem piedade para o seu próximo. 11 Quando se castiga o zombador, aprende o imbecil, e quando o sábio é instruído, ele adquire mais saber. 12 O justo observa a casa do ímpio e leva os ímpios à desgraça. 13 Quem tapa os ouvidos ao clamor do pobre, também há de clamar, mas não será ouvido."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 118(119),1.27.30.34.35.44",
+                    "chorus": "Guiai-me, Senhor, no caminho de vossos preceitos!",
+                    "texts": [
+                        "Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo!",
+                        "Fazei-me conhecer vossos caminhos, e então meditarei vossos prodígios!",
+                        "Escolhi seguir a trilha da verdade, diante de mim eu coloquei vossos preceitos.",
+                        "Dai-me o saber, e cumprirei a vossa lei, e de todo o coração a guardarei.",
+                        "Guiai meus passos no caminho que traçastes, pois só nele encontrarei felicidade.",
+                        "Cumprirei constantemente a vossa lei; para sempre, eternamente a cumprirei!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Feliz quem ouve e observa a palavra de Deus!"
+                    },
+                    "reading": {
+                        "reference": "Lc 8,19-21",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 19 a mãe e os irmãos de Jesus aproximaram-se, mas não podiam chegar perto dele, por causa da multidão. 20 Então anunciaram a Jesus: \"Tua mãe e teus irmãos estão aí fora e querem te ver\". 21 Jesus respondeu: \"Minha mãe e meus irmãos são aqueles que ouvem a Palavra de Deus, e a põem em prática\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
