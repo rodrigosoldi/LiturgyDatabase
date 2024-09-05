@@ -1,0 +1,39 @@
+{
+    "liturgies": [
+        {
+            "date": "09/10/24",
+            "liturgy": "27ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Gl 2,1-2.7-14",
+                    "title": "Leitura da Carta de São Paulo aos Gálatas",
+                    "text": "Irmãos, 1 quatorze anos mais tarde, subi, de novo, a Jerusalém, com Barnabé, levando também Tito comigo. 2 Fui lá, por causa de uma revelação. Expus-lhes o evangelho que tenho pregado entre os pagãos, o que fiz em particular aos líderes da Igreja, para não acontecer estivesse eu correndo em vão ou tivesse corrido em vão. 7 Pelo contrário, viram que a evangelização dos pagãos foi confiada a mim, como a Pedro foi confiada a evangelização dos judeus. 8 De fato, aquele que preparou Pedro para o apostolado entre os judeus preparou-me também a mim para o apostolado entre os pagãos. 9 Reconhecendo a graça que me foi dada, Tiago, Cefas e João, considerados as colunas da Igreja, deram-nos a mão, a mim e a Barnabé, como sinal de nossa comunhão recíproca. Assim ficou confirmado que nós iríamos aos pagãos e eles iriam aos judeus. 10 O que nos recomendaram foi somente que nos lembrássemos dos pobres. E isso procurei fazer sempre, com toda a solicitude. 11 Mas, quando Cefas chegou a Antioquia, opus-me a ele abertamente, pois ele merecia censura. 12 Com efeito, antes que chegassem alguns da comunidade de Tiago, ele tomava refeição com os gentios. Mas, depois que eles chegaram, Cefas começou a esquivar-se e a afastar-se, por medo dos circuncidados. 13 E os demais judeus acompanharam-no nessa dissimulação, a ponto de até Barnabé se deixar arrastar pela hipocrisia deles. 14 Quando vi que não estavam procedendo direito, de acordo com a verdade do Evangelho, disse a Cefas, diante de todos: \"Se tu, que és judeu, vives como pagão e não como judeu, como podes obrigar os pagãos a viverem como judeus?\""
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 116(117),1.2",
+                    "chorus": "Ide, por todo o mundo, e a todos pregai o Evangelho.\n\nOu:\n\nAleluia, Aleluia, Aleluia",
+                    "texts": [
+                        "Cantai louvores ao Senhor, todas as gentes, povos todos, festejai-o!",
+                        "Pois comprovado é seu amor para conosco, para sempre ele é fiel!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Recebestes um espírito de adoção, no qual chamamos Aba! Pai!"
+                    },
+                    "reading": {
+                        "reference": "Lc 11,1-4",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Um dia, Jesus estava rezando num certo lugar. Quando terminou, um de seus discípulos pediu-lhe: \"Senhor, ensina-nos a rezar, como também João ensinou a seus discípulos\". 2 Jesus respondeu: \"Quando rezardes, dizei: 'Pai, santificado seja o teu nome. Venha o teu Reino. 3 Dá-nos a cada dia o pão de que precisamos, 4 e perdoa-nos os nossos pecados, pois nós também perdoamos a todos os nossos devedores; e não nos deixes cair em tentação'\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
