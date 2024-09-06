@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "16/10/24",
+            "liturgy": "28ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Gl 5,18-25",
+                    "title": "Leitura da Carta de São Paulo aos Gálatas",
+                    "text": "Irmãos, 18 se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19 São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20 idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21 invejas, bebedeiras, orgias, e coisas semelhantes a estas. Eu vos previno, como aliás já o fiz: os que praticam essas coisas não herdarão o reino de Deus. 22 Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23 mansidão, continência. Contra estas coisas não existe lei. 24 Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25 Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 1,1-2.3.4.6",
+                    "chorus": "Senhor, quem vos seguir, terá a luz da vida!",
+                    "texts": [
+                        "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.",
+                        "Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar,",
+                        "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+                    },
+                    "reading": {
+                        "reference": "Lc 11,42-46",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, disse o Senhor: 42 \"Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso, sem deixar de lado aquilo. 43 Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas. 44 Aí de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber\". 45 Um mestre da Lei tomou a palavra e disse: \"Mestre, falando assim, insultas-nos também a nós!\" 46 Jesus respondeu: \"Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis, e vós mesmos não tocais nessas cargas, nem com um só dedo\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

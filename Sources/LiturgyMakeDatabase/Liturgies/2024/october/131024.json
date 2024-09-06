@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "13/10/24",
+            "liturgy": "28º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Sb 7,7-11",
+                    "title": "Leitura do Livro da Sabedoria",
+                    "text": "\"Orei, e foi-me dada a prudência; supliquei, e veio a mim o espírito da sabedoria. 8 Preferi a Sabedoria aos cetros e tronos e em comparação com ela, julguei sem valor a riqueza; 9 a ela não igualei nenhuma pedra preciosa, pois, a seu lado, todo o ouro do mundo é um punhado de areia e diante dela, a prata, será como a lama. 10 Amei-a mais que a saúde e a beleza, e quis possuí-la mais que a luz, pois o esplendor que dela irradia não se apaga. 11 Todos os bens me vieram com ela, pois uma riqueza incalculável está em suas mãos\"."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 89(90),12-13.14-15.16-17",
+                    "chorus": "Saciai-nos, ó Senhor, com vosso amor, e exultaremos de alegria!",
+                    "texts": [
+                        "Ensinai-nos a contar os nossos dias, e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!",
+                        "Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Alegrai-nos pelos dias que sofremos, pelos anos que passamos na desgraça!",
+                        "Manifestai a vossa obra a vossos servos, e a seus filhos revelai a vossa glória! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza!Tornai fecundo, ó Senhor, nosso trabalho."
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Hb 4,12-13",
+                    "title": "Leitura da Carta aos Hebreus",
+				    "text": "A Palavra de Deus é viva, eficaz e mais cortante do que qualquer espada de dois gumes. Penetra até dividir alma e espírito, articulações e medulas. Ela julga os pensamentos e as intenções do coração. 13 E não há criatura que possa ocultar-se diante dela. Tudo está nu e descoberto aos seus olhos, e é a ela que devemos prestar contas."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Felizes os pobres em espírito, porque deles é o Reino dos Céus."
+                    },
+                    "reading": {
+                        "reference": "Mc 10,17-30",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 17 quando Jesus saiu a caminhar, veio alguém correndo, ajoelhou-se diante dele, e perguntou: \"Bom Mestre, que devo fazer para ganhar a vida eterna?\" 18 Jesus disse: \"Por que me chamas de bom? Só Deus é bom, e mais ninguém. 19 Tu conheces os mandamentos: não matarás; não cometerás adultério; não roubarás; não levantarás falso testemunho; não prejudicarás ninguém; honra teu pai e tua mãe!\" 20 Ele respondeu: \"Mestre, tudo isso tenho observado desde a minha juventude\". 21 Jesus olhou para ele com amor, e disse: \"Só uma coisa te falta: vai, vende tudo o que tens e dá aos pobres, e terás um tesouro no céu. Depois vem e segue-me!\" 22 Mas quando ele ouviu isso, ficou abatido e foi embora cheio de tristeza, porque era muito rico. 23 Jesus então olhou ao redor e disse aos discípulos: \"Como é difícil para os ricos entrar no Reino de Deus!\" 24 Os discípulos se admiravam com estas palavras, mas ele disse de novo: \"Meus filhos, como é difícil entrar no Reino de Deus! 25 É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus!\" 26 Eles ficaram muito espantados ao ouvirem isso, e perguntavam uns aos outros: \"Então, quem pode ser salvo?\" 27 Jesus olhou para eles e disse: \"Para os homens isso é impossível, mas não para Deus. Para Deus tudo é possível\". 28 Pedro então começou a dizer-lhe: \"Eis que nós deixamos tudo e te seguimos\". 29 Respondeu Jesus: \"Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do Evangelho, 30 receberá cem vezes mais agora, durante esta vida — casa, irmãos, irmãs, mães, filhos e campos, com perseguições — e, no mundo futuro, a vida eterna."
+                    }
+                }
+            ]
+        }
+    ]
+}

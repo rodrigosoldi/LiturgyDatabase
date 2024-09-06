@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "14/10/24",
+            "liturgy": "28ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Gl 4,22-24.26-27.31-5,1",
+                    "title": "Leitura da Carta de São Paulo aos Gálatas",
+                    "text": "Irmãos, 22 está escrito que Abraão teve dois filhos, um da escrava e outro da livre. 23 Mas o filho da escrava nasceu segundo a carne, e o filho da livre nasceu em virtude da promessa. 24 Esses fatos têm um sentido alegórico, pois essas mulheres representam as duas alianças: a primeira, Hagar, vem do monte Sinai; ela gera filhos para a escravidão. 26 Porém, a Jerusalém celeste é livre, e é a nossa mãe. 27 Pois está escrito: \"Rejubila, estéril, que não dás à luz, prorrompe em gritos de alegria, tu que não sentes as dores do parto, porque os filhos da mulher abandonada são mais numerosos do que os da mulher preferida\". 31 Portanto, irmãos, não somos filhos de uma escrava; somos filhos da mulher livre. 5,1 É para a liberdade que Cristo nos libertou. Ficai pois firmes e não vos deixeis amarrar de novo ao jugo da escravidão."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 112(113),1-2.3-4.5a e 6-7",
+                    "chorus": "Bendito seja o nome do Senhor, agora e para sempre!\n\nOu:\n\nAleluia, Aleluia, Aleluia",
+                    "texts": [
+                        "Louvai, louvai, ó servos do Senhor, louvai, louvai o nome do Senhor! Bendito seja o nome do Senhor, agora e por toda a eternidade!",
+                        "Do nascer do sol até o seu ocaso, louvado seja o nome do Senhor! O Senhor está acima das nações, sua glória vai além dos altos céus.",
+                        "Quem pode comparar-se ao nosso Deus, que se inclina para olhar o céu e a terra? Levanta da poeira o indigente e do lixo ele retira o pobrezinho."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Oxalá ouvísseis hoje a sua voz: Não fecheis os corações como em Meriba!"
+                    },
+                    "reading": {
+                        "reference": "Lc 11,29-32",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 29 quando as multidões se reuniram em grande quantidade, Jesus começou a dizer: \"Esta geração é uma geração má. Ela busca um sinal, mas nenhum sinal lhe será dado, a não ser o sinal de Jonas. 30 Com efeito, assim como Jonas foi um sinal para os ninivitas, assim também será o Filho do Homem para esta geração. 31 No dia do julgamento, a rainha do Sul se levantará juntamente com os homens desta geração, e os condenará. Porque ela veio de uma terra distante para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão. 32 No dia do julgamento, os ninivitas se levantarão juntamente com esta geração e a condenarão. Porque eles se converteram quando ouviram a pregação de Jonas. E aqui está quem é maior do que Jonas\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
