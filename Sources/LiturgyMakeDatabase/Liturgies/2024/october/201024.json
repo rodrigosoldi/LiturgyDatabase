@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "20/10/24",
+            "liturgy": "29º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Is 53,10-11",
+                    "title": "Leitura do Livro do Profeta Isaías",
+                    "text": "O Senhor quis macerá-lo com sofrimentos. Oferecendo sua vida em expiação, ele terá descendência duradoura, e fará cumprir com êxito a vontade do Senhor. 11 Por esta vida de sofrimento, alcançará luz e uma ciência perfeita. Meu Servo, o justo, fará justos inúmeros homens, carregando sobre si suas culpas."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 32(33),4-5.18-19.20.22",
+                    "chorus": "Sobre nós venha, Senhor, a vossa graça, pois, em vós, nós esperamos!",
+                    "texts": [
+                        "Pois reta é a palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.",
+                        "Mas o Senhor pousa o olhar sobre os que o temem, e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria.",
+                        "No Senhor nós esperamos confiantes, porque ele é nosso auxílio e proteção! Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!"
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Hb 4,14-16",
+                    "title": "Leitura da Carta aos Hebreus",
+				    "text": "Irmãos: 14 Temos um sumo sacerdote eminente, que entrou no céu, Jesus, o Filho de Deus. Por isso, permaneçamos firmes na fé que professamos. 15 Com efeito, temos um sumo sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado. 16 Aproximemo-nos, então, com toda a confiança, do trono da graça, para conseguirmos misericórdia e alcançarmos a graça de um auxílio no momento oportuno."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Jesus Cristo veio servir, Cristo veio dar sua vida. Jesus Cristo veio salvar, viva Cristo, Cristo viva!"
+                    },
+                    "reading": {
+                        "reference": "Mc 10,35-45",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 35 Tiago e João, filhos de Zebedeu, foram a Jesus e lhe disseram: \"Mestre, queremos que faças por nós o que vamos pedir\". 36 Ele perguntou: \"O que quereis que eu vos faça?\" 37 Eles responderam: \"Deixa-nos sentar um à tua direita e outro à tua esquerda, quando estiveres na tua glória!\" 38 Jesus então lhes disse: \"Vós não sabeis o que pedis. Por acaso podeis beber o cálice que eu vou beber? Podeis ser batizados com o batismo com que vou ser batizado?\" 39 Eles responderam: \"Podemos\". E ele lhes disse: \"Vós bebereis o cálice que eu devo beber, e sereis batizados com o batismo com que eu devo ser batizado. 40 Mas não depende de mim conceder o lugar à minha direita ou à minha esquerda. É para aqueles a quem foi reservado\". 41 Quando os outros dez discípulos ouviram isso, indignaram-se com Tiago e João. 42 Jesus os chamou e disse: \"Vós sabeis que os chefes das nações as oprimem e os grandes as tiranizam. 43 Mas, entre vós, não deve ser assim: quem quiser ser grande, seja vosso servo; 44 e quem quiser ser o primeiro, seja o escravo de todos. 45 Porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate para muitos\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

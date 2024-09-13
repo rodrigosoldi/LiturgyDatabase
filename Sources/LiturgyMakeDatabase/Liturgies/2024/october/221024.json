@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "22/10/24",
+            "liturgy": "29ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Ef 2,12-22",
+                    "title": "Leitura da Carta de São Paulo aos Efésios",
+                    "text": "Irmãos, 12 naquele tempo, éreis sem Messias, privados de cidadania em Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo. 13 Mas agora, em Jesus Cristo, vós que outrora estáveis longe, vos tornastes próximos, pelo sangue de Cristo. 14 Ele, de fato, é a nossa paz: do que era dividido, ele fez uma unidade. Em sua carne ele destruiu o muro de separação: a inimizade. 15 Ele aboliu a Lei com seus mandamentos e decretos. Ele quis, assim, a partir do judeu e do pagão, criar em si um só homem novo, estabelecendo a paz. 16 Quis reconciliá-los com Deus, ambos em um só corpo, por meio da cruz; assim ele destruiu em si mesmo a inimizade. 17 Ele veio anunciar a paz a vós que estáveis longe, e a paz aos que estavam próximos. 18 É graças a ele que uns e outros, em um só Espírito, temos acesso junto ao Pai. 19 Assim, já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20 Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. 21 É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. 22 E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 84(85),9ab-10.11-12.13-14",
+                    "chorus": "O Senhor anunciará a paz para o seu povo.",
+                    "texts": [
+                        "Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; Está perto a salvação dos que o temem, e a glória habitará em nossa terra.",
+                        "A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.",
+                        "O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Vigiai e orai para ficardes de pé, ante o Filho do Homem!"
+                    },
+                    "reading": {
+                        "reference": "Lc 12,35-38",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, disse Jesus aos seus discípulos: 35 \"Que vossos rins estejam cingidos e as lâmpadas acesas. 36 Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrirem, imediatamente, a porta, logo que ele chegar e bater. 37 Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. 38 E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar!\""
+                    }
+                }
+            ]
+        }
+    ]
+}
