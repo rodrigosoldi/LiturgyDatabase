@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "16/11/24",
+            "liturgy": "32ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "3Jo 1,5-8",
+                    "title": "Leitura da Terceira Carta de São João",
+                    "text": "Caríssimo Gaio, é muito leal o teu proceder, agindo assim com teus irmãos, ainda que estrangeiros. 6 Eles deram testemunho da tua caridade diante da Igreja. Farás bem em provê-los para a viagem de um modo digno de Deus. 7 Pois, por amor do Nome, eles empreenderam a viagem, sem aceitar nada da parte dos pagãos. 8 A nós, portanto, cabe acolhê-los, para sermos cooperadores da Verdade."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 111(112)",
+                    "chorus": "Feliz aquele que respeita o Senhor!\n\nOu: Aleluia, Aleluia, Aleluia",
+                    "texts": [
+                        "Feliz o homem que respeita o Senhor e que ama com carinho a sua lei! Sua descendência será forte sobre a terra, abençoada a geração dos homens retos!",
+                        "Haverá glória e riqueza em sua casa, e permanece para sempre o bem que fez. Ele é correto, generoso e compassivo, como luz brilha nas trevas para os justos.",
+                        "Feliz o homem caridoso e prestativo, que resolve seus negócios com justiça. Porque jamais vacilará o homem reto, sua lembrança permanece eternamente!"
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Pelo evangelho o Pai nos chamou, a fim de alcançarmos a glória de nosso Senhor Jesus Cristo."
+                    },
+                    "reading": {
+                        "reference": "Lc 18,1-8",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 1 Jesus contou aos discípulos uma parábola, para mostrar-lhes a necessidade de rezar sempre, e nunca desistir, dizendo: 2 \"Numa cidade havia um juiz que não temia a Deus, e não respeitava homem algum. 3 Na mesma cidade havia uma viúva, que vinha à procura do juiz, pedindo: 'Faze-me justiça contra o meu adversário!' 4 Durante muito tempo, o juiz se recusou. Por fim, ele pensou: 'Eu não temo a Deus, e não respeito homem algum. 5 Mas esta viúva já me está aborrecendo. Vou fazer-lhe justiça, para que ela não venha a agredir-me!' '' 6 E o Senhor acrescentou: \"Escutai o que diz este juiz injusto. 7 E Deus, não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar? 8 Eu vos digo que Deus lhes fará justiça bem depressa. Mas o Filho do homem, quando vier, será que ainda vai encontrar fé sobre a terra?\""
+                    }
+                }
+            ]
+        }
+    ]
+}

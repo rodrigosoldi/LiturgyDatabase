@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "06/11/24",
+            "liturgy": "31ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Fl 2,12-18",
+                    "title": "Leitura da Carta de São Paulo aos Filipenses",
+                    "text": "Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor. 13 Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. 14 Fazei tudo sem reclamar ou murmurar, 15 para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo. 16 Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão, nem trabalhado inutilmente. 17 E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós. 18 Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 26 (27)",
+                    "chorus": "O Senhor é minha luz e salvação!",
+                    "texts": [
+                        "O Senhor é minha luz e salvação; de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?",
+                        "Ao Senhor eu peço apenas uma coisa, e é só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida; saborear a suavidade do Senhor e contemplá-lo no seu templo.",
+                        "Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!"
+                    ]
+                }
+            ],            
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Felizes sereis vós, se fordes ultrajados por causa de Jesus, pois repousa sobre vós o Espírito de Deus."
+                    },
+                    "reading": {
+                        "reference": "Lc 14,25-33",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 25 grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: 26 \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. 27 Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. 28 Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, 29 ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 30 'Este homem começou a construir e não foi capaz de acabar!' 31 Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? 32 Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. 33 Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+      {
+        "date": "24/11/24",
+        "liturgy": "Nosso Senhor Jesus Cristo, Rei do Universo, Solenidade",
+        "liturgicalColor": "BRANCO",
+        "firstReadings": [
+          {
+            "reference": "Dn 7,13-14",
+            "title": "Leitura da Profecia de Daniel",
+            "text": "Continuei insistindo na visão noturna, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. 14 Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá\"."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 92(93)",
+            "chorus": "Deus é Rei e se vestiu de majestade, glória ao Senhor!",
+            "texts": [
+                "Deus é Rei e se vestiu de majestade, revestiu-se de poder e de esplendor!",
+                "Vós firmastes o universo inabalável, vós firmastes vosso trono desde a origem, desde sempre, ó Senhor, vós existis!",
+                "Verdadeiros são os vossos testemunhos, refulge a santidade em vossa casa, pelos séculos dos séculos, Senhor!"
+            ]
+          }
+        ],
+        "secondReadings": [
+          {
+            "reference": "Ap 1,5-8",
+            "title": "Leitura do Livro do Apocalipse",
+            "text": "Jesus Cristo, é a testemunha fiel, o primeiro a ressuscitar dentre os mortos, o soberano dos reis da terra. A Jesus, que nos ama, que por seu sangue nos libertou dos nossos pecados 6 e que fez de nós um reino, sacerdotes para seu Deus e Pai, a ele a glória e o poder, em eternidade. Amém. 7 Olhai! Ele vem com as nuvens, e todos os olhos o verão também aqueles que o traspassaram. Todas as tribos da terra baterão no peito por causa dele. Sim. Amém! 8 \"Eu sou o Alfa e o Ômega\", diz o Senhor Deus, \"aquele que é, que era e que vem, o Todo-poderoso\"."
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "É bendito aquele que vem vindo, que vem vindo em nome do Senhor, e o Reino que vem, seja bendito, ao que vem e a seu Reino, o louvor!"
+            },
+            "reading": {
+              "reference": "Jo 18,33b-37",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+              "text": "Naquele tempo, 33b Pilatos chamou Jesus e perguntou-lhe: \"Tu és o rei dos judeus?\" 34 Jesus respondeu: \"Estás dizendo isto por ti mesmo, ou outros te disseram isto de mim?\" 35 Pilatos falou: \"Por acaso, sou judeu? O teu povo e os sumos sacerdotes te entregaram a mim. Que fizeste?\". 36 Jesus respondeu: \"O meu reino não é deste mundo. Se o meu reino fosse deste mundo, os meus guardas lutariam para que eu não fosse entregue aos judeus. Mas o meu reino não é daqui\". 37 Pilatos disse a Jesus: \"Então tu és rei?\" Jesus respondeu: \"Tu o dizes: eu sou rei. Eu nasci e vim ao mundo para isto: para dar testemunho da verdade. Todo aquele que é da verdade escuta a minha voz\"."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

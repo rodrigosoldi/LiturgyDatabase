@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "11/11/24",
+            "liturgy": "São Martinho de Tours, bispo, Memória",
+            "liturgicalColor": "BRANCO",
+            "firstReadings": [
+                {
+                    "reference": "Tt 1,1-9",
+                    "title": "Início da Carta de São Paulo a Tito",
+                    "text": "Paulo, servo de Deus e apóstolo de Jesus Cristo, para levar os eleitos de Deus à fé e a conhecerem a verdade da piedade 2 que se apoia na esperança da vida eterna. Deus, que não mente, havia prometido esta vida desde os tempos antigos, 3 e, no tempo marcado, manifestou a sua palavra por meio do anúncio que me foi confiado por ordem de Deus nosso salvador. 4 A Tito, meu legítimo filho na fé comum, graça e paz da parte de Deus Pai e de Jesus Cristo nosso Salvador. 5 Eu deixei-te em Creta, para organizares o que ainda falta e constituíres presbíteros em cada cidade, conforme o que te ordenei: 6 todo candidato deve ser irrepreensível, marido de uma só mulher, com filhos crentes, e não acusados de levianos ou insubordinados. 7 Porque é preciso que o epíscopo seja irrepreensível, como administrador posto por Deus. Não seja arrogante nem irascível nem dado ao vinho nem turbulento nem cobiçoso de lucros desonestos 8 mas hospitaleiro, amigo do bem, ponderado, justo, piedoso, continente, 9 firmemente empenhado no ensino fiel da doutrina, de sorte que seja capaz de exortar com só doutrina e refutar os contraditores."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 23(24)",
+                    "chorus": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel.",
+                    "texts": [
+                        "Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável.",
+                        "\"Quem subirá até o monte do Senhor, quem ficará em sua santa habitação? Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.",
+                        "Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador. \"É assim a geração dos que o procuram, e do Deus de Israel buscam a face\"."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Como astros no mundo brilheis, pregando a palavra da vida!"
+                    },
+                    "reading": {
+                        "reference": "Lc 17,1-6",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Glória a vós, Senhor. Naquele tempo, 1 Jesus disse a seus discípulos: \"É inevitável que aconteçam escândalos. Mas ai daquele que produz escândalos! 2 Seria melhor para ele que lhe amarrassem uma pedra de moinho no pescoço e o jogassem no mar, do que escandalizar um desses pequeninos. 3 Prestai atenção: se o teu irmão pecar, repreende-o. Se ele se converter, perdoa-lhe. 4 Se ele pecar contra ti sete vezes num só dia, e sete vezes vier a ti, dizendo: 'Estou arrependido', tu deves perdoá-lo\". 5 Os apóstolos disseram ao Senhor: \"Aumenta a nossa fé!\" 6 O Senhor respondeu: \"Se vós tivésseis fé, mesmo pequena como um grão de mostarda, poderíeis dizer a esta amoreira: 'Arranca-te daqui e planta-te no mar', e ela vos obedeceria\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

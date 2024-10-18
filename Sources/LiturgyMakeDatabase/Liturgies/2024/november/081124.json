@@ -1,0 +1,40 @@
+{
+    "liturgies": [
+        {
+            "date": "08/11/24",
+            "liturgy": "31ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "Fl 3,17-4,1",
+                    "title": "Leitura da Carta de São Paulo aos Filipenses",
+                    "text": "Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. 18 Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19 O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20 Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo. 21 Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1 Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 121(122)",
+                    "chorus": "Que alegria, quando me disseram: Vamos à casa Senhor!\n\nOu: Aleluia, Aleluia, Aleluia",
+                    "texts": [
+                        "Que alegria, quando ouvi que me disseram: \"Vamos à casa do Senhor!\" E agora nossos pés já se detêm, Jerusalém, em tuas portas.",
+                        "Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.",
+                        "Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
+                    ]
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "O amor de Deus se realiza em todo aquele, que guarda sua palavra fielmente."
+                    },
+                    "reading": {
+                        "reference": "Lc 16,1-8",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+					    "text": "Naquele tempo, 1 Jesus disse aos discípulos: \"Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2 Ele o chamou e lhe disse: 'Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens'. 3 O administrador então começou a refletir: 'O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4 Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração'. 5 Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: 'Quanto deves ao meu patrão?' 6 Ele respondeu: 'Cem barris de óleo!' O administrador disse: 'Pega a tua conta, senta-te, depressa, e escreve cinquenta!' 7 Depois ele perguntou a outro: 'E tu, quanto deves?' Ele respondeu: 'Cem medidas de trigo'. O administrador disse: 'Pega tua conta e escreve oitenta'. 8 E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz\"."
+                    }
+                }
+            ]
+        }
+    ]
+}

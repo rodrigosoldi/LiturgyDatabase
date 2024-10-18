@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+      {
+        "date": "26/11/24",
+        "liturgy": "34ª Semana do Tempo Comum",
+        "liturgicalColor": "VERDE",
+        "firstReadings": [
+          {
+            "reference": "Ap 14,14-19",
+            "title": "Leitura do Livro do Apocalipse de São João",
+            "text": "Eu, João, 14 na minha visão, vi uma nuvem branca e sentado na nuvem alguém que parecia um \"filho de homem\". Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada. 15 Saiu do Templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: \"Lança tua foice, e ceifa. Chegou a hora da colheita. A seara da terra está madura!\" 16 E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada. 17 Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada. 18 E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: \"Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras\". 19 E o anjo lançou a foice afiada na terra, e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 95(96)",
+            "chorus": "O Senhor vem julgar nossa terra.",
+            "texts": [
+                "Publicai entre as nações: \"Reina o Senhor!\" Ele firmou o universo inabalável, e os povos ele julga com justiça.",
+                "O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem e exultem as florestas e as matas",
+                "Na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça, e os povos julgará com lealdade."
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Permanece fiel até a morte, e a coroa da vida eu te darei!"
+            },
+            "reading": {
+              "reference": "Lc 21,5-11",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Naquele tempo, 5 algumas pessoas comentavam a respeito do Templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse: 6 \"Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído\". 7 Mas eles perguntaram: \"Mestre, quando acontecerá isto? E qual vai ser o sinal de que estas coisas estão para acontecer?\" 8 Jesus respondeu: \"Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: 'Sou eu!' E ainda: 'O tempo está próximo'. Não sigais essa gente! 9 Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que estas coisas aconteçam primeiro, mas não será logo o fim\". 10 E Jesus continuou: \"Um povo se levantará contra outro povo, um país atacará outro país. 11 Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu\"."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

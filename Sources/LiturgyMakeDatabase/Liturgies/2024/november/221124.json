@@ -1,0 +1,44 @@
+{
+    "liturgies": [
+      {
+        "date": "22/11/24",
+        "liturgy": "Santa Cecília, virgem e mártir, Memória",
+        "liturgicalColor": "VERMELHO",
+        "firstReadings": [
+          {
+            "reference": "Ap 10,8-11",
+            "title": "Leitura do Livro do Apocalipse de São João",
+            "text": "Aquela mesma voz do céu, que eu, João, já tinha ouvido, tornou a falar comigo: \"Vai. Pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra\". 9 Eu fui até ao anjo e pedi que me entregasse o livrinho. Ele me falou: \"Pega e come. Será amargo no estômago, mas na tua boca, será doce como mel\". 10 Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas quando o engoli, meu estômago tornou-se amargo. 11 Então ele me disse: \"Deves profetizar ainda contra outros povos e nações, línguas e reis\"."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 118(119)",
+            "chorus": "Como é doce ao paladar vossa palavra, ó Senhor!",
+            "texts": [
+                "Seguindo vossa lei me rejubilo muito mais do que em todas as riquezas.",
+                "Minha alegria é a vossa Aliança, meus conselheiros são os vossos mandamentos.",
+                "A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.",
+                "Como é doce ao paladar vossa palavra, muito mais doce do que o mel na minha boca!",
+                "Vossa palavra é minha herança para sempre, porque ela é que me alegra o coração!",
+                "Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+            },
+            "reading": {
+              "reference": "Lc 19,45-48",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Naquele tempo, 45 Jesus entrou no Templo e começou a expulsar os vendedores. 46 E disse: \"Está escrito: 'Minha casa será casa de oração'. No entanto, vós fizestes dela um antro de ladrões\". 47 Jesus ensinava todos os dias no Templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo. 48 Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

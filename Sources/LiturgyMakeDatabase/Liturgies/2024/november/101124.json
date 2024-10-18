@@ -1,0 +1,47 @@
+{
+    "liturgies": [
+        {
+            "date": "10/11/24",
+            "liturgy": "32º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "firstReadings": [
+                {
+                    "reference": "1Rs 17,10-16",
+                    "title": "Leitura do Primeiro Livro dos Reis",
+                    "text": "Naqueles dias, 10 Elias pôs-se a caminho e foi para Sarepta. Ao chegar à porta da cidade, viu uma viúva apanhando lenha. Ele chamou-a e disse: \"Por favor, traze-me um pouco de água numa vasilha para eu beber\". 11 Quando ela ia buscar água, Elias gritou-lhe: \"Por favor, traze-me também um pedaço de pão em tua mão\". 12 Ela respondeu: \"Pela vida do Senhor, teu Deus, não tenho pão. Só tenho um punhado de farinha numa vasilha e um pouco de azeite na jarra. Eu estava apanhando dois pedaços de lenha, a fim de preparar esse resto para mim e meu filho, para comermos e depois esperar a morte\". 13 Elias replicou-lhe: \"Não te preocupes! Vai e faze como disseste. Mas, primeiro, prepara-me com isso um pãozinho, e traze-o. Depois farás o mesmo para ti e teu filho. 14 Porque assim fala o Senhor, Deus de Israel: 'A vasilha de farinha não acabará e a jarra de azeite não diminuirá, até ao dia em que o Senhor enviar a chuva sobre a face da terra'\". 15 A mulher foi e fez como Elias lhe tinha dito. E comeram, ele e ela e sua casa, durante muito tempo. 16 A farinha da vasilha não acabou nem diminuiu o óleo da jarra, conforme o que o Senhor tinha dito por intermédio de Elias."
+                }
+            ],
+            "psalms": [
+                {
+                    "reference": "Sl 145(146)",
+                    "chorus": "Bendize, minh'alma, bendize ao Senhor!\n\nOu: Aleluia, Aleluia, Aleluia.",
+                    "texts": [
+                        "O Senhor é fiel para sempre, faz justiça aos que são oprimidos; ele dá alimento aos famintos, é o Senhor quem liberta os cativos.",
+                        "O Senhor abre os olhos aos cegos o Senhor faz erguer-se o caído; o Senhor ama aquele que é justo. É o Senhor quem protege o estrangeiro. Quem ampara a viúva e o órfão mas confunde os caminhos dos maus.",
+                        "O Senhor reinará para sempre! Ó Sião, o teu Deus reinará para sempre e por todos os séculos!"
+                    ]
+                }
+            ],
+            "secondReadings": [
+                {
+                    "reference": "Hb 9,24-28",
+                    "title": "Leitura da Carta aos Hebreus",
+				    "text": "Cristo não entrou num santuário feito por mão humana, imagem do verdadeiro, mas no próprio céu, a fim de comparecer, agora, na presença de Deus, em nosso favor. 25 E não foi para se oferecer a si muitas vezes, como o sumo sacerdote que, cada ano, entra no Santuário com sangue alheio. 26 Porque, se assim fosse, deveria ter sofrido muitas vezes, desde a fundação do mundo. Mas foi agora, na plenitude dos tempos, que, uma vez por todas, ele se manifestou para destruir o pecado pelo sacrifício de si mesmo. 27 O destino de todo homem é morrer uma só vez, e depois vem o julgamento. 28 Do mesmo modo, também Cristo, oferecido uma vez por todas, para tirar os pecados da multidão, aparecerá uma segunda vez, fora do pecado, para salvar aqueles que o esperam."
+                }
+            ],
+            "gospels": [
+                {
+                    "gospelAcclamation": {
+                        "chorus": "Aleluia, Aleluia, Aleluia.",
+                        "text": "Felizes os pobres em espírito, porque deles é o Reino dos Céus."
+                    },
+                    "reading": {
+                        "reference": "Mc 12,38-44",
+                        "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+					    "text": "Naquele tempo, 38 Jesus dizia, no seu ensinamento a uma grande multidão: \"Tomai cuidado com os doutores da Lei! Eles gostam de andar com roupas vistosas, de ser cumprimentados nas praças públicas; 39 gostam das primeiras cadeiras nas sinagogas e dos melhores lugares nos banquetes. 40 Eles devoram as casas das viúvas, fingindo fazer longas orações. Por isso eles receberão a pior condenação\". 41 Jesus estava sentado no Templo, diante do cofre das esmolas, e observava como a multidão depositava suas moedas no cofre. Muitos ricos depositavam grandes quantias. 42 Então chegou uma pobre viúva que deu duas pequenas moedas, que não valiam quase nada. 43 Jesus chamou os discípulos e disse: \"Em verdade vos digo, esta pobre viúva deu mais do que todos os outros que ofereceram esmolas. 44 Todos deram do que tinham de sobra, enquanto ela, na sua pobreza, ofereceu tudo aquilo que possuía para viver\"."
+                    }
+                }
+            ]
+        }
+    ]
+}
