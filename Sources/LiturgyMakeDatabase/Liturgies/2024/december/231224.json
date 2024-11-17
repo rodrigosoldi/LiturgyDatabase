@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+      {
+        "date": "23/12/24",
+        "liturgy": "4ª Semana do Advento",
+        "liturgicalColor": "ROXO",
+        "firstReadings": [
+          {
+            "reference": "Ml 3,1-4.23-24",
+            "title": "Leitura da Profecia de Malaquias",
+            "text": "Assim fala o Senhor Deus: 1 \"Eis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais. Ei-lo que vem, diz o Senhor dos exércitos; 2 e quem poderá fazer-lhe frente, no dia de sua chegada? E quem poderá resistir-lhe, quando ele aparecer? Ele é como o fogo da forja e como a barrela dos lavadeiros; 3 e estará a postos, como para fazer derreter e purificar a prata: assim ele purificará os filhos de Levi e os refinará como ouro e como prata, e eles poderão assim fazer oferendas justas ao Senhor. 4 Será então aceitável ao Senhor a oblação de Judá e de Jerusalém, como nos primeiros tempos e nos anos antigos. 23 Eis que eu vos enviarei o profeta Elias, antes que venha o dia do Senhor, dia grande e terrível; 24 o coração dos pais há de voltar-se para os filhos, e o coração dos filhos para seus pais, para que eu não intervenha, ferindo de maldição a vossa terra\"."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 24(25)",
+            "chorus": "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!",
+            "texts": [
+              "Mostrai-me, ó Senhor, vossos caminhos, e fazei-me conhecer a vossa estrada! Vossa verdade me oriente e me conduza, porque sois o Deus da minha salvação!",
+              "O Senhor é piedade e retidão, e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça, e aos pobres ele ensina o seu caminho.",
+              "Verdade e amor são os caminhos do Senhor para quem guarda sua Aliança e seus preceitos. O Senhor se torna íntimo aos que o temem e lhes dá a conhecer sua Aliança."
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Ó Rei e Senhor das nações e Pedra angular da Igreja, vinde salvar a mulher e o homem, que, um dia, formastes do barro."
+            },
+            "reading": {
+              "reference": "Lc 1,57-66",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Completou-se o tempo da gravidez de Isabel, e ela deu à luz um filho. 58 Os vizinhos e parentes ouviram dizer como o Senhor tinha sido misericordioso para com Isabel, e alegraram-se com ela. 59 No oitavo dia, foram circuncidar o menino, e queriam dar-lhe o nome de seu pai, Zacarias. 60 A mãe porém disse: \"Não! Ele vai chamar-se João.\" 61 Os outros disseram: \"Não existe nenhum parente teu com esse nome!\" 62 Então fizeram sinais ao pai, perguntando como ele queria que o menino se chamasse. 63 Zacarias pediu uma tabuinha, e escreveu: \"João é o seu nome.\" 64 No mesmo instante, a boca de Zacarias se abriu, sua língua se soltou, e ele começou a louvar a Deus. 65 Todos os vizinhos ficaram com medo, e a notícia espalhou-se por toda a região montanhosa da Judeia. 66 E todos os que ouviam a notícia, ficavam pensando: \"O que virá a ser este menino?\" De fato, a mão do Senhor estava com ele."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

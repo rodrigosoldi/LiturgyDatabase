@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+      {
+        "date": "12/12/24",
+        "liturgy": "Bem-aventurada Virgem Maria de Guadalupe, Padroeira principal da América",
+        "liturgicalColor": "BRANCO",
+        "firstReadings": [
+          {
+            "reference": "Gl 4,4-7",
+            "title": "Leitura da Carta de São Paulo aos Gálatas",
+            "text": "Irmãos, 4 quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, 5 a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva. 6 E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá - ó Pai! 7 Assim já não és mais escravo, mas filho; e se és filho, és também herdeiro: tudo isso, por graça de Deus."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 95(96)",
+            "chorus": "Manifestai a sua glória entre as nações.",
+            "texts": [
+              "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome!",
+              "Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!",
+              "Publicai entre as nações: \"Reina o Senhor! Ele firmou o universo inabalável, e os povos ele julga com justiça\"."
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Maria, alegra-te, ó cheia de graça, o Senhor é contigo; és bendita entre todas as mulheres da terra!"
+            },
+            "reading": {
+              "reference": "Lc 1,39-47",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Naqueles dias, Maria partiu para a região montanhosa, dirigindo-se, apressadamente, a uma cidade da Judéia. 40 Entrou na casa de Zacarias e cumprimentou Isabel. 41 Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre e Isabel ficou cheia do Espírito Santo. 42 Com um grande grito, exclamou: \"Bendita és tu entre as mulheres e bendito é o fruto do teu ventre! 43 Como posso merecer que a mãe do meu Senhor me venha visitar? 44 Logo que a tua saudação chegou aos meus ouvidos, a criança pulou de alegria no meu ventre. 45 Bem-aventurada aquela que acreditou, porque será cumprido, o que o Senhor lhe prometeu\". 46 Então Maria disse: \"A minha alma engrandece o Senhor, 47 e se alegrou o meu espírito em Deus, meu Salvador\"."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

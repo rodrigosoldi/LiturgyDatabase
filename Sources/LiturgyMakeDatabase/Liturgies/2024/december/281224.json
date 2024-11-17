@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+      {
+        "date": "28/12/24",
+        "liturgy": "Os Santos Inocentes, mártires",
+        "liturgicalColor": "VERMELHO",
+        "firstReadings": [
+          {
+            "reference": "1Jo 1,5-2,2",
+            "title": "Início da Primeira Carta de São João",
+            "text": "Caríssimos, 5 a mensagem, que ouvimos de Jesus Cristo e vos anunciamos, é esta: Deus é luz e nele não há trevas. 6 Se dissermos que estamos em comunhão com ele, mas andamos nas trevas, estamos mentindo e não nos guiamos pela verdade. 7 Mas, se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo pecado. 8 Se dissermos que não temos pecado, estamo-nos enganando a nós mesmos, e a verdade não está dentro de nós. 9 Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda culpa. 10 Se dissermos que nunca pecamos, fazemos dele um mentiroso e sua palavra não está dentro de nós. 2,1 Meus filhinhos, escrevo isto para que não pequeis. No entanto, se alguém pecar, temos junto do Pai um Defensor: Jesus Cristo, o Justo. 2 Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 123(124)",
+            "chorus": "Nossa alma como um pássaro escapou do laço que lhe armara o caçador.",
+            "texts": [
+              "Se o Senhor não estivesse ao nosso lado, quando os homens investiram contra nós, com certeza nos teriam devorado no furor de sua ira contra nós.",
+              "Então as águas nos teriam submergido, a correnteza nos teria arrastado, e então, por sobre nós teriam passado essas águas sempre mais impetuosas.",
+              "O laço arrebentou-se de repente, e assim nós conseguimos libertar-nos. O nosso auxílio está no nome do Senhor, do Senhor que fez o céu e fez a terra!"
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "A vós, ó Deus, louvamos, a vós, Senhor, cantamos; vos louva o exército dos vossos santos mártires!"
+            },
+            "reading": {
+              "reference": "Mt 2,13-18",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+              "text": "Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse: \"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". 14 José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. 15 Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta: \"Do Egito chamei o meu Filho\". 16 Quando Herodes percebeu que os magos o haviam enganado, ficou muito furioso. Mandou matar todos os meninos de Belém e de todo o território vizinho, de dois anos para baixo, exatamente conforme o tempo indicado pelos magos. 17 Então se cumpriu o que foi dito pelo profeta Jeremias: 18 \"Ouviu-se um grito em Ramá, choro e grande lamento: é Raquel que chora seus filhos, e não quer ser consolada, porque eles não existem mais\"."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

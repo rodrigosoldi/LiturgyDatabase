@@ -1,0 +1,73 @@
+{
+    "liturgies": [
+      {
+        "date": "24/12/24",
+        "liturgy": "4ª Semana do Advento",
+        "liturgicalColor": "ROXO",
+        "firstReadings": [
+          {
+            "reference": "2Sm 7,1-5.8b-12.14a.16",
+            "title": "Leitura do Segundo Livro de Samuel",
+            "text": "Tendo-se o rei Davi instalado já em sua casa e tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, 2 ele disse ao profeta Natã: \"Vê: eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!\" 3 Natã respondeu ao rei: \"Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo\". 4 Mas, naquela mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: 5 \"Vai dizer ao meu servo Davi: Assim fala o Senhor: 'Porventura és tu que me construirás uma casa para eu habitar? 8b Fui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel. 9 Estive contigo em toda a parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra. 10 Vou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado. Os homens violentos não tornarão a oprimi-lo como outrora, 11 no tempo em que eu estabelecia juízes sobre o meu povo, Israel. Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos. E o Senhor te anuncia que te fará uma casa. 12 Quando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza. 14a Eu serei para ele um pai e ele será para mim um filho. 16 Tua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre' \"."
+          },
+          {
+            "reference": "Is 62,1-5",
+            "title": "Leitura do Livro do Profeta Isaías",
+            "text": "Por amor de Sião não me calarei, por amor de Jerusalém não descansarei, enquanto não surgir nela, como um luzeiro, a justiça e não se acender nela, como uma tacha, a salvação. 2 As nações verão a tua justiça, todos os reis verão a tua glória; serás chamada com um nome novo, que a boca do Senhor há de designar. 3 E serás uma coroa de glória na mão do Senhor, um diadema real nas mãos de teu Deus. 4 Não mais te chamarão Abandonada, e tua terra não mais será chamada Deserta; teu nome será Minha Predileta e tua terra será a Bem-Casada, pois o Senhor agradou-se de ti e tua terra será desposada. 5 Assim como o jovem desposa a donzela, assim teus filhos te desposam; e como a noiva é a alegria do noivo, assim também tu és a alegria de teu Deus."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 88(89)",
+            "chorus": "Ó Senhor, eu cantarei eternamente o vosso amor!",
+            "texts": [
+              "Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: \"O amor é garantido para sempre!\" E a vossa lealdade é tão firme como os céus. ",
+              "\"Eu firmei uma Aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor. Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\"",
+              "Ele, então, me invocará: 'Ó Senhor, vós sois meu Pai, sois meu Deus, sois meu Rochedo onde encontro a salvação!' Guardarei eternamente para ele a minha graça e com ele firmarei minha Aliança indissolúvel."
+            ]
+          },
+          {
+            "reference": "SI 88(89)",
+            "chorus": "Senhor, eu cantarei eternamente o vosso amor!",
+            "texts": [
+              "\"Eu firmei uma Aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor: Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\"",
+              "Quão feliz é aquele povo que conhece a alegria: seguirá pelo caminho, sempre à luz de vossa face! Exultará de alegria em vosso nome dia a dia, e com grande entusiasmo exaltará vossa justiça.",
+              "Ele, então me invocará: 'Ó Senhor, vós sois meu Pai, sois meu Deus, sois meu Rochedo onde encontro a salvação!' Guardarei eternamente para ele a minha graça e com ele firmarei minha Aliança indissolúvel."
+            ]
+          }
+        ],
+        "secondReadings": [
+          {
+            "reference": "At 13,16-17.22-25",
+            "title": "Leitura dos Atos dos Apóstolos",
+            "text": "Tendo chegado a Antioquia da Pisídia, 16 Paulo levantou-se, na sinagoga, fez um sinal com a mão e disse: \"Israelitas e vós que temeis a Deus, escutai! 17 O Deus deste povo de Israel escolheu os nossos antepassados e fez deles um grande povo quando moravam como estrangeiros no Egito; e de lá os tirou com braço poderoso. 22 Em seguida, Deus fez surgir Davi como rei e assim testemunhou a seu respeito: 'Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade'. 23 Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus. 24 Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. 25 Estando para terminar sua missão, João declarou: 'Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias'\"."
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Ó Sol da manhã, ó Sol de justiça, da eterna luz esplendor: oh, vinde brilhar para o povo sentado, na sombra da morte."
+            },
+            "reading": {
+              "reference": "Lc 1,67-79",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Naquele tempo, 67 Zacarias, o pai de João, repleto do Espírito Santo, profetizou, dizendo: 68 \"Bendito seja o Senhor, Deus de Israel, porque a seu povo visitou e libertou. 69 Fez aparecer para nós uma força de salvação na casa de seu servo Davi, 70 como tinha prometido desde outrora, pela boca de seus santos profetas, 71 para nos salvar dos nossos inimigos e da mão de todos os que nos odeiam. 72 Ele usou de misericórdia para com nossos pais, recordando-se de sua santa aliança 73 e do juramento que fez a nosso pai Abraão, para conceder-nos, 74 que, sem temor e libertos das mãos dos inimigos, nós o sirvamos, 75 com santidade e justiça, em sua presença, todos os nossos dias. 76 E tu, Menino, serás chamado profeta do Altíssimo, pois irás adiante do Senhor para preparar-lhe os caminhos, 77 anunciando ao seu povo a salvação, pelo perdão dos seus pecados. 78 Graças à misericordiosa compaixão do nosso Deus, o sol que nasce do alto nos visitará, 79 para iluminar os que jazem nas trevas e nas sombras da morte, e dirigir nossos passos no caminho da paz.\""
+            }
+          },
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Amanhã será varrida da terra a iniquidade e sobre nós há de reinar o Salvador do mundo."
+            },
+            "reading": {
+              "reference": "Mt 1,1-25",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+              "text": "Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão. 2 Abraão gerou Isaac; Isaac gerou Jacó; Jacó gerou Judá e seus irmãos. 3 Judá gerou Farés e Zara, cuja mãe era Tamar. Farés gerou Esrom; Esrom gerou Aram; 4 Aram gerou Aminadab; Aminadab gerou Naasson; Naasson Gerou Salmon; 5 Salmon gerou Booz, cuja mãe era Raab. Booz gerou Jobed, cuja mãe era Rute. Jobed gerou Jessé. 6 Jessé gerou o rei Davi. Davi gerou Salomão, daquela que tinha sido a mulher de Urias. 7 Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa; 8 Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Ozias; 9 Ozias gerou Joatão; Joatão gerou Acaz; Acaz gerou Ezequias; 10 Ezequias gerou Manassés; Manassés gerou Amon; Amon gerou Josias. 11 Josias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia. 12 Depois do exílio na Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel; 13 Zorobabel gerou Abiud; Abiud gerou Eliaquim; Eliaquim gerou Azor; 14 Azor gerou Sadoc; Sadoc gerou Aquim; Aquim gerou Eliud; 15 Eliud gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó. 16 Jacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo. 17 Assim, as gerações desde Abraão até Davi são quatorze; de Davi até o exílio na Babilônia, quatorze; e do exílio na Babilônia até Cristo, quatorze. 18 A origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo. 19 José, seu marido, era justo e, não querendo denunciá-Ia, resolveu abandonar Maria, em segredo. 20 Enquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse: \"José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo. 21 Ela dará à luz um filho e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados\". 22 Tudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: 23 \"Eis que a virgem conceberá e dará à luz um filho. Ele será chamado pelo nome de Emanuel, que significa: Deus está conosco\", 24 Quando acordou, José fez conforme o anjo do Senhor havia mandado: e aceitou sua esposa. 25 E sem ter relações com ela, Maria deu à luz um filho. E José deu ao Menino o nome de Jesus."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

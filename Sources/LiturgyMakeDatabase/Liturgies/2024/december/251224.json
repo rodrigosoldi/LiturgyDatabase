@@ -1,0 +1,78 @@
+{
+    "liturgies": [
+      {
+        "date": "25/12/24",
+        "liturgy": "Natal de Nosso Senhor Jesus Cristo, Solenidade",
+        "liturgicalColor": "BRANCO",
+        "firstReadings": [
+          {
+            "reference": "Is 52,7-10",
+            "title": "Leitura do livro do Profeta Isaías",
+            "text": "Como são belos, andando sobre os montes, os pés de quem anuncia e prega a paz, de quem anuncia o bem e prega a salvação, e diz a Sião: \"Reina teu Deus\"! 8ouve-se a voz de teus vigias, eles levantam a voz, estão exultantes de alegria, sabem que verão com os próprios olhos o Senhor voltar a Sião: 9Alegrai-vis e exultai ao mesmo tempo, ó ruínas de Jerusalém; o Senhor consolou seu povo e resgatou Jerusalém. 10O Senhor desnudou seu santo braço aos olhos de todas as nações; todos os confins da terra hão de ver a salvação que vem do nosso Deus."
+          },
+          {
+            "reference": "Is 62,11-12",
+            "title": "Leitura do livro do Profeta Isaías",
+            "text": "11 Eis que o Senhor fez-se ouvir até as extremidades da terra: \"Dizei à cidade de Sião: Eis que está chegando o teu salvador, com a recompensa já em suas mãos e o prêmio à sua disposição. 12 O povo será chamado Povo santo, os Resgatados do Senhor; e tu terás por nome Desejada, Cidade-não-abandonada\""
+          }
+        ],
+        "psalms": [
+            {
+            "reference": "SI 97(98)",
+            "chorus": "Os confins do universo contemplaram a salvação do nosso Deus.",
+            "texts": [
+                "1 Cantai ao Senhor Deus um canto novo, * porque ele fez prodígios! Sua mão e o seu braço forte e santo * alcançaram-lhe a vitória.",
+                "2 O Senhor fez conhecer a salvação, * e às nações, sua justiça; 3a recordou o seu amor sempre fiel * 3b pela casa de Israel.",
+                "3c Os confins do universo contemplaram * 3d a salvação do nosso Deus. 4 Aclamai o Senhor Deus, ó terra inteira, * alegrai-vos e exultai!",
+                "5 Cantai salmos ao Senhor ao som da harpa * e da cítara suave! 6 Aclamai, com os clarins e as trombetas, * ao Senhor, o nosso Rei!"
+            ]
+            },
+            {
+            "reference": "SI 96(97)",
+            "chorus": "Brilha hoje uma luz sobre nós, pois nasceu para nós o Senhor.",
+            "texts": [
+              "1 Deus é Rei! Exulte a terra de alegria, * e as ilhas numerosas rejubilem! 6 E proclama o céu sua justiça, * todos os povos podem ver a sua glória.",
+              "11 Uma luz já se levanta para os justos, * e a alegria para os retos corações. 12 Homens justos, alegrai-vos no Senhor, * celebrai e bendizei seu santo nome!"
+            ]
+          }
+        ],
+        "secondReadings": [
+          {
+            "reference": "Hb 1,1-6",
+            "title": "Leitura da Carta aos Hebreus",
+            "text": "1 Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas;  nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo. Este é o esplendor da glória do Pai, 3 a expressão do seu ser. Ele sustenta o universo com o poder de sua palavra. Tendo feito a purificação dos pecados, ele sentou-se à direita da majestade divina, nas alturas. 4 Ele foi colocado tanto acima dos anjos quanto o nome que ele herdou supera o nome deles. 5 De fato, a qual dos anjos Deus disse alguma vez: \"Tu és o meu Filho, eu hoje te gerei?\" Ou ainda: \"Eu serei para ele um Pai e ele será para mim um filho?\" 6 Mas, quando faz entrar o Primogênito no mundo, Deus diz: \"Todos os anjos devem adorá-lo!\""
+          },
+          {
+            "reference": "Tt 3,4-7",
+            "title": "Leitura da Carta de São Paulo a Tito",
+            "text": "Caríssimo: 4 Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens: 5 Ele salvou-nos, não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, 6 que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo. 7 Justificados assim pela sua graça, nos tornamos na esperança herdeiros da vida eterna."
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Despontou o santo dia para nós: Ó nações, vinde adorar o Senhor Deus, porque hoje grande luz brilhou na terra!"
+            },
+            "reading": {
+              "reference": "Jo 1, 1-18",
+              "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+              "text": "1 No princípio era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. 2 No princípio estava ela com Deus. 3 Tudo foi feito por ela, e sem ela nada se fez de tudo que foi feito. 4 Nela estava a vida, e a vida era a luz dos homens. 5 E a luz brilha nas trevas, e as trevas não conseguiram dominá-la. 6 Surgiu um homem enviado por Deus; seu nome era João. 7 Ele veio como testemunha,  para dar testemunho da luz, para que todos chegassem à fé por meio dele. 8 Ele não era a luz,  mas veio para dar testemunho da luz: 9 daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano. 10 A Palavra estava no mundo - e o mundo foi feito por meio dela - mas o mundo não quis conhecê-la. 11 Veio para o que era seu, e os seus não a acolheram. 12 Mas, a todos que a receberam, deu-lhes capacidade de se tornarem filhos de Deus isto é, aos que acreditam em seu nome, 13 pois estes não nasceram do sangue nem da vontade da carne nem da vontade do varão, mas de Deus mesmo. 14 E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como filho unigênito, cheio de graça e de verdade. 15 Dele, João dá testemunho, clamando: \"Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim\". 16 De sua plenitude todos nós recebemos graça por graça. 17 Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo. 18 A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer."
+            }
+          },
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Glória a Deus nos altos céus, e paz na terra entre os homens, que ele ama. Aleluia."
+            },
+            "reading": {
+              "reference": "Lc 2,14",
+              "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+              "text": "15 Quando os anjos se afastaram, voltando para o céu, os pastores disseram entre si: \"Vamos a Belém ver este acontecimento que o Senhor nos revelou\". 16 Os pastores foram às pressas a Belém e encontraram Maria e José, e o recém-nascido deitado na manjedoura. 17 Tendo-o visto, contaram o que lhes fora dito sobre o menino. 18 E todos os que ouviram os pastores ficaram maravilhados com aquilo que contavam. 19 Quanto a Maria, guardava todos esses fatos e meditava sobre eles em seu coração. 20 Os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham visto e ouvido, conforme lhes tinha sido dito."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

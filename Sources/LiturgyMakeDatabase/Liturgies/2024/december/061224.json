@@ -1,0 +1,41 @@
+{
+    "liturgies": [
+      {
+        "date": "06/12/24",
+        "liturgy": "1ª Semana do Advento",
+        "liturgicalColor": "ROXO",
+        "firstReadings": [
+          {
+            "reference": "Is 29,17-24",
+            "title": "Leitura do Livro do Profeta Isaías",
+            "text": "Assim fala o Senhor Deus: 17 Dentro de pouco tempo, não se transformará o Líbano em jardim? E não poderá o jardim tornar-se floresta? 18 Naquele dia, os surdos ouvirão as palavras do livro e os olhos dos cegos verão, no meio das trevas e das sombras. 19 Os humildes aumentarão sua alegria no Senhor, e os mais pobres dos homens se rejubilarão no Santo de Israel; 20 fracassou o prepotente, desapareceu o trapaceiro, e sucumbiram todos os malfeitores precoces, 21 os que faziam os outros pecar por palavras, e armavam ciladas ao juiz à porta da cidade e atacavam o justo com palavras falsas. 22 Isto diz o Senhor à casa de Jacó, ele que libertou Abraão: \"Agora, Jacó não mais terá que envergonhar-se nem seu rosto terá que enrubescer; 23 quando contemplarem as obras de minhas mãos, hão de honrar meu nome no meio do povo, honrarão o Santo de Jacó, e temerão o Deus de Israel; 24 os homens de espírito inconstante conseguirão sabedoria e os maldizentes concordarão em aprender\"."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 26(27)",
+            "chorus": "O Senhor é minha luz e salvação.",
+            "texts": [
+                "O Senhor é minha luz e salvação; de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?",
+                "Ao Senhor eu peço apenas uma coisa, e é só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida; saborear a suavidade do Senhor e contemplá-lo no seu templo.",
+                "Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!"
+            ]
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Eis que virá o nosso Deus com poder e majestade, E ele há de iluminar os olhos dos seus servos!"
+            },
+            "reading": {
+              "reference": "Mt 9,27-31",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+              "text": "Naquele tempo, 27 partindo Jesus, dois cegos o seguiram, gritando: \"Tem piedade de nós, filho de Davi!\" 28 Quando Jesus entrou em casa, os cegos se aproximaram dele. Então Jesus perguntou-lhes: \"Vós acreditais que eu posso fazer isso?\" Eles responderam: \"Sim, Senhor\". 29 Então Jesus tocou nos olhos deles, dizendo: \"Faça-se conforme a vossa fé\". 30 E os olhos deles se abriram. Jesus os advertiu severamente: \"Tomai cuidado para que ninguém fique sabendo\". 31 Mas eles saíram, e espalharam sua fama por toda aquela região."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,48 @@
+{
+    "liturgies": [
+      {
+        "date": "01/12/24",
+        "liturgy": "1º Domingo do Advento",
+        "liturgicalColor": "ROXO",
+        "firstReadings": [
+          {
+            "reference": "Jr 33,14-16",
+            "title": "Leitura do Livro do Profeta Jeremias",
+            "text": "\"Eis que virão dias, diz o Senhor, em que farei cumprir a promessa de bens futuros para a casa de Israel e para a casa de Judá. 15 Naqueles dias, naquele tempo, farei brotar de Davi a semente da justiça, que fará valer a lei e a justiça na terra. 16 Naqueles dias, Judá será salvo e Jerusalém terá uma população confiante; este é o nome que servirá para designá-la: 'O Senhor é a nossa Justiça'\"."
+          }
+        ],
+        "psalms": [
+          {
+            "reference": "Sl 24(25)",
+            "chorus": "Senhor meu Deus, a vós elevo a minha alma!",
+            "texts": [
+                "Mostrai-me, ó Senhor, vossos caminhos, e fazei-me conhecer a vossa estrada! Vossa verdade me oriente e me conduza, porque sois o Deus da minha salvação!",
+                "O Senhor é piedade e retidão, e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça, e aos pobres ele ensina o seu caminho.",
+                "Verdade e amor são os caminhos do Senhor para quem guarda sua Aliança e seus preceitos. O Senhor se torna íntimo aos que o temem e lhes dá a conhecer sua Aliança."
+            ]
+          }
+        ],
+        "secondReadings": [
+          {
+            "reference": "1Ts 3,12-4,2",
+            "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+            "text": "Irmãos: 3,12 O Senhor vos conceda que o amor entre vós e para com todos aumente e transborde sempre mais, a exemplo do amor que temos por vós. 13 Que assim ele confirme os vossos corações numa santidade sem defeito aos olhos de Deus, nosso Pai, no dia da vinda de nosso Senhor Jesus, com todos os seus santos. 4,1 Enfim, meus irmãos, eis o que vos pedimos e exortamos no Senhor Jesus: Aprendestes de nós como deveis viver para agradar a Deus, e já estais vivendo assim. Fazei progressos ainda maiores! 2 Conheceis, de fato, as instruções que temos dado em nome do Senhor Jesus."
+          }
+        ],
+        "gospels": [
+          {
+            "gospelAcclamation": {
+              "chorus": "Aleluia, Aleluia, Aleluia.",
+              "text": "Mostrai-nos, ó Senhor, vossa bondade, e a vossa salvação nos concedei!"
+            },
+            "reading": {
+              "reference": "Lc 21,25-28.34-36",
+              "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+              "text": "Naquele tempo disse Jesus a seus discípulos: 25 \"Haverá sinais no sol, na lua e nas estrelas. Na terra, as nações ficarão angustiadas, com pavor do barulho do mar e das ondas. 26 Os homens vão desmaiar de medo, só em pensar no que vai acontecer ao mundo, porque as forças do céu serão abaladas. 27 Então eles verão o Filho do Homem, vindo numa nuvem com grande poder e glória. 28 Quando estas coisas começarem a acontecer, levantai-vos e erguei a cabeça, porque a vossa libertação está próxima. 34 Tomai cuidado para que vossos corações não fiquem insensíveis por causa da gula, da embriaguez e das preocupações da vida, e esse dia não caia de repente sobre vós; 35 pois esse dia cairá como uma armadilha sobre todos os habitantes de toda a terra. 36 Portanto, ficai atentos e orai a todo momento, a fim de terdes força para escapar de tudo o que deve acontecer e para ficardes em pé diante do Filho do Homem\"."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
