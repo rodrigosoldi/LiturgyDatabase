@@ -10,16 +10,13 @@ import LiturgyCommon
 
 extension Reading {
 
-	init?(_ reading: DBReading?) {
-		guard let reading else {
-			return nil
-		}
-		
-		self.init(
-			id: reading._id,
-			reference: reading.reference,
-			title: reading.title,
-			text: reading.text)
+	init(_ reading: DBReading) {
+        self.init(
+            id: reading._id,
+            reference: reading.reference,
+            title: reading.title,
+            text: reading.text,
+            observation: reading.observation)		
 	}
 
 }

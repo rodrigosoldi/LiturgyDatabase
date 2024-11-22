@@ -30,5 +30,11 @@ struct DatabaseUtil {
 			realm.add(liturgy)
 		}
 	}
+    
+    func deleteAll() throws {
+        try realm.write {
+            realm.deleteAll()
+        }
+    }
 
 }

@@ -13,20 +13,16 @@ public struct Liturgy: Identifiable, Equatable {
 	public let date: String
 	public let liturgy: String
 	public let liturgicalColor: LiturgicalColor
-	public let firstReadings: [Reading]
-	public let psalms: [Psalm]
-	public let secondReadings: [Reading]
-	public let gospels: [Gospel]
-
-	public init(id: UUID, date: String, liturgy: String, liturgicalColor: LiturgicalColor, firstReadings: [Reading], psalms: [Psalm], secondReadings: [Reading], gospels: [Gospel]) {
+    public let observation: String?
+    public let readings: [ListReading]
+    
+    public init(id: UUID, date: String, liturgy: String, liturgicalColor: LiturgicalColor, observation: String?, readings: [ListReading]) {
 		self.id = id
 		self.date = date
 		self.liturgy = liturgy
 		self.liturgicalColor = liturgicalColor
-		self.firstReadings = firstReadings
-		self.psalms = psalms
-		self.secondReadings = secondReadings
-		self.gospels = gospels
+        self.observation = observation
+        self.readings = readings
 	}
 
 	public static func ==(lhs: Liturgy, rhs: Liturgy) -> Bool {
@@ -48,10 +44,7 @@ public struct Liturgy: Identifiable, Equatable {
 		date.lowercased().contains(text) ||
 		liturgy.lowercased().contains(text) ||
 		liturgicalColor.rawValue.lowercased().contains(text) ||
-		firstReadings.contains(where: { $0.contains(text) }) ||
-		psalms.contains(where: { $0.contains(text) }) ||
-		secondReadings.contains(where: { $0.contains(text) })
-
+        readings.contains(where: { $0.contains(text) })
 	}
 
 }

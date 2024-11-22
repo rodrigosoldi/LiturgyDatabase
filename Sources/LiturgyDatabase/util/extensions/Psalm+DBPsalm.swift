@@ -11,12 +11,12 @@ import LiturgyCommon
 extension Psalm {
 
 	init(_ psalm: DBPsalm) {
-		let texts = Array(psalm.texts)
+        let texts = Array(psalm.verses)
 		self.init(
 			id: psalm._id,
 			reference: psalm.reference,
 			chorus: psalm.chorus,
-			texts: texts)
+			verses: texts)
 	}
 
 }

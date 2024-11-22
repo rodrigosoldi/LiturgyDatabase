@@ -1,0 +1,85 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "",
+            "liturgy": "",
+            "liturgicalColor": "",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "",
+                            "title": "",
+                            "text": ""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "",
+                            "chorus": "",
+                            "verses": [
+                                ""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "",
+                            "title": "",
+                            "text": ""
+                        }
+                    ]                
+                },
+                {
+                    "type": "sequence",
+                    "title": "Sequência",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "title": "",
+                            "text": ""
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": ""
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "",
+                                "title": "",
+                                "text": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

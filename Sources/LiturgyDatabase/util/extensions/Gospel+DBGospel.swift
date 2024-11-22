@@ -14,7 +14,7 @@ extension Gospel {
 		self.init(
 			id: gospel._id,
 			gospelAcclamation: GospelAcclamation(gospel.gospelAcclamation),
-			reading: Reading(gospel.reading))
+            reading: gospel.reading != nil ? Reading(gospel.reading!) : nil)
 	}
 
 }

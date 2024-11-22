@@ -11,20 +11,21 @@ public struct Psalm: Identifiable {
 	public let id: UUID
 	public let reference: String
 	public let chorus: String
-	public let texts: [String]
+	public let verses: [String]
 
-	public init(id: UUID, reference: String, chorus: String, texts: [String]) {
+	public init(id: UUID, reference: String, chorus: String, verses: [String]) {
 		self.id = id
 		self.reference = reference
 		self.chorus = chorus
-		self.texts = texts
+		self.verses = verses
 	}
 
 	public func contains(_ _text: String) -> Bool {
-		return id.uuidString.lowercased().contains(_text) ||
-		reference.lowercased().contains(_text) ||
-		chorus.lowercased().contains(_text) ||
-		texts.contains(where: { $0.lowercased().contains(_text) })
+        let __text = _text.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
+		return id.uuidString.lowercased().contains(__text) ||
+		reference.lowercased().contains(__text) ||
+		chorus.lowercased().contains(__text) ||
+		verses.contains(where: { $0.lowercased().contains(__text) })
 	}
 
 }
@@ -32,7 +33,7 @@ public struct Psalm: Identifiable {
 extension Psalm {
 
 	public var text: String {
-		texts.joined(separator: "\n\n")
+        verses.joined(separator: "\n\n")
 	}
 
 }

@@ -11,12 +11,20 @@ import RealmSwift
 public class DBLiturgy: Object {
 
 	@Persisted(primaryKey: true) public var _id: UUID
+    
+    /// key: date
 	@Persisted public var date: String
+    
+    /// key: liturgy
 	@Persisted public var liturgy: String
+    
+    /// key: liturgicalColor
 	@Persisted public var liturgicalColor: String
-	@Persisted public var firstReadings: List<DBReading>
-	@Persisted public var psalms: List<DBPsalm>
-	@Persisted public var secondReadings: List<DBReading>
-	@Persisted public var gospels: List<DBGospel>
+    
+    /// key: obs
+    @Persisted public var observation: String?
+    
+    /// key: readings
+    @Persisted public var readings: List<DBListReading>
 
 }

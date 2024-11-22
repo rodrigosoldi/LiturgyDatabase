@@ -12,7 +12,7 @@ func manageAddLiturgies(from folder: String, liturgyController: LiturgyControlla
 		let folderPath = folder + "/" + path
 		if fileManager.fileExists(atPath: folderPath, isDirectory: &isDirectory) {
 			if isDirectory.boolValue {
-				print("-------- Found a Directory: \(path.uppercased()) ----------")
+				print("-------- Found a directory: \(path.uppercased()) ----------")
 				try manageAddLiturgies(from: folderPath, liturgyController: liturgyController, fileManager: fileManager)
 			} else {
 				let filePath = folder + "/" + path
@@ -55,6 +55,7 @@ do {
 
 	let liturgiesFolderPath = try fileUtil.getLiturgiesFolderPath()
 	print("will search for files at: \(liturgiesFolderPath)")
+    try databaseUtil.deleteAll()
 	try manageAddLiturgies(from: liturgiesFolderPath, liturgyController: liturgyController, fileManager: fileManager)
 } catch let error as NSError {
 	print("Error creating Realm: \(error.localizedDescription)")
