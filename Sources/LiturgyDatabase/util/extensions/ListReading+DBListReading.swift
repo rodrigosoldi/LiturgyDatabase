@@ -24,7 +24,6 @@ extension ListReading {
         
         self.init(
             id: listReading._id,
-            type: listReading.type,
             title: listReading.title,
             observation: listReading.observation,
             readings: readings)
