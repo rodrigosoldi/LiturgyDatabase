@@ -13,7 +13,7 @@ public struct Sequence: Identifiable {
     public let text: String
     public let observation: String?
     
-    init(id: UUID, title: String?, text: String, observation: String?) {
+    public init(id: UUID, title: String?, text: String, observation: String?) {
         self.id = id
         self.title = title
         self.text = text
