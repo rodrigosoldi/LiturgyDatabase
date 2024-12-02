@@ -16,7 +16,8 @@ extension Psalm {
 			id: psalm._id,
 			reference: psalm.reference,
 			chorus: psalm.chorus,
-			verses: texts)
+			verses: texts,
+            observation: psalm.observation)
 	}
 
 }

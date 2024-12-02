@@ -12,12 +12,14 @@ public struct Psalm: Identifiable {
 	public let reference: String
 	public let chorus: String
 	public let verses: [String]
+    public let observation: String?
 
-	public init(id: UUID, reference: String, chorus: String, verses: [String]) {
+    public init(id: UUID, reference: String, chorus: String, verses: [String], observation: String?) {
 		self.id = id
 		self.reference = reference
 		self.chorus = chorus
 		self.verses = verses
+        self.observation = observation
 	}
 
 	public func contains(_ _text: String) -> Bool {
@@ -25,7 +27,8 @@ public struct Psalm: Identifiable {
 		return id.uuidString.lowercased().contains(__text) ||
 		reference.lowercased().contains(__text) ||
 		chorus.lowercased().contains(__text) ||
-		verses.contains(where: { $0.lowercased().contains(__text) })
+		verses.contains(where: { $0.lowercased().contains(__text) }) ||
+        observation?.contains(_text) ?? false
 	}
 
 }
