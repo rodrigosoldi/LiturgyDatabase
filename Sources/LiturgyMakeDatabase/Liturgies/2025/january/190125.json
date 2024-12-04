@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "19/01/25",
+            "liturgy": "2º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 62,1-5",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Por amor de Sião não me calarei, por amor de Jerusalém não descansarei, enquanto não surgir nela, como um luzeiro, a justiça e não se acender nela, como uma tocha, a salvação. 2 As nações verão a tua justiça, todos os reis verão a tua glória; serás chamada com um nome novo, que a boca do Senhor há de designar. 3 E serás uma coroa de glória na mão do Senhor, um diadema real nas mãos de teu Deus. 4 Não mais te chamarão Abandonada, e tua terra não mais será chamada Deserta; teu nome será Minha Predileta e tua terra será a Bem-Casada, pois o Senhor agradou-se de ti e tua terra será desposada. 5 Assim como o jovem desposa a donzela, assim teus filhos te desposam; e como a noiva é a alegria do noivo, assim também tu és a alegria de teu Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 95(96)",
+                            "chorus": "Cantai ao Senhor Deus um canto novo, manifestai os seus prodígios entre os povos!",
+                            "verses": [
+                                "Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome!",
+                                "Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios!",
+                                "Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! Oferecei um sacrifício nos seus átrios.",
+                                "Adorai-o no esplendor da santidade, terra inteira, estremecei diante dele! Publicai entre as nações: \"Reina o Senhor!\", pois os povos ele julga com justiça."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "I Cor 12,4-11",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 4 Há diversidade de dons, mas um mesmo é o Espírito. 5 Há diversidade de ministérios, mas um mesmo é o Senhor. 6 Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos. 7 A cada um é dada a manifestação do Espírito em vista do bem comum. 8 A um é dada pelo Espírito a palavra da sabedoria. A outro, a palavra da ciência segundo o mesmo Espírito. 9 A outro, a fé no mesmo Espírito. A outro, o dom de curas no mesmo Espírito. 10 A outro, o poder de fazer milagres. A outro, profecia. A outro, discernimento de espíritos. A outro, falar línguas estranhas. A outro, interpretação de línguas. 11 Todas estas coisas as realiza um e o mesmo Espírito, que distribui a cada um conforme quer."
+                        }
+                    ]                
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "O Senhor Deus nos chamou, por meio do Evangelho, a fim de alcançarmos a glória de Cristo."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 2,1-11",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, 1 houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. 2 Também Jesus e seus discípulos tinham sido convidados para o casamento. 3 Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não têm mais vinho\". 4 Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou\". 5 Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\". 6 Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros. 7 Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca. 8 Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram. 9 O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água. 10 O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\" 11 Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

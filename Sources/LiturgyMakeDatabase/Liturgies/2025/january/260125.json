@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "26/01/25",
+            "liturgy": "3º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ne 8,2-4a.5-6.8-10",
+                            "title": "Leitura do Livro de Neemias",
+                            "text": "Naqueles dias, 2 o sacerdote Esdras apresentou a Lei diante da assembleia de homens, de mulheres e de todos os que eram capazes de compreender. Era o primeiro dia do sétimo mês. 3 Assim, na praça que fica defronte da porta das Águas, Esdras fez a leitura do livro, desde o amanhecer até ao meio-dia, na presença dos homens, das mulheres e de todos os que eram capazes de compreender. E todo o povo escutava com atenção a leitura do livro da Lei. 4a Esdras, o escriba, estava de pé sobre um estrado de madeira, erguido para esse fim. 5 Estando num lugar mais alto, ele abriu o livro à vista de todo o povo. E, quando o abriu, todo o povo ficou de pé. 6 Esdras bendisse o Senhor, o grande Deus, e todo o povo respondeu, levantando as mãos: \"Amém! Amém!\" Depois inclinaram-se e prostraram-se diante do Senhor, com o rosto em terra. 8 E leram clara e distintamente o livro da Lei de Deus e explicaram seu sentido, de maneira que se pudesse compreender a leitura. 9 O governador Neemias e Esdras, sacerdote e escriba, e os levitas que instruíam o povo, disseram a todos: \"Este é um dia consagrado ao senhor, vosso Deus! Não fiqueis tristes nem choreis\", pois todo o povo chorava ao ouvir as palavras da Lei. 10 E Neemias disse-lhes: \"Ide para vossas casas e comei carnes gordas, tomai bebidas doces e reparti com aqueles que nada prepararam, pois este dia é santo para o nosso Senhor. Não fiqueis tristes, porque a alegria do Senhor será a vossa força\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 18B(19)",
+                            "chorus": "Vossas palavras, Senhor, são espírito e vida!",
+                            "verses": [
+                                "A lei do Senhor Deus é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes.",
+                                "Os preceitos do Senhor são precisos, alegria ao coração. O mandamento do Senhor é brilhante, para os olhos é uma luz.",
+                                "É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente.",
+                                "Que vos agrade o cantar dos meus lábios e a voz da minha alma; que ela chegue até vós, ó Senhor, meu Rochedo e Redentor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "I Cor 12,12-30",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 12 Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. 13 De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito. 14 Com efeito, o corpo não é feito de um membro apenas, mas de muitos membros. 15 Se o pé disser: \"Eu não sou mão, portanto não pertenço ao corpo\", nem por isso deixa de pertencer ao corpo. 16 E se o ouvido disser: \"Eu não sou olho, portanto não pertenço ao corpo\", nem por isso deixa de pertencer ao corpo. 17 Se o corpo todo fosse olho, onde estaria o ouvido? Se o corpo todo fosse ouvido, onde estaria o olfato? 18 De fato, Deus dispôs os membros e cada um deles no corpo, como quis. 19 Se houvesse apenas um membro, onde estaria o corpo? 20 Há muitos membros, e, no entanto, um só corpo. 21 O olho não pode, pois, dizer à mão: \"Não preciso de ti\". Nem a cabeça pode dizer aos pés: \"Não preciso de vós\". 22 Antes pelo contrário, os membros do corpo que parecem ser mais fracos são muito mais necessários do que se pensa. 23 Também os membros que consideramos menos honrosos, a estes nós cercamos com mais honra, e os que temos por menos decentes, nós os tratamos com mais decência. 24 Os que nós consideramos decentes não precisam de cuidado especial. Mas Deus, quando formou o corpo, deu maior atenção e cuidado ao que nele é tido como menos honroso, 25 para que não haja divisão no corpo e, assim, os membros zelem igualmente uns pelos outros. 26 Se um membro sofre, todos os membros sofrem com ele; se é honrado, todos os membros se regozijam com ele. 27 Vós, todos juntos, sois o corpo de Cristo e, individualmente, sois membros desse corpo. 28 E, na Igreja, Deus colocou, em primeiro lugar, os apóstolos; em segundo lugar, os profetas; em terceiro lugar, os que têm o dom e a missão de ensinar; depois, outras pessoas com dons diversos, a saber: dom de milagres, dom de curas, dom para obras de misericórdia, dom de governo e direção, dom de línguas. 29 Acaso todos são apóstolos? Todos são profetas? Todos ensinam? Todos realizam milagres? 30 Todos têm o dom das curas? Todos falam em línguas? Todos as interpretam?"
+                        }
+                    ]                
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Foi o Senhor quem me mandou boas notícias anunciar; ao pobre, a quem está no cativeiro, libertação eu vou proclamar!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 1,1-4;4,14-21",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Muitas pessoas já tentaram escrever a história dos acontecimentos que se realizaram entre nós, 2 como nos foram transmitidos por aqueles que, desde o princípio, foram testemunhas oculares e ministros da palavra. 3 Assim sendo, após fazer um estudo cuidadoso de tudo o que aconteceu desde o princípio, também eu decidi escrever de modo ordenado para ti, excelentíssimo Teófilo. 4 Deste modo, poderás verificar a solidez dos ensinamentos que recebeste. Naquele tempo, 4,14 Jesus voltou para a Galileia, com a força do Espírito, e sua fama espalhou-se por toda a redondeza. 15 Ele ensinava nas suas sinagogas e todos o elogiavam. 16 E veio à cidade de Nazaré, onde se tinha criado. Conforme seu costume, entrou na sinagoga no sábado, e levantou-se para fazer a leitura. 17 Deram-lhe o livro do profeta Isaías. Abrindo o livro, Jesus achou a passagem em que está escrito: 18 \"O Espírito do Senhor está sobre mim, porque ele me consagrou com a unção para anunciar a Boa-Nova aos pobres; enviou-me para proclamar a libertação aos cativos e aos cegos a recuperação da vista; para libertar os oprimidos 19 e para proclamar um ano da graça do Senhor\". 20 Depois fechou o livro, entregou-o ao ajudante, e sentou-se. Todos os que estavam na sinagoga tinham os olhos fixos nele. 21 Então começou a dizer-lhes: \"Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

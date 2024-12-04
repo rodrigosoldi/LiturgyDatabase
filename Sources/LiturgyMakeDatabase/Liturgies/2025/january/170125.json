@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "17/01/25",
+            "liturgy": "Santo Antão, abade, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 4,1-5.11",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 1 tenhamos cuidado, enquanto nos é oferecida a oportunidade de entrar no repouso de Deus, não aconteça que alguém de vós fique para trás. 2 Também nós, como eles, recebemos uma Boa-Nova. Mas a proclamação da palavra de nada lhes adiantou, por não ter sido acompanhada da fé naqueles que a tinham ouvido, 3 enquanto nós, que acreditamos, entramos no seu repouso. É assim como ele falou: \"Por isso jurei na minha ira: jamais entrarão no meu repouso\". Isso, não obstante as obras de Deus estarem terminadas desde a criação do mundo. 4 Pois, em certos lugares, assim falou do sétimo dia: \"E Deus repousou no sétimo dia de todas as suas obras\", 5 e ainda novamente: \"Não entrarão no meu repouso\". 11 Esforcemo-nos, portanto, por entrar neste repouso, para que ninguém repita o acima referido exemplo de desobediência."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 77(78)",
+                            "chorus": "Não vos esqueçais das obras do Senhor!",
+                            "verses": [
+                                "Tudo aquilo que ouvimos e aprendemos, e transmitiram para nós os nossos pais, à nova geração nós contaremos: As grandezas do Senhor e seu poder.",
+                                "Levantem-se e as contem a seus filhos, para que ponham no Senhor sua esperança; das obras do Senhor não se esqueçam, e observem fielmente os seus preceitos.",
+                                "Nem se tornem, a exemplo de seus pais, rebelde e obstinada geração, uma raça de inconstante coração, infiel ao Senhor Deus, em seu espírito."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Um grande profeta surgiu entre nós e Deus visitou o seu povo, aleluia."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 2,1-12",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Alguns dias depois, Jesus entrou de novo em Cafarnaum. Logo se espalhou a notícia de que ele estava em casa. 2 E reuniram-se ali tantas pessoas, que já não havia lugar, nem mesmo diante da porta. E Jesus anunciava-lhes a Palavra. 3 Trouxeram-lhe, então, um paralítico, carregado por quatro homens. 4 Mas não conseguindo chegar até Jesus, por causa da multidão, abriram então o teto, bem em cima do lugar onde ele se encontrava. Por essa abertura desceram a cama em que o paralítico estava deitado. 5 Quando viu a fé daqueles homens, Jesus disse ao paralítico: \"Filho, os teus pecados estão perdoados\". 6 Ora, alguns mestres da Lei, que estavam ali sentados, refletiam em seus corações: 7 \"Como este homem pode falar assim? Ele está blasfemando: ninguém pode perdoar pecados, a não ser Deus\". 8 Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse: \"Por que pensais assim em vossos corações? 9 O que é mais fácil: dizer ao paralítico: 'Os teus pecados estão perdoados', ou dizer: 'Levanta-te, pega a tua cama e anda'? 10 Pois bem, para que saibais que o Filho do Homem tem, na terra, poder de perdoar pecados, - disse ele ao paralítico: - 11 eu te ordeno: levanta-te, pega tua cama, e vai para tua casa!\" 12 O paralítico então se levantou e, carregando a sua cama, saiu diante de todos. E ficaram todos admirados e louvavam a Deus, dizendo: \"Nunca vimos uma coisa assim\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

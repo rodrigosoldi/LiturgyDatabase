@@ -1,0 +1,111 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/01/25",
+            "liturgy": "Batismo do Senhor, Festa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 42,1-4.6-7",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Assim fala o Senhor: 1 \"Eis o meu servo - eu o recebo; eis o meu eleito - nele se compraz minh'alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações. 2 Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas. 3 Não quebra uma cana rachada nem apaga um pavio que ainda fumega; mas promoverá o julgamento para obter a verdade. 4 Não esmorecerá nem se deixará abater, enquanto não estabelecer a justiça na terra; os países distantes esperam seus ensinamentos. 6 Eu, o Senhor, te chamei para a justiça e te tomei pela mão; eu te formei e te constituí como o centro de aliança do povo, luz das nações, 7 para abrires os olhos dos cegos, tirar os cativos da prisão, livrar do cárcere os que vivem nas trevas\"."
+                        },
+                        {
+                            "obs": "",
+                            "reference": "Is 40,1-5.9-11",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Consolai o meu povo, consolai-o! - diz o vosso Deus. 2 Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados. 3 Grita uma voz: \"Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus. 4 Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: 5 a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou\". 9 Sobe a um alto monte, tu, que trazes a Boa-Nova a Sião; levanta com força a tua voz, tu, que trazes a Boa-Nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: \"Eis o vosso Deus, 10 eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória. 11 Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 28(29)",
+                            "chorus": "Que o Senhor abençoe, com a paz, o seu povo!",
+                            "verses": [
+                                "Filhos de Deus, tributai ao Senhor, tributai-lhe a glória e o poder! Dai-lhe a glória devida ao seu nome; adorai-o com santo ornamento!",
+                                "Eis a voz do Senhor sobre as águas, sua voz sobre as águas imensas! Eis a voz do Senhor com poder! Eis a voz do Senhor majestosa.",
+                                "Sua voz no trovão reboando! No seu templo os fiéis bradam: \"Glória!\" É o Senhor que domina os dilúvios, o Senhor reinará para sempre!"
+                            ]
+                        },
+                        {
+                            "obs": "",
+                            "reference": "Sl 103(104)",
+                            "chorus": "Bendize, ó minha alma, ao Senhor!",
+                            "verses": [
+                                "Bendize, ó minha alma, ao Senhor! Ó meu Deus e meu Senhor, como sois grande! De majestade e esplendor vos revestis e de luz vos envolveis como num manto.",
+                                "Estendeis qual uma tenda o firmamento, construís vosso palácio sobre as águas; dos ventos fazeis vossos mensageiros, do fogo e chama fazeis vossos servidores.",
+                                "Quão numerosas, ó Senhor, são vossas obras, e que sabedoria em todas elas! Encheu-se a terra com as vossas criaturas! Eis o mar tão espaçoso e tão imenso, no qual se movem seres incontáveis, gigantescos animais e pequeninos.",
+                                "Todos eles, ó Senhor, de vós esperam que a seu tempo vós lhes deis o alimento; vós lhes dais o que comer e eles recolhem, vós abris a vossa mão e eles se fartam.",
+                                "Se escondeis a vossa face, se apavoram, se tirais o seu respiro, eles perecem e voltam para o pó de onde vieram; enviais o vosso espírito e renascem e da terra toda a face renovais."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 10,34-38",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 34 Pedro tomou a palavra e disse: \"De fato, estou compreendendo que Deus não faz distinção entre as pessoas. 35 Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença. 36 Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-Nova da paz, por meio de Jesus Cristo, que é o Senhor de todos. 37 Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: 38 como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele\"."
+                        },
+                        {
+                            "obs": "",
+                            "reference": "Tt 2,11-14;3,4-7",
+                            "title": "Leitura da Carta de São Paulo a Tito",
+                            "text": "Caríssimos: 11 A graça de Deus se manifestou trazendo salvação para todos os homens. 12 Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, 13 aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e Salvador, Jesus Cristo. 14 Ele se entregou por nós, para nos resgatar de toda a maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem. 3,4 Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens: 5 Ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, 6 que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo. 7 Justificados assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna."
+                        }
+                    ]                
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Abriram-se os céus e fez-se ouvir a voz do Pai: Eis meu filho muito amado; escutai-o, todos vós!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 3,15-16.21-22",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Naquele tempo, 15 o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias. 16 Por isso, João declarou a todos: \"Eu vos batizo com água, mas virá aquele que é mais forte do que eu. Eu não sou digno de desamarrar a correia de suas sandálias. Ele vos batizará no Espírito Santo e no fogo\". 21 Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo. E, enquanto rezava, o céu se abriu 22 e o Espírito Santo desceu sobre Jesus em forma visível, como pomba. E do céu veio uma voz: \"Tu és o meu Filho amado, em ti ponho o meu bem-querer\"."
+                            }
+                        },
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Virá aquele que é mais forte do que eu. Ele vos batizará no Espírito Santo e no fogo."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 3,15-16.21-22",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Naquele tempo, 15 o povo estava na expectativa e todos se perguntavam no seu íntimo se João não seria o Messias. 16 Por isso, João declarou a todos: \"Eu vos batizo com água, mas virá aquele que é mais forte do que eu. Eu não sou digno de desamarrar a correia de suas sandálias. Ele vos batizará no Espírito Santo e no fogo\". 21 Quando todo o povo estava sendo batizado, Jesus também recebeu o batismo. E, enquanto rezava, o céu se abriu 22 e o Espírito Santo desceu sobre Jesus em forma visível, como pomba. E do céu veio uma voz: \"Tu és o meu Filho amado, em ti ponho o meu bem-querer\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

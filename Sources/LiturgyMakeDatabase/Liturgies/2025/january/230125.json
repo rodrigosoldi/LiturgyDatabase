@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "23/01/25",
+            "liturgy": "2ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 7,25-8,6",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 25 Jesus é capaz de salvar para sempre aqueles que, por seu intermédio, se aproximam de Deus. Ele está sempre vivo para interceder por eles. 26 Tal é precisamente o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus. 27 Ele não precisa, como os sumos sacerdotes oferecer sacrifícios em cada dia, primeiro por seus próprios pecados e depois pelos do povo. Ele já o fez uma vez por todas, oferecendo-se a si mesmo. 28 A Lei, com efeito, constituiu sumos sacerdotes sujeitos à fraqueza, enquanto a palavra do juramento, que veio depois da Lei, constituiu alguém que é Filho, perfeito para sempre. 8,1 O tema mais importante da nossa exposição é este: temos um sumo sacerdote tão grande, que se assentou à direita do trono da majestade, nos céus. 2 Ele é ministro do Santuário e da Tenda verdadeira, armada pelo Senhor, e não por mão humana. 3 Todo sumo sacerdote, com efeito, é constituído para oferecer dádivas e sacrifícios; portanto, é necessário que tenha algo a oferecer. 4 Na verdade, se Cristo estivesse na terra, não seria nem mesmo sacerdote, pois já existem os que oferecem dádivas de acordo com a Lei. 5 Estes celebram um culto que é cópia e sombra das realidades celestes, como foi dito a Moisés, quando estava para executar a construção da Tenda: \"Vê, faze tudo segundo o modelo que te foi mostrado sobre a montanha\". 6 Agora, porém, Cristo possui um ministério superior. Pois ele é o mediador de uma aliança bem melhor, baseada em promessas melhores."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 39(40)",
+                            "chorus": "Eis que venho fazer, com prazer, a vossa vontade, Senhor!",
+                            "verses": [
+                                "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, holocaustos por nossos pecados. E então eu vos disse: \"Eis que venho!\"",
+                                "Sobre mim está escrito no livro: \"Com prazer faço a vossa vontade, guardo em meu coração vossa lei!\"",
+                                "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!",
+                                "Mas se alegre e em vós rejubile todo ser que vos busca, Senhor! Digam sempre: \"É grande o Senhor!\" os que buscam em vós seu auxílio."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Jesus Cristo Salvador destruiu o mal e a morte; fez brilhar pelo Evangelho a luz e a vida imperecíveis."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 3,7-12",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 7 Jesus se retirou para a beira do mar, junto com seus discípulos. Muita gente da Galileia o seguia. 8 E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia, foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia. 9 Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse. 10 Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo. 11 Vendo Jesus, os espíritos maus caíam a seus pés, gritando: \"Tu és o Filho de Deus!\" 12 Mas Jesus ordenava severamente para não dizerem quem ele era."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

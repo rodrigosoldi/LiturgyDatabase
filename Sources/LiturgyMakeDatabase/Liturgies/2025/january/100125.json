@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "10/01/25",
+            "liturgy": "Tempo do Natal depois da Epifania",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "1Jo 5,5-13",
+                            "title": "Leitura da Primeira Carta de São João",
+                            "text": "Caríssimos, 5 quem é o vencedor do mundo, senão aquele que crê que Jesus é o Filho de Deus? 6 Este é o que veio pela água e pelo sangue: Jesus Cristo. (Não veio somente com a água, mas com a água e o sangue). E o Espírito é que dá testemunho, porque o Espírito é a Verdade. 7 Assim, são três que dão testemunho: 8 o Espírito, a água e o sangue; e os três são unânimes. 9 Se aceitamos o testemunho dos homens, o testemunho de Deus é maior. Este é o testemunho de Deus, pois ele deu testemunho a respeito de seu Filho. 10 Aquele que crê no Filho de Deus tem este testemunho dentro de si. Aquele que não crê em Deus faz dele um mentiroso, porque não crê no testemunho que Deus deu a respeito de seu Filho. 11 E o testemunho é este: Deus nos deu a vida eterna, e esta vida está em seu Filho. 12 Quem tem o Filho, tem a vida; quem não tem o Filho, não tem a vida. 13 Eu vos escrevo estas coisas a vós que acreditastes no nome do Filho de Deus, para que saibais que possuís a vida eterna."
+                        }
+                    ]
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 147(147B)",
+                            "chorus": "Glorifica o Senhor, Jerusalém!\n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "Glorifica o Senhor, Jerusalém! O Sião, canta louvores ao teu Deus! Pois reforçou com segurança as tuas portas, e os teus filhos em teu seio abençoou.",
+                                "A paz em teus limites garantiu e te dá como alimento a flor do trigo. Ele envia suas ordens para a terra, e a palavra que ele diz corre veloz.",
+                                "Anuncia a Jacó sua palavra, seus preceitos suas leis a Israel. Nenhum povo recebeu tanto carinho, a nenhum outro revelou os seus preceitos. "
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Jesus pregava a Boa-Nova, o Reino anunciando, e curava toda espécie de doenças entre o povo."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 5,12-16",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Aconteceu que Jesus estava numa cidade, e havia aí um homem leproso. Vendo Jesus, o homem caiu a seus pés, e pediu: \"Senhor, se queres, tu tens o poder de me purificar\". 13 Jesus estendeu a mão, tocou nele, e disse: \"Eu quero, fica purificado.\" E, imediatamente, a lepra o deixou. 14 E Jesus recomendou-lhe: \"Não digas nada a ninguém. Vai mostrar-te ao sacerdote e oferece pela purificação o prescrito por Moisés como prova de tua cura\". 15 Não obstante, sua fama ia crescendo, e numerosas multidões acorriam para ouvi-lo e serem curadas de suas enfermidades. 16 Ele, porém, se retirava para lugares solitários e se entregava à oração."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

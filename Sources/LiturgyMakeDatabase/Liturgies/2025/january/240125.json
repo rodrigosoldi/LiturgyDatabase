@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "24/01/25",
+            "liturgy": "São Francisco de Sales, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 8,6-13",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 6 agora, Cristo possui um ministério superior. Pois ele é o mediador de uma aliança bem melhor, baseada em promessas melhores. 7 De fato, se a primeira aliança fosse sem defeito, não se procuraria estabelecer uma segunda. 8 Com efeito, Deus adverte: \"Dias virão, diz o Senhor, em que concluirei com a casa de Israel e com a casa de Judá uma nova aliança. 9 Não como a aliança que eu fiz com os seus pais, no dia em que os conduzi pela mão para fazê-los sair da terra do Egito. Pois eles não permaneceram fiéis à minha aliança; por isso, me desinteressei deles, diz o Senhor. 10 Eis a aliança que estabelecerei com o povo de Israel, depois daqueles dias - diz o Senhor: colocarei minhas leis na sua mente e as gravarei no seu coração, e serei o seu Deus, e eles serão o meu povo. 11 Ninguém mais ensinará o seu próximo, e nem o seu irmão, dizendo: 'Conhece o Senhor!'. Porque todos me conhecerão, desde o menor até o maior. 12 Porque terei misericórdia das suas faltas, e não me lembrarei mais dos seus pecados\". 13 Assim, ao falar de nova aliança, declarou velha a primeira. Ora, o que envelhece e se torna antiquado está prestes a desaparecer."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 84(85)",
+                            "chorus": "A verdade e o amor se encontrarão.",
+                            "verses": [
+                                "Mostrai-nos, ó Senhor, vossa bondade, concedei-nos também vossa salvação! Está perto a salvação dos que o temem, e a glória habitará em nossa terra.",
+                                "A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.",
+                                "O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Em Cristo, Deus reconciliou consigo mesmo a humanidade; e a nós ele entregou esta reconciliação."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 3,13-19",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 13 Jesus subiu ao monte e chamou os que ele quis. E foram até ele. 14 Então Jesus designou Doze, para que ficassem com ele e para enviá-los a pregar, 15 com autoridade para expulsar os demônios. 16 Designou, pois, os Doze: Simão, a quem deu o nome de Pedro; 17 Tiago e João, filhos de Zebedeu, aos quais deu o nome de Boanerges, que quer dizer \"filhos do trovão\"; 18 André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu, 19 e Judas Iscariotes, aquele que depois o traiu."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

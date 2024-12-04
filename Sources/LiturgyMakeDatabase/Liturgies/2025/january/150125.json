@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "15/01/25",
+            "liturgy": "1ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 2,14-18",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Visto que os filhos têm em comum a carne e o sangue, também Jesus participou da mesma condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é, o diabo, 15 e libertar os que, por medo da morte, estavam a vida toda sujeitos à escravidão. 16 Pois, afinal, não veio ocupar-se com os anjos, mas com a descendência de Abraão. 17 Por isso devia fazer-se em tudo semelhante aos irmãos, para se tornar um sumo sacerdote misericordioso e digno de confiança nas coisas referentes a Deus, a fim de expiar os pecados do povo. 18 Pois, tendo ele próprio sofrido ao ser tentado, é capaz de socorrer os que agora sofrem a tentação."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "O Senhor se lembra sempre da Aliança.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "Dai graças ao Senhor, gritai seu nome, anunciai entre as nações seus grandes feitos! Cantai, entoai salmos para ele, publicai todas as suas maravilhas!",
+                                "Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face!",
+                                "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra.",
+                                "Ele sempre se recorda da Aliança, promulgada a incontáveis gerações; da Aliança que ele fez com Abraão, e do seu santo juramento a Isaac."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, e as conheço e elas me seguem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 1,29-39",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 29 Jesus saiu da sinagoga e foi, com Tiago e João, para a casa de Simão e André. 30 A sogra de Simão estava de cama, com febre, e eles logo contaram a Jesus. 31 E ele se aproximou, segurou sua mão e ajudou-a a levantar-se. Então, a febre desapareceu; e ela começou a servi-los. 32 À tarde, depois do pôr-do-sol, levaram a Jesus todos os doentes e os possuídos pelo demônio. 33 A cidade inteira se reuniu em frente da casa. 34 Jesus curou muitas pessoas de diversas doenças e expulsou muitos demônios. E não deixava que os demônios falassem, pois sabiam quem ele era. 35 De madrugada, quando ainda estava escuro, Jesus se levantou e foi rezar num lugar deserto. 36 Simão e seus companheiros foram à procura de Jesus. 37 Quando o encontraram, disseram: \"Todos estão te procurando\". 38 Jesus respondeu: \"Vamos a outros lugares, às aldeias da redondeza! Devo pregar também ali, pois foi para isso que eu vim\". 39 E andava por toda a Galileia, pregando em suas sinagogas e expulsando os demônios."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

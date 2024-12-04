@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "18/01/25",
+            "liturgy": "1ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 4,12-16",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 12 a Palavra de Deus é viva, eficaz e mais cortante do que qualquer espada de dois gumes. Penetra até dividir alma e espírito, articulações e medulas. Ela julga os pensamentos e as intenções do coração. 13 E não há criatura que possa ocultar-se diante dela. Tudo está nu e descoberto aos seus olhos, e é a ela que devemos prestar contas. 14 Temos um sumo sacerdote eminente, que entrou no céu, Jesus, o Filho de Deus. Por isso, permaneçamos firmes na fé que professamos. 15 Com efeito, temos um sumo sacerdote capaz de se compadecer de nossas fraquezas, pois ele mesmo foi provado em tudo como nós, com exceção do pecado. 16 Aproximemo-nos então, com toda a confiança, do trono da graça, para conseguirmos misericórdia e alcançarmos a graça de um auxílio no momento oportuno."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 18(19B)",
+                            "chorus": "Vossas palavras são espírito, são vida, tendes palavras, ó Senhor, de vida eterna.",
+                            "verses": [
+                                "A lei do Senhor Deus é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes.",
+                                "Os preceitos do Senhor são precisos, alegria ao coração. O mandamento do Senhor é brilhante, para os olhos é uma luz.",
+                                "É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente.",
+                                "Que vos agrade o cantar dos meus lábios e a voz da minha alma; que ela chegue até vós, ó Senhor, meu Rochedo e Redentor!"
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "O Espírito do Senhor repousa sobre mim e enviou-me a anunciar aos pobres o Evangelho."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 2,13-17",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 13 Jesus saiu de novo para a beira do mar. Toda a multidão ia ao seu encontro e Jesus os ensinava. 14 Enquanto passava, Jesus viu Levi, o filho de Alfeu, sentado na coletoria de impostos, e disse-lhe: \"Segue-me!\" Levi se levantou e o seguiu. 15 E aconteceu que, estando à mesa na casa de Levi, muitos cobradores de impostos e pecadores também estavam à mesa com Jesus e seus discípulos. Com efeito, eram muitos os que o seguiam. 16 Alguns doutores da Lei, que eram fariseus, viram que Jesus estava comendo com pecadores e cobradores de impostos. Então eles perguntaram aos discípulos: \"Por que ele come com os cobradores de impostos e pecadores?\" 17 Tendo ouvido, Jesus respondeu-lhes: \"Não são as pessoas sadias que precisam de médico, mas as doentes. Eu não vim para chamar justos, mas sim pecadores\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

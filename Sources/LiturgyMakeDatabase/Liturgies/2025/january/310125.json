@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "31/01/25",
+            "liturgy": "São João Bosco, presbítero, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 10,32-39",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 32 lembrai-vos dos primeiros dias, quando, apenas iluminados, suportastes longas e dolorosas lutas. 33 Às vezes, éreis apresentados como espetáculo, debaixo de injúrias e tribulações; outras vezes, vos tornáveis solidários dos que assim eram tratados. 34 Com efeito, participastes dos sofrimentos dos prisioneiros e aceitastes com alegria o confisco dos vossos bens, na certeza de possuir uma riqueza melhor e mais durável. 35 Não abandoneis, pois, a vossa coragem, que merece grande recompensa. 36 De fato, precisais de perseverança para cumprir a vontade de Deus e alcançar o que ele prometeu. 37 Porque ainda \"bem pouco tempo, e aquele que deve vir, virá e não tardará. 38 O meu justo viverá por causa de sua fidelidade, mas, se esmorecer, não encontrarei mais satisfação nele\". 39 Nós não somos desertores, para a perdição. Somos homens da fé, para a salvação da alma."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 36(37)",
+                            "chorus": "A salvação de quem é justo, vem de Deus!",
+                            "verses": [
+                                "Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração.",
+                                "Deixa aos cuidados do Senhor o teu destino; confia nele, e com certeza ele agirá. Fará brilhar tua inocência como a luz, e o teu direito, como o sol do meio-dia.",
+                                "É o Senhor quem firma os passos dos mortais e dirige o caminhar dos que lhe agradam; mesmo se caem, não irão ficar prostrados, pois é o Senhor quem os sustenta pela mão.",
+                                "A salvação dos piedosos vem de Deus; ele os protege nos momentos de aflição. O Senhor lhes dá ajuda e os liberta, defende-os e protege-os contra os ímpios, e os guarda porque nele confiaram."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os, aos doutores!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 4,26-34",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 26 Jesus disse à multidão: \"O Reino de Deus é como quando alguém espalha a semente na terra. 27 Ele vai dormir e acorda, noite e dia, e a semente vai germinando e crescendo, mas ele não sabe como isso acontece. 28 A terra, por si mesma, produz o fruto: primeiro aparecem as folhas, depois vem a espiga e, por fim, os grãos que enchem a espiga. 29 Quando as espigas estão maduras, o homem mete logo a foice, porque o tempo da colheita chegou\". 30 E Jesus continuou: \"Com que mais poderemos comparar o Reino de Deus? Que parábola usaremos para representá-lo? 31 O Reino de Deus é como um grão de mostarda que, ao ser semeado na terra, é a menor de todas as sementes da terra. 32 Quando é semeado, cresce e se torna maior do que todas as hortaliças, e estende ramos tão grandes, que os pássaros do céu podem abrigar-se à sua sombra\". 33 Jesus anunciava a Palavra usando muitas parábolas como estas, conforme eles podiam compreender. 34 E só lhes falava por meio de parábolas, mas, quando estava sozinho com os discípulos, explicava tudo."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

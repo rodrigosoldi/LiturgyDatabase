@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/01/25",
+            "liturgy": "Santa Inês, virgem e mártir, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 6,10-20",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 10 Deus não é injusto, para esquecer aquilo que estais fazendo e a caridade que demostrastes em seu nome, servindo e continuando a servir os santos. 11 Mas desejamos que cada um de vós mostre até ao fim este mesmo empenho pela plena realização da esperança, 12 para não serdes lentos à compreensão, mas imitadores daqueles que, pela fé e a perseverança, se tornam herdeiros das promessas. 13 Pois quando Deus fez a promessa a Abraão, não havendo alguém maior por quem jurar, jurou por si mesmo, 14 dizendo: \"Eu te cumularei de bênçãos e te multiplicarei em grande número\". 15 E assim, Abraão foi perseverante e alcançou a promessa. 16 Os homens juram, de fato, por alguém mais importante, e a garantia do juramento põe fim a qualquer contestação. 17 Por isso, querendo Deus mostrar, com mais firmeza, aos herdeiros da promessa, o caráter irrevogável da sua decisão, interveio com um juramento. 18 Assim, por meio de dois atos irrevogáveis, nos quais não pode haver mentira por parte de Deus, encontramos profunda consolação, nós que tudo deixamos para conseguir a esperança proposta. 19 A esperança, com efeito, é para nós qual âncora da vida, segura e firme, penetrando para além da cortina do santuário, 20 aonde Jesus entrou por nós, como precursor, feito sumo sacerdote eterno na ordem de Melquisedec."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 110(111)",
+                            "chorus": "O Senhor se lembra sempre da Aliança.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!",
+                                "O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas. Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança.",
+                                "Enviou libertação para o seu povo, confirmou sua Aliança para sempre. Seu nome é santo e é digno de respeito; Permaneça eternamente o seu louvor."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Que o Pai do Senhor Jesus Cristo vos dê do saber o Espírito; para que conheçais a esperança, reservada para vós como herança!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 2,23-28",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Jesus estava passando por uns campos de trigo, em dia de sábado. Seus discípulos começaram a arrancar espigas, enquanto caminhavam. 24 Então os fariseus disseram a Jesus: \"Olha! Por que eles fazem em dia de sábado o que não é permitido?\" 25 Jesus lhes disse: \"Por acaso, nunca lestes o que Davi e seus companheiros fizeram quando passaram necessidade e tiveram fome? 26 Como ele entrou na casa de Deus, no tempo em que Abiatar era sumo sacerdote, comeu os pães oferecidos a Deus, e os deu também aos seus companheiros? No entanto, só aos sacerdotes é permitido comer esses pães\". 27 E acrescentou: \"O sábado foi feito para o homem, e não o homem para o sábado. 28 Portanto, o Filho do Homem é senhor também do sábado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

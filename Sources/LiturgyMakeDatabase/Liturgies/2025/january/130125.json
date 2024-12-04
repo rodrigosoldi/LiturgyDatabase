@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/01/25",
+            "liturgy": "1ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 1,1-6",
+                            "title": "Início da Carta aos Hebreus",
+                            "text": "Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas; 2 nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo. 3 Este é o esplendor da glória do Pai, a expressão do seu ser. Ele sustenta o universo com o poder de sua palavra. Tendo feito a purificação dos pecados, ele sentou-se à direita da majestade divina, nas alturas. 4 Ele foi colocado tanto acima dos anjos quanto o nome que ele herdou supera o nome deles. 5 De fato, a qual dos anjos Deus disse alguma vez: \"Tu és o meu Filho, eu hoje te gerei\"? Ou ainda: \"Eu serei para ele um Pai e ele será para mim um filho\"? 6 Mas, quando faz entrar o Primogênito no mundo, Deus diz: \"Todos os anjos devem adorá-lo!\""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 96(97)",
+                            "chorus": "Adorai o Senhor Deus, vós anjos todos!",
+                            "verses": [
+                                "Deus é Rei! Exulte a terra de alegria, e as ilhas numerosas rejubilem! Treva e nuvem o rodeiam no seu trono, que se apoia na justiça e no direito.",
+                                "E assim proclama o céu sua justiça, todos os povos podem ver a sua glória. Aos pés de Deus vêm se prostrar todos os deuses!",
+                                "Porque vós sois o Altíssimo, Senhor, muito acima do universo que criastes, e de muito superais todos os deuses."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Convertei-vos e crede no Evangelho, pois o Reino de Deus está chegando."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 1,14-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o Evangelho de Deus e dizendo: 15 \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\" 16 E, passando à beira do mar da Galileia, Jesus viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores. 17 Jesus lhes disse: \"Segui-me e eu farei de vós pescadores de homens\". 18 E eles, deixando imediatamente as redes, seguiram a Jesus. 19 Caminhando mais um pouco, viu também Tiago e João, filhos de Zebedeu. Estavam na barca, consertando as redes; 20 e logo os chamou. Eles deixaram seu pai Zebedeu na barca com os empregados, e partiram, seguindo Jesus."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

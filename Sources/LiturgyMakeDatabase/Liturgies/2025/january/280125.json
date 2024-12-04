@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "28/01/25",
+            "liturgy": "Santo Tomás de Aquino, presbítero e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 10,1-10",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 1 a Lei possui apenas o esboço dos bens futuros e não o modelo real das coisas. Também, com os seus sacrifícios sempre iguais e sem desistência repetidos cada ano, ela é totalmente incapaz de levar à perfeição aqueles que se aproximam para oferecê-los. 2 Se não fosse assim, não se teria deixado de oferecê-los, se os que prestam culto, uma vez purificados, já não tivessem nenhuma consciência dos pecados? 3 Mas, ao contrário, é por meio destes sacrifícios que, anualmente, se renova a memória dos pecados, 4 pois é impossível eliminar os pecados com o sangue de touros e bodes. 5 Por isso, ao entrar no mundo, Cristo afirma: \"Tu não quiseste vítima nem oferenda, mas formaste-me um corpo. 6 Não foram do teu agrado holocaustos nem sacrifícios pelo pecado. 7 Por isso eu disse: Eis que eu venho. No livro está escrito a meu respeito: Eu vim, ó Deus, para fazer a tua vontade\". 8 Depois de dizer: \"Tu não quiseste nem te agradaram vítimas, oferendas, holocaustos, sacrifícios pelo pecado\" - coisas oferecidas segundo a Lei - 9 ele acrescenta: \"Eu vim para fazer a tua vontade\". Com isso, suprime o primeiro sacrifício, para estabelecer o segundo. 10 É graças a esta vontade que somos santificados pela oferenda do corpo de Jesus Cristo, realizada uma vez por todas."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 39(40)",
+                            "chorus": "Eis que venho fazer, com prazer, a vossa vontade, Senhor!",
+                            "verses": [
+                                "Esperando, esperei no Senhor, e inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor.",
+                                "Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, holocaustos por nossos pecados. E então eu vos disse: \"Eis que venho!\"",
+                                "Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!",
+                                "Proclamei toda a vossa justiça, sem retê-la no meu coração; vosso auxílio e lealdade narrei. Não calei vossa graça e verdade na presença da grande assembleia."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste os mistérios do Reino aos pequeninos, escondendo-os aos doutores!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 3,31-35",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 31 chegaram a mãe de Jesus e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. 32 Havia uma multidão sentada ao redor dele. Então lhe disseram: \"Tua mãe e teus irmãos estão lá fora à tua procura.\" 33 Ele respondeu: \"Quem é minha mãe, e quem são meus irmãos?\" 34 E olhando para os que estavam sentados ao seu redor, disse: \"Aqui estão minha mãe e meus irmãos. 35 Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe.\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

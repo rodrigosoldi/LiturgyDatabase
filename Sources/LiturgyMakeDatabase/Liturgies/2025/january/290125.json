@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "29/01/25",
+            "liturgy": "3ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 10,11-18",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Todo sacerdote se apresenta diariamente para celebrar o culto, oferecendo muitas vezes os mesmos sacrifícios, incapazes de apagar os pecados. 12 Cristo, ao contrário, depois de ter oferecido um sacrifício único pelos pecados, sentou-se para sempre à direita de Deus. 13 Não lhe resta mais senão esperar até que seus inimigos sejam postos debaixo de seus pés. 14 De fato, com esta única oferenda, levou à perfeição definitiva os que ele santifica. 15 É isto que também nos atesta o Espírito Santo, porque, depois de ter dito: 16 \"Eis a aliança que farei com eles, depois daqueles dias\", o Senhor declara: \"Pondo as minhas leis nos seus corações e inscrevendo-as na sua mente, 17 não me lembrarei mais dos seus pecados, nem das suas iniquidades\". 18 Ora, onde existe o perdão, já não se faz oferenda pelo pecado."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 109(110)",
+                            "chorus": "Tu és sacerdote eternamente segundo a ordem do rei Melquisedec!",
+                            "verses": [
+                                "Palavra do Senhor ao meu Senhor: \"Assenta-te ao lado meu direito até que eu ponha os inimigos teus como escabelo por debaixo de teus pés!\"",
+                                "O Senhor estenderá desde Sião vosso cetro de poder, pois Ele diz: \"Domina com vigor teus inimigos;",
+                                "Tu és príncipe desde o dia em que nasceste; na glória e esplendor da santidade, como o orvalho, antes da aurora, eu te gerei!\"",
+                                "Jurou o Senhor e manterá sua palavra: \"Tu és sacerdote eternamente, segundo a ordem do rei Melquisedec!\""
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Semente é de Deus a Palavra, o Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 4,1-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 1 Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. 2 Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: 3 \"Escutai! O semeador saiu a semear. 4 Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. 5 Outra parte caiu em terreno pedregoso, onde não havia muita terra; brotou logo, porque a terra não era profunda, 6 mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. 7 Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. 8 Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". 9 E Jesus dizia: \"Quem tem ouvidos para ouvir, ouça\". 10 Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. 11 Jesus lhes disse: \"A vós, foi dado o mistério do Reino de Deus; para os que estão fora, tudo acontece em parábolas, 12 para que olhem mas não enxerguem, escutem mas não compreendam, para que não se convertam e não sejam perdoados\". 13 E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? 14 O semeador semeia a Palavra. 15 Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. 16 Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, 17 mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. 18 Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; 19 mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. 20 Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
