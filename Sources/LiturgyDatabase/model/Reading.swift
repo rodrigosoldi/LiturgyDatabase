@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Reading: Identifiable {
+public struct Reading: Identifiable, Sendable {
 	public let id: UUID
 	public let reference: String
 	public let title: String?

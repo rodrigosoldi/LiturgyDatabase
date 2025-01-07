@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Sequence: Identifiable {
+public struct Sequence: Identifiable, Sendable {
     public let id: UUID
     public let title: String?
     public let text: String

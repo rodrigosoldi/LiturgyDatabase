@@ -7,7 +7,7 @@
 
 import Foundation
 
-public enum ListReadingType: Identifiable {
+public enum ListReadingType: Identifiable, Sendable {
     case reading(Reading)
     case psalm(Psalm)
     case gospel(Gospel)

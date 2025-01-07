@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Liturgy: Identifiable, Equatable {
+public struct Liturgy: Identifiable, Equatable, Sendable {
 
 	public let id: UUID
 	public let date: String

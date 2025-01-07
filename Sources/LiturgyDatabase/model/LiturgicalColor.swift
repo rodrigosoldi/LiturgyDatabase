@@ -7,7 +7,7 @@
 
 import Foundation
 
-public enum LiturgicalColor: String {
+public enum LiturgicalColor: String, Sendable {
 	case red = "VERMELHO"
 	case white = "BRANCO"
 	case green = "VERDE"

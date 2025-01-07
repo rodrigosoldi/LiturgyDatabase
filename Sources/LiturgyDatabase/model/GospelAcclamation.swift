@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct GospelAcclamation: Identifiable {
+public struct GospelAcclamation: Identifiable, Sendable {
 	public let id: UUID
 	public let chorus: String
 	public let text: String?

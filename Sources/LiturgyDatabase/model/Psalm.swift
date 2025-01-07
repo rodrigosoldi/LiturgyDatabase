@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Psalm: Identifiable {
+public struct Psalm: Identifiable, Sendable {
 	public let id: UUID
 	public let reference: String
 	public let chorus: String

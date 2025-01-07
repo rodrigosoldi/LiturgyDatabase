@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct ListReading: Identifiable {
+public struct ListReading: Identifiable, Sendable {
     public let id: UUID
     public let title: String
     public let observation: String?

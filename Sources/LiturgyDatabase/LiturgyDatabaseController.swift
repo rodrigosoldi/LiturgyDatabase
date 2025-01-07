@@ -15,7 +15,7 @@ public protocol LiturgyDatabaseControllable {
 	func fetchLiturgy(byDate date: String) async throws -> Liturgy?
 }
 
-public class LiturgyDatabaseController: LiturgyDatabaseControllable {
+public class LiturgyDatabaseController: LiturgyDatabaseControllable, @unchecked Sendable {
 
 
 	private let fileUtil: FileUtil
