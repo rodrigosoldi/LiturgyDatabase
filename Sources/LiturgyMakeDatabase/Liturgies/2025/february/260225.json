@@ -1,0 +1,64 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "26/02/25",
+            "liturgy": "7º Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 4,12-22",
+                            "title": "Leitura do Livro do Eclesiástico",
+                            "text": "A sabedoria comunica a vida a seus filhos e acolhe os que a procuram. 13 Os que a amam, amam a vida; os que a procuram desde manhã cedo, serão repletos de alegria pelo Senhor. 14 Quem a ela se apega, herdará a glória; para onde for, Deus o abençoará. 15 Os que a veneram, prestam culto ao Santo; pois Deus ama os que a amam. 16 Quem a escutar, julgará as nações; quem a ela se dedicar, viverá em segurança. 17 Se alguém confiar nela, vai recebê-la em herança; e na sua posse continuarão seus descendentes. 18 No começo, ela o acompanha por caminhos contrários, 19 trazendo-lhe temor e tremor; começa a prová-lo com a sua disciplina, até que ele a tenha em seus pensamentos e nela deponha sua confiança. 20 Então voltará a ele em linha reta, o confirmará e lhe dará alegria, 21 lhe revelará os seus segredos e lhe dará o tesouro da ciência e da compreensão da justiça. 22 Se, porém, se desviar, ela o abandonará e o entregará às mãos de seu inimigo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 118(119)",
+                            "chorus": "Os que amam vossa lei têm grande paz!",
+                            "verses": [
+                                "Os que amam vossa lei têm grande paz, e não há nada que os faça tropeçar.",
+                                "Serei fiel à vossa lei, vossa Aliança; os meus caminhos estão todos ante vós.",
+                                "Que prorrompam os meus lábios em canções, pois me fizestes conhecer vossa vontade!",
+                                "Desejo a vossa salvação ardentemente e encontro em vossa lei minhas delícias!",
+                                "Possa eu viver e para sempre vos louvar;  e que me ajudem, ó Senhor, vossos conselhos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Sou o Caminho, a Verdade e a Vida, ninguém vem ao Pai, senão por mim."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 9,38-40",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 38 João disse a Jesus: \"Mestre, vimos um homem expulsar demônios em teu nome. Mas nós o proibimos, porque ele não nos segue\". 39 Jesus disse: \"Não o proibais, pois ninguém faz milagres em meu nome para depois falar mal de mim. 40 Quem não é contra nós é a nosso favor\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "04/02/25",
+            "liturgy": "4ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb Hb 12,1-4",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 1 rodeados como estamos por tamanha multidão de testemunhas, deixemos de lado o que nos pesa e o pecado que nos envolve. Empenhemo-nos com perseverança no combate que nos é proposto, 2 com os olhos fixos em Jesus, que em nós começa e completa a obra da fé. Em vista da alegria que lhe foi proposta, suportou a cruz, não se importando com a infâmia, e assentou-se à direita do trono de Deus. 3 Pensai pois naquele que enfrentou uma tal oposição por parte dos pecadores, para que não vos deixeis abater pelo desânimo. 4 Vós ainda não resististes até ao sangue na vossa luta contra o pecado."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 21(22)",
+                            "chorus": "Todos aqueles que vos buscam, hão de louvar-vos, ó Senhor.",
+                            "verses": [
+                                "Sois meu louvor em meio à grande assembleia; cumpro meus votos ante aqueles que vos temem! Vossos pobres vão comer e saciar-se, e os que procuram o Senhor o louvarão;\"Seus corações tenham a vida para sempre!\"",
+                                "Lembrem-se disso os confins de toda a terra, para que voltem ao Senhor e se convertam, e se prostrem, adorando, diante dele todos os povos e as famílias das nações. Somente a ele adorarão os poderosos, e os que voltam para o pó o louvarão.",
+                                "Para ele há de viver a minha alma, toda a minha descendência há de servi-lo; às futuras gerações anunciará o poder e a justiça do Senhor; ao povo novo que há de vir, ela dirá: \"Eis a obra que o Senhor realizou!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Cristo tomou sobre si nossas dores, carregou em seu corpo as nossas fraquezas."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 5,21-43",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 21 Jesus atravessou de novo, numa barca, para a outra margem. Uma numerosa multidão se reuniu junto dele, e Jesus ficou na praia. 22 Aproximou-se, então, um dos chefes da sinagoga, chamado Jairo. Quando viu Jesus, caiu a seus pés, 23 e pediu com insistência: \"Minha filhinha está nas últimas. Vem e põe as mãos sobre ela, para que ela sare e viva!\" 24 Jesus então o acompanhou. Uma numerosa multidão o seguia e o comprimia. 25 Ora, achava-se ali uma mulher que, há doze anos, estava com uma hemorragia; 26 tinha sofrido nas mãos de muitos médicos, gastou tudo o que possuía, e, em vez de melhorar, piorava cada vez mais. 27 Tendo ouvido falar de Jesus, aproximou-se dele por detrás, no meio da multidão, e tocou na sua roupa. 28 Ela pensava: \"Se eu ao menos tocar na roupa dele, ficarei curada\". 29 A hemorragia parou imediatamente, e a mulher sentiu dentro de si que estava curada da doença. 30 Jesus logo percebeu que uma força tinha saído dele. E, voltando-se no meio da multidão, perguntou: \"Quem tocou na minha roupa?\" 31 Os discípulos disseram: \"Estás vendo a multidão que te comprime e ainda perguntas: 'Quem me tocou'? \" 32 Ele, porém, olhava ao redor para ver quem havia feito aquilo. 33 A mulher, cheia de medo e tremendo, percebendo o que lhe havia acontecido, veio e caiu aos pés de Jesus, e contou-lhe toda a verdade. 34 Ele lhe disse: \"Filha, a tua fé te curou. Vai em paz e fica curada dessa doença\". 35 Ele estava ainda falando, quando chegaram alguns da casa do chefe da sinagoga, e disseram a Jairo: \"Tua filha morreu. Por que ainda incomodar o mestre?\" 36 Jesus ouviu a notícia e disse ao chefe da sinagoga: \"Não tenhas medo. Basta ter fé!\" 37 E não deixou que ninguém o acompanhasse, a não ser Pedro, Tiago e seu irmão João. 38 Quando chegaram à casa do chefe da sinagoga, Jesus viu a confusão e como estavam chorando e gritando. 39 Então, ele entrou e disse: \"Por que essa confusão e esse choro? A criança não morreu, mas está dormindo\". 40 Começaram então a caçoar dele. Mas, ele mandou que todos saíssem, menos o pai e a mãe da menina, e os três discípulos que o acompanhavam. Depois entraram no quarto onde estava a criança. 41 Jesus pegou na mão da menina e disse: \"Talitá cum\" - que quer dizer: \"Menina, levanta-te!\" 42 Ela levantou-se imediatamente e começou a andar, pois tinha doze anos. E todos ficaram admirados. 43 Ele recomendou com insistência que ninguém ficasse sabendo daquilo. E mandou dar de comer à menina."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

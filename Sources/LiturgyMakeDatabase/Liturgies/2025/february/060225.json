@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "06/02/25",
+            "liturgy": "São Paulo Miki e companheiros mártires, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 12,18-19.21-24",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 18 vós não vos aproximastes de uma realidade palpável: \"fogo ardente e escuridão, trevas e tempestade, 19 som da trombeta e voz poderosa\", que os ouvintes suplicaram não continuasse. 21 Eles ficaram tão espantados com esse espetáculo, que Moisés disse: \"Estou apavorado e com medo\". 22 Mas vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste; da reunião festiva de milhões de anjos; 23 da assembleia dos primogênitos, cujos nomes estão escritos nos céus; de Deus, o Juiz de todos; dos espíritos dos justos, que chegaram à perfeição; 24 de Jesus, mediador da nova aliança, e da aspersão do sangue mais eloquente que o de Abel."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 47(48)",
+                            "chorus": "Recordamos, ó Senhor, vossa bondade em meio ao vosso templo.",
+                            "verses": [
+                                "Grande é o Senhor e muito digno de louvores na cidade onde ele mora; seu Monte santo, esta colina encantadora é a alegria do universo.",
+                                "Monte Sião, no extremo norte situado, és a mansão do grande Rei! Deus revelou-se em suas fortes cidadelas um refúgio poderoso.",
+                                "Como ouvimos dos antigos, contemplamos: Deus habita esta cidade, a cidade do Senhor onipotente, que ele a guarde eternamente!",
+                                "Recordamos, Senhor Deus, vossa bondade em meio ao vosso templo; com vosso nome vai também vosso louvor aos confins de toda a terra."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Convertei-vos e crede no Evangelho, pois, o Reino de Deus está chegando!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 6,7-13",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 7 Jesus chamou os doze, e começou a enviá-los dois a dois, dando-lhes poder sobre os espíritos impuros. 8 Recomendou-lhes que não levassem nada para o caminho, a não ser um cajado; nem pão, nem sacola, nem dinheiro na cintura. 9 Mandou que andassem de sandálias e que não levassem duas túnicas. 10 E Jesus disse ainda: \"Quando entrardes numa casa, ficai ali até vossa partida. 11 Se em algum lugar não vos receberem, nem quiserem vos escutar, quando sairdes, sacudi a poeira dos pés, como testemunho contra eles!\" 12 Então os doze partiram pregaram que todos se convertessem. 13 Expulsavam muitos demônios e curavam numerosos doentes, ungindo-os com óleo."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

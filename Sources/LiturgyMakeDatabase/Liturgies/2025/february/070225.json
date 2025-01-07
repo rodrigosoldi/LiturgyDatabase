@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "07/02/25",
+            "liturgy": "4ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 13,1-8",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 1 perseverai no amor fraterno. 2 Não esqueçais a hospitalidade; pois, graças a ela, alguns hospedaram anjos, sem o perceber. 3 Lembrai-vos dos prisioneiros, como se estivésseis presos com eles, e dos que são maltratados, pois também vós tendes um corpo! 4 O matrimônio seja honrado por todos e o leito conjugal, sem mancha; porque Deus julgará os imorais e adúlteros. 5 Que o amor ao dinheiro não inspire a vossa conduta. Contentai-vos com o que tendes, porque ele próprio disse: \"Eu nunca te deixarei, jamais te abandonarei\". 6 De modo que podemos dizer, com ousadia: \"O Senhor é meu auxílio, jamais temerei; que poderá fazer-me o homem?\" 7 Lembrai-vos de vossos dirigentes, que vos pregaram a palavra de Deus, e considerando o fim de sua vida, imitai-lhes a fé. 8 Jesus Cristo é o mesmo, ontem e hoje e por toda a eternidade."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 26(27)",
+                            "chorus": "O Senhor é minha luz e salvação!",
+                            "verses": [
+                                "O Senhor é minha luz e salvação; de quem eu terei medo? Senhor é a proteção da minha vida; perante quem eu tremerei?",
+                                "Se contra mim um exército se armar, não temerá meu coração; se contra mim uma batalha estourar, mesmo assim confiarei.",
+                                "Pois um abrigo me dará sob o seu teto nos dias da desgraça; no interior de sua tenda há de esconder-me e proteger-me sobre a rocha.",
+                                "Senhor, é vossa face que eu procuro; não me escondais a vossa face! Não afasteis em vossa ira o vosso servo, sois vós o meu auxílio! Não me esqueçais nem me deixeis abandonado."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Felizes os que observam a palavra do Senhor, de reto coração e que produzem muitos frutos, até o fim perseverantes!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 6,14-29",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 14 o rei Herodes ouviu falar de Jesus, cujo nome se tinha tornado muito conhecido. Alguns diziam: \"João Batista ressuscitou dos mortos. Por isso os poderes agem nesse homem\". 15 Outros diziam: \"É Elias\". Outros ainda diziam: \"É um profeta como um dos profetas\". 16 Ouvindo isto, Herodes disse: \"Ele é João Batista. Eu mandei cortar a cabeça dele, mas ele ressuscitou!\" 17 Herodes tinha mandado prender João, e colocá-lo acorrentado na prisão. Fez isso por causa de Herodíades, mulher do seu irmão Filipe, com quem se tinha casado. 18 João dizia a Herodes: \"Não te é permitido ficar com a mulher do teu irmão\". 19 Por isso Herodíades o odiava e queria matá-lo, mas não podia. 20 Com efeito, Herodes tinha medo de João, pois sabia que ele era justo e santo, e por isso o protegia. Gostava de ouvi-lo, embora ficasse embaraçado quando o escutava. 21 Finalmente, chegou o dia oportuno. Era o aniversário de Herodes, e ele fez um grande banquete para os grandes da corte, os oficiais e os cidadãos importantes da Galileia. 22 A filha de Herodíades entrou e dançou, agradando a Herodes e seus convidados. Então o rei disse à moça: \"Pede-me o que quiseres e eu to darei\". 23 E lhe jurou dizendo: \"Eu te darei qualquer coisa que me pedires, ainda que seja a metade do meu reino\". 24 Ela saiu e perguntou à mãe: \"O que vou pedir?\" A mãe respondeu: \"A cabeça de João Batista\". 25 E, voltando depressa para junto do rei, pediu: \"Quero que me dês agora, num prato, a cabeça de João Batista\". 26 O rei ficou muito triste, mas não pôde recusar. Ele tinha feito o juramento diante dos convidados. 27 Imediatamente, o rei mandou que um soldado fosse buscar a cabeça de João. O soldado saiu, degolou-o na prisão, 28 trouxe a cabeça num prato e a deu à moça. Ela a entregou à sua mãe. 29 Ao saberem disso, os discípulos de João foram lá, levaram o cadáver e o sepultaram."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

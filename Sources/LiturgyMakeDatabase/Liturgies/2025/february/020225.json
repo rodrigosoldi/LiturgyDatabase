@@ -1,0 +1,88 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "02/02/25",
+            "liturgy": "APRESENTAÇÃO DO SENHOR, Festa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ml 3,1-4",
+                            "title": "Leitura da Profecia de Malaquias",
+                            "text": "Assim diz o Senhor: 1 Eis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais. Ei-lo que vem, diz o Senhor dos exércitos; 2 e quem poderá fazer-lhe frente, no dia de sua chegada? E quem poderá resistir-lhe, quando ele aparecer? Ele é como o fogo da forja e como a barrela dos lavadeiros; 3 e estará a postos, como para fazer derreter e purificar a prata: assim ele purificará os filhos de Levi e os refinará como ouro e como prata, e eles poderão assim fazer oferendas justas ao Senhor. 4 Será então aceitável ao Senhor a oblação de Judá e de Jerusalém, como nos primeiros tempos e nos anos antigos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 23(24)",
+                            "chorus": "O Rei da glória é o Senhor onipotente!",
+                            "verses": [
+                                "Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar!\"",
+                                "Dizei-nos: \"Quem é este Rei da glória?\". \"É o Senhor, o valoroso, o onipotente, o Senhor, o poderoso nas batalhas!\"",
+                                "\"Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar!\"",
+                                "Dizei-nos: \"Quem é este Rei da glória?\"\"O Rei da glória é o Senhor onipotente, o Rei da glória é o Senhor Deus do universo\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 2,14-18",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos: 14 Visto que os filhos têm em comum a carne e o sangue, também Jesus participou da mesma condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é, o diabo, 15 e libertar os que, por medo da morte, estavam a vida toda sujeitos à escravidão. 16 Pois, afinal, não veio ocupar-se com os anjos, mas com a descendência de Abraão. 17 Por isso devia fazer-se em tudo semelhante aos irmãos, para se tornar um sumo sacerdote misericordioso e digno de confiança nas coisas referentes a Deus, a fim de expiar os pecados do povo. 18 Pois, tendo ele próprio sofrido ao ser tentado, é capaz de socorrer os que agora sofrem a tentação."
+                        }
+                    ]                
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Sois a luz que brilhará para os gentios, e para a glória de Israel, o vosso povo."
+                            },
+                            "reading": {
+                                "obs": "mais longo",
+                                "reference": "Lc 2,22-40",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Quando se completaram os dias para a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor. 23 Conforme está escrito na Lei do Senhor: \"Todo primogênito do sexo masculino deve ser consagrado ao Senhor.\" 24 Foram também oferecer o sacrifício - um par de rolas ou dois pombinhos - como está ordenado na Lei do Senhor. 25 Em Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel. O Espírito Santo estava com ele 26 e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor. 27 Movido pelo Espírito, Simeão veio ao Templo. Quando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, 28 Simeão tomou o menino nos braços e bendisse a Deus: 29 \"Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; 30 porque meus olhos viram a tua salvação, 31 que preparaste diante de todos os povos: 32 luz para iluminar as nações e glória do teu povo Israel\". 33 O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele. 34 Simeão os abençoou e disse a Maria, a mãe de Jesus: \"Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel. Ele será um sinal de contradição. 35 Assim serão revelados os pensamentos de muitos corações. Quanto a ti, uma espada te traspassará a alma\". 36 Havia também uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser. Era de idade muito avançada; quando jovem, tinha sido casada e vivera sete anos com o marido. 37 Depois ficara viúva, e agora já estava com oitenta e quatro anos. Não saía do Templo, dia e noite servindo a Deus com jejuns e orações. 38 Ana chegou nesse momento e pôs-se a louvar a Deus e a falar do menino a todos os que esperavam a libertação de Jerusalém. 39 Depois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade. 40 O menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele."
+                            }
+                        },
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Sois a luz que brilhará para os gentios, e para a glória de Israel, o vosso povo."
+                            },
+                            "reading": {
+                                "obs": "mais breve",
+                                "reference": "Lc 2,22-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Quando se completaram os dias para a purificação da mãe e do filho, conforme a Lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor. 23 Conforme está escrito na Lei do Senhor: \"Todo primogênito do sexo masculino deve ser consagrado ao Senhor.\" 24 Foram também oferecer o sacrifício - um par de rolas ou dois pombinhos - como está ordenado na Lei do Senhor. 25 Em Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel. O Espírito Santo estava com ele 26 e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor. 27 Movido pelo Espírito, Simeão veio ao Templo. Quando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, 28 Simeão tomou o menino nos braços e bendisse a Deus: 29 \"Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; 30 porque meus olhos viram a tua salvação, 31 que preparaste diante de todos os povos: 32 luz para iluminar as nações e glória do teu povo Israel\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

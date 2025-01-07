@@ -1,0 +1,65 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "28/02/25",
+            "liturgy": "7º Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 6,5-17",
+                            "title": "Leitura do Livro do Eclesiástico",
+                            "text": "Uma palavra amena multiplica os amigos e acalma os inimigos; uma língua afável multiplica as saudações. 6 Sejam numerosos os que te saúdam, mas teus conselheiros, um entre mil. 7 Se queres adquirir um amigo, adquire-o na provação; e não te apresses em confiar nele. 8 Porque há amigo de ocasião, que não persevera no dia da aflição. 9 Há amigo que passa para a inimizade, e que revela as desavenças para te envergonhar. 10 Há amigo que é companheiro de mesa e que não persevera no dia da necessidade. 11 Quando fores bem sucedido, ele será como teu igual e, sem cerimônia, dará ordens a teus criados. 12 Mas, se fores humilhado, ele estará contra ti e se esconderá da tua presença. 13 Afasta-te dos teus inimigos e toma cuidado com os amigos. 14 Um amigo fiel é poderosa proteção: quem o encontrou, encontrou um tesouro. 15 Ao amigo fiel não há nada que se compare, é um bem inestimável. 16 Um amigo fiel é um bálsamo de vida; os que temem o Senhor vão encontrá-lo. 17 Quem teme o Senhor, conduz bem a sua amizade: como ele é, tal será o seu amigo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 118(119)",
+                            "chorus": "Guiai-me pela estrada do vosso ensinamento!",
+                            "verses": [
+                                "Ó Senhor, vós sois bendito para sempre; os vossos mandamentos ensinai-me!",
+                                "Minha alegria é fazer vossa vontade; eu não posso esquecer vossa palavra.",
+                                "Abri meus olhos, e então contemplarei as maravilhas que encerra a vossa lei!",
+                                "Fazei-me conhecer vossos caminhos, e então meditarei vossos prodígios!",
+                                "Dai-me o saber, e cumprirei a vossa lei, e de todo o coração a guardarei.",
+                                "Guiai meus passos no caminho que traçastes, pois só nele encontrarei felicidade."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 10,1-12",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 1 Jesus foi para o território da Judeia, do outro lado do rio Jordão. As multidões se reuniram de novo, em torno de Jesus. E ele, como de costume, as ensinava. 2 Alguns fariseus se aproximaram de Jesus. Para pô-lo à prova, perguntaram se era permitido ao homem divorciar-se de sua mulher. 3 Jesus perguntou: \"O que Moisés vos ordenou?\" 4 Os fariseus responderam: \"Moisés permitiu escrever uma certidão de divórcio e despedi-la\". 5 Jesus então disse: \"Foi por causa da dureza do vosso coração que Moisés vos escreveu este mandamento. 6 No entanto, desde o começo da criação, Deus os fez homem e mulher. 7 Por isso, o homem deixará seu pai e sua mãe e os dois serão uma só carne. 8 Assim, já não são dois, mas uma só carne. 9 Portanto, o que Deus uniu, o homem não separe!\" 10 Em casa, os discípulos fizeram, novamente, perguntas sobre o mesmo assunto. 11 Jesus respondeu: \"Quem se divorciar de sua mulher e casar com outra, cometerá adultério contra a primeira. 12 E se a mulher se divorciar de seu marido e casar com outro, cometerá adultério\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

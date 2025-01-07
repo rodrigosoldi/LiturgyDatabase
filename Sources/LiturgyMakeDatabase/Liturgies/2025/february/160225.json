@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "16/02/25",
+            "liturgy": "6º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Jr 17,5-8",
+                            "title": "Leitura do Livro do Profeta Jeremias",
+                            "text": "Isto diz o Senhor: \"Maldito o homem que confia no homem e faz consistir sua força na carne humana, enquanto o seu coração se afasta do Senhor; 6 como os cardos no deserto, ele não vê chegar a floração, prefere vegetar na secura do ermo, em região salobra e desabitada. 7 Bendito o homem que confia no Senhor, cuja esperança é o Senhor; 8 é como a árvore plantada junto às águas, que estende as raízes em busca de umidade, por isso não teme a chegada do calor: sua folhagem mantém-se verde, não sofre míngua em tempo de seca e nunca deixa de dar frutos\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 1",
+                            "chorus": "É feliz quem a Deus se confia!",
+                            "verses": [
+                                "Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.",
+                                "Eis que ele é semelhante a uma árvore, que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar.  Eis que tudo o que ele faz vai prosperar.",
+                                "Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Cr 15,12.16-20",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 12 Se se prega que Cristo ressuscitou dos mortos, como podem alguns dizer entre vós que não há ressurreição dos mortos? 16 Pois, se os mortos não ressuscitam, então Cristo também não ressuscitou. 17 E se Cristo não ressuscitou, a vossa fé não tem nenhum valor e ainda estais nos vossos pecados. 18 Então, também os que morreram em Cristo pereceram. 19 Se é para esta vida que pusemos a nossa esperança em Cristo, nós somos – de todos os homens – os mais dignos de compaixão. 20 Mas, na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ficai muito alegres, saltai de alegria, pois, tendes um prêmio bem grande nos céus. Ficai muito alegres, saltai de alegria, Amém! Aleluia, Aleluia!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 6,17.20-26",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Naquele tempo, 17 Jesus desceu da montanha com os discípulos e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 20 E, levantando os olhos para os seus discípulos, disse: \"Bem-aventurados vós, os pobres, porque vosso é o Reino de Deus! 21 Bem-aventurados, vós que agora tendes fome, porque sereis saciados! Bem-aventurados vós, que agora chorais, porque havereis de rir! 22 Bem-aventurados, sereis, quando os homens vos odiarem, vos expulsarem, vos insultarem e amaldiçoarem o vosso nome, por causa do Filho do Homem! 23 Alegrai-vos, nesse dia, e exultai pois será grande a vossa recompensa no céu; porque era assim que os antepassados deles tratavam os profetas. 24 Mas, ai de vós, ricos, porque já tendes vossa consolação! 25 Ai de vós, que agora tendes fartura, porque passareis fome! Ai de vós, que agora rides, porque tereis luto e lágrimas! 26 Ai de vós quando todos vos elogiam! Era assim que os antepassados deles tratavam os falsos profetas\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

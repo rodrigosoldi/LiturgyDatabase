@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/02/25",
+            "liturgy": "6ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 11,1-9",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Toda a terra tinha uma só linguagem e servia-se das mesmas palavras. 2 E aconteceu que, partindo do oriente, os homens acharam uma planície na terra de Senaar, e ali se estabeleceram. 3 E disseram uns aos outros: \"Vamos, façamos tijolos e cozamo-los ao fogo\". Usaram tijolos em vez de pedra, e betume em lugar de argamassa. 4 E disseram: \"Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja o céu. Assim, ficaremos famosos, e não seremos dispersos por toda a face da terra\". 5 Então o Senhor desceu para ver a cidade e a torre que os homens estavam construindo. 6 E o Senhor disse: \"Eis que eles são um só povo e falam uma só língua. E isto é apenas o começo de seus empreendimentos. Agora, nada os impedirá de fazer o que se propuserem. 7 Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros\". 8 E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade. 9 Por isso, foi chamada Babel, porque foi lá que o Senhor confundiu a linguagem de todo o mundo, e de lá dispersou os homens por toda a terra."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 32(33)",
+                            "chorus": "Feliz o povo que o Senhor escolheu por sua herança!",
+                            "verses": [
+                                "O Senhor desfaz os planos das nações e os projetos que os povos se propõem. Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar.",
+                                "Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens.",
+                                "Ele contempla do lugar onde reside e vê a todos os que habitam sobre a terra. Ele formou o coração de cada um e por todos os seus atos se interessa."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos chamo meus amigos, pois vos dei a conhecer o que o Pai me revelou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 8,34-9,1",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 34 chamou Jesus a multidão com seus discípulos e disse: \"Se alguém me quer seguir, renuncie a si mesmo, tome a sua cruz e me siga. 35 Pois quem quiser salvar a sua vida, vai perdê-la; mas quem perder a sua vida por causa de mim e do Evangelho, vai salvá-la. 36 Com efeito, de que adianta ao homem ganhar o mundo inteiro, se perde a própria vida? 37 E o que poderia o homem dar em troca da própria vida? 38 Se alguém se envergonhar de mim e das minhas palavras diante dessa geração adúltera e pecadora, também o Filho do Homem se envergonhará dele, quando vier na glória do seu Pai com seus santos anjos\". 9,1 Disse-lhes Jesus: \"Em verdade vos digo, alguns dos que aqui estão, não morrerão sem antes terem visto o Reino de Deus chegar com poder\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

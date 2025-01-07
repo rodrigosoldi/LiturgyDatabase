@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "24/02/25",
+            "liturgy": "7º Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 1,1-10",
+                            "title": "Início do Livro do Eclesiástico",
+                            "text": "Toda sabedoria vem do Senhor Deus. Ela esteve e está sempre com Ele. 2 Quem pode contar a areia do mar, as gotas de chuva, os dias do tempo? 3 Quem poderá medir a altura do céu, a extensão da terra, a profundeza do abismo? 4 Antes de todas as coisas foi criada a sabedoria, a inteligência prudente vem da eternidade. 5 Fonte da sabedoria é a palavra de Deus no mais alto dos céus e seus caminhos são os mandamentos eternos. 6 A quem foi revelada a raiz da sabedoria? Quem conheceu as capacidades do seu engenho? 7 A ciência da sabedoria, a quem foi revelada? E quem compreendeu sua grande experiência? 8 Só um é o altíssimo, criador onipotente, rei poderoso e a quem muito se deve temer, assentado em seu trono e dominando tudo, Deus. 9 Ele é quem a criou no espírito santo: Ele a viu, a enumerou e mediu; 10 ele a derramou sobre todas as suas obras e em cada ser humano, segundo a sua bondade. Ele a concede àqueles que o temem."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 92(93)",
+                            "chorus": "Reina o Senhor, revestiu-se de esplendor.",
+                            "verses": [
+                                "Deus é Rei e se vestiu de majestade, revestiu-se de poder e de esplendor!",
+                                "Vós firmastes o universo inabalável, vós firmastes vosso trono desde a origem, desde sempre, ó Senhor, vós existis!",
+                                "Verdadeiros são os vossos testemunhos, refulge a santidade em vossa casa, pelos séculos dos séculos, Senhor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Jesus Cristo Salvador destruiu o mal e a morte; fez brilhar, pelo Evangelho, a luz e a vida imperecíveis."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 9,14-29",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 14 descendo Jesus do monte com Pedro, Tiago e João e chegando perto dos outros discípulos, viram que estavam rodeados por uma grande multidão. Alguns mestres da Lei estavam discutindo com eles. 15 Logo que a multidão viu Jesus, ficou surpresa e correu para saudá-lo. 16 Jesus perguntou aos discípulos: \"O que discutis com eles?\" 17 Alguém da multidão respondeu: \"Mestre, eu trouxe a ti meu filho que tem um espírito mudo. 18 Cada vez que o espírito o ataca, joga-o no chão e ele começa a espumar, range os dentes e fica completamente rijo. Eu pedi aos teus discípulos para expulsarem o espírito. Mas eles não conseguiram\". 19 Jesus disse: \"Ó geração incrédula! Até quando estarei convosco? Até quando terei que suportar-vos? Trazei aqui o menino\". 20 E levaram-lhe o menino. Quando o espírito viu Jesus, sacudiu violentamente o menino, que caiu no chão e começou a rolar e a espumar pela boca. 21 Jesus perguntou ao pai: \"Desde quando ele está assim?\" O pai respondeu: \"Desde criança. 22 E muitas vezes, o espírito já o lançou no fogo e na água para matá-lo. Se podes fazer alguma coisa, tem piedade de nós e ajuda-nos\". 23 Jesus disse: \"Se podes!... Tudo é possível para quem tem fé\". 24 O pai do menino disse em alta voz: \"Eu tenho fé, mas ajuda a minha falta de fé\". 25 Jesus viu que a multidão acorria para junto dele. Então ordenou ao espírito impuro: \"Espírito mudo e surdo, eu te ordeno que saias do menino e nunca mais entres nele\". 26 O espírito sacudiu o menino com violência, deu um grito e saiu. O menino ficou como morto, e por isso todos diziam: \"Ele morreu!\" 27 Mas Jesus pegou a mão do menino, levantou-o e o menino ficou de pé. 28 Depois que Jesus entrou em casa, os discípulos lhe perguntaram a sós: \"Por que nós não conseguimos expulsar o espírito?\" 29 Jesus respondeu: \"Essa espécie de demônios não pode ser expulsa de nenhum modo, a não ser pela oração\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

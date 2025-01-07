@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "20/02/25",
+            "liturgy": "6ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 9,1-13",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Deus abençoou Noé e seus filhos, dizendo-lhes: \"Sede fecundos, multiplicai-vos e enchei a terra. 2 Vós sereis objeto de medo e terror para todos os animais da terra, todas as aves do céu, tudo o que se move sobre a terra e todos os peixes do mar: eis que os entrego todos em vossas mãos. 3 Tudo o que vive e se move vos servirá de alimento. Entrego-vos tudo, como já vos dei os vegetais. 4 Contudo, não deveis comer carne com sangue, que é sua vida. 5 Da mesma forma, pedirei contas do vosso sangue, que é vida, a qualquer animal. E ao homem pedirei contas da vida do homem, seu irmão. 6 Quem derramar sangue humano, por mãos de homem terá seu sangue derramado, porque o homem foi feito à imagem de Deus. 7 Quanto a vós, sede fecundos e multiplicai-vos, enchei a terra e dominai-a\". 8 Disse Deus a Noé e a seus filhos: 9 \"Eis que vou estabelecer minha aliança convosco e com vossa descendência, 10 com todos os seres vivos que estão convosco: aves, animais domésticos e selvagens, enfim, com todos os animais da terra, que saíram convosco da arca. 11 Estabeleço convosco a minha aliança: nenhuma criatura será mais exterminada pelas águas do dilúvio, e não haverá mais dilúvio para devastar a terra\". 12 E Deus disse: \"Este é o sinal da aliança que coloco entre mim e vós, e todos os seres vivos que estão convosco, por todas as gerações futuras. 13 Ponho meu arco nas nuvens como sinal de aliança entre mim e a terra\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 101(102)",
+                            "chorus": "O Senhor olhou a terra do alto céu.",
+                            "verses": [
+                                "As nações respeitarão o vosso nome, e os reis de toda a terra, a vossa glória; quando o Senhor reconstruir Jerusalém e aparecer com gloriosa majestade, ele ouvirá a oração dos oprimidos e não desprezará a sua prece.",
+                                "Para as futuras gerações se escreva isto, e um povo novo a ser criado louve a Deus. Ele inclinou-se de seu templo nas alturas, e o Senhor olhou a terra do alto céu, para os gemidos dos cativos escutar e da morte libertar os condenados.",
+                                "Assim também a geração dos vossos servos terá casa e viverá em segurança, e ante vós se firmará sua descendência. Para que cantem o seu nome em Sião e louve ao Senhor Jerusalém, quando os povos e as nações se reunirem e todos os impérios o servirem."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 8,27-33",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 27 Jesus partiu com seus discípulos para os povoados de Cesareia de Filipe. No caminho perguntou aos discípulos: \"Quem dizem os homens que eu sou?\" 28 Eles responderam: \"Alguns dizem que tu és João Batista; outros que és Elias; outros, ainda, que és um dos profetas\". 29 Então ele perguntou: \"E vós, quem dizeis que eu sou?\" Pedro respondeu: \"Tu és o Messias\". 30 Jesus proibiu-lhes severamente de falar a alguém a seu respeito. 31 Em seguida, começou a ensiná-los, dizendo que o Filho do Homem devia sofrer muito, ser rejeitado pelos anciãos, pelos sumos sacerdotes e doutores da Lei, devia ser morto, e ressuscitar depois de três dias. 32 Ele dizia isso abertamente. Então Pedro tomou Jesus à parte e começou a repreendê-lo. 33 Jesus voltou-se, olhou para os discípulos e repreendeu a Pedro, dizendo: \"Vai para longe de mim, Satanás! Tu não pensas como Deus, e sim como os homens\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

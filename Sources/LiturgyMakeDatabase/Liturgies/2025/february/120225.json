@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/02/25",
+            "liturgy": "5ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 2,4b-9.15-17",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "No dia em que o Senhor fez a terra e o céu, 5 ainda não havia nenhum arbusto do campo sobre a terra, e ainda nenhuma erva do campo tinha brotado, porque o Senhor Deus não tinha feito chover sobre a terra, e nem existia homem para cultivar o solo. 6 Mas uma fonte brotava da terra, e lhe regava toda a superfície. 7 Então o Senhor Deus formou o homem do pó da terra, soprou-lhe nas narinas o sopro da vida e o homem tornou-se um ser vivente. 8 Depois, o Senhor Deus plantou um jardim em Éden, a oriente, e ali pôs o homem que havia formado. 9 E o Senhor Deus fez brotar da terra toda sorte de árvores de aspecto atraente e de fruto saboroso ao paladar, a árvore da vida no meio do jardim e a árvore do conhecimento do bem e do mal. 15 O Senhor Deus tomou o homem e colocou-o no jardim de Éden, para o cultivar e guardar. 16 E o Senhor Deus deu ao homem uma ordem, dizendo: \"Podes comer de todas as árvores do jardim, 17 mas não comas da árvore do conhecimento do bem e do mal; porque, no dia em que fizeres, sem dúvida morrerás\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 103(104)",
+                            "chorus": "Bendize, ó minha alma, ao Senhor!",
+                            "verses": [
+                                "Bendize, ó minha alma, ao Senhor! Ó meu Deus e meu Senhor, como sois grande! De majestade e esplendor vos revestis e de luz vos envolveis como num manto.",
+                                "Todos eles, ó Senhor, de vós esperam que a seu tempo vós lhes deis o alimento; vós lhes dais o que comer e eles recolhem, vós abris a vossa mão e eles se fartam.",
+                                "Se tirais o seu respiro, eles perecem e voltam para o pó de onde vieram; enviais o vosso espírito e renascem e da terra toda a face renovais."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 7,14-23",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 14 Jesus chamou a multidão para perto de si e disse: \"Escutai todos e compreendei: 15 o que torna impuro o homem não é o que entra nele vindo de fora, mas o que sai do seu interior. 16 Quem tem ouvidos para ouvir, ouça\". 17 Quando Jesus entrou em casa, longe da multidão, os discípulos lhe perguntaram sobre essa parábola. 18 Jesus lhes disse: \"Será que nem vós compreendeis? Não entendeis que nada do que vem de fora e entra numa pessoa, pode torná-la impura, 19 porque não entra em seu coração, mas em seu estômago e vai para o fossa?\" Assim Jesus declarava que todos os alimentos eram puros. 20 Ele disse: \"O que sai do homem, isso é que o torna impuro. 21 Pois é de dentro do coração humano que saem as más intenções, imoralidades, roubos, assassínios, 22 adultérios, ambições desmedidas, maldades, fraudes, devassidão, inveja, calúnia, orgulho, falta de juízo. 23 Todas estas coisas más saem de dentro, e são elas que tornam impuro o homem\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

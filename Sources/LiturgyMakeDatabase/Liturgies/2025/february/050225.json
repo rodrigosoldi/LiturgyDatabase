@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "05/02/25",
+            "liturgy": "Santa Águeda, virgem e mártir, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Hb 12,4-7.11-15",
+                            "title": "Leitura da Carta aos Hebreus",
+                            "text": "Irmãos, 4 vós ainda não resististes até ao sangue na vossa luta contra o pecado, 5 e já esquecestes as palavras de encorajamento que vos foram dirigidas como a filhos: \"Meu filho, não desprezes a educação do Senhor, não te desanimes quando ele te repreende; 6 pois o Senhor corrige a quem ele ama e castiga a quem aceita como filho\". 7 É para a vossa educação que sofreis, e é como filhos que Deus vos trata. Pois qual é o filho a quem o pai não corrige? 11 No momento mesmo, nenhuma correção parece alegrar, mas causa dor. Depois, porém, produz um fruto de paz e de justiça para aqueles que nela foram exercitados. 12 Portanto, \"firmai as mãos cansadas e os joelhos enfraquecidos; 13 acertai os passos dos vossos pés\", para que não se extravie o que é manco, mas antes seja curado. 14 Procurai a paz com todos, e a santificação, sem a qual ninguém verá o Senhor; 15 cuidai para que ninguém abandone a graça de Deus. Que nenhuma raiz venenosa cresça no meio de vós, tumultuando e contaminando a comunidade."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 102(103)",
+                            "chorus": "O amor do Senhor por quem o respeita, é de sempre e para sempre.",
+                            "verses": [
+                                "Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores!",
+                                "Como um pai se compadece de seus filhos, o Senhor tem compaixão dos que o temem. Porque sabe de que barro somos feitos, e se lembra que apenas somos pó.",
+                                "Mas o amor do Senhor Deus por quem o teme é de sempre e perdura para sempre; e também sua justiça se estende por gerações até os filhos de seus filhos, aos que guardam fielmente sua Aliança."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz; eu as conheço e as me seguem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 6,1-6",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 1 Jesus foi a Nazaré, sua terra, e seus discípulos o acompanharam. 2 Quando chegou o sábado, começou a ensinar na sinagoga. Muitos que o escutavam ficavam admirados e diziam: \"De onde recebeu ele tudo isto? Como conseguiu tanta sabedoria? E esses grandes milagres que são realizados por suas mãos? 3 Este homem não é o carpinteiro, filho de Maria e irmão de Tiago, de Joset, de Judas e de Simão? Suas irmãs não moram aqui conosco?' E ficaram escandalizados por causa dele. 4 Jesus lhes dizia: \"Um profeta só não é estimado em sua pátria, entre seus parentes e familiares\". 5 E ali não pôde fazer milagre algum. Apenas curou alguns doentes, impondo-lhes as mãos. 6 E admirou-se com a falta de fé deles. Jesus percorria os povoados das redondezas, ensinando."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

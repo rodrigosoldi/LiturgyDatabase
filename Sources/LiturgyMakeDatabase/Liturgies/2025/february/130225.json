@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/02/25",
+            "liturgy": "5ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 2,18-25",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "O Senhor Deus disse: \"Não é bom que o homem esteja só. Vou dar-lhe uma auxiliar semelhante a ele\". 19 Então o Senhor Deus formou da terra todos os animais selvagens e todas as aves do céu, e trouxe-os a Adão para ver como os chamaria; todo o ser vivo teria o nome que Adão lhe desse. 20 E Adão deu nome a todos os animais domésticos, a todas as aves do céu e a todos os animais selvagens, mas Adão não encontrou uma auxiliar semelhante a ele. 21 Então o Senhor Deus fez cair um sono profundo sobre Adão. Quando tirou-lhe uma das costelas e fechou o lugar com carne. 22 Depois, da costela tirada de Adão, O Senhor Deus formou a mulher e conduziu-a a Adão. 23 E Adão exclamou: \"Desta vez, sim, é osso dos meus ossos e carne da minha carne! Ela será chamada 'mulher' porque foi tirada do homem\". 24 Por isso, o homem deixará seu pai e sua mãe e se unirá à sua mulher, e eles serão uma só carne. 25 Ora, ambos estavam nus, Adão e sua mulher, e não se envergonhavam."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 127(128)",
+                            "chorus": "Felizes todos os que respeitam o Senhor.",
+                            "verses": [
+                                "Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!",
+                                "A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa.",
+                                "Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Acolhei docilmente a Palavra semeada em vós, meus irmãos; ela pode salvar vossas vidas!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 7,24-30",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 24 Jesus saiu dali e foi para a região de Tiro e Sidônia. Entrou numa casa e não queria que ninguém soubesse onde ele estava. Mas não conseguiu ficar escondido. 25 Uma mulher, que tinha uma filha com um espírito impuro, ouviu falar de Jesus. Foi até ele e caiu a seus pés. 26 A mulher era pagã, nascida na Fenícia da Síria. Ela suplicou a Jesus que expulsasse de sua filha o demônio. 27 Jesus disse: \"Deixa primeiro que os filhos fiquem saciados, porque não está certo tirar o pão dos filhos e jogá-lo aos cachorrinhos\". 28 A mulher respondeu: \"É verdade, Senhor; mas também os cachorrinhos, debaixo da mesa, comem as migalhas que as crianças deixam cair\". 29 Então Jesus disse: \"Por causa do que acabas de dizer, podes voltar para casa. O demônio já saiu de tua filha\". 30 Ela voltou para casa e encontrou sua filha deitada na cama, pois o demônio já havia saído dela."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

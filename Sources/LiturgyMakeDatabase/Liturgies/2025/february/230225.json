@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "23/02/25",
+            "liturgy": "7º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "1Sm 26,2.7-9.12-13.22-23",
+                            "title": "Leitura do Primeiro Livro de Samuel",
+                            "text": "Naqueles dias, 2 Saul pôs-se em marcha e desceu ao deserto de Zif. Vinha acompanhado de três mil homens, escolhidos de Israel, para procurar Davi no deserto de Zif. 7 Davi e Abisai dirigiram-se de noite até ao acampamento, e encontraram Saul deitado e dormindo no meio das barricadas, com a sua lança à cabeceira, fincada no chão. Abner e seus soldados dormiam ao redor dele. 8 Abisai disse a Davi: \"Deus entregou hoje em tuas mãos o teu inimigo. Vou cravá-lo em terra com uma lançada, e não será preciso repetir o golpe\". 9 Mas Davi respondeu: \"Não o mates! Pois quem poderia estender a mão contra o ungido do Senhor, e ficar impune?\" 12 Então Davi apanhou a lança e a bilha de água que estavam junto da cabeceira de Saul, e foram-se embora. Ninguém os viu, ninguém se deu conta de nada, ninguém despertou, pois todos dormiam um profundo sono que o Senhor lhes tinha enviado. 13 Davi atravessou para o outro lado, parou no alto do monte, ao longe, deixando um grande espaço entre eles. 22 E Davi disse: \"Aqui está a lança do rei. Venha cá um dos teus servos buscá-la! 23 O Senhor retribuirá a cada um conforme a sua justiça e a sua fidelidade. Pois ele te havia entregue hoje em meu poder, mas eu não quis estender a minha mão contra o ungido do Senhor.\""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 102(103)",
+                            "chorus": "O Senhor é bondoso e compassivo.",
+                            "verses": [
+                                "Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores!",
+                                "Pois ele te perdoa toda culpa, e cura toda a tua enfermidade; da sepultura ele salva a tua vida e te cerca de carinho e compaixão.",
+                                "O Senhor é indulgente, é favorável, é paciente, é bondoso e compassivo. Não nos trata como exigem nossas faltas, nem nos pune em proporção às nossas culpas.",
+                                "Quanto dista o nascente do poente, tanto afasta para longe nossos crimes. Como um pai se compadece de seus filhos, o Senhor tem compaixão dos que o temem."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Cr 15,45-49",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 45 O primeiro homem, Adão, \"foi um ser vivo\". O segundo Adão é um espírito vivificante. 46 Veio primeiro não o homem espiritual, mas o homem natural; depois é que veio o homem espiritual. 47 O primeiro homem, tirado da terra, é terrestre; o segundo homem vem do céu. 48 Como foi o homem terrestre, assim também são as pessoas terrestres; e como é o homem celeste, assim também vão ser as pessoas celestes. 49 E como já refletimos a imagem do homem terrestre, assim também refletiremos a imagem do homem celeste."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos dou este novo mandamento, nova ordem, agora, vos dou; que, também vos ameis uns aos outros, como eu vos amei, diz o Senhor."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 6,27-38",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 27 \"A vós que me escutais, eu digo: Amai os vossos inimigos e fazei o bem aos que vos odeiam, 28 bendizei os que vos amaldiçoam, e rezai por aqueles que vos caluniam. 29 Se alguém te der uma bofetada numa face, oferece também a outra. Se alguém te tomar o manto, deixa-o levar também a túnica. 30 Dá a quem te pedir e, se alguém tirar o que é teu, não peças que o devolva. 31 o que vós desejais que os outros vos façam, fazei-o também vós a eles. 32 Se amais somente aqueles que vos amam, que recompensa tereis? Até os pecadores amam aqueles que os amam. 33 E se fazeis o bem somente aos que vos fazem o bem, que recompensa tereis? Até os pecadores fazem assim. 34 E se emprestais somente àqueles de quem esperais receber, que recompensa tereis? Até os pecadores emprestam aos pecadores, para receber de volta a mesma quantia. 35 Ao contrário, amai os vossos inimigos, fazei o bem e emprestai sem esperar coisa alguma em troca. Então, a vossa recompensa será grande, e sereis filhos do Altíssimo, porque Deus é bondoso também para com os ingratos e os maus. 36 Sede misericordiosos, como também o vosso Pai é misericordioso. 37 Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai, e sereis perdoados. 38 Dai e vos será dado. Uma boa medida, calcada, sacudida, transbordante será colocada no vosso colo; porque com a mesma medida com que medirdes os outros, vós também sereis medidos\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
