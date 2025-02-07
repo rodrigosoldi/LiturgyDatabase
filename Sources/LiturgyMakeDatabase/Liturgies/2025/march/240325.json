@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "24/03/25",
+            "liturgy": "3ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Rs 5,1-15a",
+                            "title": "Leitura do Segundo Livro dos Reis",
+                            "text": "Naqueles dias, 1 Naamã, general do exército do rei da Síria, era um homem muito estimado e considerado pelo seu senhor, pois foi por meio dele que o Senhor concedeu a vitória aos arameus. Mas esse homem, valente guerreiro, era leproso. 2 Ora, um bando de arameus que tinha saído da Síria, tinha levado cativa uma moça do país de Israel. Ela ficou ao serviço da mulher de Naamã. 3 Disse ela à sua senhora: \"Ah, se meu senhor se apresentasse ao profeta que reside em Samaria, sem dúvida, ele o livraria da lepra de que padece!\" 4 Naamã foi então informar o seu senhor: \"Uma moça do país de Israel disse isto e isto\". 5 Disse-lhe o rei de Aram: \"Vai, que eu enviarei uma carta ao rei de Israel\". Naamã partiu, levando consigo dez talentos de prata, seis mil siclos de ouro e dez mudas de roupa. 6 E entregou ao rei de Israel a carta, que dizia: \"Quando receberes esta carta, saberás que eu te enviei Naamã, meu servo, para que o cures de sua lepra\". 7 O rei de Israel, tendo lido a carta, rasgou suas vestes e disse: \"Sou Deus, porventura, que possa dar a morte e a vida, para que este me mande um homem para curá-lo de lepra? Vê-se bem que ele busca pretexto contra mim\". 8 Quando Eliseu, o homem de Deus, soube que o rei de Israel havia rasgado as vestes,mandou dizer-lhe: \"Por que rasgaste tuas vestes? Que ele venha a mim, para que saibas que há um profeta em Israel\". 9 Então Naamã chegou com seus cavalos e carros, e parou à porta da casa de Eliseu. 10 Eliseu mandou um mensageiro para lhe dizer: \"Vai, lava-te sete vezes no Jordão, e tua carne será curada e ficarás limpo\". 11 Naamã, irritado, foi-se embora, dizendo: \"Eu pensava que ele sairia para me receber e que, de pé, invocaria o nome do Senhor, seu Deus, e que tocaria com sua mão o lugar da lepra e me curaria. 12 Será que os rios de Damasco, o Abana e o Farfar, não são melhores do que todas as águas de Israel, para eu me banhar nelas e ficar limpo?\" Deu meia-volta e partiu indignado. 13 Mas seus servos aproximaram-se dele e disseram-lhe: \"Senhor, se o profeta te mandasse fazer uma coisa difícil, não a terias feito? Quanto mais agora que ele te disse: 'Lava-te e ficarás limpo'\". 14 Então ele desceu e mergulhou sete vezes no Jordão, conforme o homem de Deus tinha mandado, e sua carne tornou-se semelhante à de uma criancinha, e ele ficou purificado. 15a Em seguida, voltou com toda a sua comitiva para junto do homem de Deus. Ao chegar, apresentou-se diante dele e disse: \"Agora estou convencido de que não há outro Deus em toda a terra, senão o que há em Israel!\""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 41(42)",
+                            "chorus": "Minha alma tem sede de Deus, do Deus vivo: e quando verei a face de Deus?",
+                            "verses": [
+                                "Assim como a corça suspira pelas águas correntes,suspira igualmente minh'alma por vós, ó meu Deus!",
+                                "A minh'alma tem sede de Deus, e deseja o Deus vivo.Quando terei a alegria de ver a face de Deus?",
+                                "Enviai vossa luz, vossa verdade: elas serão o meu guia;que me levem ao vosso Monte santo, até a vossa morada!",
+                                "Então irei aos altares do Senhor, Deus da minha alegria. Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o ungido de Deus Pai!",
+                                "text": "No Senhor ponho a minha esperança, espero em sua palavra. Pois no Senhor se encontra toda graça e copiosa redenção."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 4,24-30",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Jesus, vindo a Nazaré, disse ao povo na sinagoga:24 \"Em verdade eu vos digo que nenhum profeta é bem recebido em sua pátria. 25 De fato, eu vos digo:no tempo do profeta Elias, quando não choveu durante três anos e seis meses e houve grande fome em toda a região, havia muitas viúvas em Israel. 26 No entanto, a nenhuma delas foi enviado Elias, senão a uma viúva que vivia em Sarepta, na Sidônia. 27 E no tempo do profeta Eliseu, havia muitos leprosos em Israel. Contudo, nenhum deles foi curado, mas sim Naamã, o sírio\". 28 Quando ouviram estas palavras de Jesus, todos na sinagoga ficaram furiosos. 29 Levantaram-se e o expulsaram da cidade. Levaram-no até ao alto do monte sobre o qual a cidade estava construída, com a intenção de lançá-lo no precipício. 30 Jesus, porém, passando pelo meio deles, continuou o seu caminho."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

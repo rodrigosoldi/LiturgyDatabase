@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "14/03/25",
+            "liturgy": "1ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ez 18,21-28",
+                            "title": "Leitura da Profecia de Ezequiel",
+                            "text": "Assim fala o Senhor: 21 \"Se o ímpio se arrepender de todos os pecados cometidos, e guardar todas as minhas leis, e praticar o direito e a justiça, viverá com certeza e não morrerá. 22 Nenhum dos pecados que cometeu será lembrado contra ele. Viverá por causa da justiça que praticou. 23 Será que eu tenho prazer na morte do ímpio? - oráculo do Senhor Deus. Não desejo, antes, que mude de conduta e viva? 24 Mas, se o justo se desviar de sua justiça e praticar o mal, imitando todas as práticas detestáveis feitas pelo ímpio, poderá fazer isso e viver? Da justiça que ele praticou, nada mais será lembrado. Por causa da infidelidade e do pecado que cometeu, por causa disso morrerá. 25 Mas vós andais dizendo: 'A conduta do Senhor não é correta'. Ouvi, vós da casa de Israel: É a minha conduta que não é correta, ou antes é a vossa conduta que não é correta? 26 Quando um justo se desvia da justiça, pratica o mal e morre, é por causa do mal praticado que ele morre. 27 Quando um ímpio se arrepende da maldade que praticou e observa o direito e a justiça, conserva a própria vida. 28 Arrependendo-se de todos os seus pecados, com certeza viverá; não morrerá\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 129(130)",
+                            "chorus": "Se levardes em conta nossas faltas, quem haverá de subsistir?",
+                            "verses": [
+                                "Das profundezas eu clamo a vós, Senhor, escutai a minha voz! Vossos ouvidos estejam bem atentos ao clamor da minha prece!",
+                                "Se levardes em conta nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão, eu vos temo e em vós espero.",
+                                "No Senhor ponho a minha esperança, espero em sua palavra. A minh'alma espera no Senhor mais que o vigia pela aurora.",
+                                "Espere Israel pelo Senhor, mais que o vigia pela aurora! pois no Senhor se encontra toda graça e copiosa redenção.Ele vem libertar a Israel de toda a sua culpa."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, ó Cristo, imagem do Pai, a plena verdade nos comunicai!",
+                                "text": "Lançai para bem longe toda a vossa iniquidade! Criai em vós um novo espírito e um novo coração!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,20-26",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 20 \"Se a vossa justiça não for maior que a justiça dos mestres da Lei e dos fariseus, vós não entrareis no Reino dos Céus. 21 Vós ouvistes o que foi dito aos antigos: 'Não matarás! Quem matar será condenado pelo tribunal'. 22 Eu, porém, vos digo: todo aquele que se encoleriza com seu irmão será réu em juízo; quem disser ao seu irmão: 'patife!' será condenado pelo tribunal; quem chamar o irmão de 'tolo' será condenado ao fogo do inferno. 23 Portanto, quando tu estiveres levando a tua oferta para o altar, e ali te lembrares que teu irmão tem alguma coisa contra ti, 24 deixa a tua oferta ali diante do altar, e vai primeiro reconciliar-te com o teu irmão. Só então vai apresentar a tua oferta. 25 Procura reconciliar-te com teu adversário, enquanto caminha contigo para o tribunal. Senão o adversário te entregará ao juiz, o juiz te entregará ao oficial de justiça, e tu serás jogado na prisão. 26 Em verdade eu te digo: dali não sairás, enquanto não pagares o último centavo."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

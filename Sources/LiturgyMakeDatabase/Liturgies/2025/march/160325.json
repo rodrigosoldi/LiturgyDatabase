@@ -1,0 +1,82 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "16/03/25",
+            "liturgy": "2º Domingo da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 15,5-12.17-18",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 5 o Senhor conduziu Abrão para fora e disse-lhe: \"Olha para o céu e conta as estrelas, se fores capaz!\" E acrescentou: \"Assim será a tua descendência\". 6 Abrão teve fé no Senhor, que considerou isso como justiça. 7 E lhe disse: \"Eu sou o Senhor que te fez sair de Ur dos Caldeus, para te dar em possessão esta terra\". 8 Abrão lhe perguntou: \"Senhor Deus, como poderei saber que vou possuí-la?\" 9 E o Senhor lhe disse: \"Traze-me uma novilha de três anos, uma cabra de três anos, um carneiro de três anos, além de uma rola e de uma pombinha\". 10 Abrão trouxe tudo e dividiu os animais pelo meio, mas não as aves, colocando as respectivas partes uma frente à outra. 11 Aves de rapina se precipitaram sobre os cadáveres, mas Abrão as enxotou. 12 Quando o sol já se ia pondo, caiu um sono profundo sobre Abrão e ele foi tomado de grande e misterioso terror. 17 Quando o sol se pôs e escureceu, apareceu um braseiro fumegante e uma tocha de fogo, que passaram por entre os animais divididos. 18 Naquele dia o Senhor fez aliança com Abrão, dizendo: \"Aos teus descendentes darei esta terra, desde o rio do Egito até o grande rio, o Eufrates\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 26(27)",
+                            "chorus": "O Senhor é minha luz e salvação.",
+                            "verses": [
+                                "O Senhor é minha luz e salvação; de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei?",
+                                "Ó Senhor, ouvi a voz do meu apelo, atendei por compaixão! Meu coração fala convosco confiante, é a vossa face que eu procuro.",
+                                "Não afasteis em vossa ira o vosso servo, sois vós o meu auxílio! Não me esqueçais nem me deixeis abandonado, meu Deus e Salvador!",
+                                "Sei que a bondade do Senhor eu hei de ver na terra dos viventes.Espera no Senhor e tem coragem, espera no Senhor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "mais longa",
+                            "reference": "Fl 3,17-4,1",
+                            "title": "Leitura da Carta de São Paulo aos Filipenses",
+                            "text": "17 Sede meus imitadores, irmãos e observai os que vivem de acordo com o exemplo que nós damos. 18 Já vos disse muitas vezes, e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19 O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20 Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo. 21 Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1 Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+                        },
+                        {
+                            "obs": "mais breve",
+                            "reference": "Fl 3,20-4,1",
+                            "title": "Leitura da Carta de São Paulo aos Filipenses",
+                            "text": "Irmãos: 20 Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso Salvador, o Senhor, Jesus Cristo. 21 Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1 Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Louvor a vós, ó Cristo, rei da eterna glória.",
+                                "text": "Numa nuvem resplendente fez-se ouvir a voz do Pai: Eis meu Filho muito amado, escutai-o, todos vós!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 9,28b-36",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 28b Jesus levou consigo Pedro, João e Tiago, e subiu à montanha para rezar. 29 Enquanto rezava, seu rosto mudou de aparência e sua roupa ficou muito branca e brilhante. 30 Eis que dois homens estavam conversando com Jesus: eram Moisés e Elias. 31 Eles apareceram revestidos de glória e conversavam sobre a morte, que Jesus iria sofrer em Jerusalém. 32 Pedro e os companheiros estavam com muito sono. Ao despertarem, viram a glória de Jesus e os dois homens que estavam com ele. 33 E quando estes homens se iam afastando, Pedro disse a Jesus: \"Mestre, é bom estarmos aqui. Vamos fazer três tendas: uma para ti, outra para Moisés e outra para Elias\". Pedro não sabia o que estava dizendo. 34 Ele estava ainda falando, quando apareceu uma nuvem que os cobriu com sua sombra. Os discípulos ficaram com medo ao entrarem dentro da nuvem. 35 Da nuvem, porém, saiu uma voz que dizia: \"Este é o meu Filho, o Escolhido. Escutai o que ele diz!\" 36 Enquanto a voz ressoava, Jesus encontrou-se sozinho. Os discípulos ficaram calados e naqueles dias não contaram a ninguém nada do que tinham visto."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

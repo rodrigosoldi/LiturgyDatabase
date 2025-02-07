@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "15/03/25",
+            "liturgy": "1ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dt 26,16-19",
+                            "title": "Leitura do Livro do Deuteronômio",
+                            "text": "Moisés dirigiu a palavra ao povo de Israel e lhe disse: 16 \"Hoje, o Senhor teu Deus te manda cumprir esses preceitos e decretos. Guarda-os e observa-os com todo o teu coração e com toda a tua alma. 17 Tu escolheste hoje o Senhor para ser o teu Deus, para seguires os seus caminhos, e guardares seus preceitos, mandamentos e decretos, e para obedeceres à sua voz. 18 E o Senhor te escolheu, hoje, para que sejas para ele um povo particular, como te prometeu, a fim de observares todos os seus mandamentos. 19 Assim ele te fará ilustre entre todas as nações que criou, e te tornará superior em honra e glória, a fim de que sejas o povo santo do Senhor teu Deus, como ele disse\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 118(119)",
+                            "chorus": "Feliz é quem na lei do Senhor Deus vai progredindo!",
+                            "verses": [
+                                "Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo! Feliz o homem que observa seus preceitos, e de todo o coração procura a Deus!",
+                                "Os vossos mandamentos vós nos destes, para serem fielmente observados.Oxalá seja bem firme a minha vida em cumprir vossa vontade e vossa lei!",
+                                "Quero louvar-vos com sincero coração, pois aprendi as vossas justas decisões. Quero guardar vossa vontade e vossa lei; Senhor, não me deixeis desamparado!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, ó Cristo, imagem do Pai, a plena verdade nos comunicai!",
+                                "text": "Eis o tempo de conversão, eis o dia da salvação."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,43-48",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 43 \"Vós ouvistes o que foi dito: 'Amarás o teu próximo e odiarás o teu inimigo!' 44 Eu, porém, vos digo: Amai os vossos inimigos e rezai por aqueles que vos perseguem! 45 Assim, vos tornareis filhos do vosso Pai que está nos céus, porque ele faz nascer o sol sobre maus e bons, e faz cair a chuva sobre justos e injustos. 46 Porque, se amais somente aqueles que vos amam, que recompensa tereis? Os cobradores de impostos não fazem a mesma coisa? 47 E se saudais somente os vossos irmãos, o que fazeis de extraordinário? Os pagãos não fazem a mesma coisa? 48 Portanto, sede perfeitos como o vosso Pai celeste é perfeito\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/03/25",
+            "liturgy": "2ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 37,3-4.12-13a.17b-28",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "3 Israel amava mais a José do que a todos os outros filhos, porque lhe tinha nascido na velhice. E por isso mandou fazer para ele uma túnica de mangas longas. 4 Vendo os irmãos que o pai o amava mais do que a todos eles, odiavam-no e já não lhe podiam falar pacificamente. 12 Ora, como os irmãos de José tinham ido apascentar o rebanho do pai em Siquém, 13a disse Israel a José: \"Teus irmãos devem estar com os rebanhos em Siquém. Vem, vou enviar-te a eles\". 17b Partiu, pois, José atrás de seus irmãos e encontrou-os em Dotaim. 18 Eles, porém, tendo-o visto ao longe, antes que se aproximasse, tramaram a sua morte. 19 Disseram entre si: \"Aí vem o sonhador! 20 Vamos matá-lo e lança-lo numa cisterna, depois diremos que um animal feroz o devorou. Assim veremos de que lhe servem os sonhos\". 21 Rúben, porém, ouvindo isto, disse-lhes: 22 \"Não lhe tiremos a vida!\" E acrescentou: \"Não derrameis sangue, mas lançai-o naquela cisterna do deserto, e não o toqueis com as vossas mãos\". Dizia isto, porque queria livrá-lo das mãos deles e devolvê-lo ao pai. 23 Assim que José chegou perto dos irmãos, estes despojaram-no da túnica de mangas longas, pegaram nele 24 e lançaram-no numa cisterna que não tinha água. 25 Depois, sentaram-se para comer. Levantando os olhos, avistaram uma caravana de ismaelitas, que se aproximava, proveniente de Galaad. Os camelos iam carregados de especiarias, bálsamo e resina, que transportavam para o Egito. 26 E Judá disse aos irmãos: \"Que proveito teríamos em matar nosso irmão e ocultar o seu sangue? 27 É melhor vendê-lo a esses ismaelitas e não manchar nossas mãos, pois ele é nosso irmão e nossa carne\". Concordaram os irmãos com o que dizia. 28 Ao passarem os comerciantes madianitas, tiraram José da cisterna, e por vinte moedas de prata o venderam aos ismaelitas: e estes o levaram para o Egito."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "Lembrai sempre as maravilhas do Senhor!",
+                            "verses": [
+                                "Mandou vir, então, a fome sobre a terra e os privou de todo pão que os sustentava; um homem enviara à sua frente, José que foi vendido como escravo.",
+                                "Apertaram os seus pés entre grilhões e amarraram seu pescoço com correntes, até que se cumprisse o que previra, e a palavra do Senhor lhe deu razão.",
+                                "Ordenou, então, o rei que o libertassem, o soberano das nações mandou soltá-lo;fez dele o senhor de sua casa,e de todos os seus bens o despenseiro."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o Ungido de Deus Pai!",
+                                "text": "Deus o mundo tanto amou que lhe deu seu próprio Filho, para que todo o que nele crer, encontre vida eterna."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 21,33-43.45-46",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, dirigindo-se Jesus aos chefes dos sacerdotes e aos anciãos do povo, disse-lhes: 33 \"Escutai esta outra parábola: Certo proprietário plantou uma vinha, pôs uma cerca em volta, fez nela um lagar para esmagar as uvas e construiu uma torre de guarda. Depois arrendou-a a vinhateiros, e viajou para o estrangeiro. 34 Quando chegou o tempo da colheita, o proprietário mandou seus empregados aos vinhateiros para receber seus frutos. 35 Os vinhateiros, porém, agarraram os empregados, espancaram a um, mataram a outro, e ao terceiro apedrejaram. 36 O proprietário mandou de novo outros empregados, em maior número do que os primeiros. Mas eles os trataram da mesma forma. 37 Finalmente, o proprietário, enviou-lhes o seu filho, pensando: 'Ao meu filho eles vão respeitar'. 38 Os vinhateiros, porém, ao verem o filho, disseram entre si: 'Este é o herdeiro. Vinde, vamos matá-lo e tomar posse da sua herança!' 39 Então agarraram o filho, jogaram-no para fora da vinha e o mataram. 40 Pois bem, quando o dono da vinha voltar, o que fará com esses vinhateiros?\" 41 Os sumos sacerdotes e os anciãos do povo responderam: \"Com certeza mandará matar de modo violento esses perversos e arrendará a vinha a outros vinhateiros, que lhe entregarão os frutos no tempo certo\". 42 Então Jesus lhes disse: \"Vós nunca lestes nas Escrituras: 'a pedra que os construtores rejeitaram tornou-se a pedra angular; isto foi feito pelo Senhor e é maravilhoso aos nossos olhos?' 43 Por isso eu vos digo: o Reino de Deus vos será tirado e será entregue a um povo que produzirá frutos\". 45 Os sumos sacerdotes e fariseus ouviram as parábolas de Jesus, e compreenderam que estava falando deles. 46 Procuraram prendê-lo, mas ficaram com medo das multidões, pois elas consideravam Jesus um profeta."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "09/03/25",
+            "liturgy": "1º Domingo da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dt 26,4-10",
+                            "title": "Leitura do Livro do Deuteronômio",
+                            "text": "Assim Moisés falou ao povo: 4 \"O sacerdote receberá de tuas mãos a cesta e a colocará diante do altar do Senhor teu Deus. 5 Dirás, então, na presença do Senhor teu Deus: 'Meu pai era um arameu errante, que desceu ao Egito com um punhado de gente e ali viveu como estrangeiro. Ali se tornou um povo grande, forte e numeroso. 6 Os egípcios nos maltrataram e oprimiram, impondo-nos uma dura escravidão. 7 Clamamos, então, ao Senhor, o Deus de nossos pais, e o Senhor ouviu a nossa voz e viu a nossa opressão, a nossa miséria e a nossa angústia. 8 E o Senhor nos tirou do Egito com mão poderosa e braço estendido, no meio de grande pavor, com sinais e prodígios. 9 E conduziu-nos a este lugar e nos deu esta terra, onde corre leite e mel. 10 Por isso, agora trago os primeiros frutos da terra que tu me deste, Senhor'. Depois de colocados os frutos diante do Senhor teu Deus, tu te inclinarás em adoração diante dele\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 90(91)",
+                            "chorus": "Em minhas dores, ó Senhor, permanecei junto de mim!",
+                            "verses": [
+                                "Quem habita ao abrigo do Altíssimo e vive à sombra do Senhor onipotente, diz ao Senhor: \"Sois meu refúgio e proteção, sois o meu Deus, no qual confio inteiramente\".",
+                                "Nenhum mal há de chegar perto de ti, nem a desgraça baterá à tua porta; pois o Senhor deu uma ordem a seus anjos para em todos os caminhos te guardarem.",
+                                "Haverão de te levar em suas mãos, para o teu pé não se ferir nalguma pedra. Passarás por sobre cobras e serpentes, pisarás sobre leões e outras feras.",
+                                "\"Porque a mim se confiou, hei de livrá-lo e protegê-lo, pois meu nome ele conhece. Ao invocar-me hei de ouvi-lo e atendê-lo, e a seu lado eu estarei em suas dores\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Rm 10,8-13",
+                            "title": "Leitura da Carta de São Paulo aos Romanos",
+                            "text": "Irmãos: 8 O que diz a Escritura? \"A palavra está perto de ti, em tua boca e em teu coração\". Essa palavra é a palavra da fé, que nós pregamos. 9 Se, pois, com tua boca confessares Jesus como Senhor e, no teu coração, creres que Deus o ressuscitou dos mortos, serás salvo. 10 É crendo no coração que se alcança a justiça e é confessando a fé com a boca que se consegue a salvação. 11 Pois a Escritura diz: \"Todo aquele que nele crer não ficará confundido\". 12 Portanto, não importa a diferença entre judeu e grego; todos têm o mesmo Senhor, que é generoso para com todos os que o invocam. 13 De fato, todo aquele que invocar o Nome do Senhor será salvo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Louvor e glória a ti, Senhor, Cristo, Palavra de Deus.",
+                                "text": "O homem não vive somente de pão, mas de toda palavra da boca de Deus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 4,1-13",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 1 Jesus, cheio do Espírito Santo, voltou do Jordão, e, no deserto, ele era guiado pelo Espírito. 2 Ali foi tentado pelo diabo durante quarenta dias. Não comeu nada naqueles dias e depois disso, sentiu fome. 3 O diabo disse, então, a Jesus: \"Se és Filho de Deus, manda que esta pedra se mude em pão\". 4 Jesus respondeu: \"A Escritura diz: 'Não só de pão vive o homem'\". 5 O diabo levou Jesus para o alto, mostrou-lhe por um instante todos os reinos do mundo 6 e lhe disse: \"Eu te darei todo este poder e toda a sua glória, porque tudo isso foi entregue a mim e posso dá-lo a quem eu quiser. 7 Portanto, se te prostrares diante de mim em adoração, tudo isso será teu\". 8 Jesus respondeu: \"A Escritura diz: 'Adorarás o Senhor teu Deus, e só a ele servirás'\". 9 Depois o diabo levou Jesus a Jerusalém, colocou-o sobre a parte mais alta do Templo, e lhe disse: \"Se és Filho de Deus, atira-te daqui abaixo! 10 Porque a Escritura diz: Deus ordenará aos seus anjos a teu respeito, que te guardem com cuidado!' 11 E mais ainda: 'Eles te levarão nas mãos, para que não tropeces em alguma pedra'\". 12 Jesus, porém, respondeu: \"A Escritura diz: 'Não tentarás o Senhor teu Deus'\". 13 Terminada toda a tentação, o diabo afastou-se de Jesus, para retornar no tempo oportuno."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

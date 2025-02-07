@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "04/03/25",
+            "liturgy": "8ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 35,1-15",
+                            "title": "Leitura do Livro do Eclesiástico",
+                            "text": "1 Aquele que guarda a lei faz muitas oferendas; 2 aquele que cumpre os preceitos oferece um sacrifício salutar. [3] 4 Aquele que mostra agradecimento, oferece flor de farinha, e o que pratica a beneficência oferece um sacrifício de louvor. 5 O que agrada ao Senhor é afastar-se do mal, e o que o aplaca é deixar a injustiça. 6 Não te apresentes na presença de Deus de mãos vazias, 7 porque tudo isso se faz em virtude do preceito. 8 O sacrifício do justo enriquece o altar, o seu perfume sobe ao Altíssimo. 9 A oblação do justo é aceitável, e sua memória não cairá no esquecimento. 10 Honra ao Senhor com coração generoso e não regateies as primícias que apresentares. 11 Faze todas as tuas oferendas com semblante sereno, e com alegria consagra o teu dízimo. 12 Dá a Deus segundo a doação que ele te fez, e com generosidade, conforme as tuas posses; 13 porque ele é um Deus retribuidor, e te recompensará sete vezes mais. 14 Não tentes corrompê-lo com presentes: ele não os aceita; 15 nem confies em sacrifício injusto, porque o Senhor é um juiz que não faz discriminação de pessoas."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 49(50)",
+                            "chorus": "A todos que procedem retamente, eu mostrarei a salvação que vem de Deus",
+                            "verses": [
+                                "\"Reuni à minha frente os meus eleitos, que selaram a Aliança em sacrifícios!\" Testemunha o próprio céu seu julgamento, porque Deus mesmo é juiz e vai julgar.",
+                                "\"Escuta, ó meu povo, eu vou falar; ouve, Israel, eu testemunho contra ti: Eu, o Senhor, somente eu, sou o teu Deus! Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos.",
+                                "Imola a Deus um sacrifício de louvor e cumpre os votos que fizeste ao Altíssimo. Quem me oferece um sacrifício de louvor, este sim é que me honra de verdade. A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 10,28-31",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos.",
+                                "text": "Naquele tempo, 28 Começou Pedro a dizer a Jesus: \"Eis que nós deixamos tudo e te seguimos\". 29 Respondeu Jesus: \"Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do Evangelho, 30 receberá cem vezes mais agora, durante esta vida — casa, irmãos, irmãs, mães, filhos e campos, com perseguições — e, no mundo futuro, a vida eterna. 31 Muitos que agora são os primeiros serão os últimos. E muitos que agora são os últimos serão os primeiros\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

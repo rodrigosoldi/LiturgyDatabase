@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "26/03/25",
+            "liturgy": "3ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dt 4,1.5-9",
+                            "title": "Leitura do Livro do Deuteronômio",
+                            "text": "Moisés falou ao povo, dizendo: 1 \"Agora, Israel, ouve as leis e os decretos que eu vos ensino a cumprir, para que, fazendo-o, vivais e entreis na posse da terra prometida que o Senhor Deus de vossos pais vos vai dar. 5 Eis que vos ensinei leis e decretos conforme o Senhor meu Deus me ordenou, para que os pratiqueis na terra em que ides entrar e da qual tomareis posse. 6 Vós os guardareis, pois, e os poreis em prática, porque neles está vossa sabedoria e inteligência perante os povos, para que, ouvindo todas estas leis, digam: 'Na verdade, é sábia e inteligente esta grande nação!' 7 Pois, qual é a grande nação cujos deuses lhe são tão próximos como o Senhor nosso Deus, sempre que o invocamos? 8 E que nação haverá tão grande que tenha leis e decretos tão justos, como esta lei que hoje vos ponho diante dos olhos? 9 Mas toma cuidado! Procura com grande zelo não te esqueceres de tudo o que viste com os próprios olhos, e nada deixes escapar do teu coração por todos os dias de tua vida; antes, ensina-o a teus filhos e netos\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 147(147B)",
+                            "chorus": "Glorifica o Senhor, Jerusalém!",
+                            "verses": [
+                                "Glorifica o Senhor, Jerusalém! Ó Sião, canta louvores ao teu Deus! Pois reforçou com segurança as tuas portas, e os teus filhos em teu seio abençoou.",
+                                "Ele envia suas ordens para a terra, e a palavra que ele diz corre veloz ele faz cair a neve como a lã e espalha a geada como cinza.",
+                                "Anuncia a Jacó sua palavra, seus preceitos suas leis a Israel.Nenhum povo recebeu tanto carinho, a nenhum outro revelou os seus preceitos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a Cristo, palavra eterna do Pai, que é amor!",
+                                "text": "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,17-19",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 17 \"Não penseis que vim abolir a Lei e os Profetas. Não vim para abolir, mas para dar-lhes pleno cumprimento. 18 Em verdade, eu vos digo: antes que o céu e a terra deixem de existir, nem uma só letra ou vírgula serão tiradas da Lei, sem que tudo se cumpra. 19 Portanto, quem desobedecer a um só destes mandamentos, por menor que seja, e ensinar os outros a fazerem o mesmo, será considerado o menor no Reino dos Céus. Porém, quem os praticar e ensinar será considerado grande no Reino dos Céus\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "05/03/25",
+            "liturgy": "Quarta-feira de Cinzas",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Jl 2,12-18",
+                            "title": "Leitura da Profecia de Joel",
+                            "text": "12 \"Agora, diz o Senhor, voltai para mim com todo o vosso coração, com jejuns, lágrimas e gemidos; 13 rasgai o coração, e não as vestes; e voltai para o Senhor, vosso Deus; ele é benigno e compassivo, paciente e cheio de misericórdia, inclinado a perdoar o castigo\". 14 Quem sabe, se ele se volta para vós e vos perdoa, e deixa atrás de si a bênção, oblação e libação para o Senhor, vosso Deus? 15 Tocai trombeta em Sião, prescrevei o jejum sagrado, convocai a assembleia; 16 congregai o povo, realizai cerimônias de culto, reuni anciãos, ajuntai crianças e lactentes; deixe o esposo seu aposento, e a esposa, seu leito. 17 Chorem, postos entre o vestíbulo e o altar, os ministros sagrados do Senhor, e digam: \"Perdoa, Senhor, a teu povo, e não deixes que esta tua herança sofra infâmia e que as nações a dominem\". Por que se haveria de dizer entre os povos: \"Onde está o Deus deles?\" 18 Então o Senhor encheu-se de zelo por sua terra e perdoou ao seu povo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 50(51)",
+                            "chorus": "Misericórdia, ó Senhor, pois pecamos.",
+                            "verses": [
+                                "Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!",
+                                "Eu reconheço toda a minha iniquidade, o meu pecado está sempre à minha frente. Foi contra vós, só contra vós, que eu pequei, pratiquei o que é mau aos vossos olhos!",
+                                "Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso Santo Espírito!",
+                                "Dai-me de novo a alegria de ser salvo e confirmai-me com espírito generoso! Abri meus lábios, ó Senhor, para cantar, e minha boca anunciará vosso louvor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Cor 5,20 - 6,2",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 20 somos embaixadores de Cristo, e é Deus mesmo que exorta através de nós. Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus. 21 Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus. 6,1 Como colaboradores de Cristo, nós vos exortamos a não receberdes em vão a graça de Deus, 2 pois ele diz: \"No momento favorável, eu te ouvi e no dia da salvação, eu te socorri\". É agora o momento favorável, é agora o dia da salvação."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o ungido de Deus Pai!",
+                                "text": "Oxalá ouvísseis hoje a sua voz: não fecheis os corações como em Meriba!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 6,1-6.16-18",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 1 \"Ficai atentos para não praticar a vossa justiça na frente dos homens, só para serdes vistos por eles. Caso contrário, não recebereis a recompensa do vosso Pai que está nos céus. 2 Por isso, quando deres esmola, não toques a trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem elogiados pelos homens. Em verdade vos digo: eles já receberam a sua recompensa. 3 Ao contrário, quando deres esmola, que a tua mão esquerda não saiba o que faz a tua mão direita, 4 de modo que, a tua esmola fique oculta. E o teu Pai, que vê o que está oculto, te dará a recompensa. 5 Quando orardes, não sejais como os hipócritas, que gostam de rezar em pé, nas sinagogas e nas esquinas das praças, para serem vistos pelos homens. Em verdade vos digo: eles já receberam a sua recompensa. 6 Ao contrário, quando tu orares, entra no teu quarto, fecha a porta, e reza ao teu Pai que está oculto. E o teu Pai, que vê o que está escondido, te dará a recompensa. 16 Quando jejuardes, não fiqueis com o rosto triste como os hipócritas. Eles desfiguram o rosto, para que os homens vejam que estão jejuando. Em verdade vos digo: Eles já receberam a sua recompensa. 17 Tu, porém, quando jejuares, perfuma a cabeça e lava o rosto, 18 para que os homens não vejam que tu estás jejuando, mas somente teu Pai, que está oculto. E o teu Pai, que vê o que está escondido, te dará a recompensa\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "01/03/25",
+            "liturgy": "7º Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 17,1-13",
+                            "title": "Leitura do Livro do Eclesiástico",
+                            "text": "1 Da terra Deus criou o homem, e o formou à sua imagem. 2 E à terra o faz voltar novamente, embora o tenha revestido de poder, semelhante ao seu. 3 Concedeu-lhe dias contados e tempo determinado, deu-lhe autoridade sobre tudo o que está sobre a terra. 4 Em todo ser vivo infundiu o temor do homem, fazendo-o dominar sobre as feras e os pássaros. 5 Deu aos homens discernimento, língua, olhos, ouvidos, e um coração para pensar; encheu-os de inteligência e de sabedoria. 6 Deu-lhes ainda a ciência do espírito, encheu o seu coração de bom senso e mostrou-lhes o bem e o mal. 7 Infundiu o seu temor em seus corações, mostrando-lhes as grandezas de suas obras. 8 Concedeu-lhes que se gloriassem de suas maravilhas, louvassem o seu Nome santo e proclamassem as grandezas de suas obras. 9 Concedeu-lhes ainda a instrução e entregou-lhes por herança a lei da vida. 10 Firmou com eles uma aliança eterna e mostrou-lhes sua justiça e seus julgamentos. 11 Seus olhos viram as grandezas da sua glória e seus ouvidos ouviram a glória da sua voz. Ele lhes disse: \"Tomai cuidado com tudo o que é injusto!\" 12 E a cada um deu mandamentos em relação ao seu próximo. 13 Os caminhos dos homens estão sempre diante do Senhor e não podem ficar ocultos a seus olhos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 102(103)",
+                            "chorus": "O amor do Senhor por quem o respeita é de sempre e para sempre.",
+                            "verses": [
+                                "Como um pai se compadece de seus filhos, o Senhor tem compaixão dos que o temem. Porque sabe de que barro somos feitos, e se lembra que apenas somos pó.",
+                                "Os dias do homem se parecem com a erva, ela floresce como a flor dos verdes campos; mas apenas sopra o vento ela se esvai, já nem sabemos onde era o seu lugar.",
+                                "Mas o amor do Senhor Deus por quem o teme é de sempre e perdura para sempre; e também sua justiça se estende por gerações até os filhos de seus filhos, aos que guardam fielmente sua Aliança."
+                            ]
+                        }
+                    ]
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 10,13-16",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos",
+                                "text": "Naquele tempo, 13 traziam crianças para que Jesus as tocasse. Mas os discípulos as repreendiam. 14 Vendo isso, Jesus se aborreceu e disse: \"Deixai vir a mim as crianças. Não as proibais, porque o Reino de Deus é dos que são como elas. 15 Em verdade vos digo: quem não receber o Reino de Deus como uma criança, não entrará nele\". 16 Ele abraçava as crianças e as abençoava, impondo-lhes as mãos."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

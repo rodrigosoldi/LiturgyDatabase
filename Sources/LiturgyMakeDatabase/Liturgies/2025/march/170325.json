@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "17/03/25",
+            "liturgy": "2ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dn 9,4b-10",
+                            "title": "Leitura da Profecia de Daniel",
+                            "text": "4b \"Eu te suplico, Senhor, Deus grande e terrível, que preservas a aliança e a benevolência aos que te amam e cumprem teus mandamentos; 5 temos pecado, temos praticado a injustiça e a impiedade, temos sido rebeldes, afastando-nos de teus mandamentos e de tua lei; 6 não temos prestado ouvidos a teus servos, os profetas, que, em teu nome, falaram a nossos reis e príncipes, a nossos antepassados e a todo o povo do país. 7 A ti, Senhor, convém a justiça; e a nós, hoje, resta-nos ter vergonha no rosto: seja ao homem de Judá, aos habitantes de Jerusalém e a todo Israel, seja aos que moram perto e aos que moram longe, de todos os países, para onde os escorraçaste por causa das infidelidades cometidas contra ti. 8 A nós, Senhor, resta-nos ter vergonha no rosto: a nossos reis e príncipes, e a nossos antepassados, pois que pecamos contra ti; 9 mas a ti, Senhor, nosso Deus, cabe misericórdia e perdão, pois nos temos rebelado contra ti, 10 e não ouvimos a voz do Senhor, nosso Deus, indicando-nos o caminho de sua lei, que nos propôs mediante seus servos, os profetas\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 78(79)",
+                            "chorus": "O Senhor não nos trata como exigem nossas faltas.",
+                            "verses": [
+                                "Não lembreis as nossas culpas do passado, mas venha logo sobre nós vossa bondade, pois estamos humilhados em extremo.",
+                                "Ajudai-nos, nosso Deus e Salvador! Por vosso nome e vossa glória, libertai-nos! Por vosso nome, perdoai nossos pecados!",
+                                "Até vós chegue o gemido dos cativos: libertai com vosso braço poderoso os que foram condenados a morrer! Quanto a nós, vosso rebanho e vosso povo, celebraremos vosso nome para sempre, de geração em geração vos louvaremos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a Cristo, palavra eterna do Pai, que é amor!",
+                                "text": "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 6,36-38",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 36 \"Sede misericordiosos, como também o vosso Pai é misericordioso. 37 Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai, e sereis perdoados. 38 Dai e vos será dado. Uma boa medida, calcada, sacudida, transbordante será colocada no vosso colo; porque com a mesma medida com que medirdes os outros, vós também sereis medidos\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "22/03/25",
+            "liturgy": "2ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Mq 7,14-15.18-20",
+                            "title": "Leitura da Profecia de Miquéias",
+                            "text": "14 Apascenta o teu povo com o cajado da autoridade, o rebanho de tua propriedade, os habitantes dispersos pela mata e pelos campos cultivados; que eles desfrutem a terra de Basã e Galaad, como nos velhos tempos. 15 E, como foi nos dias em que nos fizeste sair do Egito, faze-nos ver novos prodígios. 18 Qual Deus existe, como tu, que apagas a iniquidade e esqueces o pecado daqueles que são resto de tua propriedade? Ele não guarda rancor para sempre, o que ama é a misericórdia. 19 Voltará a compadecer-se de nós, esquecerá nossas iniquidades e lançará ao fundo do mar todos os nossos pecados. 20 Tu manterás fidelidade a Jacó e terás compaixão de Abraão, como juraste a nossos pais, desde tempos remotos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 102(103)",
+                            "chorus": "O Senhor é indulgente e favorável.",
+                            "verses": [
+                                "Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores!",
+                                "Pois ele te perdoa toda culpa, e cura toda a tua enfermidade;da sepultura ele salva a tua vida e te cerca de carinho e compaixão;",
+                                "Não fica sempre repetindo as suas queixas, nem guarda eternamente o seu rancor. Não nos trata como exigem nossas faltas, nem nos pune em proporção às nossas culpas.",
+                                "Quanto os céus por sobre a terra se elevam, tanto é grande o seu amor aos que o temem; quanto dista o nascente do poente, tanto afasta para longe nossos crimes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, ó Cristo, imagem do Pai, a plena verdade nos comunicai!",
+                                "text": "Vou voltar e encontrar o meu pai e direi: meu pai, eu pequei contra o céu e contra ti."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 15,1-3.11-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 1 os publicanos e pecadores aproximavam-se de Jesus para o escutar. 2 Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\". 3 Então Jesus contou-lhes esta parábola: 11 \"Um homem tinha dois filhos. 12 O filho mais novo disse ao pai: 'Pai, dá-me a parte da herança que me cabe'. E o pai dividiu os bens entre eles. 13 Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante. E ali esbanjou tudo numa vida desenfreada. 14 Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade. 15 Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos. 16 O rapaz queria matar a fome com a comida que os porcos comiam, mas nem isto lhe davam. 17 Então caiu em si e disse: 'Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome'. 18 Vou-me embora, vou voltar para meu pai e dizer-lhe: 'Pai, pequei contra Deus e contra ti; 19 já não mereço ser chamado teu filho. Trata-me como a um dos teus empregados'. 20 Então ele partiu e voltou para seu pai. Quando ainda estava longe, seu pai o avistou e sentiu compaixão. Correu-lhe ao encontro, abraçou-o, e cobriu-o de beijos. 21 O filho, então, lhe disse: 'Pai, pequei contra Deus e contra ti. Já não mereço ser chamado teu filho'. 22 Mas o pai disse aos empregados: 'Trazei depressa a melhor túnica para vestir meu filho. E colocai um anel no seu dedo e sandálias nos pés. 23 Trazei um novilho gordo e matai-o. Vamos fazer um banquete. 24 Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado'. E começaram a festa. 25 O filho mais velho estava no campo. Ao voltar, já perto de casa, ouviu música e barulho de dança. 26 Então chamou um dos criados e perguntou o que estava acontecendo. 27 O criado respondeu: 'É teu irmão que voltou. Teu pai matou o novilho gordo, porque o recuperou com saúde'. 28 Mas ele ficou com raiva e não queria entrar. O pai, saindo, insistia com ele. 29 Ele, porém, respondeu ao pai: 'Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua. E tu nunca me deste um cabrito para eu festejar com meus amigos. 30 Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'. 31 Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu. 32 Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "08/03/25",
+            "liturgy": "Sábado depois das Cinzas",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 58,9b-14",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Assim fala o Senhor: 9b \"Se destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a linguagem maldosa; 10 se acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia. 11 O Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão. 12 Teu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar. 13 Se não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações, 14 então te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai\". Falou a boca do Senhor."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 85(86)",
+                            "chorus": "Ensinai-me os vossos caminhos e na vossa verdade andarei.",
+                            "verses": [
+                                "Inclinai, ó Senhor, vosso ouvido, escutai, pois sou pobre e infeliz! Protegei-me, que sou vosso amigo, e salvai vosso servo, meu Deus, que espera e confia em vós!",
+                                "Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Animai e alegrai vosso servo, pois a vós eu elevo a minh'alma.",
+                                "Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. Escutai, ó Senhor, minha prece, o lamento da minha oração!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, Senhor Jesus, Primogênito dentre os mortos!",
+                                "text": "Não quero a morte do pecador, diz o Senhor, mas que ele volte, se converta e tenha vida."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 5,27-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 27 Jesus viu um cobrador de impostos, chamado Levi, sentado na coletoria. Jesus lhe disse: \"Segue-me.\" 28 Levi deixou tudo, levantou-se e o seguiu. 29 Depois, Levi preparou em casa um grande banquete para Jesus. Estava aí grande número de cobradores de impostos e outras pessoas sentadas à mesa com eles. 30 Os fariseus e seus mestres da Lei murmuravam e diziam aos discípulos de Jesus: \"Por que vós comeis e bebeis com os cobradores de impostos e com os pecadores?\" 31 Jesus respondeu: \"Os que são sadios não precisam de médico, mas sim os que estão doentes. 32 Eu não vim chamar os justos, mas sim os pecadores para a conversão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

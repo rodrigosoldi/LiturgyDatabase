@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "28/03/25",
+            "liturgy": "3ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Os 14,2-10",
+                            "title": "Leitura da Profecia de Oséias",
+                            "text": "Assim fala o Senhor Deus: 2 \"Volta, Israel, para o Senhor, teu Deus, porque estavas caído em teu pecado. 3 Vós todos, encontrai palavras e voltai para o Senhor; dizei-lhe: 'Livra-nos de todo o mal e aceita este bem que oferecemos; o fruto de nossos lábios. 4 A Assíria não nos salvará; não queremos montar nossos cavalos, não chamaremos mais 'Deuses nossos' a produtos de nossas mãos; em ti encontrará o órfão misericórdia. 5 Hei de curar sua perversidade e me será fácil amá-los, deles afastou-se a minha cólera. 6 Serei como orvalho para Israel; ele florescerá como o lírio e lançará raízes como plantas do Líbano. 7 Seus ramos hão de estender-se; será seu esplendor como o da oliveira, e seu perfume como o do Líbano. 8 Voltarão a sentar-se à minha sombra e a cultivar o trigo, e florescerão como a videira, cuja fama se iguala à do vinho do Líbano. 9 Que tem ainda Efraim a ver com ídolos? Sou eu que o atendo e que olho por ele. Sou como o cipreste sempre verde: de mim procede o teu fruto. 10 Compreenda estas palavras o homem sábio, reflita sobre elas o bom entendedor! São retos os caminhos do Senhor e, por eles, andarão os justos, enquanto os maus ali tropeçam e caem\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 80(81)",
+                            "chorus": "Ouve, meu povo, porque eu sou o teu Deus!",
+                            "verses": [
+                                "Eis que ouço uma voz que não conheço, \"Aliviei as tuas costas de seu fardo. cestos pesados eu tirei de tuas mãos,Na angústia a mim clamaste, e te salvei,",
+                                "de uma nuvem trovejante te falei, e junto às águas de Meriba te provei. Ouve, meu povo, porque vou te advertir! Israel, ah! se quisesses me escutar.",
+                                "Em teu meio não exista um deus estranho nem adores a um deus desconhecido! Porque eu sou o teu Deus e teu Senhor, que da terra do Egito te arranquei.",
+                                "Quem me dera que meu povo me escutasse! Que Israel andasse sempre em meus caminhos. eu lhe daria de comer a flor do trigo, e com o mel que sai da rocha o fartaria\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, Senhor Jesus, Primogênito dentre os mortos!",
+                                "text": "Convertei-vos, nos diz o Senhor, está próximo o Reino de Deus!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 12,28b-34",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Marcos.",
+                                "text": "Naquele tempo, 28b um mestre da Lei, aproximou-se de Jesus e perguntou: \"Qual é o primeiro de todos os mandamentos?\" 29 Jesus respondeu: \"O primeiro é este: Ouve, ó Israel! O Senhor nosso Deus é o único Senhor. 30 Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu entendimento e com toda a tua força! 31 O segundo mandamento é: Amarás o teu próximo como a ti mesmo! Não existe outro mandamento maior do que estes\". 32 O mestre da Lei disse a Jesus: \"Muito bem, Mestre! Na verdade, é como disseste: Ele é o único Deus e não existe outro além dele. 33 Amá-lo de todo o coração, de toda a mente, e com toda a força, e amar o próximo como a si mesmo é melhor do que todos os holocaustos e sacrifícios\". 34 Jesus viu que ele tinha respondido com inteligência, e disse: \"Tu não estás longe do Reino de Deus\". E ninguém mais tinha coragem de fazer perguntas a Jesus."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

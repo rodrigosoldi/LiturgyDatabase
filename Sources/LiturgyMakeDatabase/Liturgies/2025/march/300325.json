@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "30/03/25",
+            "liturgy": "4º Domingo da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Js 5,9a.10-12",
+                            "title": "Leitura do Livro de Josué",
+                            "text": "Naqueles dias, 9a o Senhor disse a Josué: \"Hoje tirei de cima de vós o opróbrio do Egito\". 10 Os israelitas ficaram acampados em Guilgal e celebraram a Páscoa no dia catorze do mês, à tarde, na planície de Jericó. 11 No dia seguinte à Páscoa comeram dos produtos da terra, pães sem fermento e grãos tostados nesse mesmo dia. 12 O maná cessou de cair no dia seguinte, quando comeram dos produtos da terra. Os israelitas não mais tiveram o maná. Naquele ano comeram dos frutos da terra de Canaã."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 33(34)",
+                            "chorus": "Provai e vede quão suave é o Senhor!",
+                            "verses": [
+                                "Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem!",
+                                "Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou.",
+                                "Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Cor 5,17-21",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 17 Se alguém está em Cristo, é uma criatura nova. O mundo velho desapareceu. Tudo agora é novo. 18 E tudo vem de Deus, que, por Cristo, nos reconciliou consigo e nos confiou o ministério da reconciliação. 19 Com efeito, em Cristo, Deus reconciliou o mundo consigo, não imputando aos homens as suas faltas e colocando em nós a palavra da reconciliação. 20 Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós. Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus. 21 Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Louvor e honra a vós, Senhor Jesus.",
+                                "text": "Vou levantar-me e vou a meu pai e lhe direi: Meu pai, eu pequei contra o céu e contra ti."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 15,1-3.11-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 1 Os publicanos e pecadores aproximavam-se de Jesus para o escutar. 2 Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\". 3 Então Jesus contou-lhes esta parábola: 11 \"Um homem tinha dois filhos. 12 O filho mais novo disse ao pai: 'Pai, dá-me a parte da herança que me cabe'. E o pai dividiu os bens entre eles. 13 Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante. E ali esbanjou tudo numa vida desenfreada. 14 Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade. 15 Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos. 16 O rapaz queria matar a fome com a comida que os porcos comiam, mas nem isto lhe davam. 17 Então caiu em si e disse: 'Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome. 18 Vou-me embora, vou voltar para meu pai e dizer-lhe: Pai, pequei contra Deus e contra ti; 19 já não mereço ser chamado teu filho. Trata-me como a um dos teus empregados'. 20 Então ele partiu e voltou para seu pai. Quando ainda estava longe, seu pai o avistou e sentiu compaixão. Correu-lhe ao encontro, abraçou-o, e cobriu-o de beijos. 21 O filho, então, lhe disse: 'Pai, pequei contra Deus e contra ti. Já não mereço ser chamado teu filho'. 22 Mas o pai disse aos empregados: 'Trazei depressa a melhor túnica para vestir meu filho. E colocai um anel no seu dedo e sandálias nos pés. 23 Trazei um novilho gordo e matai-o. Vamos fazer um banquete. 24 Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado'. E começaram a festa. 25 O filho mais velho estava no campo. Ao voltar, já perto de casa, ouviu música e barulho de dança. 26 Então chamou um dos criados e perguntou o que estava acontecendo. 27 O criado respondeu: 'É teu irmão que voltou. Teu pai matou o novilho gordo, porque o recuperou com saúde'. 28 Mas ele ficou com raiva e não queria entrar. O pai, saindo, insistia com ele. 29 Ele, porém, respondeu ao pai: 'Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua. E tu nunca me deste um cabrito para eu festejar com meus amigos. 30 Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado'. 31 Então o pai lhe disse: 'Filho, tu estás sempre comigo, e tudo o que é meu é teu. 32 Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado'\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

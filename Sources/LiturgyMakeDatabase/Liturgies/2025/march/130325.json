@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/03/25",
+            "liturgy": "1ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Est 4,17",
+                            "title": "Leitura do Livro de Ester",
+                            "text": "Naqueles dias, 17n a rainha Ester, temendo o perigo de morte que se aproximava, buscou refúgio no Senhor. 17p Prostrou-se por terra desde a manhã até ao anoitecer, juntamente com suas servas, e disse: 17q \"Deus de Abraão, Deus de Isaac e Deus de Jacó, tu és bendito. Vem em meu socorro, pois estou só e não tenho outro defensor fora de ti, Senhor, 17r pois eu mesma me expus ao perigo. 17aa Senhor, eu ouvi, dos livros de meus antepassados, que tu libertas, Senhor, até ao fim, todos os que te são caros. 17bb Agora, pois, ajuda-me, a mim que estou sozinha e não tenho mais ninguém senão a ti, Senhor meu Deus. 17gg Vem, pois, em auxílio de minha orfandade. Põe em meus lábios um discurso atraente, quando eu estiver diante do leão, e muda o seu coração para que odeie aquele que nos ataca, para que este pereça com todos os seus cúmplices. 17hh E livra-nos da mão de nossos inimigos. Transforma nosso luto em alegria e nossas dores em bem-estar\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 137(138)",
+                            "chorus": "Naquele dia em que gritei, vós me escutastes, ó Senhor!",
+                            "verses": [
+                                "Ó Senhor, de coração eu vos dou graças,porque ouvistes as palavras dos meus lábios!Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.",
+                                "Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes;naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.",
+                                "estendereis o vosso braço em meu auxílio e havereis de me salvar com vossa destra.Completai em mim a obra começada; ó Senhor, vossa bondade é para sempre! Eu vos peço: não deixeis inacabada esta obra que fizeram vossas mãos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, ó Cristo, imagem do Pai, a plena verdade nos comunicai!",
+                                "text": "Criai em mim um coração que seja puro,dai-me de novo a alegria de ser salvo!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 7,7-12",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 7 \"Pedi e vos será dado! Procurai e achareis! Batei e a porta vos será aberta! 8 Pois todo aquele que pede, recebe; quem procura, encontra; e a quem bate, a porta será aberta. 9 Quem de vós dá ao filho uma pedra, quando ele pede um pão? 10 Ou lhe dá uma cobra, quando ele pede um peixe? 11 Ora, se vós, que sois maus, sabeis dar coisas boas a vossos filhos, quanto mais vosso Pai que está nos céus dará coisas boas aos que lhe pedirem! 12 Tudo quanto quereis que os outros vos façam, fazei também a eles. Nisto consiste a Lei e os Profetas\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

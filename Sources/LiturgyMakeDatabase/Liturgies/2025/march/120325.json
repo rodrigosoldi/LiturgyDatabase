@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/03/25",
+            "liturgy": "1ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Jn 3,1-10",
+                            "title": "Leitura da Profecia de Jonas",
+                            "text": "1 A palavra do Senhor foi dirigida a Jonas, pela segunda vez: 2 \"Levanta-te e põe-te a caminho da grande cidade de Nínive e anuncia-lhe a mensagem que eu te vou confiar\". 3 Jonas pôs-se a caminho de Nínive, conforme a ordem do Senhor. Ora, Nínive era uma cidade muito grande; eram necessários três dias para ser atravessada. 4 Jonas entrou na cidade, percorrendo o caminho de um dia; pregava ao povo, dizendo: \"Ainda quarenta dias, e Nínive será destruída\". 5 Os ninivitas acreditaram em Deus; aceitaram fazer jejum, e vestiram sacos, desde o superior ao inferior. 6 A pregação chegara aos ouvidos do rei de Nínive; ele levantou-se do trono e pôs de lado o manto real, vestiu-se de saco e sentou-se em cima de cinza. 7 Em seguida, fez proclamar, em Nínive, como decreto do rei e dos príncipes: \"Homens e animais bovinos e ovinos não provarão nada! Não comerão e não beberão água. 8 Homens e animais se cobrirão de sacos, e os homens rezarão a Deus com força; cada um deve afastar-se do mau caminho e de suas práticas perversas. 9 Deus talvez volte atrás, para perdoar-nos e aplacar sua ira, e assim não venhamos a perecer\". 10 Vendo Deus as suas obras de conversão e que os ninivitas se afastavam do mau caminho, compadeceu-se e suspendeu o mal, que tinha ameaçado fazer-lhes, e não o fez."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 50(51)",
+                            "chorus": "Ó Senhor, não desprezeis um coração arrependido!",
+                            "verses": [
+                                "Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!",
+                                "Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso Santo Espírito!",
+                                "Pois não são de vosso agrado os sacrifícios, e, se oferto um holocausto, o rejeitais. Meu sacrifício é minha alma penitente, não desprezeis um coração arrependido!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o ungido de Deus Pai!",
+                                "text": "Voltai ao Senhor, vosso Deus, ele é bom, compassivo e clemente."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 11,29-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 29 quando as multidões se reuniram em grande quantidade, Jesus começou a dizer: \"Esta geração é uma geração má. Ela busca um sinal, mas nenhum sinal lhe será dado, a não ser o sinal de Jonas. 30 Com efeito, assim como Jonas foi um sinal para os ninivitas, assim também será o Filho do Homem para esta geração. 31 No dia do julgamento, a rainha do Sul se levantará juntamente com os homens desta geração, e os condenará. Porque ela veio de uma terra distante para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão. 32 No dia do julgamento, os ninivitas se levantarão juntamente com esta geração e a condenarão. Porque eles se converteram quando ouviram a pregação de Jonas. E aqui está quem é maior do que Jonas\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

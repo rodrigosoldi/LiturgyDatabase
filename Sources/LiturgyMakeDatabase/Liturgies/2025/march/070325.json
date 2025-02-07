@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "07/03/25",
+            "liturgy": "Sexta-feira depois das Cinzas",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 58,1-9a",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Assim fala o Senhor Deus: 1 \"Grita forte, sem cessar, levanta a voz como trombeta e denuncia os crimes do meu povo e os pecados da casa de Jacó. 2 Buscam-me cada dia e desejam conhecer meus propósitos, como gente que pratica a justiça e não abandonou a lei de Deus. Exigem de mim julgamentos justos e querem estar na proximidade de Deus: 3 'Por que não te regozijaste, quando jejuávamos, e o ignoraste, quando nos humilhávamos?' - É porque no dia do vosso jejum tratais de negócios e oprimis os vossos empregados. 4 É porque ao mesmo tempo que jejuais, fazeis litígios e brigas e agressões impiedosas. Não façais jejum com esse espírito, se quereis que vosso pedido seja ouvido no céu. 5 Acaso é esse jejum que aprecio, o dia em que uma pessoa se mortifica? Trata-se talvez de curvar a cabeça como junco, e de deitar-se em saco e sobre cinza? Acaso chamas a isso jejum, dia grato ao Senhor? 6 Acaso o jejum que prefiro não é outro: - quebrar as cadeias injustas, desligar as amarras do jugo, tornar livres os que estão detidos, enfim, romper todo tipo de sujeição? 7 Não é repartir o pão com o faminto, acolher em casa os pobres e peregrinos? Quando encontrares um nu, cobre-o, e não desprezes a tua carne. 8 Então, brilhará tua luz como a aurora e tua saúde há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá. 9a Então invocarás o Senhor e ele te atenderá, pedirás socorro, e ele dirá: 'Eis-me aqui' \"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 50(51)",
+                            "chorus": "Ó Senhor, não desprezeis um coração arrependido!",
+                            "verses": [
+                                "Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!",
+                                "Eu reconheço toda a minha iniquidade, o meu pecado está sempre à minha frente. Foi contra vós, só contra vós, que eu pequei, e pratiquei o que é mau aos vossos olhos!",
+                                "Pois não são de vosso agrado os sacrifícios, e, se oferto um holocausto, o rejeitais. Meu sacrifício é minha alma penitente, não desprezeis um coração arrependido!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, Cristo, luz da vida, companheiro na partilha!",
+                                "text": "Buscai o bem, não o mal, pois assim vivereis; então o Senhor, nosso Deus, convosco estará!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 9,14-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "Naquele tempo, 14 os discípulos de João aproximaram-se de Jesus e perguntaram: \"Por que razão nós e os fariseus praticamos jejuns, mas os teus discípulos não?\" 15 Disse-lhes Jesus: \"Por acaso, os amigos do noivo podem estar de luto enquanto o noivo está com eles? Dias virão em que o noivo será tirado do meio deles. Então, sim, eles jejuarão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

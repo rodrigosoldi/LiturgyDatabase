@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "29/03/25",
+            "liturgy": "3ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Os 6,1-6",
+                            "title": "Leitura da Profecia de Oséias",
+                            "text": "1 \"Vinde, voltemos para o Senhor, ele nos feriu e há de tratar-nos, ele nos machucou e há de curar-nos. 2 Em dois dias, nos dará vida, e, ao terceiro dia, há de restaurar-nos, e viveremos em sua presença. 3 É preciso saber segui-lo para reconhecer o Senhor. Certa como a aurora é a sua vinda, ele virá até nós como as primeiras chuvas, como as chuvas tardias que regam o solo\". 4 Como vou tratar-te, Efraim? Como vou tratar-te, Judá? O vosso amor é como nuvem pela manhã, como orvalho que cedo se desfaz. 5 Eu os desbastei por meio dos profetas, arrasei-os com as palavras de minha boca, mas, como luz, expandem-se meus juízos; 6 quero amor, e não sacrifícios, conhecimento de Deus, mais do que holocaustos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 50(51)",
+                            "chorus": "Eu quis misericórdia e não o sacrifício!",
+                            "verses": [
+                                "Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!",
+                                "Pois não são de vosso agrado os sacrifícios, e, se oferto um holocausto, o rejeitais. Meu sacrifício é minha alma penitente, não desprezeis um coração arrependido!",
+                                "Sede benigno com Sião, por vossa graça, reconstruí Jerusalém e os seus muros! E aceitareis o verdadeiro sacrifício, os holocaustos e oblações em vosso altar!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Honra, glória, poder e louvor a Jesus, nosso Deus e Senhor!",
+                                "text": "Oxalá ouvísseis hoje a sua voz: não fecheis os corações como em Meriba!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 18,9-14",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 9 Jesus contou esta parábola para alguns que confiavam na sua própria justiça e desprezavam os outros: 10 \"Dois homens subiram ao Templo para rezar: um era fariseu, o outro cobrador de impostos. 11 O fariseu, de pé, rezava assim em seu íntimo: 'Ó Deus, eu te agradeço porque não sou como os outros homens, ladrões, desonestos, adúlteros, nem como este cobrador de impostos. 12 Eu jejuo duas vezes por semana, e dou o dízimo de toda a minha renda'. 13 O cobrador de impostos, porém, ficou à distância, e nem se atrevia a levantar os olhos para o céu; mas batia no peito, dizendo: 'Meu Deus, tem piedade de mim que sou pecador!' 14 Eu vos digo: este último voltou para casa justificado, o outro não. Pois quem se eleva será humilhado, e quem se humilha será elevado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

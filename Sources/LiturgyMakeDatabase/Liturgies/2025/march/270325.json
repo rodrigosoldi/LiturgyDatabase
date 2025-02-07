@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "27/03/25",
+            "liturgy": "3ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Jr 7,23-28",
+                            "title": "Leitura do Livro do Profeta Jeremias",
+                            "text": "Assim fala o Senhor: 23 \"Dei esta ordem ao povo dizendo: Ouvi a minha voz, assim serei o vosso Deus, e vós sereis o meu povo; e segui adiante por todo o caminho que eu vos indicar para serdes felizes. 24 Mas eles não ouviram e não prestaram atenção; ao contrário, seguindo as más inclinações do coração, andaram para trás e não para a frente, 25 desde o dia em que seus pais saíram do Egito até ao dia de hoje. A todos enviei meus servos, os profetas, e enviei-os cada dia, começando bem cedo; 26 mas não ouviram e não prestaram atenção; ao contrário, obstinaram-se no erro, procedendo ainda pior que seus pais. 27 Se falares todas essas coisas, eles não te escutarão, e, se os chamares, não te darão resposta. 28 Dirás, então: 'Esta é a nação que não escutou a voz do Senhor, seu Deus, e não aceitou correção. Sua fé morreu, foi arrancada de sua boca' \"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 94(95)",
+                            "chorus": "Oxalá ouvísseis hoje a sua voz: Não fecheis os vossos corações.",
+                            "verses": [
+                                "Vinde, exultemos de alegria no Senhor, aclamemos o Rochedo que nos salva! Ao seu encontro caminhemos com louvores, e com cantos de alegria o celebremos!",
+                                "Vinde adoremos e prostremo-nos por terra, e ajoelhemos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso Pastor, e nós somos o seu povo e seu rebanho, as ovelhas que conduz com sua mão.",
+                                "Oxalá ouvísseis hoje a sua voz: \"Não fecheis os corações como em Meriba, como em Massa, no deserto, aquele dia, em que outrora vossos pais me provocaram, apesar de terem visto as minhas obras\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o ungido de Deus Pai!",
+                                "text": "Voltai ao Senhor, vosso Deus, ele é bom, compassivo e clemente."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 11,14-23",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 14 Jesus estava expulsando um demônio que era mudo. Quando o demônio saiu, o mudo começou a falar, e as multidões ficaram admiradas. 15 Mas alguns disseram: \"É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios\". 16 Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17 Mas, conhecendo seus pensamentos, Jesus disse-lhes: \"Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra. 18 Ora, se até Satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19 Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes. 20 Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21 Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22 Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava, e reparte o que roubou. 23 Quem não está comigo, está contra mim. E quem não recolhe comigo, dispersa\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

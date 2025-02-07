@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "02/03/25",
+            "liturgy": "8º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Eclo 27,5-8",
+                            "title": "Leitura do Livro do Eclesiástico",
+                            "text": "5 Quando a gente sacode a peneira, ficam nela só os refugos; assim os defeitos de um homem aparecem no seu falar. 6 Como o forno prova os vasos do oleiro, assim o homem é provado em sua conversa, 7 O fruto revela como foi cultivada a árvore; assim, a palavra mostra o coração do homem. 8 Não elogies a ninguém, antes de ouvi-lo falar: pois é no falar que o homem se revela."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 91(92)",
+                            "chorus": "Como é bom agradecermos ao Senhor.",
+                            "verses": [
+                                "Como é bom agradecermos ao Senhor e cantar salmos de louvor ao Deus Altíssimo! Anunciar pela manhã vossa bondade, e o vosso amor fiel, a noite inteira.",
+                                "O justo crescerá como a palmeira, florirá igual ao cedro que há no Líbano; na casa do Senhor estão plantados, nos átrios de meu Deus florescerão.",
+                                "Mesmo no tempo da velhice darão frutos, cheios de seiva e de folhas verdejantes; e dirão: \"É justo mesmo o Senhor Deus: meu Rochedo, não existe nele o mal!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "1Cor 15,54-58",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 54 Quando este ser corruptível estiver vestido de incorruptibilidade e este ser mortal estiver vestido de imortalidade, então estará cumprida a palavra da Escritura: \"A morte foi tragada pela vitória. 55 Ó morte, onde está a tua vitória? Onde está o teu aguilhão?\" 56 O aguilhão da morte é o pecado, e a força do pecado é a Lei. 57 Graças sejam dadas a Deus que nos dá a vitória pelo Senhor nosso, Jesus Cristo. 58 Portanto, meus amados irmãos, sede firmes e inabaláveis, empenhando-vos cada vez mais na obra do Senhor, certos de que vossas fadigas não são em vão, no Senhor."
+                        }
+                    ]                
+                },                
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Como astros no mundo vós resplandeceis, mensagem de vida ao mundo anunciando; da vida a Palavra, com fé, proclamais, quais astros luzentes no mundo brilhais!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 6,39-45",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas.",
+                                "text": "Naquele tempo, 39 Jesus contou uma parábola aos discípulos: \"Pode um cego guiar outro cego? Não cairão os dois num buraco? 40 Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. 41 Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho? 42 Como podes dizer a teu irmão: irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão. 43 Não existe árvore boa que dê frutos ruins, nem árvore ruim que dê frutos bons. 44 Toda árvore é reconhecida pelos seus frutos. Não se colhem figos de espinheiros, nem uvas de plantas espinhosas. 45 O homem bom tira coisas boas do bom tesouro do seu coração. Mas o homem mau tira coisas más do seu mau tesouro, pois sua boca fala do que o coração está cheio\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "11/03/25",
+            "liturgy": "1ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 55,10-11",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "Isto diz o Senhor: 10 \"Assim como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, 11 assim a palavra que sair de minha boca; não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 33(34)",
+                            "chorus": "O Senhor liberta os justos de todas as angústias.",
+                            "verses": [
+                                "Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou.",
+                                "Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia.",
+                                "O Senhor pousa seus olhos sobre os justos, e seu ouvido está atento ao seu chamado; mas ele volta a sua face contra os maus, para da terra apagar sua lembrança.",
+                                "Clamam os justos, e o Senhor bondoso escuta e de todas as angústias os liberta. Do coração atribulado ele está perto e conforta os de espírito abatido."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a Cristo, palavra eterna do Pai, que é amor!",
+                                "text": "O homem não vive somente de pão, mas de toda palavra da boca de Deus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 6,7-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Mateus.",
+                                "text": "7 Naquele tempo, disse Jesus aos seus discípulos: \"Quando orardes, não useis muitas palavras, como fazem os pagãos. Eles pensam que serão ouvidos por força das muitas palavras. 8 Não sejais como eles, pois vosso Pai sabe do que precisais, muito antes que vós o peçais. 9 Vós deveis rezar assim: Pai Nosso que estás nos céus, santificado seja o teu nome; 10 venha o teu Reino; seja feita a tua vontade, assim na terra como nos céus. 11 O pão nosso de cada dia dá-nos hoje. 12 Perdoa as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. 13 E não nos deixes cair em tentação, mas livra-nos do mal. 14 De fato, se vós perdoardes aos homens as faltas que eles cometeram, vosso Pai que está nos céus também vos perdoará. 15 Mas, se vós não perdoardes aos homens, vosso Pai também não perdoará as faltas que vós cometestes\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
