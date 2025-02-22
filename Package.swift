@@ -20,7 +20,7 @@ let package = Package(
 		)
 	],
 	dependencies: [
-		.package(url: "https://github.com/realm/realm-swift.git", from: "10.0.0"),
+		.package(url: "https://github.com/realm/realm-swift.git", from: "20.0.0"),
 		.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.2")		
 	],
     targets: [
