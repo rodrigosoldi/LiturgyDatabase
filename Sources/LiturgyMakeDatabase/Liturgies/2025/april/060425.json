@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "06/04/25",
+            "liturgy": "5º Domingo da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 43,16-21",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "16 Isto diz o Senhor, que abriu uma passagem no mar e um caminho entre águas impetuosas; 17 que pôs a perder carros e cavalos, tropas e homens corajosos; pois estão todos mortos e não ressuscitarão, foram abafados como mecha de pano e apagaram-se: 18 \"Não relembreis coisas passadas, não olheis para fatos antigos. 19 Eis que eu farei coisas novas, e que já estão surgindo: acaso não as reconheceis? Pois abrirei uma estrada no deserto e farei correr rios na terra seca. 20 Hão de glorificar-me os animais selvagens, os dragões e os avestruzes, porque fiz brotar água no deserto e rios na terra seca para dar de beber a meu povo, a meus escolhidos. 21 Este povo, eu o criei para mim e ele cantará meus louvores\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 125(126)",
+                            "chorus": "Maravilhas fez conosco o Senhor, exultemos de alegria!",
+                            "verses": [
+                                "Quando o Senhor reconduziu nossos cativos, parecíamos sonhar; encheu-se de sorriso nossa boca, nossos lábios, de canções.",
+                                "Entre os gentios se dizia: \"Maravilhas fez com eles o Senhor!\" Sim, maravilhas fez conosco o Senhor, exultemos de alegria!",
+                                "Mudai a nossa sorte, ó Senhor, como torrentes no deserto. Os que lançam as sementes entre lágrimas, ceifarão com alegria.",
+                                "Chorando de tristeza sairão, espalhando suas sementes; cantando de alegria voltarão, carregando os seus feixes!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Fl 3,8-14",
+                            "title": "Leitura da Carta de São Paulo aos Filipenses",
+                            "text": "Irmãos: 8 Na verdade, considero tudo como perda diante da vantagem suprema que consiste em conhecer a Cristo Jesus, meu Senhor. Por causa dele eu perdi tudo. Considero tudo como lixo, para ganhar Cristo e ser encontrado unido a ele, 9 não com minha justiça provindo da Lei, mas com a justiça por meio da fé em Cristo, a justiça que vem de Deus, na base da fé. 10 Esta consiste em conhecer a Cristo, experimentar a força da sua ressurreição, ficar em comunhão com os seus sofrimentos, tornando-me semelhante a ele na sua morte, 11 para ver se alcanço a ressurreição dentre os mortos. 12 Não que já tenha recebido tudo isso, ou que já seja perfeito. Mas corro para alcançá-lo, visto que já fui alcançado por Cristo Jesus. 13 Irmãos, eu não julgo já tê-lo alcançado. Uma coisa, porém, eu faço: esquecendo o que fica para trás, eu me lanço para o que está na frente. 14 Corro direto para a meta, rumo ao prêmio, que, do alto, Deus me chama a receber em Cristo Jesus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, ó Cristo, Verbo de Deus.",
+                                "text": "Agora, eis o que diz o Senhor: De coração convertei-vos a mim, pois sou bom, compassivo e clemente."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 8,1-11",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, 1 Jesus foi para o monte das Oliveiras. 2 De madrugada, voltou de novo ao Templo. Todo o povo se reuniu em volta dele. Sentando-se, começou a ensiná-los. 3 Entretanto, os mestres da Lei e os fariseus trouxeram uma mulher surpreendida em adultério. Colocando-a no meio deles, 4 disseram a Jesus: \"Mestre, esta mulher foi surpreendida em flagrante adultério. 5 Moisés na Lei mandou apedrejar tais mulheres. Que dizes tu?\" 6 Perguntavam isso para experimentar Jesus e para terem motivo de o acusar. Mas Jesus, inclinando-se, começou a escrever com o dedo no chão. 7 Como persistissem em interrogá-lo, Jesus ergueu-se e disse: \"Quem dentre vós não tiver pecado, seja o primeiro a atirar-lhe uma pedra\". 8 E tornando a inclinar-se, continuou a escrever no chão. 9 E eles, ouvindo o que Jesus falou, foram saindo um a um, a começar pelos mais velhos; e Jesus ficou sozinho, com a mulher que estava lá, no meio do povo. 10 Então Jesus se levantou e disse: \"Mulher, onde estão eles? Ninguém te condenou?\" 11 Ela respondeu: \"Ninguém, Senhor\". Então Jesus lhe disse: \"Eu também não te condeno. Podes ir, e de agora em diante não peques mais\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

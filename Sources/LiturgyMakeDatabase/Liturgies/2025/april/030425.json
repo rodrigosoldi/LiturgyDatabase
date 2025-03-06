@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "03/04/25",
+            "liturgy": "4ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 32,7-14",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 7 o Senhor falou a Moisés: \"Vai, desce, pois corrompeu-se o teu povo, que tiraste da terra do Egito. 8 Bem depressa desviaram-se do caminho que lhes prescrevi. Fizeram para si um bezerro de metal fundido, inclinaram-se em adoração diante dele e ofereceram-lhe sacrifícios, dizendo: 'Estes são os teus deuses, Israel, que te fizeram sair do Egito!' \" 9 E o Senhor disse ainda a Moisés: \"Vejo que este é um povo de cabeça dura. 10 Deixa que minha cólera se inflame contra eles e que eu os extermine. Mas de ti farei uma grande nação\". 11 Moisés, porém, suplicava ao Senhor seu Deus, dizendo: \"Por que, ó Senhor, se inflama a tua cólera contra o teu povo, que fizeste sair do Egito com grande poder e mão forte? 12 Não permitas, te peço, que os egípcios digam: 'Foi com má intenção que ele os tirou, para fazê-los perecer nas montanhas e exterminá-los da face da terra'. Aplaque-se a tua ira e perdoa a iniquidade do teu povo. 13 Lembra-te de teus servos Abraão, Isaac e Israel, com os quais te comprometeste por juramento, dizendo: 'Tornarei os vossos descendentes tão numerosos como as estrelas do céu; e toda esta terra de que vos falei, eu a darei aos vossos descendentes como herança para sempre' \". 14 E o Senhor desistiu do mal que havia ameaçado fazer ao seu povo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 105(106)",
+                            "chorus": "Lembrai-vos de nós, ó Senhor, segundo o amor para com vosso povo!",
+                            "verses": [
+                                "Construíram um bezerro no Horeb e adoraram uma estátua de metal; eles trocaram o seu Deus, que é sua glória, pela imagem de um boi que come feno.",
+                                "Esqueceram-se do Deus que os salvara, que fizera maravilhas no Egito; no país de Cam fez tantas obras admiráveis, no Mar Vermelho, tantas coisas assombrosas.",
+                                "Até pensava em acabar com sua raça, não se tivesse Moisés, o seu eleito, interposto, intercedendo junto a ele, para impedir que sua ira os destruísse."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Jesus Cristo, sois bendito, sois o ungido de Deus Pai!",
+                                "text": "Deus o mundo tanto amou que lhe deu seu próprio Filho, para que todo o que nele crer, encontre vida eterna."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 5,31-47",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, disse Jesus aos judeus: 31 \"Se eu der testemunho de mim mesmo, meu testemunho não vale. 32 Mas há um outro que dá testemunho de mim, e eu sei que o testemunho que ele dá de mim é verdadeiro. 33 Vós mandastes mensageiros a João, e ele deu testemunho da verdade. 34 Eu, porém, não dependo do testemunho de um ser humano. Mas falo assim para a vossa salvação. 35 João era uma lâmpada que estava acesa e a brilhar, e vós com prazer vos alegrastes por um tempo com a sua luz. 36 Mas eu tenho um testemunho maior que o de João; as obras que o Pai me concedeu realizar. As obras que eu faço dão testemunho de mim, mostrando que o Pai me enviou. 37 E também o Pai que me enviou dá testemunho a meu favor. Vós nunca ouvistes sua voz, nem vistes sua face, 38 e sua palavra não encontrou morada em vós, pois não acreditais naquele que ele enviou. 39 Vós examineis as Escrituras, pensando que nelas possuís a vida eterna. No entanto, as Escrituras dão testemunho de mim, 40 mas não quereis vir a mim para ter a vida eterna! 41 Eu não recebo a glória que vem dos homens. 42 Mas eu sei que não tendes em vós o amor de Deus. 43 Eu vim em nome do meu Pai, e vós não me recebeis. Mas, se um outro viesse em seu próprio nome, a este vós o receberíeis. 44 Como podereis acreditar, vós que recebeis glória uns dos outros e não buscais a glória que vem do único Deus? 45 Não penseis que eu vos acusarei diante do Pai. Há alguém que vos acusa: Moisés, no qual colocais a vossa esperança. 46 Se acreditásseis em Moisés, também acreditaríeis em mim, pois foi a respeito de mim que ele escreveu. 47 Mas se não acreditais nos seus escritos, como acreditareis então nas minhas palavras?\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

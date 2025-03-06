@@ -1,0 +1,64 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "09/04/25",
+            "liturgy": "5ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dn 3,14-20.24.49a.91-92.95",
+                            "title": "Leitura da Profecia de Daniel",
+                            "text": "Naqueles dias, 14 o rei Nabucodonosor tomou a palavra e disse: \"É verdadobge, Sidrac, Misac e Abdênago, que não prestais culto a meus deuses e não adorais a estátua de ouro que mandei erguer? 15 E agora, quando ouvirdes tocar trombeta, flauta, cítara, harpa, saltério e gaitas, e toda espécie de instrumentos, estais prontos a prostrar-vos e adorar a estátua que mandei fazer? Mas, se não fizerdes adoração, no mesmo instante sereis atirados na fornalha de fogo ardente; e qual é o deus que poderá libertar-vos de minhas mãos?\" 16 Sidrac, Misac e Abdênago responderam ao rei Nabucodonosor: \"Não há necessidade de te respondermos sobre isto: 17 se o nosso Deus, a quem rendemos culto, pode livrar-nos da fornalha de fogo ardente, ele também poderá libertar-nos de tuas mãos, ó rei. 18 Mas, se ele não quiser libertar-nos, fica sabendo, ó rei, que nós não prestaremos culto a teus deuses e tampouco adoraremos a estátua de ouro que mandaste fazer\". 19 A estas palavras, Nabucodonosor encheu-se de cólera contra Sidrac, Misac e Abdênago, a ponto de se alterar a expressão do rosto; deu ordem para acender a fornalha com sete vezes mais fogo que de costume; 20 e encarregou os soldados mais fortes do exército para amarrarem Sidrac, Misac e Adbênago e os lançarem na fornalha de fogo ardente. 24 Os três jovens andavam de cá para lá no meio das chamas, entoando hinos a Deus e bendizendo ao Senhor. 49a Mas o anjo do Senhor tinha descido simultaneamente na fornalha para junto de Azarias e seus companheiros. 91 O rei Nabucodonosor, tomado de pasmo, levantou-se apressadamente, e perguntou a seus ministros: \"Porventura, não lançamos três homens bem amarrados no meio do fogo?\" Responderam ao rei: \"É verdade, ó rei\". 92 Disse este: \"Mas eu estou vendo quatro homens andando livremente no meio do fogo, sem sofrerem nenhum mal, e o aspecto do quarto homem é semelhante ao de um filho de Deus\". 95 Exclamou Nabucodonosor: \"Bendito seja o Deus de Sidrac, Misac e Abdênago, que enviou seu anjo e libertou seus servos, que puseram nele sua confiança e transgrediram o decreto do rei, preferindo entregar suas vidas a servir e adorar qualquer outro Deus que não fosse o seu Deus\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Dn 3,52.53-54.55.56-57",
+                            "chorus": "A vós louvor, honra e glória eternamente!",
+                            "verses": [
+                                "Sede bendito, Senhor Deus de nossos pais. A vós louvor, honra e glória eternamente! Sede bendito, nome santo e glorioso. A vós louvor, honra e glória eternamente!",
+                                "No templo santo onde refulge a vossa glória. A vós louvor, honra e glória eternamente! E em vosso trono de poder vitorioso. A vós louvor, honra e glória eternamente!",
+                                "Sede bendito, que sondais as profundezas A vós louvor, honra e glória eternamente! E superior aos querubins vos assentais. A vós louvor, honra e glória eternamente!",
+                                "Sede bendito no celeste firmamento. A vós louvor, honra e glória eternamente!",
+                                "Obras todas do Senhor, glorificai-o. A ele louvor, honra e glória eternamente!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Honra, glória, poder e louvor a Jesus, nosso Deus e Senhor.",
+                                "text": "Felizes os que observam a palavra do Senhor, de reto coração, e que produzem muitos frutos, até o fim perseverantes!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 8,31-42",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, 31 Jesus disse aos judeus que nele tinham acreditado: \"Se permanecerdes na minha palavra, sereis verdadeiramente meus discípulos, 32 e conhecereis a verdade, e a verdade vos libertará\". 33 Responderam eles: \"Somos descendentes de Abraão, e nunca fomos escravos de ninguém. Como podes dizer: `Vós vos tornareis livres'?\" 34 Jesus respondeu: \"Em verdade, em verdade vos digo, todo aquele que comete pecado é escravo do pecado. 35 O escravo não permanece para sempre numa família, mas o filho permanece nela para sempre. 36 Se, pois, o Filho vos libertar, sereis verdadeiramente livres. 37 Bem sei que sois descendentes de Abraão; no entanto, procurais matar-me, porque a minha palavra não é acolhida por vós. 38 Eu falo o que vi junto do Pai; e vós fazeis o que ouvistes do vosso pai\". 39 Eles responderam então: \"O nosso pai é Abraão\". Disse-lhes Jesus: \"Se sois filhos de Abraão, praticai as obras de Abraão! 40 Mas agora, vós procurais matar-me, a mim, que vos falei a verdade que ouvi de Deus. Isto, Abraão não o fez. 41 Vós fazeis as obras do vosso pai\". Disseram-lhe, então: \"Nós não nascemos do adultério, temos um só pai: Deus\". 42 Respondeu-lhes Jesus: \"Se Deus fosse vosso Pai, vós certamente me amaríeis, porque de Deus é que eu saí, e vim. Não vim por mim mesmo, mas foi ele que me enviou\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

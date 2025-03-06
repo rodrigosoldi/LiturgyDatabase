@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "10/04/25",
+            "liturgy": "5ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 17,3-9",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 3 Abrão prostrou-se com o rosto por terra. 4 E Deus lhe disse: \"Eis a minha aliança contigo: tu serás pai de uma multidão de nações. 5 Já não te chamarás Abrão, mas o teu nome será Abraão, porque farei de ti o pai de uma multidão de nações. 6 Farei crescer tua descendência infinitamente. Farei nascer de ti nações, e reis sairão de ti. 7 Estabelecerei minha aliança entre mim e ti e teus descendentes para sempre; uma aliança eterna, para que eu seja teu Deus e o Deus de teus descendentes. 8 A ti e aos teus descendentes darei a terra em que vives como estrangeiro, todo o país de Canaã como propriedade para sempre. E eu serei o Deus dos teus descendentes\". 9 Deus disse a Abraão: \"Guarda a minha aliança, tu e a tua descendência para sempre\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "O Senhor se lembra sempre da Aliança!",
+                            "verses": [
+                                "Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!",
+                                "Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra.",
+                                "Ele sempre se recorda da Aliança, promulgada a incontáveis gerações; da Aliança que ele fez com Abraão, e do seu santo juramento a Isaac."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a Cristo, Palavra eterna do Pai, que é amor!",
+                                "text": "Oxalá ouvísseis hoje a sua voz. Não fecheis os corações como em Meriba!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 8,51-59",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, disse Jesus aos judeus: 51 \"Em verdade, em verdade, eu vos digo: se alguém guardar a minha palavra, jamais verá a morte\". 52 Disseram então os judeus: \"Agora sabemos que tens um demônio. Abraão morreu e os profetas também, e tu dizes: 'Se alguém guardar a minha palavra jamais verá a morte'. 53 Acaso és maior do que nosso pai Abraão, que morreu, como também os profetas? Quem pretendes tu ser?\". 54 Jesus respondeu: \"Se me glorifico a mim mesmo, minha glória não vale nada. Quem me glorifica é o meu Pai, aquele que vós dizeis ser o vosso Deus. 55 No entanto, não o conheceis. Mas eu o conheço e, se dissesse que não o conheço, seria um mentiroso, como vós! Mas eu o conheço e guardo a sua palavra. 56 Vosso pai Abraão exultou, por ver o meu dia; ele o viu, e alegrou-se\". 57 Os judeus disseram-lhe então: \"Nem sequer cinquenta anos tens , e viste Abraão!?\" 58 Jesus respondeu: \"Em verdade, em verdade vos digo, antes que Abraão existisse, eu sou\". 59 Então eles pegaram em pedras para apedrejar Jesus, mas ele escondeu-se e saiu do Templo."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

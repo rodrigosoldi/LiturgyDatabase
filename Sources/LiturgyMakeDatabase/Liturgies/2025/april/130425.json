@@ -1,0 +1,88 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/04/25",
+            "liturgy": "Domingo de Ramos da Paixão do Senhor",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 50,4-7",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "4 O Senhor Deus deu-me língua adestrada, para que eu saiba dizer palavras de conforto à pessoa abatida; ele me desperta cada manhã e me excita o ouvido, para prestar atenção como um discípulo. 5 O Senhor abriu-me os ouvidos; não lhe resisti nem voltei atrás. 6 Ofereci as costas para me baterem e as faces para me arrancarem a barba; não desviei o rosto de bofetões e cusparadas. 7 Mas o Senhor Deus é meu auxiliador, por isso não me deixei abater o ânimo, conservei o rosto impassível como pedra, porque sei que não sairei humilhado."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 21(22)",
+                            "chorus": "Meu Deus, meu Deus, por que me abandonastes?",
+                            "verses": [
+                                "Riem de mim todos aqueles que me veem, torcem os lábios e sacodem a cabeça: \"Ao Senhor se confiou, ele o liberte e agora o salve, se é verdade que ele o ama!\"",
+                                "Cães numerosos me rodeiam furiosos, e por um bando de malvados fui cercado. Transpassaram minhas mãos e os meus pés e eu posso contar todos os meus ossos.",
+                                "Eles repartem entre si as minhas vestes e sorteiam entre si a minha túnica. Vós, porém, ó meu Senhor, não fiqueis longe, ó minha força, vinde logo em meu socorro!",
+                                "Anunciarei o vosso nome a meus irmãos e no meio da assembleia hei de louvar-vos! Vós que temeis ao Senhor Deus, dai-lhe louvores, glorificai-o, descendentes de Jacó, e respeitai-o, toda a raça de Israel!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Fl 2,6-11",
+                            "title": "Leitura da Carta de São Paulo aos Filipenses",
+                            "text": "6 Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7 mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8 humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9 Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. 10 Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, 11 e toda língua proclame: \"Jesus Cristo é o Senhor\", para a glória de Deus Pai."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "",
+                                "text": ""
+                            },
+                            "reading": {
+                                "obs": "Procissão",
+                                "reference": "Lc 19,28-40",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo Lucas",
+                                "text": "Naquele tempo, 28 Jesus caminhava à frente dos discípulos, subindo para Jerusalém. 29 Quando se aproximou de Betfagé e Betânia, perto do monte chamado das Oliveiras, enviou dois de seus discípulos, dizendo: 30 \"Ide ao povoado ali na frente. Logo na entrada encontrareis um jumentinho amarrado, que nunca foi montado. Desamarrai-o e trazei-o aqui. 31 Se alguém, por acaso, vos perguntar: 'Por que desamarrais o jumentinho?', respondereis assim: 'O Senhor precisa dele'\". 32 Os enviados partiram e encontraram tudo exatamente como Jesus lhes havia dito. 33 Quando desamarravam o jumentinho, os donos perguntaram: \"Por que estais desamarrando o jumentinho?\" 34 Eles responderam: \"O Senhor precisa dele\". 35 E levaram o jumentinho a Jesus. Então puseram seus mantos sobre o animal e ajudaram Jesus a montar. 36 E enquanto Jesus passava, o povo ia estendendo suas roupas no caminho. 37 Quando chegou perto da descida do monte das Oliveiras, a multidão dos discípulos, aos gritos e cheia de alegria, começou a louvar a Deus por todos os milagres que tinha visto. 38 Todos gritavam: \"Bendito o Rei, que vem em nome do Senhor! Paz no céu e glória nas alturas!\" 39 Do meio da multidão, alguns dos fariseus disseram a Jesus: \"Mestre, repreende teus discípulos!\" 40 Jesus, porém, respondeu: \"Eu vos declaro: se eles se calarem, as pedras gritarão\"."
+                            }
+                        },
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "",
+                                "text": ""
+                            },
+                            "reading": {
+                                "obs": "Igreja",
+                                "reference": "Lc 23,1-49",
+                                "title": "Paixão de Nosso Senhor Jesus Cristo + segundo Lucas.",
+                                "text": "Narrador 1: Paixão de Nosso Senhor Jesus Cristo + segundo Lucas.\n\nNaquele tempo, 1 toda a multidão se levantou e levou Jesus a Pilatos. 2 Começaram então a acusá-lo, dizendo:\n\nAss.: “Achamos este homem fazendo subversão entre o nosso povo, proibindo pagar impostos a César e afirmando ser ele mesmo Cristo, o Rei”.\n\nNarrador: 3 Pilatos o interrogou:\n\nLeitor 1: “Tu és o rei dos judeus?”\n\nNarrador: Jesus respondeu, declarando:\n\nPres.: “Tu o dizes!”\n\nNarrador: 4 Então Pilatos disse aos sumos sacerdotes e à multidão:\n\nLeitor 1: “Não encontro neste homem nenhum crime”.\n\nNarrador: 5 Eles, porém, insistiam:\n\nAss.: “Ele agita o povo, ensinando por toda a Judeia, desde a Galileia, onde começou, até aqui”.\n\nNarrador: 6 Quando ouviu isto, Pilatos perguntou:\n\nLeitor 1: “Este homem é galileu?”\n\nNarrador: 7 Ao saber que Jesus estava sob a autoridade de Herodes, Pilatos enviou-o a este, pois também Herodes estava em Jerusalém naqueles dias. 8 Herodes ficou muito contente ao ver Jesus, pois havia muito tempo desejava vê-lo. Já ouvira falar a seu respeito e esperava vê-lo fazer algum milagre. 9 Ele interrogou-o com muitas perguntas. Jesus, porém, nada lhe respondeu.\n\n10 Os sumos sacerdotes e os mestres da Lei estavam presentes e o acusavam com insistência. 11 Herodes, com seus soldados, tratou Jesus com desprezo, zombou dele, vestiu-o com uma roupa vistosa e mandou-o de volta a Pilatos. 12 Naquele dia Herodes e Pilatos ficaram amigos um do outro, pois antes eram inimigos.\n\n13 Então Pilatos convocou os sumos sacerdotes, os chefes e o povo, e lhes disse:\n\nLeitor 1: 14 “Vós me trouxestes este homem como se fosse um agitador do povo. Pois bem! Já o interroguei diante de vós e não encontrei nele nenhum dos crimes de que o acusais; 15 nem Herodes, pois o mandou de volta para nós. Como podeis ver, ele nada fez para merecer a morte. 16 Portanto, vou castigá-lo e o soltarei”.\n\nNarrador: 18 Toda a multidão começou a gritar:\n\nAss.: “Fora com ele! Solta-nos Barrabás!”\n\nNarrador: 19 Barrabás tinha sido preso por causa de uma revolta na cidade e por homicídio. 20 Pilatos falou outra vez à multidão, pois queria libertar Jesus. 21 Mas eles gritaram:\n\nAss.: “Crucifica-o! Crucifica-o!”\n\nNarrador: 22 E Pilatos falou pela terceira vez:\n\nLeitor 1: “Que mal fez este homem? Não encontrei nele nenhum crime que mereça a morte. Portanto, vou castigá-lo e o soltarei”.\n\nNarrador: 23 Eles, porém, continuaram a gritar com toda a força, pedindo que fosse crucificado. E a gritaria deles aumentava sempre mais. 24 Então Pilatos decidiu que fosse feito o que eles pediam. 25 Soltou o homem que eles queriam — aquele que fora preso por revolta e homicídio — e entregou Jesus à vontade deles.\n\n26 Enquanto levavam Jesus, pegaram um certo Simão, de Cirene, que voltava do campo, e impuseram-lhe a cruz para carregá-la atrás de Jesus. 27 Seguia-o uma grande multidão do povo e de mulheres que batiam no peito e choravam por ele. 28 Jesus, porém, voltou-se e disse:\n\nPres.: “Filhas de Jerusalém, não choreis por mim! Chorai por vós mesmas e por vossos filhos! 29 Porque dias virão em que se dirá: ‘Felizes as mulheres que nunca tiveram filhos, os ventres que nunca deram à luz e os seios que nunca amamentaram’. 30 Então começarão a pedir às montanhas: ‘Cai sobre nós! e às colinas: ‘Escondei-nos!’ 31 Porque, se fazem assim com a árvore verde, o que não farão com a árvore seca?”\n\nNarrador: 32 Levavam também outros dois malfeitores para serem mortos junto com Jesus. 33 Quando chegaram ao lugar chamado “Calvário”, ali crucificaram Jesus e os malfeitores: um à sua direita e outro à sua esquerda. 34 Jesus dizia:\n\nPres.: “Pai, perdoa-lhes! Eles não sabem o que fazem!”\n\nNarrador: Depois fizeram um sorteio, repartindo entre si as roupas de Jesus. 35 O povo permanecia lá, olhando. E até os chefes zombavam, dizendo:\n\nAss.: “A outros ele salvou. Salve-se a si mesmo, se, de fato, é o Cristo de Deus, o Escolhido!”\n\nNarrador: 36 Os soldados também caçoavam dele; aproximavam-se, ofereciam-lhe vinagre, 37 e diziam: Ass.: “Se és o rei dos judeus, salva-te a ti mesmo!”\n\nNarrador: 38 Acima dele havia um letreiro:\n\nLeitor 2: “Este é o Rei dos Judeus”.\n\nNarrador: 39 Um dos malfeitores crucificados o insultava, dizendo:\n\nLeitor 2: “Tu não és o Cristo? Salva-te a ti mesmo e a nós!”\n\nNarrador: 40 Mas o outro o repreendeu, dizendo:\n\nLeitor 1: “Nem sequer temes a Deus, tu que sofres a mesma condenação? 41Para nós, é justo, porque estamos recebendo o que merecemos; mas ele não fez nada de mal”.\n\nNarrador: 42 E acrescentou:\n\nLeitor 1: “Jesus, lembra-te de mim, quando entrares no teu reinado”.\n\nNarrador: 43 Jesus lhe respondeu: Pres.: “Em verdade eu te digo: ainda hoje estarás comigo no Paraíso”.\n\nNarrador: 44 Já era mais ou menos meio-dia e uma escuridão cobriu toda a terra até as três horas da tarde, 45 pois o sol parou de brilhar. A cortina do santuário rasgou-se pelo meio,46e Jesus deu um forte grito:\n\nPres.: “Pai, em tuas mãos entrego o meu espírito”.\n\nNarrador: Dizendo isso, expirou.\n\n(Aqui todos se ajoelham e faz-se uma pausa.)\n\nNarrador: 47 O oficial do exército romano viu o que acontecera e glorificou a Deus, dizendo:\n\nLeitor 1: “De fato! Este homem era justo!”\n\nNarrador: 48 E as multidões, que tinham acorrido para assistir, viram o que havia acontecido e voltaram para casa, batendo no peito. 49 Todos os conhecidos de Jesus, bem como as mulheres que o acompanhavam desde a Galileia, ficaram a distância, olhando essas coisas."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

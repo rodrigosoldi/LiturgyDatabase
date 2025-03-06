@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "08/04/25",
+            "liturgy": "5ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Nm 21,4-9",
+                            "title": "Leitura do Livro dos Números",
+                            "text": "Naqueles dias, 4 os filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom. Durante a viagem o povo começou a impacientar-se, 5 e se pôs a falar contra Deus e contra Moisés, dizendo: \"Por que nos fizestes sair do Egito para morrermos no deserto? Não há pão, falta água, e já estamos com nojo desse alimento miserável\". 6 Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel. 7 O povo foi ter com Moisés e disse: \"Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes\". Moisés intercedeu pelo povo, 8 e o Senhor respondeu: \"Faze uma serpente abrasadora e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela viverá\". 9 Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste. Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 101(102)",
+                            "chorus": "Ouvi, Senhor, e escutai minha oração e chegue até vós o meu clamor.",
+                            "verses": [
+                                "Ouvi, Senhor, e escutai minha oração, e chegue até vós o meu clamor! De mim não oculteis a vossa face no dia em que estou angustiado! Inclinai o vosso ouvido para mim, ao invocar-vos atendei-me sem demora!",
+                                "As nações respeitarão o vosso nome, e os reis de toda a terra, a vossa glória; quando o Senhor reconstruir Jerusalém e aparecer com gloriosa majestade, ele ouvirá a oração dos oprimidos e não desprezará a sua prece.",
+                                "Para as futuras gerações se escreva isto, e um povo novo a ser criado louve a Deus. Ele inclinou-se de seu templo nas alturas, e o Senhor olhou a terra do alto céu, para os gemidos dos cativos escutar e da morte libertar os condenados."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a Cristo, palavra eterna do Pai, que é amor!",
+                                "text": "Semente é de Deus a palavra, Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 8,21-30",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, disse Jesus aos fariseus: 21 \"Eu parto e vós me procurareis, mas morrereis no vosso pecado. Para onde eu vou, vós não podeis ir\". 22 Os judeus comentavam: \"Por acaso, vai-se matar? Pois ele diz: 'Para onde eu vou, vós não podeis ir?' \" 23 Jesus continuou: \"Vós sois daqui de baixo, eu sou do alto. Vós sois deste mundo, eu não sou deste mundo. 24 Disse-vos que morrereis nos vossos pecados, porque, se não acreditais que eu sou, morrereis nos vossos pecados\". 25 Perguntaram-lhe pois: \"Quem és tu, então?\" Jesus respondeu: \"O que vos digo, desde o começo. 26 Tenho muitas coisas a dizer a vosso respeito, e a julgar também. Mas aquele que me enviou é fidedigno, e o que ouvi da parte dele é o que falo para o mundo\". 27 Eles não compreenderam que lhes estava falando do Pai. 28 Por isso, Jesus continuou: \"Quando tiverdes elevado o Filho do Homem, então sabereis que eu sou, e que nada faço por mim mesmo, mas apenas falo aquilo que o Pai me ensinou. 29 Aquele que me enviou está comigo. Ele não me deixou sozinho, porque sempre faço o que é de seu agrado\". 30 Enquanto Jesus assim falava, muitos acreditaram nele."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

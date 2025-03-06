@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "01/04/25",
+            "liturgy": "4ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ez 47,1-9.12",
+                            "title": "Leitura da Profecia de Ezequiel",
+                            "text": "Naqueles dias, 1 o anjo fez-me voltar até a entrada do Templo e eis que saía água da sua parte subterrânea na direção leste, porque o Templo estava voltado para o oriente; a água corria do lado direito do Templo, a sul do altar. 2 Ele fez-me sair pela porta que dá para o norte, e fez-me dar uma volta por fora, até à porta que dá para o leste, onde eu vi a água jorrando do lado direito. 3 Quando o homem saiu na direção leste, tendo uma corda de medir na mão, mediu quinhentos metros e fez-me atravessar a água: ela chegava-me aos tornozelos. 4 Mediu outros quinhentos metros e fez-me atravessar a água: ela chegava-me aos joelhos. 5 Mediu mais quinhentos metros e me fez-me atravessar a água: ela chegava-me à cintura. Mediu mais quinhentos metros, e era um rio que eu não podia atravessar. Porque as águas haviam crescido tanto, que se tornaram um rio impossível de atravessar, a não ser a nado. 6 Ele me disse: \"Viste, filho do homem?\" Depois fez-me caminhar de volta pela margem do rio. 7 Voltando, eu vi junto à margem muitas árvores, de um e de outro lado do rio. 8 Então ele me disse: \"Estas águas correm para a região oriental, descem para o vale do Jordão, desembocam nas águas salgadas do mar, e elas se tornarão saudáveis. 9 Onde o rio chegar, todos os animais que ali se movem poderão viver. Haverá peixes em quantidade, pois ali desembocam as águas que trazem saúde; e haverá vida onde chegar o rio. 12 Nas margens junto ao rio, de ambos os lados, crescerá toda espécie de árvores frutíferas; suas folhas não murcharão e seus frutos jamais se acabarão: cada mês darão novos frutos, pois as águas que banham as árvores saem do santuário. Seus frutos servirão de alimento e suas folhas serão remédio\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 45(46)",
+                            "chorus": "Conosco está o Senhor do Universo! O nosso refúgio é o Deus de Jacó.",
+                            "verses": [
+                                "O Senhor para nós é refúgio e vigor, sempre pronto, mostrou-se um socorro na angústia; assim não tememos se a terra estremece, se os montes desabam, caindo nos mares.",
+                                "Os braços de um rio vêm trazer alegria à Cidade de Deus, à morada do Altíssimo. Quem a pode abalar? Deus está no seu meio! Já bem antes da aurora, ele vem ajudá-la.",
+                                "Conosco está o Senhor do universo! O nosso refúgio é o Deus de Jacó! Vinde ver, contemplai os prodígios de Deus e a obra estupenda que fez no universo."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, Senhor Jesus, Primogênito dentre os mortos!",
+                                "text": "Criai em mim um coração que seja puro, dai-me de novo a alegria de ser salvo!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 5,1-16",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Houve uma festa dos judeus, e Jesus foi a Jerusalém. 2 Existe em Jerusalém, perto da porta das Ovelhas, uma piscina com cinco pórticos, chamada Betesda em hebraico. 3 Muitos doentes ficavam ali deitados — cegos, coxos e paralíticos —. 4 De fato, um anjo descia, de vez em quando, e movimentava a água da piscina, e o primeiro doente que aí entrasse, depois do borbulhar da água, ficava curado de qualquer doença que tivesse. 5 Aí se encontrava um homem, que estava doente havia trinta e oito anos. 6 Jesus viu o homem deitado e sabendo que estava doente há tanto tempo, disse-lhe: \"Queres ficar curado?\" 7 O doente respondeu: \"Senhor, não tenho ninguém que me leve à piscina, quando a água é agitada. Quando estou chegando, outro entra na minha frente\". 8 Jesus disse: \"Levanta-te, pega a tua cama e anda\". 9 No mesmo instante, o homem ficou curado, pegou a sua cama e começou a andar. Ora, esse dia era um sábado. 10 Por isso, os judeus disseram ao homem que tinha sido curado: \"É sábado! Não te é permitido carregar tua cama\". 11 Ele respondeu-lhes: \"Aquele que me curou disse: 'Pega tua cama e anda' \". 12 Então lhe perguntaram: \"Quem é que te disse: 'Pega tua cama e anda?' \" 13 O homem que tinha sido curado não sabia quem fora, pois Jesus se tinha afastado da multidão que se encontrava naquele lugar. 14 Mais tarde, Jesus encontrou o homem no Templo e lhe disse: \"Eis que estás curado. Não voltes a pecar, para que não te aconteça coisa pior\". 15 Então o homem saiu e contou aos judeus que tinha sido Jesus quem o havia curado. 16 Por isso, os judeus começaram a perseguir Jesus, porque fazia tais coisas em dia de sábado."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

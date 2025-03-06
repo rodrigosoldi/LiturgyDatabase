@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "07/04/25",
+            "liturgy": "5ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dn 13,41c-62",
+                            "title": "Leitura da Profecia de Daniel",
+                            "text": "Naqueles dias, 41c a assembleia condenou Susana à morte. 42 Susana, porém, chorando, disse em voz alta: \"Ó Deus eterno, que conheces as coisas escondidas e sabes tudo de antemão, antes que aconteça! 43 Tu sabes que é falso o testemunho que levantaram contra mim! Estou condenada a morrer, quando nada fiz do que estes maldosamente inventaram a meu respeito!\" 44 O Senhor escutou sua voz. 45 Enquanto a levavam para a execução, Deus excitou o santo espírito de um adolescente, de nome Daniel. 46 E ele clamou em alta voz: \"Sou inocente do sangue desta mulher!\" 47 Todo o povo então voltou-se para ele e perguntou: \"Que palavra é esta, que acabas de dizer?\" 48 De pé, no meio deles, Daniel respondeu: \"Sois tão insensatos, filhos de Israel? Sem julgamento e sem conhecimento da causa verdadeira, vós condenais uma filha de Israel? 49 Voltai a repetir o julgamento, pois é falso o testemunho que levantaram contra ela!\" 50 Todo o povo voltou apressadamente, e outros anciãos disseram ao jovem: \"Senta-te no meio de nós e dá-nos o teu parecer, pois Deus te deu a honra da velhice\". 51 Falou então Daniel: \"Mantende os dois separados, longe um do outro, e eu os julgarei\". 52 Tendo sido separados, Daniel chamou um deles e lhe disse: \"Velho encarquilhado no mal! Agora aparecem os pecados que estavas habituado a praticar. 53 Fazias julgamentos injustos, condenando inocentes e absolvendo culpados, quando o Senhor ordena: 'Tu não farás morrer o inocente e o justo!' 54 Pois bem, se é que viste, dize-me à sombra de que árvore os viste abraçados?\" Ele respondeu: \"À sombra de uma aroeira\". 55 Daniel replicou \"Mentiste com perfeição, contra a tua própria cabeça. Por isso o anjo de Deus, tendo recebido já a sentença divina, vai rachar-te pelo meio!\" 56 Mandando sair este, ordenou que trouxessem o outro: \"Raça de Canaã, e não de Judá, a beleza fascinou-te e a paixão perverteu o teu coração. 57 Era assim que procedíeis com as filhas de Israel, e elas por medo sujeitavam-se a vós. Mas uma filha de Judá não se submeteu a essa iniquidade. 58 Agora, pois, dize-me debaixo de que árvore os surpreendeste juntos?\" Ele respondeu: \"Debaixo de uma azinheira\". 59 Daniel retrucou: \"Também tu mentiste com perfeição, contra a tua própria cabeça. Por isso o anjo de Deus já está à espera, com a espada na mão, para cortar-te ao meio e para te exterminar!\" 60 Toda a assistência pôs-se a gritar com força, bendizendo a Deus, que salva os que nele esperam. 61 E voltaram-se contra os dois velhos, pois Daniel os tinha convencido, por suas próprias palavras, de que eram falsas testemunhas. E, agindo segundo a lei de Moisés, fizeram com eles aquilo que haviam tramado perversamente contra o próximo. 62 E assim os mataram, enquanto, naquele dia, era salva uma vida inocente."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 22(23)",
+                            "chorus": "Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei, estais comigo.",
+                            "verses": [
+                                "O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças.",
+                                "Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!",
+                                "Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda.",
+                                "Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, Senhor Jesus, Primogênito dentre os mortos!",
+                                "text": "Não quero a morte do pecador, diz o Senhor, mas que ele volte, se converta e tenha vida."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 8,12-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, 12 disse Jesus aos fariseus: \"Eu sou a luz do mundo. Quem me segue, não andará nas trevas, mas terá a luz da vida\". 13 Então os fariseus disseram: \"O teu testemunho não vale, porque estás dando testemunho de ti mesmo\". 14 Jesus respondeu: \"Ainda que eu dê testemunho de mim mesmo, o meu testemunho é válido, porque sei de onde venho e para onde vou. Mas vós não sabeis donde venho, nem para onde vou. 15 Vós julgais segundo a carne, eu não julgo ninguém, 16 e se eu julgo, o meu julgamento é verdadeiro, porque não estou só, mas comigo está o Pai, que me enviou. 17 Na vossa Lei está escrito que o testemunho de duas pessoas é verdadeiro. 18 Ora, eu dou testemunho de mim mesmo e também o Pai, que me enviou, dá testemunho de mim\". 19 Perguntaram então: \"Onde está o teu Pai?\" Jesus respondeu: \"Vós não conheceis nem a mim, nem o meu Pai. Se me conhecêsseis, conheceríeis também o meu Pai\". 20 Jesus disse estas coisas, enquanto estava ensinando no Templo, perto da sala do tesouro. E ninguém o prendeu, porque a hora dele ainda não havia chegado."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

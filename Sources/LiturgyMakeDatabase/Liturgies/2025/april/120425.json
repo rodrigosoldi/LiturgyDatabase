@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/04/25",
+            "liturgy": "5ª Semana da Quaresma",
+            "liturgicalColor": "ROXO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ez 37,21-28",
+                            "title": "Leitura da Profecia de Ezequiel",
+                            "text": "21 Assim diz o Senhor Deus: \"Eu mesmo vou tomar os israelitas do meio das nações para onde foram, vou recolhê-los de toda a parte e reconduzi-los para a sua terra. 22 Farei deles uma nação única no país, nos montes de Israel, e apenas um rei reinará sobre todos eles. Nunca mais formarão duas nações, nem tornarão a dividir-se em dois reinos. 23 Não se mancharão mais com os seus ídolos e nunca mais cometerão infames abominações. Eu os libertarei de todo o pecado que cometeram em sua infidelidade, e os purificarei. Eles serão o meu povo e eu serei o seu Deus. 24 Meu servo Davi reinará sobre eles, e haverá para todos eles um único pastor. Viverão segundo meus preceitos e guardarão minhas leis, pondo-as em prática. 25 Habitarão no país que dei ao meu servo Jacó, onde moraram vossos pais; ali habitarão para sempre, também eles, com seus filhos e netos, e o meu servo Davi será o seu príncipe para sempre. 26 Farei com eles uma aliança de paz, será uma aliança eterna. Eu os estabelecerei e multiplicarei, e no meio deles colocarei meu santuário para sempre. 27 Minha morada estará junto deles. Eu serei o seu Deus e eles serão o meu povo. 28 Assim as nações saberão que eu, o Senhor, santifico Israel, por estar o meu santuário no meio deles para sempre\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Jr 31,10.11-12ab.13",
+                            "chorus": "O Senhor nos guardará qual pastor a seu rebanho.",
+                            "verses": [
+                                "Ouvi, nações, a palavra do Senhor e anunciai-a nas ilhas mais distantes: \"Quem dispersou Israel, vai congregá-lo, e o guardará qual pastor a seu rebanho!\"",
+                                "Pois, na verdade, o Senhor remiu Jacó e o libertou do poder do prepotente. Voltarão para o monte de Sião, entre brados e cantos de alegria afluirão para as bênçãos do Senhor:",
+                                "Então a virgem dançará alegremente, também o jovem e o velho exultarão; mudarei em alegria o seu luto, serei consolo e conforto após a guerra."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Salve, ó Cristo, imagem do Pai, a plena verdade nos comunicai!",
+                                "text": "Lançai para bem longe toda a vossa iniquidade! Criai em vós um novo espírito e um novo coração!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 11,45-56",
+                                "title": "Proclamação do Evangelho de Jesus Cristo + segundo João",
+                                "text": "Naquele tempo, 45 muitos dos judeus que tinham ido à casa de Maria e viram o que Jesus fizera, creram nele. 46 Alguns, porém, foram ter com os fariseus e contaram o que Jesus tinha feito. 47 Então os sumos sacerdotes e os fariseus reuniram o Conselho e disseram: \"O que faremos? Este homem realiza muitos sinais. 48 Se deixamos que ele continue assim, todos vão acreditar nele, e virão os romanos e destruirão o nosso Lugar Santo e a nossa nação\". 49 Um deles, chamado Caifás, sumo sacerdote em função naquele ano, disse: \"Vós não entendeis nada. 50 Não percebeis que é melhor um só morrer pelo povo do que perecer a nação inteira?\" 51 Caifás não falou isso por si mesmo. Sendo sumo sacerdote em função naquele ano, profetizou que Jesus iria morrer pela nação. 52 E não só pela nação, mas também para reunir os filhos de Deus dispersos. 53 A partir desse dia, as autoridades judaicas tomaram a decisão de matar Jesus. 54 Por isso, Jesus não andava mais em público no meio dos judeus. Retirou-se para uma região perto do deserto, para a cidade chamada Efraim. Ali permaneceu com os seus discípulos. 55 A Páscoa dos judeus estava próxima. Muita gente do campo tinha subido a Jerusalém para se purificar antes da Páscoa. 56 Procuravam Jesus e, ao reunirem-se no Templo, comentavam entre si: \"O que vos parece? Será que ele não vem para a festa?\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
