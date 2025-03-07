@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "17/04/25",
+            "liturgy": "Ceia do Senhor",
+            "liturgicalColor": "",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 12,1-8.11-14",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 1 O Senhor disse a Moisés e a Aarão no Egito: 2 \"Este mês será para vós o começo dos meses; será o primeiro mês do ano. 3 Falai a toda a comunidade dos filhos de Israel, dizendo: 'No décimo dia deste mês, cada um tome um cordeiro por família, um cordeiro para cada casa. 4 Se a família não for bastante numerosa para comer um cordeiro, convidará também o vizinho mais próximo, de acordo com o número de pessoas. Deveis calcular o número de comensais, conforme o tamanho do cordeiro. 5 O cordeiro será sem defeito, macho, de um ano. Podereis escolher tanto um cordeiro, como um cabrito: 6 e devereis guardá-lo preso até ao dia catorze deste mês. Então toda a comunidade de Israel reunida o imolará ao cair da tarde. 7 Tomareis um pouco do seu sangue e untareis os marcos e a travessa da porta, nas casas em que o comerdes. 8 Comereis a carne nessa mesma noite, assada ao fogo, com pães ázimos e ervas amargas. 11 Assim devereis comê-lo: com os rins cingidos, sandálias nos pés e cajado na mão. E comereis às pressas, pois é a Páscoa, isto é, a 'Passagem' do Senhor! 12 E naquela noite passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e infligirei castigos contra todos os deuses do Egito, eu, o Senhor. 13 O sangue servirá de sinal nas casas onde estiverdes. Ao ver o sangue, passarei adiante, e não vos atingirá a praga exterminadora, quando eu ferir a terra do Egito. 14 Este dia será para vós uma festa memorável em honra do Senhor, que haveis de celebrar por todas as gerações, como instituição perpétua\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 115(116B)",
+                            "chorus": "O cálice por nós abençoado é a nossa comunhão com o sangue do Senhor.",
+                            "verses": [
+                                "12 Que poderei retribuir ao Senhor Deus * por tudo aquilo que ele fez em meu favor?  13 Elevo o cálice da minha salvação, * invocando o nome santo do Senhor.",
+                                "15 É sentida por demais pelo Senhor * a morte de seus santos, seus amigos. 16bc Eis que sou o vosso servo, ó Senhor, * mas me quebrastes os grilhões da escravidão!",
+                                "17 Por isso oferto um sacrifício de louvor, * invocando o nome santo do Senhor. 18 Vou cumprir minhas promessas ao Senhor * na presença de seu povo reunido."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "1Cor 11,23-26",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 23 O que eu recebi do Senhor, foi isso que eu vos transmiti: Na noite em que foi entregue, o Senhor Jesus tomou o pão 24 e, depois de dar graças, partiu-o e disse: \"Isto é o meu corpo que é dado por vós. Fazei isto em minha memória\". 25 Do mesmo modo, depois da ceia, tomou também o cálice e disse: \"Este cálice é a nova aliança, em meu sangue. Todas as vezes que dele beberdes, fazei isto em minha memória\". 26 Todas as vezes, de fato, que comerdes deste pão e beberdes deste cálice, estareis proclamando a morte do Senhor, até que ele venha."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Glória a vós, ó Cristo, Verbo de Deus.",
+                                "text": "Eu vos dou este novo Mandamento, nova ordem agora vos dou, que, também, vos ameis uns aos outros, como eu vos amei, diz o Senhor."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 13,1-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "1 Era antes da festa da Páscoa. Jesus sabia que tinha chegado a sua hora de passar deste mundo para o Pai; tendo amado os seus que estavam no mundo, amou-os até o fim. 2 Estavam tomando a ceia. O diabo já tinha posto no coração de Judas, filho de Simão Iscariotes, o propósito de entregar Jesus. 3 Jesus, sabendo que o Pai tinha colocado tudo em suas mãos e que de Deus tinha saído e para Deus voltava, 4 levantou-se da mesa, tirou o manto, pegou uma toalha e amarrou-a na cintura. 5 Derramou água numa bacia e começou a lavar os pés dos discípulos, enxugando-os com a toalha com que estava cingido. 6 Chegou a vez de Simão Pedro. Pedro disse: \"Senhor, tu me lavas os pés?\" 7 Respondeu Jesus: \"Agora, não entendes o que estou fazendo; mais tarde compreenderás\". 8 Disse-lhe Pedro: \"Tu nunca me lavarás os pés!\" Mas Jesus respondeu: \"Se eu não te lavar, não terás parte comigo\". 9 Simão Pedro disse: \"Senhor, então lava não somente os meus pés, mas também as mãos e a cabeça\". 10 Jesus respondeu: \"Quem já se banhou não precisa lavar senão os pés, porque já está todo limpo. Também vós estais limpos, mas não todos\". 11 Jesus sabia quem o ia entregar; por isso disse: \"Nem todos estais limpos\". 12 Depois de ter lavado os pés dos discípulos, Jesus vestiu o manto e sentou-se de novo. E disse aos discípulos: \"Compreendeis o que acabo de fazer? 13 Vós me chamais Mestre e Senhor, e dizeis bem, pois eu o sou. 14 Portanto, se eu, o Senhor e Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros. 15 Dei-vos o exemplo, para que façais a mesma coisa que eu fiz\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
