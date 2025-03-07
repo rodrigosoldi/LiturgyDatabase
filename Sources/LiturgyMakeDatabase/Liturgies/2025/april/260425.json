@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "26/04/25",
+            "liturgy": "Oitava da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 4,13-21",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, Os chefes dos sacerdotes, os anciãos e os escribas, 13 ficaram admirados ao ver a segurança com que Pedro e João falavam, pois eram pessoas simples e sem instrução. Reconheciam que eles tinham estado com Jesus. 14 No entanto viam, de pé, junto a eles, o homem que tinha sido curado. E não podiam dizer nada em contrário. 15 Mandaram que saíssem para fora do Sinédrio, e começaram a discutir entre si: 16 \"O que vamos fazer com esses homens? Eles realizaram um milagre claríssimo, e o fato tornou-se de tal modo conhecido por todos os habitantes de Jerusalém, que não podemos negá-lo. 17 Contudo, a fim de que a coisa não se espalhe ainda mais entre o povo, vamos ameaçá-los, para que não falem mais a ninguém a respeito do nome de Jesus\". 18 Chamaram de novo Pedro e João e ordenaram-lhes que, de modo algum, falassem ou ensinassem em nome de Jesus. 19 Pedro e João responderam: \"Julgai vós mesmos, se é justo diante de Deus que obedeçamos a vós e não a Deus! 20 Quanto a nós, não nos podemos calar sobre o que vimos e ouvimos\". 21 Então, insistindo em suas ameaças, deixaram Pedro e João em liberdade, já que não tinham meio de castigá-los, por causa do povo. Pois todos glorificavam a Deus pelo que havia acontecido."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 117(118)",
+                            "chorus": "Dou-vos graças, ó Senhor, porque me ouvistes.\n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Dai graças ao Senhor, porque ele é bom! * \"Eterna é a sua misericórdia!\" 14 O Senhor é minha força e o meu canto, * e tornou-se para mim o Salvador. 15 \"Clamores de alegria e de vitória * ressoem pelas tendas dos fiéis.",
+                                "16a A mão direita do Senhor fez maravilhas, † b a mão direita do Senhor me levantou, * a mão direita do Senhor fez maravilhas!\" 18 O Senhor severamente me provou, * mas não me abandonou às mãos da morte.",
+                                "19 Abri-me vós, abri-me as portas da justiça; * quero entrar para dar graças ao Senhor! 20 \"Sim, esta é a porta do Senhor, * por ela só os justos entrarão!\" 21 Dou-vos graças, ó Senhor, porque me ouvistes * e vos tornastes para mim o Salvador!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Este é o dia que o Senhor fez para nós, alegremo-nos e nele exultemos!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mc 16,9-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                                "text": "9 Depois de ressuscitar, na madrugada do primeiro dia após o sábado, Jesus apareceu primeiro a Maria Madalena, da qual havia expulsado sete demônios. 10 Ela foi anunciar isso aos seguidores de Jesus, que estavam de luto e chorando. 11 Quando ouviram que ele estava vivo e fora visto por ela, não quiseram acreditar. 12 Em seguida, Jesus apareceu a dois deles, com outra aparência,  enquanto estavam indo para o campo. 13 Eles também voltaram e anunciaram isso aos outros. Também a estes não deram crédito. 14 Por fim, Jesus apareceu aos onze discípulos enquanto estavam comendo, repreendeu-os por causa da falta de fé e pela dureza de coração, porque não tinham acreditado naqueles que o tinham visto ressuscitado. 15 E disse-lhes: \"Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura!\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

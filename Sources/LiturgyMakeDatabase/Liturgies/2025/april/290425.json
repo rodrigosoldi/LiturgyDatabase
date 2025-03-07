@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "29/04/25",
+            "liturgy": "Santa Catarina de Sena, virgem e doutora da Igreja, Memória",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 4,32-37",
+                            "title": "Leitura dos Atos dos Atos dos Apóstolos",
+                            "text": "32 A multidão dos fiéis era um só coração e uma só alma. Ninguém considerava como próprias as coisas que possuía, mas tudo entre eles era posto em comum. 33 Com grandes sinais de poder, os apóstolos davam testemunho da ressurreição do Senhor Jesus. E os fiéis eram estimados por todos. 34 Entre eles ninguém passava necessidade, pois aqueles que possuíam terras ou casas, vendiam-nas, levavam o dinheiro, 35 e o colocavam aos pés dos apóstolos. Depois, era distribuído conforme a necessidade de cada um. 36 José, chamado pelos apóstolos de Barnabé, que significa filho da consolação, levita e natural de Chipre, 37 possuía um campo. Vendeu e foi depositar o dinheiro aos pés dos apóstolos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 92(93)",
+                            "chorus": "Reina o Senhor, revestiu-se de esplendor.\n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1a Deus é Rei e se vestiu de majestade, * revestiu-se de poder e de esplendor!",
+                                "Vós firmastes o universo inabalável, † 2 vós firmastes vosso trono desde a origem, * desde sempre, ó Senhor, vós existis!",
+                                "5 Verdadeiros são os vossos testemunhos, † refulge a santidade em vossa casa,* pelos séculos dos séculos, Senhor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "O Filho do homem há de ser levantado, para que, quem crer, possua a vida eterna."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 3,7b-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus a Nicodemos: 7b \"Vós deveis nascer do alto. 8 O vento sopra onde quer e tu podes ouvir o seu ruído, mas não sabes de onde vem, nem para onde vai. Assim acontece a todo aquele que nasceu do Espírito\". 9 Nicodemos perguntou: \"Como é que isso pode acontecer?\" 10 Respondeu-lhe Jesus: \"Tu és mestre em Israel, mas não sabes estas coisas? 11 Em verdade, em verdade te digo, nós falamos daquilo que sabemos e damos testemunho daquilo que temos visto, mas vós não aceitais o nosso testemunho. 12 Se não acreditais, quando vos falo das coisas da terra, como acreditareis se vos falar das coisas do céu? 13 E ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem. 14 Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, 15 para que todos os que nele crerem tenham a vida eterna\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
