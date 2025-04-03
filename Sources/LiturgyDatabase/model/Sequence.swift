@@ -24,7 +24,7 @@ public struct Sequence: Identifiable, Sendable {
         let _text = text.lowercased().trimmingCharacters(in: .whitespacesAndNewlines)
         return id.uuidString.contains(_text) ||
         title?.contains(_text) ?? false ||
-        text.contains(_text) ||
+        self.text.contains(_text) ||
         observation?.contains(_text) ?? false
     }
 }
