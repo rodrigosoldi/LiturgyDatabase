@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "28/05/25",
+            "liturgy": "6ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 17,15.22-18,1",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 15 os que conduziram Paulo, levaram-no até Atenas. De lá, voltando, transmitiram a Silas e Timóteo a ordem de que fossem ter com ele o mais cedo possível. E partiram. 22 De pé, no meio do Areópago, Paulo disse: \"Homens atenienses, em tudo eu vejo que vós sois extremamente religiosos. 23 Com efeito, passando e observando os vossos lugares de culto, encontrei também um altar com esta inscrição: 'Ao Deus desconhecido'. Pois bem, esse Deus que vós adorais sem conhecer, é exatamente aquele que eu vos anuncio. 24 O Deus que fez o mundo e tudo o que nele existe, sendo Senhor do céu e da terra, ele não habita em santuários feitos por mãos humanas. 25 Também não é servido por mãos humanas, como se precisasse de alguma coisa; pois é ele que dá a todos vida, respiração e tudo o mais. 26 De um só homem ele fez toda a raça humana para habitar sobre toda a face da terra, tendo fixado os tempos previamente estabelecidos e os limites de sua habitação. 27 Assim fez, para que buscassem a Deus e para ver se o descobririam, ainda que às apalpadelas. Ele não está longe de cada um de nós, 28 pois nele vivemos, nos movemos e existimos, como disseram alguns dentre vossos poetas: 'Somos da raça do próprio Deus'. 29 Sendo, portanto, da raça de Deus, não devemos pensar que a divindade seja semelhante a ouro, prata ou pedra, trabalhados pela arte e imaginação do homem. 30 Mas Deus, sem levar em conta os tempos da ignorância, agora anuncia aos homens que todos e em todo lugar se arrependam, 31 pois ele estabeleceu um dia em que irá julgar o mundo com justiça, por meio do homem que designou, diante de todos, oferecendo uma garantia, ao ressuscitá-lo dos mortos\". 32 Quando ouviram falar da ressurreição dos mortos, alguns caçoavam, e outros diziam: \"Nós te ouviremos falar disso em outra ocasião\". 33 Assim Paulo saiu do meio deles. 34 Alguns, porém, uniram-se a ele e abraçaram a fé. Entre eles estava também Dionísio, o areopagita, uma mulher chamada Dâmaris e outros com eles. 18,1 Paulo deixou Atenas e foi para Corinto."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 148",
+                            "chorus": "Da vossa glória estão cheios o céu e a terra.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Louvai o Senhor Deus nos altos céus, * \nlouvai-o no excelso firmamento! \n2 Louvai-o, anjos seus, todos louvai-o, * \nlouvai-o, legiões celestiais!",
+                                "11 Reis da terra, povos todos, bendizei-o, * \ne vós, príncipes e todos os juízes; \n12a e vós, jovens, e vós, moças e rapazes, *\nb anciãos e criancinhas, bendizei-o!",
+                                "c Louvem o nome do Senhor, louvem-no todos, * \nporque somente o seu nome é excelso! \nA majestade e esplendor de sua glória * \n14a ultrapassam em grandeza o céu e a terra.",
+                                "b Ele exaltou seu povo eleito em poderio *\nc ele é o motivo de louvor para os seus santos.\nd É um hino para os filhos de Israel, * \neste povo que ele ama e lhe pertence."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Rogarei ao meu Pai e ele há de enviar-vos um outro Paráclito, que há de permanecer eternamente convosco."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,12-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 12 \"Tenho ainda muitas coisas a dizer-vos, mas não sois capazes de as compreender agora. 13 Quando, porém, vier o Espírito da Verdade, ele vos conduzirá à plena verdade. Pois ele não falará por si mesmo, mas dirá tudo o que tiver ouvido; e até as coisas futuras vos anunciará. 14 Ele me glorificará, porque receberá do que é meu e vo-lo anunciará. 15 Tudo o que o Pai possui é meu. Por isso, disse que o que ele receberá e vos anunciará, é meu\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

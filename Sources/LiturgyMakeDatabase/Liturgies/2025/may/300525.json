@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "30/05/25",
+            "liturgy": "6ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 18,9-18",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Estando Paulo em Corinto, 9 uma noite, o Senhor disse-lhe em visão: \"Não tenhas medo;  continua a falar e não te cales, 10 porque eu estou contigo. Ninguém te porá a mão para fazer mal. Nesta cidade há um povo numeroso que me pertence\". 11 Assim Paulo ficou um ano e meio entre eles, ensinando-lhes a Palavra de Deus. 12 Na época em que Galião era proncônsul na Acaia, os judeus insurgiram-se em massa contra Paulo e levaram-no diante do tribunal, 13 dizendo: \"Este homem induz o povo a adorar a Deus de modo contrário à Lei\". 14 Paulo ia tomar a palavra, quando Galião falou aos judeus, dizendo: \"Judeus, se fosse por causa de um delito ou de uma ação criminosa, seria justo que eu atendesse a vossa queixa. 15 Mas, como é questão de palavras, de nomes e da vossa Lei, tratai disso vós mesmos. Eu não quero ser juiz nessas coisas\". 16 E Galião mandou-os sair do tribunal. 17 Então todos agarraram Sóstenes,  o chefe da sinagoga, e espancaram-no diante do tribunal. E Galião nem se incomodou com isso. 18 Paulo permaneceu ainda vários dias em Corinto. Despedindo-se dos irmãos, embarcou para a Síria, em companhia de Priscila e Áquila. Em Cencreia, Paulo rapou a cabeça pois tinha feito uma promessa."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 46(47)",
+                            "chorus": "O Senhor é o grande Rei de toda a terra.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "2 Povos todos do universo, batei palmas, * \ngritai a Deus aclamações de alegria! \n3 Porque sublime é o Senhor, o Deus Altíssimo, * \no soberano que domina toda a terra.",
+                                "4 Os povos sujeitou ao nosso jugo * \ne colocou muitas nações aos nossos pés. \n5 Foi ele que escolheu a nossa herança, * \na glória de Jacó, seu bem-amado.",
+                                "6 Por entre aclamações Deus se elevou, * \no Senhor subiu ao toque da trombeta. \n7 Salmodiai ao nosso Deus ao som da harpa, * \nsalmodiai ao som da harpa ao nosso Rei!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Era preciso que Cristo sofresse e ressuscitasse dos mortos, para entrar em sua glória."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,20-23a",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 20 \"Em verdade, em verdade vos digo: Vós chorareis e vos lamentareis, mas o mundo se alegrará; vós ficareis tristes, mas a vossa tristeza se transformará em alegria. 21 A mulher, quando deve dar à luz, fica angustiada porque chegou a sua hora; mas, depois que a criança nasceu, ela já não se lembra dos sofrimentos, por causa da alegria de um homem ter vindo ao mundo. 22 Também vós agora sentis tristeza, mas eu hei de ver-vos novamente e o vosso coração se alegrará, e ninguém vos poderá tirar a vossa alegria. 23a Naquele dia, não me perguntareis mais nada\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

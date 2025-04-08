@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "08/05/25",
+            "liturgy": "3ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 8,26-40",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias: 26 Um anjo do Senhor falou a Filipe, dizendo: \"Prepara-te e vai para o sul, no caminho que desce de Jerusalém a Gaza. O caminho é deserto\". Filipe levantou-se e foi. 27 Nisso apareceu um eunuco etíope, ministro de Candace, rainha da Etiópia e administrador geral do seu tesouro, que tinha ido em peregrinação a Jerusalém. 28 Ele estava voltando para casa e vinha sentado no seu carro,  lendo o profeta Isaías. 29 Então o Espírito disse a Filipe: \"Aproxima-te desse carro e acompanha-o\". 30 Filipe correu, ouviu o eunuco ler o profeta Isaías e perguntou: \"Tu compreendes o que estás lendo?\" 31 O eunuco respondeu: \"Como posso, se ninguém mo explica?\" Então convidou Filipe a subir  e a sentar-se junto a ele. 32 A passagem da Escritura  que o eunuco estava lendo era esta:  \"Ele foi levado como ovelha ao matadouro; e qual um cordeiro diante do seu tosquiador, ele emudeceu e não abriu a boca. 33 Eles o humilharam e lhe negaram justiça; e seus descendentes, quem os poderá enumerar? Pois sua vida foi arrancada da terra\". 34 E o eunuco disse a Filipe: \"Peço que me expliques de quem o profeta está dizendo isso. Ele fala de si mesmo ou se refere a algum outro?\" 35 Então Filipe começou a falar e, partindo dessa passagem da Escritura, anunciou Jesus ao eunuco. 36 Eles prosseguiram o caminho e chegaram a um lugar onde havia água. Então o eunuco disse a Filipe: \"Aqui temos água.  O que impede que eu seja batizado?\"[37] 38 O eunuco mandou parar o carro. Os dois desceram para a água e Filipe batizou o eunuco. 39 Quando saíram da água, o Espírito do Senhor arrebatou a Filipe. O eunuco não o viu mais e prosseguiu sua viagem, cheio de alegria. 40 Filipe foi parar em Azoto. E, passando adiante, evangelizava todas as cidades até chegar a Cesareia."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 65(66)",
+                            "chorus": "Aclamai o Senhor Deus, ó terra inteira.\n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "8 Nações, glorificai ao nosso Deus, * \nanunciai em alta voz o seu louvor! \n9 É ele quem dá vida à nossa vida, * \ne não permite que vacilem nossos pés.",
+                                "16 Todos vós que a Deus temeis, vinde escutar: * \nvou contar-vos todo bem que ele me fez! \n17 Quando a ele o meu grito se elevou, * \njá havia gratidão em minha boca!",
+                                "20 Bendito seja o Senhor Deus que me escutou, † \nnão rejeitou minha oração e meu clamor, * \nnem afastou longe de mim o seu amor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu sou o pão vivo descido do céu, quem deste pão come, sempre há de viver."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 6,44-51",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus à multidão: 44 \"Ninguém pode vir a mim, se o Pai que me enviou não o atrai. E eu o ressuscitarei no último dia. 45 Está escrito nos Profetas: 'Todos serão discípulos de Deus'. Ora, todo aquele que escutou o Pai e por ele foi instruído, vem a mim. 46 Não que alguém já tenha visto o Pai. Só aquele que vem de junto de Deus viu o Pai. 47 Em verdade, em verdade vos digo, quem crê, possui a vida eterna. 48 Eu sou o pão da vida. 49 Os vossos pais comeram o maná no deserto e, no entanto, morreram. 50 Eis aqui o pão que desce do céu: quem dele comer, nunca morrerá. 51 Eu sou o pão vivo descido do céu. Quem comer deste pão viverá eternamente. E o pão que eu darei é a minha carne dada para a vida do mundo\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

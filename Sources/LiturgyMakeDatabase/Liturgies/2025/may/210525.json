@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/05/25",
+            "liturgy": "5ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 15,1-6",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 1 chegaram alguns da Judeia e ensinavam aos irmãos de Antioquia, dizendo: \"Vós não podereis salvar-vos,  se não fordes circuncidados, como ordena a Lei de Moisés\". 2 Isto provocou muita confusão, e houve uma grande discussão de Paulo e Barnabé com eles. Finalmente, decidiram que  Paulo, Barnabé e alguns outros fossem a Jerusalém, para tratar dessa questão com os apóstolos e os anciãos. 3 Depois de terem sido acompanhados pela comunidade, Paulo e Barnabé atravessaram a Fenícia e a Samaria. Contaram sobre a conversão dos pagãos, causando grande alegria entre todos os irmãos. 4 Chegando a Jerusalém, foram recebidos pelos apóstolos e os anciãos, e narraram as maravilhas que Deus tinha realizado por meio deles. 5 Alguns, dos que tinham pertencido ao partido dos fariseus e que haviam abraçado a fé, levantaram-se e disseram que era preciso circuncidar os pagãos e obrigá-los a observar a Lei de Moisés. 6 Então, os apóstolos e os anciãos reuniram-se para tratar desse assunto."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 121(122)",
+                            "chorus": "Que alegria, quando ouvi que me disseram: Vamos à casa do Senhor!\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Que alegria, quando ouvi que me disseram: *\n \"Vamos à casa do Senhor!\"\n2 E agora nossos pés já se detêm, * \nJerusalém, em tuas portas.",
+                                "3 Jerusalém, cidade bem edificada * \nnum conjunto harmonioso; \n4a para lá sobem as tribos de Israel,* \nas tribos do Senhor.",
+                                "b Para louvar, segundo a lei de Israel, * \no nome do Senhor. \n5 A sede da justiça lá está * \ne o trono de Davi."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ficai em mim, e eu em vós ficarei, diz Jesus; quem em mim permanece, há de dar muito fruto."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 15,1-8",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, Jesus disse a seus discípulos: 1 \"Eu sou a videira verdadeira e meu Pai é o agricultor. 2 Todo ramo que em mim não dá fruto ele o corta; e todo ramo que dá fruto, ele o limpa, para que dê mais fruto ainda. 3 Vós já estais limpos por causa da palavra que eu vos falei. 4 Permanecei em mim e eu permanecerei em vós. Como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vós não podereis dar fruto, se não permanecerdes em mim. 5 Eu sou a videira e vós os ramos. Aquele que permanece em mim, e eu nele, esse produz muito fruto; porque sem mim nada podeis fazer. 6 Quem não permanecer em mim, será lançado fora como um ramo e secará. Tais ramos são recolhidos, lançados no fogo e queimados. 7 Se permanecerdes em mim e minhas palavras permanecerem em vós, pedi o que quiserdes e vos será dado. 8 Nisto meu Pai é glorificado: que deis muito fruto e vos torneis meus discípulos\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

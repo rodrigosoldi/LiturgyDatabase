@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "16/05/25",
+            "liturgy": "4ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 13,26-33",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, tendo chegado a Antioquia da Pisídia, Paulo disse na sinagoga: 26 \"Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação. 27 Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se leem todos os sábados. 28 Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. 29 Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. 30 Mas Deus o ressuscitou dos mortos 31 e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. 32 Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, 33 ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: 'Tu és o meu filho, eu hoje te gerei'\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 2,6-7.8-9.10-11",
+                            "chorus": "Tu és meu Filho, e eu hoje te gerei! \n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "6 \"Fui eu mesmo que escolhi este meu Rei * \ne em Sião, meu monte santo, o consagrei!\" \n7 O decreto do Senhor promulgarei, † \nfoi assim que me falou o Senhor Deus: * \n\"Tu és meu Filho, e eu hoje te gerei!\"",
+                                "8 Podes pedir-me, e em resposta eu te darei † \npor tua herança os povos todos e as nações, * \ne há de ser a terra inteira o teu domínio. \n9 Com cetro férreo haverás de dominá-los, * \ne quebrá-los como um vaso de argila!",
+                                "10 E agora, poderosos, entendei; * \nsoberanos, aprendei esta lição: \n11 Com temor servi a Deus, rendei-lhe glória * \ne prestai-lhe homenagem com respeito!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Sou o caminho, a verdade e a vida; ninguém vem ao Pai, senão por mim."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 14,1-6",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 1 \"Não se perturbe o vosso coração. Tendes fé em Deus, tende fé em mim também. 2 Na casa de meu Pai há muitas moradas. Se assim não fosse, eu vos teria dito. Vou preparar um lugar para vós, 3 e quando eu tiver ido preparar-vos um lugar, voltarei e vos levarei comigo, a fim de que onde eu estiver estejais também vós. 4 E para onde eu vou, vós conheceis o caminho\". 5 Tomé disse a Jesus: \"Senhor, nós não sabemos para onde vais. Como podemos conhecer o caminho?\" 6 Jesus respondeu: \"Eu sou o Caminho, a Verdade e a Vida. Ninguém vai ao Pai senão por mim\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

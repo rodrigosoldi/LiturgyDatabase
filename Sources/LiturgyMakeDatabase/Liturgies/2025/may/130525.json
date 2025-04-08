@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/05/25",
+            "liturgy": "4ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 11,19-26",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 19 aqueles que se haviam espalhado por causa da perseguição que se seguiu à morte de Estêvão, chegaram à Fenícia, à ilha de Chipre e à cidade de Antioquia, embora não pregassem a Palavra a ninguém que não fosse judeu. 20 Contudo, alguns deles, habitantes de Chipre e da cidade de Cirene, chegaram a Antioquia e começaram a pregar também aos gregos, anunciando-lhes a Boa-Nova do Senhor Jesus. 21 E a mão do Senhor estava com eles. Muitas pessoas acreditaram no Evangelho e se converteram ao Senhor. 22 A notícia chegou aos ouvidos da Igreja que estava em Jerusalém. Então enviaram Barnabé até Antioquia. 23 Quando Barnabé chegou e viu a graça que Deus havia concedido, ficou muito alegre e exortou a todos para que permanecessem fiéis ao Senhor, com firmeza de coração. 24 É que ele era um homem bom, cheio do Espírito Santo e de fé. E uma grande multidão aderiu ao Senhor. 25 Então Barnabé partiu para Tarso,  à procura de Saulo. 26 Tendo encontrado Saulo, levou-o a Antioquia. Passaram um ano inteiro trabalhando juntos naquela Igreja, e instruíram uma numerosa multidão. Em Antioquia os discípulos foram, pela primeira vez, chamados com o nome de cristãos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 86(87)",
+                            "chorus": "Cantai louvores ao Senhor, todas as gentes.\n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 O Senhor ama a cidade * \nque fundou no Monte santo; \n2 ama as portas de Sião * \nmais que as casas de Jacó. \n3 Dizem coisas gloriosas * \nda Cidade do Senhor.",
+                                "4 \"Lembro o Egito e Babilônia *\n entre os meus veneradores. \nNa Filistéia ou em Tiro † \nou no país da Etiópia, * \neste ou aquele ali nasceu. \n5 De Sião, porém, se diz: † \n\"Nasceu nela todo homem; * \nDeus é sua segurança\".",
+                                "6 Deus anota no seu livro, † \nonde inscreve os povos todos: * \n\"Foi ali que estes nasceram\". \n7 E por isso todos juntos * \na cantar se alegrarão; \ne, dançando, exclamarão: * \n\"Estão em ti as nossas fontes!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 10,22-30",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "22 Celebrava-se, em Jerusalém, a festa da Dedicação do Templo. Era inverno. 23 Jesus passeava pelo Templo, no pórtico de Salomão. 24 Os judeus rodeavam-no e disseram: \"Até quando nos deixarás em dúvida? Se tu és o Messias, dize-nos abertamente\". 25 Jesus respondeu: \"Já vo-lo disse, mas vós não acreditais. As obras que eu faço em nome do meu Pai dão testemunho de mim; 26 vós, porém, não acreditais, porque não sois das minhas ovelhas. 27 As minhas ovelhas escutam a minha voz, eu as conheço e elas me seguem. 28 Eu dou-lhes a vida eterna e elas jamais se perderão.  E ninguém vai arrancá-las de minha mão. 29 Meu Pai, que me deu estas ovelhas, é maior que todos, e ninguém pode arrebatá-las da mão do Pai. 30 Eu e o Pai somos um\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "18/05/25",
+            "liturgy": "5º Domingo da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 14,21b-27",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, Paulo e Barnabé, 21b voltaram para as cidades de Listra, Icônio e Antioquia. 22 Encorajando os discípulos, eles os exortavam a permanecerem firmes na fé, dizendo-lhes:  \"É preciso que passemos por muitos sofrimentos para entrar no Reino de Deus\". 23 Os apóstolos designaram presbíteros  para cada comunidade. Com orações e jejuns, eles os confiavam ao Senhor, em quem haviam acreditado. 24 Em seguida, atravessando a Pisídia, chegaram à Panfília. 25 Anunciaram a palavra em Perge, e depois desceram para Atália. 26 Dali embarcaram para Antioquia, de onde tinham saído, entregues à graça de Deus, para o trabalho que haviam realizado. 27 Chegando ali, reuniram a comunidade. Contaram-lhe tudo o que Deus fizera por meio deles e como havia aberto a porta da fé para os pagãos."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 144(145)",
+                            "chorus": "Bendirei o vosso nome, ó meu Deus, meu Senhor e meu Rei para sempre.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "8 Misericórdia e piedade é o Senhor, * \nele é amor, é paciência, é compaixão. \n9 O Senhor é muito bom para com todos, * \nsua ternura abraça toda criatura.",
+                                "10 Que vossas obras, ó Senhor, vos glorifiquem, * \ne os vossos santos com louvores vos bendigam! \n11 Narrem a glória e o esplendor do vosso reino * \ne saibam proclamar vosso poder!",
+                                "12 Para espalhar vossos prodígios entre os homens * \ne o fulgor de vosso reino esplendoroso. \n13a O vosso reino é um reino para sempre, *\n b vosso poder, de geração em geração."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ap 21,1-5a",
+                            "title": "Leitura do Livro do Apocalipse de São João",
+                            "text": "Eu, João, 1 vi um novo céu e uma nova terra. Pois o primeiro céu e a primeira terra passaram, e o mar já não existe. 2 Vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, vestida qual esposa enfeitada para o seu marido. 3 Então, ouvi uma voz forte que saía do trono e dizia: \"Esta é a morada de Deus entre os homens. Deus vai morar no meio deles. Eles serão o seu povo, e o próprio Deus estará com eles. 4 Deus enxugará toda lágrima dos seus olhos. A morte não existirá mais, e não haverá mais luto, nem choro, nem dor, porque passou o que havia antes\". 5 Aquele que está sentado no trono disse: \"Eis que faço novas todas as coisas\". Depois, ele me disse:  \"Escreve, porque estas palavras  são dignas de fé e verdadeiras\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 13,31-33a.34-35",
+                                "title": "Proclamação do evangelho de Jesus Cristo segundo João",
+                                "text": "31 Depois que Judas saiu do cenáculo disse Jesus: \"Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele. 32 Se Deus foi glorificado nele, também Deus o glorificará em si mesmo, e o glorificará logo. 33a Filhinhos, por pouco tempo estou ainda convosco. 34 Eu vos dou um novo mandamento: amai-vos uns aos outros. Como eu vos amei, assim também vós deveis amar-vos uns aos outros. 35 Nisto todos conhecerão que sois meus discípulos, se tiverdes amor uns aos outros\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

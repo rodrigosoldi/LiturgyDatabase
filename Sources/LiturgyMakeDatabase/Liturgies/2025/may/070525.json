@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "07/05/25",
+            "liturgy": "3ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 8,1b-8",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "1b Naquele dia começou uma grande perseguição contra a Igreja de Jerusalém. E todos, com exceção dos apóstolos, se dispersaram pelas regiões da Judeia e da Samaria. 2 Algumas pessoas piedosas sepultaram Estêvão e observaram grande luto por causa dele. 3 Saulo, porém, devastava a Igreja: entrava nas casas  e arrastava para fora homens e mulheres, para atirá-los na prisão. 4 Entretanto, aqueles que se tinham dispersado iam por toda a parte, pregando a Palavra. 5 Filipe desceu a uma cidade da Samaria e anunciou-lhes o Cristo. 6 As multidões seguiam com atenção as coisas que Filipe dizia. E todos unânimes o escutavam, pois viam os milagres que ele fazia. 7 De muitos possessos saíam os espíritos maus, dando grandes gritos. Numerosos paralíticos e aleijados também foram curados. 8 Era grande a alegria naquela cidade."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 65(66)",
+                            "chorus": "Aclamai o Senhor Deus, ó terra inteira.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Aclamai o Senhor Deus, ó terra inteira, * \n2 cantai salmos a seu nome glorioso, \ndai a Deus a mais sublime louvação! * \n3a Dizei a Deus: \"Como são grandes vossas obras!",
+                                "4 Toda a terra vos adore com respeito * \ne proclame o louvor de vosso nome!\" \n5 Vinde ver todas as obras do Senhor: * \nseus prodígios estupendos entre os homens!",
+                                "6 O mar ele mudou em terra firme, * \ne passaram pelo rio a pé enxuto.  \nExultemos de alegria no Senhor! * \n7a Ele domina para sempre com poder!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Quem vê o filho e nele crê, este tem a vida eterna, e eu o farei ressuscitar no último dia, diz Jesus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 6,35-40",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus à multidão: 35 \"Eu sou o pão da vida. Quem vem a mim não terá mais fome e quem crê em mim nunca mais terá sede. 36 Eu, porém, vos disse que vós me vistes, mas não acreditais. 37 Todos os que o Pai me confia virão a mim, e quando vierem, não os afastarei. 38 Pois eu desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou. 39 E esta é a vontade daquele que me enviou: que eu não perca nenhum daqueles que ele me deu, mas os ressuscite no último dia. 40 Pois esta é a vontade do meu Pai: que toda pessoa que vê o Filho e nele crê tenha a vida eterna. E eu o ressuscitarei no último dia\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

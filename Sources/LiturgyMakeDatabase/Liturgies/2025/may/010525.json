@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "01/05/25",
+            "liturgy": "2ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 5,27-33",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, os guardas 27 levaram os apóstolos e os apresentaram ao Sinédrio. O sumo sacerdote começou a interrogá-los, 28 dizendo: \"Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus. Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina. E ainda nos quereis tornar responsáveis pela morte desse homem!\" 29 Então Pedro e os outros apóstolos responderam: \"É preciso obedecer a Deus, antes que aos homens. 30 O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. 31 Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. 32 E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem\". 33 Quando ouviram isto, ficaram furiosos e queriam matá-los."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 33(34)",
+                            "chorus": "Este infeliz gritou a Deus e foi ouvido.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "2 Bendirei o Senhor Deus em todo o tempo, *\nseu louvor estará sempre em minha boca.\n9Provai e vede quão suave é o Senhor! *\nFeliz o homem que tem nele o seu refúgio!",
+                                "17 mas ele volta a sua face contra os maus, * \npara da terra apagar sua lembrança. \n18 Clamam os justos, e o Senhor bondoso escuta * \ne de todas as angústias os liberta.",
+                                "19 Do coração atribulado ele está perto * \ne conforta os de espírito abatido. \n20 Muitos males se abatem sobre os justos, * \nmas o Senhor de todos eles os liberta."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Acreditaste, Tomé, porque me viste.      Felizes os que creem sem ter visto."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 3,31-36",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "31 \"Aquele que vem do alto está acima de todos. O que é da terra, pertence à terra e fala das coisas da terra. Aquele que vem do céu está acima de todos. 32 Dá testemunho daquilo que viu e ouviu, mas ninguém aceita o seu testemunho. 33 Quem aceita o seu testemunho atesta que Deus é verdadeiro. 34 De fato, aquele que Deus enviou fala as palavras de Deus, porque Deus lhe dá o espírito sem medida. 35 O Pai ama o Filho e entregou tudo em sua mão. 36 Aquele que acredita no Filho possui a vida eterna. Aquele, porém, que rejeita o Filho não verá a vida, pois a ira de Deus permanece sobre ele\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

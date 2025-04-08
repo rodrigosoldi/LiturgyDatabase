@@ -1,0 +1,61 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "23/05/25",
+            "liturgy": "5ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 15,22-31",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 22 pareceu bem aos apóstolos e aos anciãos, de acordo com toda a comunidade de Jerusalém, escolher alguns da comunidade para mandá-los a Antioquia, com Paulo e Barnabé. Escolheram Judas, chamado Bársabas, e Silas, que eram muito respeitados pelos irmãos. 23 Através deles enviaram a seguinte carta: \"Nós, os apóstolos e os anciãos, vossos irmãos, saudamos os irmãos vindos do paganismo e que estão em Antioquia e nas regiões da Síria e da Cilícia. 24 Ficamos sabendo que alguns dos nossos causaram perturbações com palavras que transtornaram vosso espírito. Eles não foram enviados por nós. 25 Então decidimos, de comum acordo, escolher alguns representantes e mandá-los até vós, junto com nossos queridos irmãos Barnabé e Paulo, 26 homens que arriscaram suas vidas pelo nome de nosso Senhor Jesus Cristo. 27 Por isso, estamos enviando Judas e Silas, que pessoalmente vos transmitirão a mesma mensagem. 28 Porque decidimos, o Espírito Santo e nós, não vos impor nenhum fardo, além destas coisas indispensáveis: 29 abster-se de carnes sacrificadas aos ídolos, do sangue, das carnes de animais sufocados e das uniões ilegítimas. Vós fareis bem se evitardes essas coisas. Saudações!\" 30 Depois da despedida, Judas e Silas foram para Antioquia, reuniram a assembleia e entregaram a carta. A sua leitura causou alegria, por causa do estímulo que trazia."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 56(57)",
+                            "chorus": "Vou louvar-vos, Senhor, entre os povos.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "8 Meu coração está pronto, meu Deus, * \nestá pronto o meu coração! \n9 Vou cantar e tocar para vós: * \ndesperta, minh'alma, desperta! \nDespertem a harpa e a lira, * \neu irei acordar a aurora!",
+                                "10 Vou louvar-vos, Senhor, entre os povos, * \ndar-vos graças, por entre as nações! \n11 Vosso amor é mais alto que os céus, * \nmais que as nuvens a vossa verdade! \n12 Elevai-vos, ó Deus sobre os céus, * \nvossa glória refulja na terra!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos chamo meus amigos, pois vos dei a conhecer o que o Pai me revelou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 15,12-17",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 12 \"Este é o meu mandamento: amai-vos uns aos outros, assim como eu vos amei. 13 Ninguém tem amor maior do que aquele que dá sua vida pelos amigos. 14 Vós sois meus amigos, se fizerdes o que eu vos mando. 15 Já não vos chamo servos, pois o servo não sabe o que faz o seu senhor. Eu chamo-vos amigos, porque vos dei a conhecer tudo o que ouvi de meu Pai. 16 Não fostes vós que me escolhestes, mas fui eu que vos escolhi e vos designei para irdes e para que produzais fruto e o vosso fruto permaneça. O que, então, pedirdes ao Pai em meu nome, ele vo-lo concederá. 17 Isto é o que vos ordeno:  amai-vos uns aos outros\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "04/05/25",
+            "liturgy": "3º Domingo da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 5,27b-32.40b-41",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, os guardas levaram os apóstolos e os apresentaram ao Sinédrio. 27b O sumo sacerdote começou a interrogá-los, dizendo:  28 \"Nós tínhamos proibido expressamente que vós ensinásseis em nome de Jesus. Apesar disso, enchestes a cidade de Jerusalém com a vossa doutrina. E ainda nos quereis tornar responsáveis pela morte desse homem!\" 29 Então Pedro e os outros apóstolos responderam: \"É preciso obedecer a Deus, antes que aos homens. 30 O Deus de nossos pais ressuscitou Jesus, a quem vós matastes, pregando-o numa cruz. 31 Deus, por seu poder, o exaltou, tornando-o Guia Supremo e Salvador, para dar ao povo de Israel a conversão e o perdão dos seus pecados. 32 E disso somos testemunhas, nós e o Espírito Santo, que Deus concedeu àqueles que lhe obedecem\". 40b Então mandaram açoitar os apóstolos e proibiram que eles falassem em nome de Jesus, e depois os soltaram. 41 Os apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 29(30)",
+                            "chorus": "Eu vos exalto, ó Senhor, porque vós me livrastes.\n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "2 Eu vos exalto, ó Senhor, pois me livrastes, * \ne não deixastes rir de mim meus inimigos! \n4 Vós tirastes minha alma dos abismos * \ne me salvastes, quando estava já morrendo!",
+                                "5 Cantai salmos ao Senhor, povo fiel, * \ndai-lhe graças e invocai seu santo nome! \n6 Pois sua ira dura apenas um momento, * \nmas sua bondade permanece a vida inteira; \nse à tarde vem o pranto visitar-nos, * \nde manhã vem saudar-nos a alegria.",
+                                "11 Escutai-me, Senhor Deus, tende piedade! * \nSede, Senhor, o meu abrigo protetor! \n12 Transformastes o meu pranto em uma festa, * \n13b Senhor meu Deus, eternamente hei de louvar-vos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ap 5,11-14",
+                            "title": "Leitura do Livro do Apocalipse de São João",
+                            "text": "Eu, João, vi 11 e ouvi a voz de numerosos anjos, que estavam em volta do trono, e dos Seres vivos e dos Anciãos. Eram milhares de milhares, milhões de milhões, 12 e proclamavam em alta voz: \"O Cordeiro imolado é digno de receber o poder, a riqueza, a sabedoria e a força, a honra, a glória e o louvor\". 13 Ouvi também todas as criaturas que estão no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, e diziam: \"Ao que está sentado no trono e ao Cordeiro, o louvor e a honra, a glória e o poder para sempre\". 14 Os quatro Seres vivos respondiam: \"Amém\", e os Anciãos se prostraram em adoração daquele que vive para sempre."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Jesus Cristo ressurgiu, por quem tudo foi criado; ele teve compaixão do gênero humano."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 21,1-19",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, 1 Jesus apareceu de novo aos discípulos, à beira do mar de Tiberíades. A aparição foi assim: 2 Estavam juntos Simão Pedro, Tomé, chamado Dídimo, Natanael de Caná da Galiléia, os filhos de Zebedeu e outros dois discípulos de Jesus. 3 Simão Pedro disse a eles:  \"Eu vou pescar\". Eles disseram:  \"Também vamos contigo\". Saíram e entraram na barca, mas não pescaram nada naquela noite. 4 Já tinha amanhecido, e Jesus estava de pé na margem. Mas os discípulos não sabiam que era Jesus. 5 Então Jesus disse: \"Moços, tendes alguma coisa para comer?\" Responderam: \"Não\". 6 Jesus disse-lhes: \"Lançai a rede à direita da barca, e achareis\". Lançaram pois a rede e não conseguiam puxá-la para fora, por causa da quantidade de peixes. 7 Então, o discípulo a quem Jesus amava disse a Pedro:  \"É o Senhor!\" Simão Pedro, ouvindo dizer que era o Senhor, vestiu sua roupa, pois estava nu, e atirou-se ao mar. 8 Os outros discípulos vieram com a barca, arrastando a rede com os peixes. Na verdade, não estavam longe da terra, mas somente a cerca de cem metros. 9 Logo que pisaram a terra, viram brasas acesas, com peixe em cima, e pão. 10 Jesus disse-lhes: \"Trazei alguns dos peixes que apanhastes\". 11 Então Simão Pedro subiu ao barco e arrastou a rede para a terra. Estava cheia de cento e cinquenta e três grandes peixes; e apesar de tantos peixes, a rede não se rompeu. 12 Jesus disse-lhes:  \"Vinde comer\". Nenhum dos discípulos se atrevia a perguntar quem era ele, pois sabiam que era o Senhor. 13 Jesus aproximou-se, tomou o pão e distribuiu-o por eles. E fez a mesma coisa com o peixe. 14 Esta foi a terceira vez que Jesus, ressuscitado dos mortos, apareceu aos discípulos. 15 Depois de comerem, Jesus perguntou a Simão Pedro: \"Simão, filho de João, tu me amas mais do que estes?\" Pedro respondeu: \"Sim, Senhor, tu sabes que eu te amo\". Jesus disse:  \"Apascenta os meus cordeiros\". 16 E disse de novo a Pedro: \"Simão, filho de João, tu me amas?\" Pedro disse:  \"Sim, Senhor, tu sabes que eu te amo\". Jesus lhe disse: \"Apascenta as minhas ovelhas\". 17 Pela terceira vez, perguntou a Pedro: \"Simão, filho de João, tu me amas?\" Pedro ficou triste, porque Jesus perguntou três vezes se ele o amava. Respondeu:  \"Senhor, tu sabes tudo; tu sabes que eu te amo\". Jesus disse-lhe:  \"Apascenta as minhas ovelhas. 18 Em verdade, em verdade te digo: quando eras jovem, tu te cingias e ias para onde querias. Quando fores velho, estenderás as mãos e outro te cingirá e te levará para onde não queres ir\". 19 Jesus disse isso, significando com que morte Pedro iria glorificar a Deus.  E acrescentou :  \"Segue-me\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

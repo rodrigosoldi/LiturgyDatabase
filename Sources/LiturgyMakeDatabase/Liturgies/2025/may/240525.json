@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "24/05/25",
+            "liturgy": "5ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 16,1-10",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias: 1 Paulo foi para Derbe e Listra. Havia em Listra um discípulo chamado Timóteo, filho de uma judia, crente, e de pai grego. 2 Os irmãos de Listra e Icônio davam bom testemunho de Timóteo. 3 Paulo quis então que Timóteo partisse com ele. Tomou-o consigo e circuncidou-o, por causa dos judeus  que se encontravam nessas regiões, pois todos sabiam que o pai de Timóteo era grego. 4 Percorrendo as cidades, Paulo e Timóteo transmitiam as decisões que os apóstolos e anciãos de Jerusalém haviam tomado. E recomendavam que fossem observadas. 5 As igrejas fortaleciam-se na fé e, de dia para dia, cresciam em número. 6 Paulo e Timóteo atravessaram a Frígia e a região da Galácia, pois o Espírito Santo os proibira de pregar a Palavra de Deus na Ásia. 7 Chegando perto da Mísia, eles tentaram entrar na Bitínia, mas o Espírito de Jesus os impediu. 8 Então atravessaram a Mísia e desceram para Trôade. 9 Durante a noite, Paulo teve uma visão: na sua frente, estava de pé um macedônio que lhe suplicava: \"Vem à Macedônia e ajuda-nos!\" 10 Depois dessa visão, procuramos partir imediatamente para a Macedônia, pois estávamos convencidos de que Deus acabava de nos chamar para pregar-lhes o Evangelho."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 99(100)",
+                            "chorus": "Aclamai o Senhor, ó terra inteira.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "2 Aclamai o Senhor, ó terra inteira, † \nservi ao Senhor com alegria, * \nide a ele cantando jubilosos!",
+                                "3 Sabei que o Senhor, só ele, é Deus, † \nEle mesmo nos fez, e somos seus, * \nnós somos seu povo e seu rebanho.",
+                                "5 Sim, é bom o Senhor e nosso Deus, † \nsua bondade perdura para sempre, * \nseu amor é fiel eternamente!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Se com Cristo ressurgistes, procurai o que é do alto, onde Cristo está sentando à direita de Deus Pai."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 15,18-21",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 18 \"Se o mundo vos odeia, sabei que primeiro me odiou a mim. 19 Se fôsseis do mundo, o mundo gostaria daquilo que lhe pertence. Mas, porque não sois do mundo, porque eu vos escolhi e apartei do mundo, o mundo por isso vos odeia. 20 Lembrai-vos daquilo que eu vos disse: 'O servo não é maior que seu senhor'. Se me perseguiram a mim, também perseguirão a vós. Se guardaram a minha palavra, também guardarão a vossa. 21 Tudo isto eles farão contra vós  por causa do meu nome, porque não conhecem aquele que me enviou\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

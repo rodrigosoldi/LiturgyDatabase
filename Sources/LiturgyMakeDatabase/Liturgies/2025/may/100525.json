@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "10/05/25",
+            "liturgy": "3ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 9,31-42",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias: 31 A Igreja, vivia em paz em toda a Judeia, Galileia e Samaria. Ela consolidava-se e progredia no temor do Senhor e crescia em número com a ajuda do Espírito Santo. 32 Pedro percorria todos os lugares; e visitou também os fiéis que moravam em Lida. 33 Encontrou aí um homem chamado Eneias, que estava paralítico e, há oito anos, jazia numa cama. 34 Pedro disse-lhe:  \"Eneias, Jesus Cristo te cura! Levanta-te e arruma a tua cama!\" Imediatamente Eneias se levantou. 35 Todos os habitantes de Lida e da região do Saron viram isso e se converteram ao Senhor. 36 Em Jope, havia uma discípula chamada Tabita, nome que quer dizer Gazela. Eram muitas as boas obras  que fazia e as esmolas que dava. 37 Naqueles dias ela ficou doente e morreu. Então lavaram seu corpo e o colocaram no andar superior da casa. 38 Como Lida ficava perto de Jope, e ouvindo dizer que Pedro estava lá, os discípulos mandaram dois homens com um recado: \"Vem depressa até nós!\" 39 Pedro partiu imediatamente com eles. Assim que chegou, levaram-no ao andar superior, onde todas as viúvas foram ao seu encontro. Chorando, elas mostravam a Pedro as túnicas e mantos que Tabita havia feito, quando vivia com elas. 40 Pedro mandou que todos saíssem. Em seguida, pôs-se de joelhos e rezou. Depois, voltou-se para o corpo e disse: \"Tabita, levanta-te!\" ela então abriu os olhos, viu Pedro e sentou-se. 41 Pedro deu-lhe a mão e ajudou-a a levantar-se. Depois chamou os fiéis e as viúvas e apresentou-lhes Tabita viva. 42 O fato ficou conhecido em toda a cidade de Jope e muitos acreditaram no Senhor."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 115(116B)",
+                            "chorus": "Que poderei retribuir ao Senhor Deus, por tudo aquilo que ele fez em meu favor?\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "12 Que poderei retribuir ao Senhor Deus * \npor tudo aquilo que ele fez em meu favor? \n13 Elevo o cálice da minha salvação, * \ninvocando o nome santo do Senhor.",
+                                "14 Vou cumprir minhas promessas ao Senhor * \nna presença de seu povo reunido. \n15 É sentida por demais pelo Senhor * \na morte de seus santos, seus amigos.",
+                                "16 Eis que sou o vosso servo, ó Senhor, † \nque nasceu de vossa serva; * \nmas me quebrastes os grilhões da escravidão! \n17 Por isso oferto um sacrifício de louvor, * \ninvocando o nome santo do Senhor."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 6,60-69",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo: 60 muitos dos discípulos de Jesus que o escutaram, disseram: \"Esta palavra é dura. Quem consegue escutá-la?\" 61 Sabendo que seus discípulos estavam murmurando por causa disso mesmo, Jesus perguntou: \"Isto vos escandaliza? 62 E quando virdes o Filho do Homem subindo para onde estava antes? 63 O Espírito é que dá vida, a carne não adianta nada. As palavras que vos falei são espírito e vida. 64 Mas entre vós há alguns que não creem\". Jesus sabia, desde o início, quem eram os que não tinham fé e quem havia de entregá-lo. 65 E acrescentou: \"É por isso que vos disse: ninguém pode vir a mim a não ser que lhe seja concedido pelo Pai\". 66 A partir daquele momento, muitos discípulos voltaram atrás e não andavam mais com ele. 67 Então, Jesus disse aos doze: \"Vós também quereis ir embora?\" 68 Simão Pedro respondeu: \"A quem iremos, Senhor? Tu tens palavras de vida eterna. 69 Nós cremos firmemente e reconhecemos que tu és o Santo de Deus\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

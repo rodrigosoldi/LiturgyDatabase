@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "29/05/25",
+            "liturgy": "6ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 18,1-8",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias: 1 Paulo deixou Atenas e foi para Corinto. 2 Aí encontrou um judeu chamado Áquila, natural do Ponto, que acabava de chegar da Itália, e sua esposa Priscila, pois o imperador Cláudio tinha decretado que todos os judeus saíssem de Roma. Paulo entrou em contato com eles. 3 E, como tinham a mesma profissão - eram fabricantes de tendas - Paulo passou a morar com eles e trabalhavam juntos. 4 Todos os sábados, Paulo discutia na sinagoga, procurando convencer judeus e gregos. 5 Quando Silas e Timóteo chegaram da Macedônia, Paulo dedicou-se inteiramente à Palavra, testemunhando diante dos judeus que Jesus era o Messias. 6 Mas, por causa da resistência e blasfêmias deles, Paulo sacudiu as vestes e disse: \"Vós sois responsáveis pelo que acontecer. Eu não tenho culpa; de agora em diante, vou dirigir-me aos pagãos\". 7 Então, saindo dali,  Paulo foi para a casa de um pagão, um certo Tício Justo, adorador do Deus único, que morava ao lado da sinagoga. 8 Crispo, o chefe da sinagoga, acreditou no Senhor com toda a sua família; e muitos coríntios, que escutavam Paulo, acreditavam e recebiam o batismo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 97(98)",
+                            "chorus": "O Senhor fez conhecer seu poder salvador perante as nações.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Cantai ao Senhor Deus um canto novo, * \nporque ele fez prodígios! \nSua mão e o seu braço forte e santo * \nalcançaram-lhe a vitória.",
+                                "2 O Senhor fez conhecer a salvação, * \ne às nações, sua justiça; \n3a recordou o seu amor sempre fiel *\nb pela casa de Israel",
+                                "c Os confins do universo contemplaram *\nd a salvação do nosso Deus.\n4 Aclamai o Senhor Deus, ó terra inteira, * \nalegrai-vos e exultai!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu não vos deixarei órfãos: eu irei, mas voltarei, e o vosso coração muito há de se alegrar."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,16-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 16 \"Pouco tempo ainda, e já não me vereis. E outra vez pouco tempo, e me vereis de novo\". 17 Alguns dos seus discípulos disseram então entre si: 'O que significa o que ele nos está dizendo: 'Pouco tempo, e não me vereis, e outra vez pouco tempo, e me vereis de novo', e: 'Eu vou para junto do Pai?'\" 18 Diziam, pois: \"O que significa este pouco tempo? Não entendemos o que ele quer dizer\". 19 Jesus compreendeu que eles queriam interrogá-lo; então disse-lhes: \"Estais discutindo entre vós porque eu disse: 'Pouco tempo e já não me vereis, e outra vez pouco tempo e me vereis'? 20 Em verdade, em verdade vos digo: Vós chorareis e vos lamentareis, mas o mundo se alegrará. Vós ficareis tristes, mas a vossa tristeza se transformará em alegria\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

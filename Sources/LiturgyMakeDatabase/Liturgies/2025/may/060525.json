@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "06/05/25",
+            "liturgy": "3ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 7,51-8,1a",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, Estêvão disse ao povo, aos anciãos e aos doutores da lei: 51 \"Homens de cabeça dura, insensíveis e incircuncisos de coração e ouvido! Vós sempre resististes ao Espírito Santo e como vossos pais agiram, assim fazeis vós! 52 A qual dos profetas vossos pais não perseguiram? Eles mataram aqueles que anunciavam a vinda do Justo, do qual, agora, vós vos tornastes traidores e assassinos. 53 Vós recebestes a Lei, por meio de anjos, e não a observastes!\" 54 Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão. 55 Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus. 56 E disse: \"Estou vendo o céu aberto, e o Filho do Homem, de pé, à direita de Deus\". 57 Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; 58 arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo. 59 Enquanto o apedrejavam, Estêvão clamou dizendo: \"Senhor Jesus, acolhe o meu espírito\". 60 Dobrando os joelhos, gritou com voz forte: \"Senhor, não os condenes por este pecado\". E, ao dizer isto, morreu. 8,1a Saulo era um dos que aprovavam a execução de Estêvão."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 30(31)",
+                            "chorus": "Em vossas mãos, Senhor, entrego o meu espírito.\n\nOu: \n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "3c Sede uma rocha protetora para mim, *  \nd um abrigo bem seguro que me salve! \n4 Sim, sois vós a minha rocha e fortaleza; * \npor vossa honra orientai-me e conduzi-me!",
+                                "6a Em vossas mãos, Senhor, entrego o meu espírito, *\nb porque vós me salvareis, ó Deus fiel! \n7b Quanto a mim, é ao Senhor que me confio. \n8a Vosso amor me faz saltar de alegria",
+                                "17 Mostrai serena a vossa face ao vosso servo, * \ne salvai-me pela vossa compaixão! \n21a Na proteção de vossa face os defendeis *\nb bem longe das intrigas dos mortais"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu sou o pão da vida,      quem vem a mim não terá fome; assim nos fala o Senhor."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 6,30-35",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, a multidão perguntou a Jesus: 30 \"Que sinal realizas, para que possamos ver e crer em ti?\" Que obra fazes? 31 Nossos pais comeram o maná no deserto, como está na Escritura: 'Pão do céu deu-lhes a comer'\". 32 Jesus respondeu: \"Em verdade, em verdade vos digo, não foi Moisés quem vos deu o pão que veio do céu. É meu Pai que vos dá o verdadeiro pão do céu. 33 Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo\". 34 Então pediram: \"Senhor, dá-nos sempre desse pão\". 35 Jesus lhes disse: \"Eu sou o pão da vida. Quem vem a mim não terá mais fome e quem crê em mim nunca mais terá sede\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

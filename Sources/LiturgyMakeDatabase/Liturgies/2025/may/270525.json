@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "27/05/25",
+            "liturgy": "6ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 16,22-34",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 22 a multidão dos filipenses  levantou-se contra Paulo e Silas; e os magistrados, depois de lhes rasgarem as vestes, mandaram açoitar os dois com varas. 23 Depois de açoitá-los bastante, lançaram-nos na prisão, ordenando ao carcereiro que os guardasse com toda a segurança. 24 Ao receber essa ordem, o carcereiro levou-os para o fundo da prisão e prendeu os pés deles no tronco. 25 À meia noite, Paulo e Silas estavam rezando e cantando hinos a Deus. Os outros prisioneiros os escutavam. 26 De repente, houve um terremoto tão violento que sacudiu os alicerces da prisão. Todas as portas se abriram e as correntes de todos se soltaram. 27 O carcereiro acordou e viu as portas da prisão abertas. Pensando que os prisioneiros tivessem fugido, puxou da espada e estava para suicidar-se. 28 Mas Paulo gritou com voz forte: \"Não te faças mal algum! Nós estamos todos aqui\". 29 Então o carcereiro pediu tochas, correu para dentro e, tremendo, caiu aos pés de Paulo e Silas. 30 Conduzindo-os para fora, perguntou: \"Senhores, que devo fazer para ser salvo?\" 31 Paulo e Silas responderam: \"Crê no Senhor Jesus, e sereis salvos tu e todos os de tua família\". 32 Então Paulo e Silas anunciaram a Palavra do Senhor ao carcereiro e a todos os da sua família. 33 Na mesma hora da noite, o carcereiro levou-os consigo para lavar as feridas causadas pelos açoites. E, imediatamente, foi batizado junto com todos os seus familiares. 34 Depois fez Paulo e Silas subirem até sua casa, preparou-lhes um jantar e alegrou-se com todos os seus familiares por ter acreditado em Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 137(138)",
+                            "chorus": "Ó Senhor, me estendeis o vosso braço e me ajudais.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Ó Senhor, de coração eu vos dou graças, * \nporque ouvistes as palavras dos meus lábios! \nPerante os vossos anjos vou cantar-vos * \n2a e ante o vosso templo vou prostrar-me.",
+                                "b Eu agradeço vosso amor, vossa verdade, *\nc porque fizestes muito mais que prometestes;\n3 naquele dia em que gritei, vós me escutastes * \ne aumentastes o vigor da minha alma.",
+                                "7c estendereis o vosso braço em meu auxílio * \ne havereis de me salvar com vossa destra. \n8 Completai em mim a obra começada; * \nó Senhor, vossa bondade é para sempre! \nEu vos peço: não deixeis inacabada * \nesta obra que fizeram vossas mãos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu hei de enviar-vos o Espírito da verdade; ele vos conduzirá a toda a verdade."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,5-11",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 5 \"Agora, parto para aquele que me enviou, e nenhum de vós me pergunta: 'Para onde vais?' 6 Mas, porque vos disse isto, a tristeza encheu os vossos corações. 7 No entanto, eu vos digo a verdade: É bom para vós que eu parta; se eu não for, não virá até vós o Defensor; mas, se eu me for, eu vo-lo mandarei. 8 E quando vier, ele demonstrará ao mundo em que consistem o pecado, a justiça e o julgamento: 9 o pecado, porque não acreditaram em mim; 10 a justiça, porque vou para o Pai, de modo que não mais me vereis; 11 e o julgamento, porque o chefe deste mundo já está condenado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

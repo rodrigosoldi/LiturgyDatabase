@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "22/05/25",
+            "liturgy": "5ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 15,7-21",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 7 Depois de longa discussão, Pedro levantou-se e falou aos apóstolos e anciãos: \"Irmãos, vós sabeis que, desde os primeiros dias, Deus me escolheu, do vosso meio, para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. 8 Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. 9 E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé. 10 Então, por que vós agora colocais Deus à prova, querendo impor aos discípulos um jugo que nem nossos pais e nem nós mesmos tivemos força para suportar? 11 Ao contrário, é pela graça do Senhor Jesus que acreditamos ser salvos, exatamente como eles\". 12 Houve então um grande silêncio em toda a assembleia. Depois disso, ouviram Barnabé e Paulo contar todos os sinais e prodígios que Deus havia realizado, por meio deles, entre os pagãos. 13 Quando Barnabé e Paulo terminaram de falar, Tiago tomou a palavra e disse: \"Irmãos, ouvi-me: 14 Simão acaba de nos lembrar como, desde o começo, Deus se dignou tomar homens das nações pagãs para formar um povo dedicado ao seu Nome. 15 Isso concorda com as palavras dos profetas, pois está escrito: 16 'Depois disso, eu voltarei e reconstruirei a tenda de Davi que havia caído; reconstruirei as ruínas que ficaram e a reerguerei,  a fim de que o resto dos homens procure o Senhor com todas as nações que foram consagradas ao meu Nome.  É o que diz o Senhor, que fez estas coisas, 18 conhecidas há muito tempo'. 19 Por isso, sou do parecer que devemos parar de importunar os pagãos que se convertem a Deus. 20 Vamos somente prescrever que eles evitem o que está contaminado pelos ídolos, as uniões ilegítimas,  comer carne de animal sufocado e o uso do sangue. 21 Com efeito, desde os tempos antigos, em cada cidade, Moisés tem os seus pregadores, que o lêem todos os sábados nas sinagogas\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 95(96)",
+                            "chorus": "Anunciai as maravilhas do Senhor entre todas as nações.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Cantai ao Senhor Deus um canto novo, † \ncantai ao Senhor Deus, ó terra inteira! * \n2a Cantai e bendizei seu santo nome!",
+                                "2b Dia após dia anunciai sua salvação, † \n3 manifestai a sua glória entre as nações, * \ne entre os povos do universo seus prodígios!",
+                                "10 Publicai entre as nações: \"Reina o Senhor!\" † \nEle firmou o universo inabalável * \npois os povos ele julga com justiça."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, minha voz estão elas a escutar; eu conheço, então, minhas ovelhas, que me seguem, comigo a caminhar."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 15,9-11",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 9 \"Como meu Pai me amou, assim também eu vos amei. Permanecei no meu amor. 10 Se guardardes os meus mandamentos, permanecereis no meu amor, assim como eu guardei os mandamentos do meu Pai e permaneço no seu amor. 11 Eu vos disse isto, para que a minha alegria esteja em vós e a vossa alegria seja plena\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

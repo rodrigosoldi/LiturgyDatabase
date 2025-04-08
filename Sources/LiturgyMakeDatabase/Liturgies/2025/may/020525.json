@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "02/05/25",
+            "liturgy": "Santo Atanásio, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 5,34-42",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 34 Um fariseu, chamado Gamaliel, levantou-se no Sinédrio. Era mestre da Lei e todo o povo o estimava. Gamaliel mandou que os acusados saíssem por um instante. 35 Depois disse: \"Homens de Israel, vede bem o que estais para fazer contra esses homens. 36 Algum tempo atrás apareceu Teudas, que se fazia passar por uma pessoa importante, e a ele se juntaram cerca de quatrocentos homens. Depois ele foi morto e todos os que o seguiam debandaram, e nada restou. 37 Depois dele, no tempo do recenseamento, apareceu Judas, o galileu, que arrastou o povo atrás de si. Contudo, também ele morreu e todos os seus seguidores se dispersaram. 38 Quanto ao que está acontecendo agora, dou-vos um conselho: não vos preocupeis com esses homens e deixai-os ir embora. Porque, se este projeto ou esta atividade é de origem humana será destruído. 39 Mas, se vem de Deus, vós não conseguireis eliminá-los. Cuidado para não vos pordes em luta contra Deus!\" E os membros do Sinédrio aceitaram o parecer de Gamaliel. 40 Chamaram então os apóstolos, mandaram açoitá-los, proibiram que eles falassem em nome de Jesus, e depois os soltaram. 41 Os apóstolos saíram do Conselho, muito contentes, por terem sido considerados dignos de injúrias, por causa do nome de Jesus. 42 E cada dia, no Templo e pelas casas, não cessavam de ensinar e anunciar o evangelho de Jesus Cristo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 26(27)",
+                            "chorus": "Ao Senhor eu peço apenas uma coisa: habitar no santuário do Senhor.\n\nOu:\n\nAleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 O Senhor é minha luz e salvação; *\nde quem eu terei medo?\nO Senhor é a proteção da minha vida; * \nperante quem eu tremerei?",
+                                "4 Ao Senhor eu peço apenas uma coisa, * \ne é só isto que eu desejo: \nhabitar no santuário do Senhor * \npor toda a minha vida; \nsaborear a suavidade do Senhor * \ne contemplá-lo no seu templo.",
+                                "13 Sei que a bondade do Senhor eu hei de ver * \nna terra dos viventes. \n14 Espera no Senhor e tem coragem, * \nespera no Senhor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "O homem não vive somente de pão, mas de toda palavra da boca de Deus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 6,1-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, 1 Jesus foi para o outro lado do mar da Galileia, também chamado de Tiberíades. 2 Uma grande multidão o seguia, porque via os sinais que ele operava a favor dos doentes. 3 Jesus subiu ao monte e sentou-se aí, com os seus discípulos. 4 Estava próxima a Páscoa, a festa dos judeus. 5 Levantando os olhos, e vendo que uma grande multidão estava vindo ao seu encontro, Jesus disse a Filipe: \"Onde vamos comprar pão para que eles possam comer?\" 6 Disse isso para pô-lo à prova, pois ele mesmo sabia muito bem o que ia fazer. 7 Filipe respondeu: \"Nem duzentas moedas de prata bastariam para dar um pedaço de pão a cada um\". 8 Um dos discípulos, André, o irmão de Simão Pedro, disse: 9 \"Está aqui um menino  com cinco pães de cevada e dois peixes. Mas o que é isso para tanta gente?\" 10 Jesus disse: \"Fazei sentar as pessoas\". Havia muita relva naquele lugar, e lá se sentaram, aproximadamente, cinco mil homens. 11 Jesus tomou os pães, deu graças e distribuiu-os aos que estavam sentados, tanto quanto queriam. E fez o mesmo com os peixes. 12 Quando todos ficaram satisfeitos, Jesus disse aos discípulos: \"Recolhei os pedaços que sobraram, para que nada se perca!\" 13 Recolheram os pedaços e encheram doze cestos com as sobras dos cinco pães, deixadas pelos que haviam comido. 14 Vendo o sinal que Jesus tinha realizado, aqueles homens exclamavam: \"Este é verdadeiramente o Profeta, aquele que deve vir ao mundo\". 15 Mas, quando notou que estavam querendo levá-lo para proclamá-lo rei, Jesus retirou-se de novo,  sozinho, para o monte."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
