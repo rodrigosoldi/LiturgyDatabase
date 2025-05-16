@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "20/06/25",
+            "liturgy": "11ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 11,18.21b-30",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 18 já que muitos se gloriam segundo a carne, eu também me gloriarei. 21b O que outros ousam dizer em vantagem própria, eu também o digo a meu respeito, embora fale como insensato. 22 São hebreus? Eu também. São israelitas? Eu também. São da descendência de Abraão? Eu também. 23 São servos de Cristo? Como menos sensato digo: Eu ainda mais. De fato, muito mais do que eles: pelos trabalhos, pelas prisões, pelos açoites sem conta. Muitas vezes, vi-me em perigo de morte. 24 Cinco vezes, recebi dos judeus quarenta açoites menos um. 25 Três vezes, fui batido com varas. Uma vez, fui apedrejado. Três vezes, naufraguei. Passei uma noite e um dia no alto mar. 26 Fiz inúmeras viagens, com inúmeros perigos: perigos de rios, perigos de ladrões, perigos da parte de meus compatriotas, perigos da parte dos pagãos, perigos na cidade, perigos em lugares desertos, perigos no mar, perigos por parte de falsos irmãos. 27 Trabalhos e fadigas, inúmeras vigílias, fome e sede, frequentes jejuns, frio e nudez! 28 E, sem falar de outras coisas, a minha preocupação de cada dia, a solicitude por todas as igrejas! 29 Quem é fraco, que eu também não seja fraco com ele? Quem é escandalizado, que eu não fique ardendo de indignação? 30 Se é preciso gloriar-se, é de minhas fraquezas que me gloriarei!"
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "SI 33(34)",
+                            "chorus": "O Senhor liberta os justos de todas as angústias!",
+                            "verses": [
+                                "2 Bendirei o Senhor Deus em todo o tempo, * seu louvor estará sempre em minha boca. 3 Minha alma se gloria no Senhor; * que ouçam os humildes e se alegrem!",
+                                "4 Comigo engrandecei ao Senhor Deus,* exaltemos todos juntos o seu nome! 5 Todas as vezes que o busquei, ele me ouviu, * e de todos os temores me livrou.",
+                                "6 Contemplai a sua face e alegrai-vos,* e vosso rosto não se cubra de vergonha! 7 Este infeliz gritou a Deus, e foi ouvido, * e o Senhor o libertou de toda angústia."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Felizes os humildes de espírito, porque deles é o Reino dos Céus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 6,19-23",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 19 \"Não junteis tesouros aqui na terra, onde a traça e a ferrugem destroem, e os ladrões assaltam e roubam. 20 Ao contrário, juntai para vós tesouros no céu, onde nem a traça e a ferrugem destroem, nem os ladrões assaltam e roubam. 21 Porque, onde está o teu tesouro, aí estará também o teu coração. 22 O olho é a lâmpada do corpo. Se o teu olho é sadio, todo o teu corpo ficará iluminado. 23 Se o teu olho está doente, todo o teu corpo ficará na escuridão. Ora, se a luz que existe em ti é escuridão, como será grande a escuridão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

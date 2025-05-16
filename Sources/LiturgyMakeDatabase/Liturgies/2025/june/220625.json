@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "22/06/25",
+            "liturgy": "12º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Zc 12,10-11;13,1",
+                            "title": "Leitura da Profecia de Zacarias",
+                            "text": "Assim diz o Senhor: 10 \"Derramarei sobre a casa de Davi e sobre os habitantes de Jerusalém um espírito de graça e de oração; eles olharão para mim. Ao que eles feriram de morte, hão de chorá-lo, como se chora a perda de um filho único, e hão de sentir por ele a dor que se sente pela morte de um primogênito. 11 Naquele dia, haverá um grande pranto em Jerusalém, como foi o de Adadremon, no campo de Magedo. 13,1 Naquele dia, haverá uma fonte acessível à casa de Davi e aos habitantes de Jerusalém, para ablução e purificação\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 62(63)",
+                            "chorus": "A minh'alma tem sede de vós, como a terra sedenta, ó meu Deus!",
+                            "verses": [
+                                "2a Sois vós, ó Senhor, o meu Deus! * b Desde a aurora ansioso vos busco! c A minh'alma tem sede de vós, * d minha carne também vos deseja.",
+                                "2e Como terra sedenta e sem água, † 3 venho, assim, contemplar-vos no templo, * para ver vossa glória e poder. 4 Vosso amor vale mais do que a vida: * e por isso meus lábios vos louvam.",
+                                "5 Quero, pois vos louvar pela vida, * e elevar para vós minhas mãos! 6 A minh'alma será saciada, * como em grande banquete de festa; cantará a alegria em meus lábios, * ao cantar para vós meu louvor!",
+                                "8 Para mim fostes sempre um socorro; * de vossas asas á sombra eu exulto! 9 Minha alma se agarra em vós; * com poder vossa mão me sustenta."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gl 3,26-29",
+                            "title": "Leitura da Carta de São Paulo aos Gálatas",
+                            "text": "Irmãos: 26 Vós todos sois filhos de Deus pela fé em Jesus Cristo. 27 Vós todos que fostes batizados em Cristo vos revestistes de Cristo. 28 O que vale não é mais ser judeu nem grego, nem escravo nem livre, nem homem nem mulher, pois todos vós sois um só, em Jesus Cristo. 29 Sendo de Cristo, sois então descendência de Abraão, herdeiros segundo a promessa."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, minha voz estão elas a escutar; eu conheço, então, minhas ovelhas, que me seguem, comigo a caminhar."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 9,18-24",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Certo dia, 18 Jesus estava rezando num lugar retirado, e os discípulos estavam com ele. Então Jesus perguntou-lhes: \"Quem diz o povo que eu sou?\" 19 Eles responderam: \"Uns dizem que és João Batista; outros, que és Elias; mas outros acham que és algum dos antigos profetas que ressuscitou\". 20 Mas Jesus perguntou: \"E vós, quem dizeis que eu sou?\" Pedro respondeu: \"O Cristo de Deus\". 21 Mas Jesus proibiu-lhes severamente que contassem isso a alguém. 22 E acrescentou: \"O Filho do Homem deve sofrer muito, ser rejeitado pelos anciãos, pelos sumos sacerdotes e doutores da Lei, deve ser morto e ressuscitar no terceiro dia\". 23 Depois Jesus disse a todos: \"Se alguém me quer seguir, renuncie a si mesmo, tome sua cruz cada dia, e siga-me. 24 Pois quem quiser salvar a sua vida, vai perdê-la; e quem perder a sua vida por causa de mim, esse a salvará\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

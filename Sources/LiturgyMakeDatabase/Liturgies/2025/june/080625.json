@@ -1,0 +1,148 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "08/06/25",
+            "liturgy": "Domingo de Pentecostes, Solenidade",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "Missa da Vigília 1",
+                            "reference": "Gn 11,1-9",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "1 Toda a terra tinha uma só linguagem e servia-se das mesmas palavras. 2 E aconteceu que, partindo do oriente, os homens acharam uma planície na terra de Senaar, e aí se estabeleceram. 3 E disseram uns aos outros: \"Vamos, façamos tijolos e cozamo-los ao fogo\". Usaram tijolos em vez de pedra, e betume em lugar de argamassa. 4 E disseram: \"Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja o céu. Assim, ficaremos famosos, e não seremos dispersos por toda a face da terra\". 5 Então o Senhor desceu para ver a cidade e a torre que os homens estavam construindo. 6 E o Senhor disse: \"Eis que eles são um só povo e falam uma só língua. E isso é apenas o começo de seus empreendimentos. Agora, nada os impedirá de fazer o que se propuseram. 7 Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros\". 8 E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade. 9 Por isso, foi chamada Babel, porque foi aí que o Senhor confundiu a linguagem de todo o mundo, e daí dispersou os homens por toda a terra."
+                        },
+                        {
+                            "obs": "Missa da Vigília 2",
+                            "reference": "Ex 19,3-8a.16-20b",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 3 Moisés subiu ao encontro de Deus. O Senhor chamou-o do alto da montanha, e disse: \"Assim deverás falar à casa de Jacó e anunciar aos filhos de Israel: 4 Vistes o que fiz aos egípcios, e como vos levei sobre asas de águia e vos trouxe a mim. 5 Portanto, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque minha é toda a terra. 6 E vós sereis para mim um reino de sacerdotes e uma nação santa. São estas as palavras que deverás dizer aos filhos de Israel\". 7 Moisés voltou e, convocando os anciãos do povo, expôs tudo o que o Senhor lhe tinha mandado. 8a E o povo todo respondeu a uma só voz: \"Faremos tudo o que o Senhor disse\". 16 Quando chegou o terceiro dia, ao raiar da manhã, houve trovões e relâmpagos. Uma nuvem espessa cobriu a montanha, e um fortíssimo som de trombetas se fez ouvir. No acampamento o povo se pôs a tremer. 17 Moisés fez o povo sair do acampamento ao encontro de Deus, e eles pararam ao pé da montanha. 18 Todo o monte Sinai fumegava, pois o Senhor descera sobre ele em meio ao fogo. A fumaça subia como de uma fornalha, e todo o monte tremia violentamente. 19 O som da trombeta ia aumentando cada vez mais. Moisés falava e o Senhor lhe respondia através do trovão. 20b O Senhor desceu sobre o monte Sinai e chamou Moisés ao cume do monte."
+                        },
+                        {
+                            "obs": "Missa da Vigília 3",
+                            "reference": "Ez 37,1-14",
+                            "title": "Leitura da Profecia de Ezequiel",
+                            "text": "Naqueles dias, 1 a mão do Senhor estava sobre mim e por seu espírito ele me levou para fora e me deixou no meio de uma planície cheia de ossos 2 e me fez andar no meio deles em todas as direções. Havia muitíssimos ossos na planície e estavam ressequidos. 3 Ele me perguntou: \"Filho do homem, será que estes ossos podem voltar à vida?\" E eu respondi: \"Senhor Deus, só tu o sabes\". 4 E ele me disse: \"Profetiza sobre estes ossos e dize: 'Ossos ressequidos, escutai a palavra do Senhor!' 5 Assim diz o Senhor Deus a estes ossos: Eu mesmo vou fazer entrar um espírito em vós e voltareis à vida. 6 Porei nervos em vós, farei crescer carne e estenderei a pele por cima. Porei em vós um espírito, para que possais voltar à vida. Assim sabereis que eu sou o Senhor'\". 7 Profetizei como me foi ordenado. Enquanto eu profetizava, ouviu-se primeiro um rumor, e logo um estrondo, quando os ossos se aproximaram uns dos outros. 8 Olhei e vi nervos e carne crescendo sobre os ossos e, por cima, a pele que se estendia. Mas não tinham nenhum sopro de vida. 9 Ele me disse: \"Profetiza para o espírito, profetiza, filho do homem! Dirás ao espírito: 'Assim diz o Senhor Deus: Vem dos quatro ventos, ó espírito, vem soprar sobre estes mortos, para que eles possam voltar à vida'\". 10 Profetizei como me foi ordenado, e o espírito entrou neles. Eles voltaram à vida e puseram-se de pé: era uma imensa multidão! 11 Então ele me disse: \"Filho do homem, estes ossos são toda a casa de Israel. É isto que eles dizem: 'Nossos ossos estão secos, nossa esperança acabou, estamos perdidos!' 12 Por isso, profetiza e dize-lhes: 'Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; 13 e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor. 14 Porei em vós o meu espírito, para que vivais e vos colocarei em vossa terra. Então sabereis que eu, o Senhor, digo e faço, - oráculo do Senhor -\"."
+                        },
+                        {
+                            "obs": "Missa da Vigília 4",
+                            "reference": "Jl 3,1-5",
+                            "title": "Leitura da Profecia de Joel",
+                            "text": "Assim diz o Senhor: 1 \"Derramarei o meu espírito sobre todo ser humano, e vossos filhos e filhas profetizarão, vossos anciãos terão sonhos e vossos jovens terão visões; 2 também sobre meus servos e servas, naqueles dias, derramarei o meu espírito. 3 Colocarei sinais no céu e na terra, sangue, fogo e rolos de fumaça; 4 o sol se transformará em trevas e a lua, em sangue, antes de chegar o dia do Senhor, dia grandioso e terrível. 5 Então, todo aquele que invocar o nome do Senhor, será salvo, pois, no monte Sião e em Jerusalém, haverá salvação, como disse o Senhor, entre os sobreviventes que o Senhor chamar\"."
+                        },
+                        {
+                            "obs": "Missa do Dia",
+                            "reference": "At 2,1-11",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "1 Quando chegou o dia de Pentecostes, os discípulos estavam todos reunidos no mesmo lugar. 2 De repente, veio do céu um barulho como se fosse uma forte ventania, que encheu a casa onde eles se encontravam. 3 Então apareceram línguas como de fogo que se repartiram e pousaram sobre cada um deles. 4 Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava. 5 Moravam em Jerusalém judeus devotos, de todas as nações do mundo. 6 Quando ouviram o barulho, juntou-se a multidão, e todos ficaram confusos, pois cada um ouvia os discípulos falar em sua própria língua. 7 Cheios de espanto e de admiração, diziam: \"Esses homens que estão falando não são todos galileus? 8 Como é que nós os escutamos na nossa própria língua? 9 Nós que somos partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, 10 da Frígia e da Panfília, do Egito e da parte da Líbia, próxima de Cirene, também romanos que aqui residem; 11 judeus e prosélitos, cretenses e árabes, todos nós os escutamos anunciarem as maravilhas de Deus na nossa própria língua!\""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 103(104)",
+                            "chorus": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Bendize, ó minha alma, ao Senhor! * Ó meu Deus e meu Senhor, como sois grande! 2a De majestade e esplendor vos revestis * e de luz vos envolveis como num manto.",
+                                "24 Quão numerosas, ó Senhor, são vossas obras, * e que sabedoria em todas elas! Encheu-se a terra com as vossas criaturas. * 35c Bendize, ó minha alma, ao Senhor!",
+                                "27 Todos eles, ó Senhor, de vós esperam * que a seu tempo vós lhes deis o alimento; 28 vós lhes dais o que comer e eles recolhem, * vós abris a vossa mão e eles se fartam.",
+                                "29bc Se tirais o seu respiro, eles perecem * e voltam para o pó de onde vieram; 30 enviais o vosso espírito e renascem * e da terra toda a face renovais."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [                        
+                        {
+                            "obs": "Missa da Vigília",
+                            "reference": "Rm 8,8-173",
+                            "title": "Leitura da Carta de São Paulo aos Romanos",
+                            "text": "Irmãos: 22 Sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. 23 E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. 24 Pois já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? 25 Mas, se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. 26 Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. 27 E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos."
+                        },
+                        {
+                            "obs": "Missa do Dia 1",
+                            "reference": "1Co 12,3b-7.12-13",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 3b Ninguém pode dizer: Jesus é o Senhor a não ser no Espírito Santo. 4 Há diversidade de dons, mas um mesmo é o Espírito. 5 Há diversidade de ministérios, mas um mesmo é o Senhor. 6 Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos. 7 A cada um é dada a manifestação do Espírito em vista do bem comum. 12 Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. 13 De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito."
+                        },
+                        {
+                            "obs": "Missa do Dia 2",
+                            "reference": "Rm 8,8-17",
+                            "title": "Leitura da Carta de São Paulo aos Romanos",
+                            "text": "Irmãos: 8 Os que vivem segundo a carne não podem agradar a Deus. 9 Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. 10 Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. 11 E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós. 12 Portanto, irmãos, temos uma dívida, mas não para com a carne, para vivermos segundo a carne. 13 Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis. 14 Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. 15 De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai! 16 O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. 17 E, se somos filhos, somos também herdeiros, herdeiros de Deus e co-herdeiros de Cristo; se realmente sofremos com ele, é para sermos também glorificados com ele."
+                        }
+                    ]                
+                },
+                {
+                    "type": "sequence",
+                    "title": "Sequência",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "title": "Sequência de Pentecostes",
+                            "text": "Espírito de Deus,\nenviai dos céus\num raio de luz!\n\nVinde, Pai dos pobres,\ndai aos corações\nvossos sete dons.\n\nConsolo que acalma,\nhóspede da alma,\ndoce alívio, vinde!\n\nNo labor descanso,\nna aflição remanso,\nno calor aragem.\n\nEnchei, luz bendita,\nchama que crepita,\no íntimo de nós!\n\nSem a luz que acode,\nnada o homem pode,\nnenhum bem há nele.\n\nAo sujo lavai,\nao seco regai,\ncurai o doente.\n\nDobrai o que é duro,\nguiai no escuro,\no frio aquecei.\n\nDai à vossa Igreja,\nque espera e deseja,\nvossos sete dons.\n\nDai em prêmio ao forte\numa santa morte,\nalegria eterna.\nAmém."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vinde, Espírito divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+                            },
+                            "reading": {
+                                "obs": "Missa da Vigília",
+                                "reference": "Jo 7,37-39",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "37 No último dia da festa, o dia mais solene, Jesus, em pé, proclamou em voz alta: \"Se alguém tem sede, venha a mim, e beba. 38 Aquele que crê em mim, conforme diz a Escritura, rios de água viva jorrarão do seu interior\". 39 Jesus falava do Espírito, que deviam receber os que tivessem fé nele; pois ainda não tinha sido dado o Espírito, porque Jesus ainda não tinha sido glorificado."
+                            }
+                        },
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vinde, Espírito Divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+                            },
+                            "reading": {
+                                "obs": "Missa do Dia 1",
+                                "reference": "Jo 20,19-23",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "19 Ao anoitecer daquele dia, o primeiro da semana, estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e pondo-se no meio deles, disse: \"A paz esteja convosco\". 20 Depois destas palavras, mostrou-lhes as mãos e o lado. Então os discípulos se alegraram por verem o Senhor. 21 Novamente, Jesus disse: \"A paz esteja convosco. Como o Pai me enviou, também eu vos envio\". 22 E depois de ter dito isso, soprou sobre eles e disse: \"Recebei o Espírito Santo. 23 A quem perdoardes os pecados, eles lhes serão perdoados; a quem os não perdoardes, eles lhes serão retidos\"."
+                            }
+                        },
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vinde, Espírito Divino, e enchei com vossos dons os corações dos fiéis; e acendei neles o amor como um fogo abrasador!"
+                            },
+                            "reading": {
+                                "obs": "Missa do Dia 2",
+                                "reference": "Jo 14,15-16.23b-26",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 15 \"Se me amais, guardareis os meus mandamentos, 16 e eu rogarei ao Pai, e ele vos dará um outro Defensor, para que permaneça sempre convosco. 23b Se alguém me ama, guardará a minha palavra, e o meu Pai o amará, e nós viremos e faremos nele a nossa morada. 24 Quem não me ama, não guarda a minha palavra. E a palavra que escutais não é minha, mas do Pai que me enviou. 25 Isso é o que vos disse enquanto estava convosco, 26 mas o Defensor, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará tudo e vos recordará tudo o que eu vos tenho dito\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

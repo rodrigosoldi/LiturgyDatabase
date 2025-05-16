@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "16/06/25",
+            "liturgy": "11ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 6,1-10",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 1 como colaboradores de Cristo, nós vos exortamos a não receberdes em vão a graça de Deus, 2 pois ele diz: \"No momento favorável, eu te ouvi e no dia da salvação, eu te socorri\". É agora o momento favorável, é agora o dia da salvação. 3 Não damos a ninguém nenhum motivo de escândalo, para que o nosso ministério não seja desacreditado. 4 Mas em tudo nos recomendamos como ministros de Deus, com muita paciência, em tribulações, em necessidades, em angústias, 5 em açoites, em prisões, em tumultos, em fadigas, em insônias, em jejuns, 6 em castidade, em compreensão, em longanimidade, em bondade, no Espírito Santo, em amor sincero, 7 em palavras verdadeiras, no poder de Deus, em armas de justiça, ofensivas e defensivas, 8 em honra e desonra, em má ou boa fama; considerados sedutores, sendo, porém, verazes; 9 como desconhecidos, sendo porém, bem conhecidos; como moribundos, embora vivamos; como castigados mas não mortos; 10 como aflitos, mas sempre alegres; como pobres, mas enriquecendo muitos; como quem nada possui, mas tendo tudo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 97(98)",
+                            "chorus": "O Senhor fez conhecer a salvação.",
+                            "verses": [
+                                "1 Cantai ao Senhor Deus um canto novo,* porque ele fez prodígios! Sua mão e o seu braço forte e santo* alcançaram-lhe a vitória.",
+                                "2 O Senhor fez conhecer a salvação,* e às nações, sua justiça; 3a recordou o seu amor sempre fiel* b pela casa de Israel",
+                                "c Os confins do universo contemplaram* d a salvação do nosso Deus. 4 Aclamai o Senhor Deus, ó terra inteira,* alegrai-vos e exultai!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vossa palavra é uma luz para os meus passos, e uma lâmpada luzente em meu caminho."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,38-42",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 38 \"Ouvistes o que foi dito: 'Olho por olho e dente por dente!' 39 Eu, porém, vos digo: Não enfrenteis quem é malvado! Pelo contrário, se alguém te dá um tapa na face direita, oferece-lhe também a esquerda! 40 Se alguém quiser abrir um processo para tomar a tua túnica, dá-lhe também o manto! 41 Se alguém te forçar a andar um quilômetro, caminha dois com ele! 42 Dá a quem te pedir e não vires as costas a quem te pede emprestado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

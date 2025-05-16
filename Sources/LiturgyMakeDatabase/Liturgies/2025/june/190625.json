@@ -1,0 +1,88 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "19/06/25",
+            "liturgy": "Santíssimo Corpo e Sangue de Cristo, Solenidade",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 14,18-20",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 18 Melquisedec, rei de Salém, trouxe pão e vinho e como sacerdote do Deus Altíssimo, 19 abençoou Abrão, dizendo: \"Bendito seja Abrão pelo Deus Altíssimo, criador do céu e da terra! 20 Bendito seja o Deus Altíssimo, que entregou teus inimigos em tuas mãos!\" E Abrão entregou-lhe o dízimo de tudo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 109(110)",
+                            "chorus": "Tu és sacerdote eternamente * segundo a ordem do rei Melquisedec!",
+                            "verses": [
+                                "1 Palavra do Senhor ao meu Senhor: * \"Assenta-te ao lado meu direito até que eu ponha os inimigos teus * como escabelo por debaixo de teus pés!\"",
+                                "2 O Senhor estenderá desde Sião † vosso cetro de poder, pois Ele diz: * \"Domina com vigor teus inimigos;",
+                                "3 tu és príncipe desde o dia em que nasceste; † na glória e esplendor da santidade, * como o orvalho, antes da aurora, eu te gerei!\"",
+                                "4 Jurou o Senhor e manterá sua palavra: † \"Tu és sacerdote eternamente, * segundo a ordem do rei Melquisedec!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 11,23-26",
+                            "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos: 23 O que eu recebi do Senhor foi isso que eu vos transmiti: Na noite em que foi entregue, o Senhor Jesus tomou o pão 24 e, depois de dar graças, partiu-o e disse: \"Isto é o meu corpo que é dado por vós. Fazei isto em minha memória\". 25 Do mesmo modo, depois da ceia, tomou também o cálice e disse: \"Este cálice é a nova aliança, em meu sangue. Todas as vezes que dele beberdes, fazei-o em minha memória\". 26 Todas as vezes, de fato, que comerdes deste pão e beberdes deste cálice, estareis proclamando a morte do Senhor, até que ele venha."
+                        }
+                    ]                
+                },
+                {
+                    "type": "sequence",
+                    "title": "Sequência",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "title": "(Na forma mais longa; ou na forma abreviada, a partir de: ** Eis o pão...)",
+                            "text": "Terra, exulta de alegria,\nlouva teu pastor e guia\ncom teus hinos, tua voz!\n\nTanto possas, tanto ouses,\nem louvá-lo não repouses:\nsempre excede o teu louvor!\n\nHoje a Igreja te convida:\nao pão vivo que dá vida\nvem com ela celebrar!\n\nEste pão, que o mundo o creia!\npor Jesus, na santa ceia,\nfoi entregue aos que escolheu.\n\nNosso júbilo cantemos,\nnosso amor manifestemos,\npois transborda o coração!\n\nQuão solene a festa, o dia,\nque da santa Eucaristia\nnos recorda a instituição!\n\nNovo Rei e nova mesa,\nnova Páscoa e realeza,\n  foi-se a Páscoa dos judeus.\n\nEra sombra o antigo povo,\no que é velho cede ao novo:\nfoge a noite, chega a luz.\n\nO que o Cristo fez na ceia,\nmanda à Igreja que o rodeia\nrepeti-lo até voltar.\n\nSeu preceito conhecemos:\npão e vinho consagremos\npara nossa salvação.\n\nFaz-se carne o pão de trigo,\nfaz-se sangue o vinho amigo:\ndeve-o crer todo cristão.\n\nSe não vês nem compreendes,\ngosto e vista tu transcendes,\nelevado pela fé.\n\nPão e vinho, eis o que vemos;\nmas ao Cristo é que nós temos\nem tão ínfimos sinais...\n\nAlimento verdadeiro,\npermanece o Cristo inteiro\nquer no vinho, quer no pão.\n\nÉ por todos recebido,\nnão em parte ou dividido,\npois inteiro é que se dá!\n\nUm ou mil comungam dele,\ntanto este quanto aquele:\nmultiplica-se o Senhor.\n\nDá-se ao bom como ao perverso,\nmas o efeito é bem diverso:\nvida e morte traz em si...\n\nPensa bem: igual comida,\nse ao que é bom enche de vida,\ntraz a morte para o mau.\n\nEis a hóstia dividida...\nQuem hesita, quem duvida?\nComo é toda o autor da vida,\na partícula também.\n\nJesus não é atingido:\no sinal é que é partido;\nmas não é diminuído,\nnem se muda o que contém.\n\n<<!**!>>\nEis o pão que os anjos comem\ntransformado em pão do homem;\nsó os filhos o consomem:\nnão será lançado aos cães!\n\nEm sinais prefigurado,\npor Abraão foi imolado,\nno cordeiro aos pais foi dado,\nno deserto foi maná...\n\nBom pastor, pão de verdade,\npiedade, ó Jesus, piedade,\nconservai-nos na unidade,\nextingui nossa orfandade,\ntransportai-nos para o Pai!\n\nAos mortais dando comida,\ndais também o pão da vida;\nque a família assim nutrida\nseja um dia reunida\naos convivas lá do céu!"
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu sou o pão vivo descido do céu; quem deste pão come, sempre, há de viver!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 9,11b-17",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Naquele tempo, 11b Jesus acolheu as multidões, falava-lhes sobre o Reino de Deus e curava todos os que precisavam. 12 A tarde vinha chegando. Os doze apóstolos aproximaram-se de Jesus e disseram: \"Despede a multidão, para que possa ir aos povoados e campos vizinhos procurar hospedagem e comida, pois estamos num lugar deserto\". 13 Mas Jesus disse: \"Dai-lhes vós mesmos de comer\". Eles responderam: \"Só temos cinco pães e dois peixes. A não ser que fôssemos comprar comida para toda essa gente\". 14 Estavam ali mais ou menos cinco mil homens. Mas Jesus disse aos discípulos: \"Mandai o povo sentar-se em grupos de cinquenta\". 15 Os discípulos assim fizeram, e todos se sentaram. 16 Então Jesus tomou os cinco pães e os dois peixes, elevou os olhos para o céu, abençoou-os, partiu-os e os deu aos discípulos para distribuí-los à multidão. 17 Todos comeram e ficaram satisfeitos. E ainda foram recolhidos doze cestos dos pedaços que sobraram."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

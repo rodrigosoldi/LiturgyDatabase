@@ -1,0 +1,66 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "10/06/25",
+            "liturgy": "10ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 1,18-22",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 18 eu vos asseguro, pela fidelidade de Deus: O ensinamento que vos transmitimos não é \"sim-e-não\". 19 Pois o Filho de Deus, Jesus Cristo, que nós - a saber: eu, Silvano e Timóteo - pregamos entre vós, nunca foi \"sim-e-não\", mas somente \"sim\". 20 Com efeito, é nele que todas as promessas de Deus têm o seu \"sim\" garantido. Por isso também, é por ele que dizemos \"amém\" a Deus, para a sua glória. 21 É Deus que nos confirma, a nós e a vós, em nossa adesão a Cristo, como também é Deus que nos ungiu. 22 Foi ele que nos marcou com o seu selo e nos adiantou como sinal o Espírito derramado em nossos corações."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 118(119)",
+                            "chorus": "Fazei brilhar vosso semblante ao vosso servo!",
+                            "verses": [
+                                "129 Maravilhosos são os vossos testemunhos, * eis por que meu coração os observa!",
+                                "130 Vossa palavra, ao revelar-se, me ilumina, * ela dá sabedoria aos pequeninos",
+                                "131 Abro a boca e aspiro largamente, * pois estou ávido de vossos mandamentos.",
+                                "132 Senhor, voltai-vos para mim, tende piedade, * como fazeis para os que amam vosso nome!",
+                                "133 Conforme a vossa lei firmai meus passos, * para que não domine em mim a iniquidade",
+                                "134 Libertai-me da opressão e da calúnia, * para que eu possa observar vossos preceitos!",
+                                "135 Fazei brilhar vosso semblante ao vosso servo, * e ensinai-me vossas leis e mandamentos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vós sois a luz do mundo; brilhe a todos vossa luz. Vendo eles vossas obras, deem glória ao Pai celeste!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,13-16",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 13 \"Vós sois o sal da terra. Ora, se o sal se tornar insosso, com que salgaremos? Ele não servirá para mais nada, senão para ser jogado fora e ser pisado pelos homens. 14 Vós sois a luz do mundo. Não pode ficar escondida uma cidade construída sobre um monte. 15 Ninguém acende uma lâmpada, e a coloca debaixo de uma vasilha, mas sim, num candeeiro, onde brilha para todos que estão na casa. 16 Assim também brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e louvem o vosso Pai que está nos céus\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "09/06/25",
+            "liturgy": "Bem-aventurada Virgem Maria, Mãe da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 3,9-15.20",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Depois que Adão comeu do fruto da árvore, 9 o Senhor Deus o chamou, dizendo: \"Onde estás?\" 10 E ele respondeu: \"Ouvi tua voz no jardim, e fiquei com medo porque estava nu; e me escondi\". 11 Disse-lhe o Senhor Deus: \"E quem te disse que estavas nu? Então comeste da árvore, de cujo fruto te proibi comer?\" 12 Adão disse: \"A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi\". 13 Disse o Senhor Deus à mulher: \"Por que fizeste isso?\" E a mulher respondeu: \"A serpente enganou-me e eu comi\". 14 Então o Senhor Deus disse à serpente: \"Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens! Rastejarás sobre o ventre e comerás pó todos os dias da tua vida! 15 Porei inimizade entre ti e a mulher, entre a tua descendência e a dela. Esta te ferirá a cabeça e tu lhe ferirás o calcanhar\". 20 E Adão chamou à sua mulher \"Eva\", porque ela é a mãe de todos os viventes."
+                        },
+                        {
+                            "obs": "",
+                            "reference": "At 1,12-14",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Depois que Jesus subiu ao céu, 12 os apóstolos voltaram para Jerusalém, vindo do monte das Oliveiras, que fica perto de Jerusalém, a mais ou menos um quilômetro. 13 Entraram na cidade e subiram para a sala de cima, onde costumam ficar. Eram Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão Zelota e Judas, filho de Tiago. 14 Todos eles perseveravam na oração em comum, junto com algumas mulheres, entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 86(87)",
+                            "chorus": "Dizem coisas gloriosas da Cidade do Senhor.",
+                            "verses": [
+                                "1 O Senhor ama a cidade * que fundou no Monte santo; 2 ama as portas de Sião * mais que as casas de Jacó.",
+                                "3 Dizem coisas gloriosas * da Cidade do Senhor. 5 De Sião, porém, se diz: † “Nasceu nela todo homem; * Deus é sua segurança”.",
+                                "6 Deus anota no seu livro, † onde inscreve os povos todos: * “Foi ali que estes nasceram\". 7 Por isso todos juntos * a cantar se alegrarão; e, dançando, exclamarão: * “Estão em ti as nossas fontes!\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ó feliz Virgem, que geraste o Senhor; ó santa Mãe da Igreja, que nos alimenta com o Espírito do teu Filho, Jesus Cristo."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 19,25-34",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, 25 perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena. 26 Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: “Mulher, este é o teu filho”. 27 Depois disse ao discípulo: “Esta é a tua mãe”. Daquela hora em diante, o discípulo a acolheu consigo. 28 Depois disso, Jesus, sabendo que tudo estava consumado, e para que a Escritura se cumprisse até o fim, disse: “Tenho sede”. 29 Havia ali uma jarra cheia de vinagre. Amarraram numa vara uma esponja embebida de vinagre e levaram-na à boca de Jesus. 30 Ele tomou o vinagre e disse: “Tudo está consumado”. E, inclinando a cabeça, entregou o espírito. 31 Era o dia da preparação para a Páscoa. Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene. Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz. 32 Os soldados foram e quebraram as pernas de um e depois do outro que foram crucificados com Jesus. 33 Ao se aproximarem de Jesus, e vendo que já estava morto, não lhe quebraram as pernas; 34 mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

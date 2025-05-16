@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "15/06/25",
+            "liturgy": "Santíssima Trindade, Solenidade",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Pr 8,22-31",
+                            "title": "Leitura do Livro dos Provérbios",
+                            "text": "Assim fala a Sabedoria de Deus: 22 \"O Senhor me possuiu como primícia de seus caminhos, antes de suas obras mais antigas; 23 desde a eternidade fui constituída, desde o princípio, antes das origens da terra. 24 Fui gerada quando não existiam os abismos, quando não havia os mananciais das águas, 25 antes que fossem estabelecidas as montanhas, antes das colinas fui gerada. 26 Ele ainda não havia feito as terras e os campos, nem os primeiros vestígios de terra do mundo. 27 Quando preparava os céus, ali estava eu, quando traçava a abóbada sobre o abismo, 28 quando firmava as nuvens lá no alto e reprimia as fontes do abismo, 29 quando fixava ao mar os seus limites - de modo que as águas não ultrapassassem suas bordas - e lançava os fundamentos da terra, 30 eu estava ao seu lado como mestre-de-obras; eu era seu encanto, dia após dia, brincando, todo o tempo, em sua presença, 31 brincando na superfície da terra, e alegrando-me em estar com os filhos dos homens\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 8",
+                            "chorus": "Ó Senhor nosso Deus, como é grande vosso nome por todo o universo!",
+                            "verses": [
+                                "4 Contemplando estes céus que plasmastes * e formastes com dedos de artista; vendo a lua e estrelas brilhantes, * 5 perguntamos: \"Senhor, que é o homem, para dele assim vos lembrardes * e o tratardes com tanto carinho?\"",
+                                "6 Pouco abaixo de Deus o fizestes, * coroando-o de glória e esplendor; 7 vós lhe destes poder sobre tudo, * vossas obras aos pés lhe pusestes.",
+                                "8 as ovelhas, os bois, os rebanhos, * todo o gado e as feras da mata; 9 passarinhos e peixes dos mares, * todo ser que se move nas águas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Rm 5,1-5",
+                            "title": "Leitura da Carta de São Paulo aos Romanos",
+                            "text": "Irmãos: 1 Justificados pela fé, estamos em paz com Deus, pela mediação do Senhor nosso, Jesus Cristo. 2 Por ele tivemos acesso, pela fé, a esta graça, na qual estamos firmes e nos gloriamos, na esperança da glória de Deus. 3 E não só isso, pois nos gloriamos também de nossas tribulações, sabendo que a tribulação gera a constância, 4 a constância leva a uma virtude provada, a virtude provada desabrocha em esperança; 5 e a esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Glória ao Pai e ao Filho e ao Espírito Divino, ao Deus que é, que era e que vem, pelos séculos. Amém."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,12-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 12 \"Tenho ainda muitas coisas a dizer-vos, mas não sois capazes de as compreender agora. 13 Quando, porém, vier o Espírito da Verdade, ele vos conduzirá à plena verdade. Pois ele não falará por si mesmo, mas dirá tudo o que tiver ouvido; e até as coisas futuras vos anunciará. 14 Ele me glorificará, porque receberá do que é meu e vo-lo anunciará. 15 Tudo o que o Pai possui é meu. Por isso, disse que o que ele receberá e vos anunciará, é meu\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

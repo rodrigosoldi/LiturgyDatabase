@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/06/25",
+            "liturgy": "10ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 3,15-4,1.3-6",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 15 até ao dia de hoje, quando os israelitas leem os escritos de Moisés, um véu cobre o coração deles. 16 Mas, todas as vezes que o coração se converte ao Senhor, o véu é tirado. 17 Pois o Senhor é o Espírito, e onde está o Espírito do Senhor, aí está a liberdade. 18 Todos nós, porém, com o rosto descoberto, contemplamos e refletimos a glória do Senhor e assim somos transformados à sua imagem, pelo seu Espírito, com uma glória cada vez maior. 4,1 Não desanimamos no exercício deste ministério que recebemos da misericórdia divina. 3 E se o nosso evangelho está velado, é só para aqueles que perecem que ele está velado. 4 O deus deste mundo cegou a inteligência desses incrédulos, para que eles não vejam a luz esplendorosa do evangelho da glória de Cristo que é a imagem de Deus. 5 De fato, não nos pregamos a nós mesmos, pregamos a Jesus Cristo, o Senhor. Quanto a nós, apresentamo-nos como servos vossos, por causa de Jesus. 6 Com efeito, Deus que disse: \"Do meio das trevas brilhe a luz\", é o mesmo que fez brilhar a sua luz em nossos corações, para tornar claro o conhecimento da sua glória na face de Cristo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 84(85)",
+                            "chorus": "A glória do Senhor habitará em nossa terra.",
+                            "verses": [
+                                "9a Quero ouvir o que o Senhor irá falar: † é a paz que ele vai anunciar; * b a paz para o seu povo e seus amigos. 10 Está perto a salvação dos que o temem, * e a glória habitará em nossa terra.",
+                                "11 A verdade e o amor se encontrarão,* a justiça e a paz se abraçarão; 12 da terra brotará a fidelidade, * e a justiça olhará dos altos céus.",
+                                "13 O Senhor nos dará tudo o que é bom,* e a nossa terra nos dará suas colheitas; 14 a justiça andará na sua frente * e a salvação há de seguir os passos seus."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,20-26",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo disse Jesus aos seus discípulos: 20 \"Se a vossa justiça não for maior que a justiça dos mestres da Lei e dos fariseus, vós não entrareis no Reino dos Céus. 21 Vós ouvistes o que foi dito aos antigos: 'Não matarás! Quem matar será condenado pelo tribunal'. 22 Eu, porém, vos digo: todo aquele que se encoleriza com seu irmão será réu em juízo; quem disser ao seu irmão: 'patife!' será condenado pelo tribunal; quem chamar o irmão de 'tolo' será condenado ao fogo do inferno. 23 Portanto, quando tu estiveres levando a tua oferta para o altar, e ali te lembrares que teu irmão tem alguma coisa contra ti, 24 deixa a tua oferta ali diante do altar, e vai primeiro reconciliar-te com o teu irmão. Só então vai apresentar a tua oferta. 25 Procura reconciliar-te com teu adversário, enquanto caminha contigo para o tribunal. Senão o adversário te entregará ao juiz, o juiz te entregará ao oficial de justiça, e tu serás jogado na prisão. 26 Em verdade eu te digo: dali não sairás, enquanto não pagares o último centavo\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

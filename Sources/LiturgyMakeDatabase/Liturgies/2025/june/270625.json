@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "27/06/25",
+            "liturgy": "Sagrado Coração de Jesus, Solenidade",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ez 34,11-16",
+                            "title": "Leitura da Profecia de Ezequiel",
+                            "text": "11 Assim diz o Senhor Deus: \"Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas. 12 Como o pastor toma conta do rebanho, de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou resgatá-las de todos os lugares em que forem dispersadas num dia de nuvens e escuridão. 13 Vou retirar minhas ovelhas do meio dos povos e recolhê-las do meio dos países para conduzi-las à sua terra. Vou apascentar as ovelhas sobre os montes de Israel, nos vales dos riachos e em todas as regiões habitáveis do país. 14 Vou apascentá-las em boas pastagens e nos altos montes de Israel estará o seu abrigo. Ali repousarão em prados verdejantes e pastarão em férteis pastagens sobre os montes de Israel. 15 Eu mesmo vou apascentar as minhas ovelhas e fazê-las repousar - oráculo do Senhor Deus - . 16 Vou procurar a ovelha perdida, reconduzir a extraviada, enfaixar a da perna quebrada, fortalecer a doente, e vigiar a ovelha gorda e forte. Vou apascentá-las conforme o direito\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 22(23)",
+                            "chorus": "O Senhor é o pastor que me conduz; não me falta coisa alguma.",
+                            "verses": [
+                                "1 O Senhor é o pastor que me conduz; * não me falta coisa alguma. 2 Pelos prados e campinas verdejantes * ele me leva a descansar. Para as águas repousantes me encaminha, * 3 e restaura as minhas forças.",
+                                "b Ele me guia no caminho mais seguro, * pela honra do seu nome. 4 Mesmo que eu passe pelo vale tenebroso, * nenhum mal eu temerei. Estais comigo com bastão e com cajado, * eles me dão a segurança!",
+                                "5 Preparais à minha frente uma mesa, * bem à vista do inimigo; com óleo vós ungis minha cabeça, * e o meu cálice transborda.",
+                                "6 Felicidade e todo bem hão de seguir-me, * por toda a minha vida; e, na casa do Senhor, habitarei * pelos tempos infinitos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Rm 5,5b-11",
+                            "title": "Leitura da Carta de São Paulo aos Romanos",
+                            "text": "Irmãos: 5b O amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado. 6 Com efeito, quando éramos ainda fracos, Cristo morreu pelos ímpios, no tempo marcado. 7 Dificilmente alguém morrerá por um justo; por uma pessoa muito boa, talvez alguém se anime a morrer. 8 Pois bem, a prova de que Deus nos ama é que Cristo morreu por nós, quando éramos ainda pecadores. 9 Muito mais agora, que já estamos justificados pelo sangue de Cristo, seremos salvos da ira por ele. 10 Quando éramos inimigos de Deus, fomos reconciliados com ele pela morte do seu Filho; quanto mais agora, estando já reconciliados, seremos salvos por sua vida! 11 Ainda mais: Nós nos gloriamos em Deus, por nosso Senhor Jesus Cristo. É por ele que, já desde o tempo presente, recebemos a reconciliação."
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Tomai sobre vós o meu jugo e de mim aprendei que sou de manso e humilde coração.\n\nou\n\nEu sou o bom pastor. Conheço minhas ovelhas e elas me conhecem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 15,3-7",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Naquele tempo, 3 Jesus contou aos escribas e fariseus esta parábola: 4 \"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la? 5 Quando a encontra, coloca-a nos ombros com alegria, 6 e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!' 7 Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

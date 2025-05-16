@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "11/06/25",
+            "liturgy": "São Barnabé, Apóstolo, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 11,21b-26; 13,1-3",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, 11,21b Muitas pessoas acreditaram no Evangelho e se converteram ao Senhor. 22 A notícia chegou aos ouvidos da Igreja que estava em Jerusalém. Então enviaram Barnabé até Antioquia. 23 Quando Barnabé chegou e viu a graça que Deus havia concedido, ficou muito alegre e exortou a todos para que permanecessem fiéis ao Senhor, com firmeza de coração. 24 É que ele era um homem bom, cheio do Espírito Santo e de fé. E uma grande multidão aderiu ao Senhor. 25 Então Barnabé partiu para Tarso, à procura de Saulo. 26 Tendo encontrado Saulo, levou-o a Antioquia. Passaram um ano inteiro trabalhando juntos naquela Igreja, e instruíram uma numerosa multidão. Em Antioquia os discípulos foram, pela primeira vez, chamados com o nome de cristãos. 13,1 Na igreja de Antioquia, havia profetas e doutores. Eram eles: Barnabé, Simeão, chamado o Negro, Lúcio de Cirene, Manaém, que fora criado junto com Herodes, e Saulo. 2 Um dia, enquanto celebravam a liturgia, em honra do Senhor, e jejuavam, o Espírito Santo disse: \"Separai para mim Barnabé e Saulo, a fim de fazerem o trabalho para o qual eu os chamei\". 3 Então eles jejuaram e rezaram, impuseram as mãos sobre Barnabé e Saulo, e deixaram-nos partir."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 97(98)",
+                            "chorus": "O Senhor fez conhecer seu poder salvador, e às nações sua justiça.",
+                            "verses": [
+                                "1 Cantai ao Senhor Deus um canto novo, * porque ele fez prodígios! Sua mão e o seu braço forte e santo * alcançaram-lhe a vitória.",
+                                "2 O Senhor fez conhecer a salvação, * e às nações, sua justiça; 3a recordou o seu amor sempre fiel * 3b pela casa de Israel",
+                                "3c Os confins do universo contemplaram * a salvação do nosso Deus. 4 Aclamai o Senhor Deus, ó terra inteira, * alegrai-vos e exultai!",
+                                "5 Cantai salmos ao Senhor ao som da harpa * e da cítara suave! 6 Aclamai, com os clarins e as trombetas, * ao Senhor, o nosso Rei!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ide ao mundo e ensinai a todas as noções! Eis que eu estou convosco até o fim do mundo!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 10, 7-13",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 7 \"Em vosso caminho, anunciai: 'O Reino dos Céus está próximo'. 8 Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça deveis dar! 9 Não leveis ouro nem prata nem dinheiro nos vossos cintos; 10 nem sacola para o caminho, nem duas túnicas nem sandálias nem bastão, porque o operário tem direito ao seu sustento. 11 Em qualquer cidade ou povoado onde entrardes, informai-vos para saber quem ali seja digno. Hospedai-vos com ele até a vossa partida. 12 Ao entrardes numa casa, saudai-a. 13 Se a casa for digna, desça sobre ela a vossa paz; se ela não for digna, volte para vós a vossa paz\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

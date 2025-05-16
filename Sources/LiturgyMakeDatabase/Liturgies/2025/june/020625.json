@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "02/06/25",
+            "liturgy": "7ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 19,1-8",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "1 Enquanto Apolo estava em Corinto, Paulo atravessou as regiões montanhosas e chegou a Éfeso. Aí encontrou alguns discípulos e perguntou-lhes: 2 \"Vós recebestes o Espírito Santo  quando abraçastes a fé?\" Eles responderam: \"Nem sequer ouvimos dizer  que existe o Espírito Santo!\" 3 Então Paulo perguntou: \"Que batismo vós recebestes?\" Eles responderam: \"O batismo de João\". 4 Paulo disse-lhes: \"João administrava um batismo de conversão, dizendo ao povo que acreditasse naquele que viria depois dele, isto é, em Jesus\". 5 Tendo ouvido isso, eles foram batizados no nome do Senhor Jesus. 6 Paulo impôs-lhes as mãos e sobre eles desceu o Espírito Santo. Começaram então a falar em línguas e a profetizar. 7 Ao todo, eram uns doze homens. 8 Paulo foi então à sinagoga e, durante três meses, falava com toda convicção, discutindo e procurando convencer os ouvintes sobre o Reino de Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 67(68)",
+                            "chorus": "Reinos da terra, cantai ao Senhor.\n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "2 Eis que Deus se põe de pé, e os inimigos se dispersam! * Fogem longe de sua face os que odeiam o Senhor! 3 Como a fumaça se dissipa, assim também os dissipais, † como a cera se derrete, ao contato com o fogo, * assim pereçam os iníquos ante a face do Senhor!",
+                                "4 Mas os justos se alegram na presença do Senhor * rejubilam satisfeitos e exultam de alegria! 5a Cantai a Deus, a Deus louvai, cantai um salmo a seu nome! *   c o seu nome é Senhor: exultai diante dele!",
+                                "6 Dos órfãos ele é pai, e das viúvas protetor; * é assim o nosso Deus em sua santa habitação. 7a É o Senhor quem dá abrigo, dá um lar aos deserdados, *   b quem liberta os prisioneiros e os sacia com fartura."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Se com Cristo ressurgistes, procurai o que é do alto, onde Cristo está sentado à direita de Deus Pai."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 16,29-33",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, 29 os discípulos disseram a Jesus: \"Eis, agora falas claramente e não usas mais figuras. 30 Agora sabemos que conheces tudo e que não precisas que alguém te interrogue. Por isto cremos que vieste da parte de Deus\". 31 Jesus respondeu:  \"Credes agora? 32 Eis que vem a hora - e já chegou - em que vos dispersareis, cada um para seu lado, e me deixareis só. Mas eu não estou só o Pai está comigo. 33 Disse-vos estas coisas para que tenhais paz em mim. No mundo, tereis tribulações. Mas, tende coragem! Eu  venci o mundo!\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

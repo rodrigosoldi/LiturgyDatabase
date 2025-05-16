@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "04/06/25",
+            "liturgy": "7ª Semana da Páscoa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 20,28-38",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias, Paulo disse aos anciãos da Igreja de Éfeso: 28 \"Cuidai de vós mesmos e de todo o rebanho, sobre o qual o Espírito Santo vos colocou como guardas, para pastorear a Igreja de Deus, que ele adquiriu com o sangue do seu próprio Filho. 29 Eu sei, depois que eu for embora, aparecerão entre vós lobos ferozes, que não pouparão o rebanho. 30 Além disso, do vosso próprio meio aparecerão homens com doutrinas perversas que arrastarão discípulos atrás de si. 31 Por isso, estai sempre atentos: lembrai-vos que durante três anos, dia e noite, com lágrimas, não parei de exortar a cada um em particular. 32 Agora entrego-vos a Deus e à mensagem de sua graça, que tem poder para edificar e dar a herança a todos os que foram santificados. 33 Não cobicei prata, ouro ou vestes de ninguém. 34 Vós bem sabeis que estas minhas mãos providenciaram o que era necessário para mim e para os que estavam comigo. 35 Em tudo vos mostrei que, trabalhando deste modo, se deve ajudar os fracos, recordando as palavras do Senhor Jesus, que disse: 'Há mais alegria em dar do que em receber'\". 36 Tendo dito isto, Paulo ajoelhou-se e rezou com todos eles. 37 Todos, depois, prorromperam em grande pranto, e, lançando-se ao pescoço de Paulo, o beijavam, 38 aflitos, sobretudo por lhes haver ele dito que não tornariam a ver-lhe o rosto. E o acompanharam até o navio."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 67(68)",
+                            "chorus": "Reinos da terra cantai ao Senhor. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "29 Suscitai, ó Senhor Deus, suscitai vosso poder, * confirmai este poder que por nós manifestastes, 30 a partir de vosso templo, que está em Jerusalém, * para vós venham os reis e vos ofertem seus presentes!",
+                                "33 Reinos da terra, celebrai o nosso Deus, cantai-lhe salmos! † 34 Ele viaja no seu carro sobre os céus dos céus eternos. * Eis que eleva e faz ouvir a sua voz, voz poderosa.",
+                                "35 \"Dai glória a Deus e exaltai o seu poder por sobre as nuvens. * Sobre Israel, eis sua glória e sua grande majestade! 36 Em seu templo ele é admirável e a seu povo dá poder. * Bendito seja o Senhor Deus, agora e sempre. Amém, amém!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 17,11b-19",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, Jesus ergueu os olhos ao céu e rezou, dizendo: 11b \"Pai santo, guarda-os em teu nome, o nome que me deste, para que eles sejam um assim como nós somos um. 12 Quando eu estava com eles, guardava-os em teu nome, o nome que me deste. Eu guardei-os e nenhum deles se perdeu, a não ser o filho da perdição, para se cumprir a Escritura. 13 Agora, eu vou para junto de ti, e digo estas coisas, estando ainda no mundo, para que eles tenham em si a minha alegria plenamente realizada. 14 Eu lhes dei a tua palavra, mas o mundo os rejeitou, porque não são do mundo, como eu não sou do mundo. 15 Não te peço que os tires do mundo, mas que os guardes do Maligno. 16 Eles não são do mundo, como eu não sou do mundo. 17 Consagra-os na verdade; a tua palavra é verdade. 18 Como tu me enviaste ao mundo, assim também eu os enviei ao mundo. 19 Eu me consagro por eles, a fim de que eles também sejam consagrados na verdade\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

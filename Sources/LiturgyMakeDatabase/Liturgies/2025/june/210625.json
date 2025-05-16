@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/06/25",
+            "liturgy": "São Luís Gonzaga, religioso, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 12, 1-10",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 1 será que é preciso gloriar-me? Na verdade, não convém. No entanto, passarei a falar das visões e revelações do Senhor. 2 Conheço um homem, unido a Cristo, que, há quatorze anos, foi arrebatado até ao terceiro céu. Se ele foi arrebatado com o corpo ou sem o corpo, eu não o sei, só Deus sabe. 3 Sei que esse homem - se com o corpo ou sem o corpo, não sei, Deus o sabe - 4 foi arrebatado ao paraíso e lá ouviu palavras inefáveis que nenhum homem consegue pronunciar. 5 Quanto a esse homem eu me gloriarei, mas, quanto a mim mesmo, eu não me gloriarei, a não ser das minhas fraquezas. 6 No entanto, se eu quisesse gloriar-me, não seria insensato, pois só diria a verdade. Mas evito gloriar-me, para que ninguém faça de mim um ideia superior àquilo que vê em mim ou que ouve de mim. 7 E para que a extraordinária grandeza das revelações não me ensoberbecesse, foi espetado na minha carne um espinho, que é como um anjo de Satanás a esbofetear-me, a fim de que eu não me exalte demais. 8 A esse propósito, roguei três vezes ao Senhor que o afastasse de mim. 9 Mas ele disse-me: \"Basta-te a minha graça. Pois é na fraqueza que a força se manifesta\". Por isso, de bom grado, eu me gloriarei das minhas fraquezas, para que a força de Cristo habite em mim. 10 Eis porque eu me comprazo nas fraquezas, nas injúrias, nas necessidades, nas perseguições e nas angústias sofridas por amor a Cristo. Pois, quando eu me sinto fraco, é então que sou forte."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 33(34)",
+                            "chorus": "Provai e vede quão suave é o Senhor!",
+                            "verses": [
+                                "8 O anjo do Senhor vem acampar * ao redor dos que o temem, e os salva. 9 Provai e vede quão suave é o Senhor! * Feliz o homem que tem nele o seu refúgio!",
+                                "10 Respeitai o Senhor Deus, seus santos todos, * porque nada faltará aos que o temem. 11 Os ricos empobrecem, passam fome, * mas aos que buscam o Senhor não falta nada.",
+                                "12 Meus filhos, vinde agora e escutai-me: * vou ensinar-vos o temor do Senhor Deus. 13 Qual o homem que não ama sua vida, * procurando ser feliz todos os dias?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Jesus Cristo, Senhor nosso, embora sendo rico, para nós se tornou pobre, a fim de enriquecer-nos, mediante sua pobreza."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 6,24-34",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus a seus discípulos: 24 \"Ninguém pode servir a dois senhores: pois, ou odiará um e amará o outro, ou será fiel a um e desprezará o outro. Vós não podeis servir a Deus e ao dinheiro. 25 Por isso eu vos digo: não vos preocupeis com a vossa vida, com o que havereis de comer ou beber; nem com o vosso corpo, com o que havereis de vestir. Afinal, a vida não vale mais do que o alimento, e o corpo, mais do que a roupa? 26 Olhai os pássaros dos céus: eles não semeiam, não colhem, nem ajuntam em armazéns. No entanto, vosso Pai que está nos céus os alimenta. Vós não valeis mais do que os pássaros? 27 Quem de vós pode prolongar a duração da própria vida, só pelo fato de se preocupar com isso? 28 E por que ficais preocupados com a roupa? Olhai como crescem os lírios do campo: eles não trabalham nem fiam. 29 Porém, eu vos digo: nem o rei Salomão, em toda a sua glória, jamais se vestiu como um deles. 30 Ora, se Deus veste assim a erva do campo, que hoje existe e amanhã é queimada no forno, não fará ele muito mais por vós, gente de pouca fé? 31 Portanto, não vos preocupeis, dizendo: 'O que vamos comer? O que vamos beber? Como vamos nos vestir?' 32 Os pagãos é que procuram essas coisas. Vosso Pai, que está nos céus, sabe que precisais de tudo isso. 33 Pelo contrário, buscai em primeiro lugar o Reino de Deus e a sua justiça, e todas estas coisas vos serão dadas por acréscimo. 34 Portanto, não vos preocupeis com o dia de amanhã, pois o dia de amanhã terá suas preocupações! Para cada dia, bastam seus próprios problemas\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

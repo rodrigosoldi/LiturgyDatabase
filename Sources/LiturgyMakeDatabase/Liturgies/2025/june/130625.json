@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/06/25",
+            "liturgy": "Santo Antônio de Pádua, presbítero e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 4,7-15",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 7 trazemos esse tesouro em vasos de barro, para que todos reconheçam que este poder extraordinário vem de Deus e não de nós. 8 Somos afligidos de todos os lados, mas não vencidos pela angústia; postos entre os maiores apuros, mas sem perder a esperança; 9 perseguidos, mas não desamparados; derrubados, mas não aniquilados; 10 por toda parte e sempre levamos em nós mesmos os sofrimentos mortais de Jesus, para que também a vida de Jesus seja manifestada em nossos corpos. 11 De fato, nós, os vivos, somos continuamente entregues à morte, por causa de Jesus, para que também a vida de Jesus seja manifestada em nossa natureza mortal. 12 Assim, a morte age em nós, enquanto a vida age em vós. 13 Mas, sustentados pelo mesmo espírito de fé, conforme o que está escrito: \"Eu creio e, por isso, falei\", nós também cremos e, por isso, falamos, 14 certos de que aquele que ressuscitou o Senhor Jesus nos ressuscitará também com Jesus e nos colocará ao seu lado, juntamente convosco. 15 E tudo isso é por causa de vós, para que a abundância da graça em um número maior de pessoas faça crescer a ação de graças para a glória de Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 115(116B)",
+                            "chorus": "Oferto ao Senhor um sacrifício de louvor. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "10 Guardei a minha fé, mesmo dizendo: * \"É demais o sofrimento em minha vida!\" 11 Confiei, quando dizia na aflição: * \"Todo homem é mentiroso! Todo homem!\"",
+                                "15 É sentida por demais pelo Senhor * a morte de seus santos, seus amigos. 16 Eis que sou o vosso servo, ó Senhor, † vosso servo que nasceu de vossa serva; * mas me quebrastes os grilhões da escravidão!",
+                                "17 Por isso oferto um sacrifício de louvor, * invocando o nome santo do Senhor. 18 Vou cumprir minhas promessas ao Senhor * na presença de seu povo reunido."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Como astros no mundo brilheis, pregando a Palavra da vida!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,27-32",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 27 \"Ouvistes o que foi dito: 'Não cometerás adultério'. 28 Eu, porém, vos digo: Todo aquele que olhar para uma mulher, com o desejo de possuí-la, já cometeu adultério com ela no seu coração. 29 Se o teu olho direito é para ti ocasião de pecado, arranca-o e joga-o para longe de ti! De fato, é melhor perder um de teus membros, do que todo o teu corpo ser jogado no inferno. 30 Se a tua mão direita é para ti ocasião de pecado, corta-a e joga-a para longe de ti! De fato, é melhor perder um dos teus membros, do que todo o teu corpo ir para o inferno. 31 Foi dito também: 'Quem se divorciar de sua mulher, dê-lhe uma certidão de divórcio'. 32 Eu, porém, vos digo: Todo aquele que se divorcia de sua mulher, a não ser por motivo de união irregular, faz com que ela se torne adúltera; e quem se casa com a mulher divorciada comete adultério\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

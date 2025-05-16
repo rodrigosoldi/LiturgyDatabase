@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "05/06/25",
+            "liturgy": "São Bonifácio, bispo e mártir, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "At 22,30;23,6-11",
+                            "title": "Leitura dos Atos dos Apóstolos",
+                            "text": "Naqueles dias: 30 querendo saber com certeza por que Paulo estava sendo acusado pelos judeus, o tribuno soltou-o e mandou reunir os chefes dos sacerdotes e todo o conselho dos anciãos. Depois fez trazer Paulo e colocou-o diante deles. 23,6 Sabendo que uma parte dos presentes eram saduceus e a outra parte eram fariseus, Paulo exclamou no conselho dos anciãos: \"Irmãos, eu sou fariseu e filho de fariseus. Estou sendo julgado por causa da nossa esperança na ressurreição dos mortos\". 7 Apenas falou isso, armou-se um conflito entre fariseus e saduceus e a assembleia se dividiu. 8 Com efeito, os saduceus dizem que não há ressurreição, nem anjo, nem espírito, enquanto os fariseus sustentam uma coisa e outra. 9 Houve, então, uma enorme gritaria. Alguns doutores da Lei, do partido dos fariseus, levantaram-se e começaram a protestar, dizendo: \"Não encontramos nenhum mal neste homem. E se um espírito ou anjo tivesse falado com ele?\" 10 E o conflito crescia cada vez mais. Receando que Paulo fosse despedaçado por eles, o comandante ordenou que os soldados descessem e o tirassem do meio deles, levando-o de novo para o quartel. 11 Na noite seguinte, o Senhor aproximou-se de Paulo e lhe disse: \"Tem confiança. Assim como tu deste testemunho de mim em Jerusalém, é preciso que tu sejas também minha testemunha em Roma\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 15(16)",
+                            "chorus": "Guardai-me, ó Deus, porque em vós me refugio! \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Guardai-me, ó Deus, porque em vós me refugio! * 2a Digo ao Senhor: \"Somente vós sois meu Senhor\". 5 Ó Senhor, sois minha herança e minha taça, * meu destino está seguro em vossas mãos!",
+                                "7 Eu bendigo o Senhor, que me aconselha, * e até de noite me adverte o coração. 8 Tenho sempre o Senhor ante meus olhos, * pois se o tenho a meu lado não vacilo.",
+                                "9 Eis por que meu coração está em festa, † minha alma rejubila de alegria, * e até meu corpo no repouso está tranquilo; 10 pois não haveis de me deixar entregue à morte, * nem vosso amigo conhecer a corrupção.",
+                                "11 Vós me ensinais vosso caminho para a vida; † junto a vós, felicidade sem limites, * delícia eterna e alegria ao vosso lado!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Para que todos sejam um, diz o Senhor, como tu estás em mim e eu em ti, para que o mundo possa crer que me enviaste."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Jo 17,20-26",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                                "text": "Naquele tempo, Jesus ergueu os olhos ao céu e rezou, dizendo: 20 “Pai santo, eu não te rogo somente por eles, mas também por aqueles que vão crer em mim pela sua palavra; 21 para que todos sejam um como tu, Pai, estás em mim e eu em ti, e para que eles estejam em nós, a fim de que o mundo creia que tu me enviaste. 22 Eu dei-lhes a glória que tu me deste, para que eles sejam um, como nós somos um: 23 eu neles e tu em mim, para que assim eles cheguem à unidade perfeita e o mundo reconheça que tu me enviaste e os amaste, como me amaste a mim. 24 Pai, aqueles que me deste, quero que estejam comigo onde eu estiver, para que eles contemplem a minha glória, glória que tu me deste porque me amaste antes da fundação do universo. 25 Pai justo, o mundo não te conheceu, mas eu te conheci, e estes também conheceram que tu me enviaste. 26 Eu lhes fiz conhecer o teu nome, e o tornarei conhecido ainda mais, para que o amor com que me amaste esteja neles, e eu mesmo esteja neles”."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

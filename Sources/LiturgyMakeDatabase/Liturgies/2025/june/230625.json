@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "23/06/25",
+            "liturgy": "",
+            "liturgicalColor": "",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 12,1-9",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 1 o Senhor disse a Abrão: \"Sai da tua terra, da tua família e da casa do teu pai, e vai para a terra que eu te vou mostrar. 2 Farei de ti um grande povo e te abençoarei: engrandecerei o teu nome, de modo que ele se torne uma bênção. 3 Abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; em ti serão abençoadas todas as famílias da terra!\". 4 E Abrão partiu, como o Senhor lhe havia dito, e Ló foi com ele. Tinha Abrão setenta e cinco anos, quando partiu de Harã. 5 Ele levou consigo sua mulher Sarai, seu sobrinho Ló e todos os bens que possuíam, bem como todos os escravos que haviam adquirido em Harã. Partiram rumo à terra de Canaã e ali chegaram. 6 Abrão atravessou o país até o santuário de Siquém, até o carvalho de Moré. Os cananeus estavam então naquela terra. 7 O Senhor apareceu a Abrão e lhe disse: \"Darei esta terra à tua descendência\". Abrão ergueu ali um altar ao Senhor, que lhe tinha aparecido. 8 De lá, deslocou-se em direção ao monte que estava a oriente de Betel, onde armou sua tenda, com Betel a ocidente e Hai a oriente. Ali construiu também um altar ao Senhor, e invocou o seu nome. 9 Depois, de acampamento em acampamento, Abrão foi até o Negueb."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 32(33)",
+                            "chorus": "Feliz o povo que o Senhor escolheu por sua herança!",
+                            "verses": [
+                                "12 Feliz o povo cujo Deus é o Senhor, * e a nação que escolheu por sua herança! 13 Dos altos céus o Senhor olha e observa; * ele se inclina para olhar todos os homens.",
+                                "18 Mas o Senhor pousa o olhar sobre os que o temem, * e que confiam esperando em seu amor, 19 para da morte libertar as suas vidas * e alimentá-los quando é tempo de penúria.",
+                                "20 No Senhor nós esperamos confiantes, * porque ele é nosso auxílio e proteção! 22 Sobre nós venha, Senhor, a vossa graça, * da mesma forma que em vós nós esperamos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 7,1-5",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 1 \"Não julgueis, e não sereis julgados. 2 Pois, vós sereis julgados com o mesmo julgamento com que julgardes; e sereis medidos, com a mesma medida com que medirdes. 3 Por que observas o cisco no olho do teu irmão, e não prestas atenção à trave que está no teu próprio olho? 4 Ou, como podes dizer ao teu irmão: 'deixa-me tirar o cisco do teu olho', quando tu mesmo tens uma trave no teu? 5 Hipócrita, tira primeiro a trave do teu próprio olho, e então enxergarás bem para tirar o cisco do olho do teu irmão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

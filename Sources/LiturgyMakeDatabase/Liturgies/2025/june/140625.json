@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "14/06/25",
+            "liturgy": "10ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "2Co 5,14-21",
+                            "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+                            "text": "Irmãos, 14 o amor de Cristo nos pressiona, pois julgamos que um só morreu por todos, e que, logo, todos morreram. 15 De fato, Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou. 16 Assim, doravante, não conhecemos ninguém conforme a natureza humana. E, se uma vez conhecemos Cristo segundo a carne, agora já não o conhecemos assim. 17 Portanto, se alguém está em Cristo, é uma criatura nova. O mundo velho desapareceu. Tudo agora é novo. 18 E tudo vem de Deus, que, por Cristo, nos reconciliou consigo e nos confiou o ministério da reconciliação. 19 Com efeito, em Cristo, Deus reconciliou o mundo consigo, não imputando aos homens as suas faltas e colocando em nós a palavra da reconciliação. 20 Somos, pois, embaixadores de Cristo, e é Deus mesmo que exorta através de nós. Em nome de Cristo, nós vos suplicamos: deixai-vos reconciliar com Deus. 21 Aquele que não cometeu nenhum pecado, Deus o fez pecado por nós, para que nele nós nos tornemos justiça de Deus."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 102(103)",
+                            "chorus": "O Senhor é indulgente, é favorável.",
+                            "verses": [
+                                "1 Bendize, ó minha alma, ao Senhor, * e todo o meu ser, seu santo nome! 2 Bendize, ó minha alma, ao Senhor, * não te esqueças de nenhum de seus favores!",
+                                "3 Pois ele te perdoa toda culpa, * e cura toda a tua enfermidade; 4 da sepultura ele salva a tua vida * e te cerca de carinho e compaixão.",
+                                "8 O Senhor é indulgente, é favorável, * é paciente, é bondoso e compassivo. 9 Não fica sempre repetindo as suas queixas, * nem guarda eternamente o seu rancor.",
+                                "11 Quanto os céus por sobre a terra se elevam, * tanto é grande o seu amor aos que o temem; 12 quanto dista o nascente do poente, * tanto afasta para longe nossos crimes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Inclinai meu coração às vossas advertências, e dai-me vossa lei como um presente vantajoso!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 5,33-37",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 33 \"Vós ouvistes o que foi dito aos antigos: 'Não jurarás falso', mas 'cumprirás os teus juramentos feitos ao Senhor'. 34 Eu, porém, vos digo: Não jureis de modo algum: nem pelo céu, porque é o trono de Deus; 35 nem pela terra, porque é o suporte onde apoia os seus pés; nem por Jerusalém, porque é a cidade do Grande Rei. 36 Não jures tampouco pela tua cabeça, porque tu não podes tornar branco ou preto um só fio de cabelo. 37 Seja o vosso 'sim': 'sim', e o vosso 'não': 'não'. Tudo o que for além disso vem do Maligno\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "25/06/25",
+            "liturgy": "12ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 15,1-12.17-18",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 1 o Senhor falou a Abrão, dizendo: \"Não temas, Abrão! Eu sou o teu protetor e tua recompensa será muito grande\". 2 Abrão respondeu: \"Senhor Deus, que me darás? Eu me vou desta vida sem filhos e o herdeiro de minha casa será Eliezer de Damasco\". 3 E acrescentou: \"Como não me deste descendência, um servo nascido em minha casa será meu herdeiro\". 4 Então o Senhor falou-lhe nestes termos: \"O teu herdeiro não será esse, mas um dos teus descendentes é que será o herdeiro\". 5 E, conduzindo-o para fora, disse-lhe: \"Olha para o céu e conta as estrelas, se fores capaz!\" E acrescentou: \"Assim será a tua descendência\". 6 Abrão teve fé no Senhor, que considerou isso como justiça. 7 E lhe disse: \"Eu sou o Senhor que te fez sair de Ur dos Caldeus, para te dar em possessão esta terra\". 8 Abrão lhe perguntou: \"Senhor Deus, como poderei saber que vou possuí-la?\" 9 E o Senhor lhe disse: \"Traze-me uma novilha de três anos, uma cabra de três anos, um carneiro de três anos, além de uma rola e de uma pombinha\". 10 Abrão trouxe tudo e dividiu os animais pelo meio, mas não as aves, colocando as respectivas partes uma frente à outra. 11 Aves de rapina se precipitaram sobre os cadáveres, mas Abrão as enxotou. 12 Quando o sol já se ia pondo, caiu um sono profundo sobre Abrão e ele foi tomado de grande e misterioso terror. 17 Quando o sol se pôs e escureceu, apareceu um braseiro fumegante e uma tocha de fogo, que passaram por entre os animais divididos. 18 Naquele dia o Senhor fez aliança com Abrão, dizendo: \"Aos teus descendentes darei esta terra, desde o rio do Egito até o grande rio, o Eufrates\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "O Senhor se lembra sempre da Aliança. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Dai graças ao Senhor, gritai seu nome, * anunciai entre as nações seus grandes feitos! 2 Cantai, entoai salmos para ele, * publicai todas as suas maravilhas!",
+                                "3 Gloriai-vos em seu nome que é santo, * exulte o coração que busca a Deus! 4 Procurai o Senhor Deus e seu poder, * buscai constantemente a sua face!",
+                                "6 Descendentes de Abraão, seu servidor, * e filhos de Jacó, seu escolhido, 7 ele mesmo, o Senhor, é nosso Deus, * vigoram suas leis em toda a terra.",
+                                "8 Ele sempre se recorda da Aliança, * promulgada a incontáveis gerações; 9 da Aliança que ele fez com Abraão, * e do seu santo juramento a Isaac."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ficai em mim e eu em vós ficarei, diz Jesus; quem em mim permanece, há de dar muito fruto."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 7,15-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 15 \"Cuidado com os falsos profetas: Eles vêm até vós vestidos com peles de ovelha, mas por dentro são lobos ferozes. 16 Vós os conhecereis pelos seus frutos. Por acaso se colhem uvas de espinheiros ou figos de urtigas? 17 Assim, toda árvore boa produz frutos bons, e toda árvore má, produz frutos maus. 18 Uma árvore boa não pode dar frutos maus, nem uma árvore má pode produzir frutos bons. 19 Toda árvore que não dá bons frutos é cortada e jogada no fogo. 20 Portanto, pelos seus frutos vós os conhecereis\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
