@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "17/07/25",
+            "liturgy": "Bem-aventurado Inácio de Azevedo, presbítero, e companheiros, mártires, Memória",
+            "liturgicalColor": "VERMELHO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 3,13-20",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, ouvindo a voz do Senhor do meio da sarça, 13 Moisés disse a Deus: \"Sim, eu irei aos filhos de Israel e lhes direi: 'O Deus de vossos pais enviou-me a vós'. Mas, se eles perguntarem: 'Qual é o seu nome?' o que lhes devo responder?\" 14 Deus disse a Moisés: \"Eu sou aquele que sou\". E acrescentou: \"Assim responderás aos filhos de Israel: 'Eu sou enviou-me a vós'\". 15 E Deus disse ainda a Moisés: \"Assim dirás aos filhos de Israel: 'O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós'. Este é o meu nome para sempre, e assim serei lembrado de geração em geração. 16 Vai, reúne os anciãos de Israel e dize-lhes: 'O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, apareceu-me, dizendo: Eu vos visitei e vi tudo o que vos sucede no Egito. 17 E decidi tirar-vos da opressão do Egito e conduzir-vos à terra dos cananeus, dos hititas, dos amorreus, dos fereseus, dos heveus e dos jebuseus, a uma terra onde corre leite e mel. 18 Eles te escutarão e tu, com os anciãos de Israel, irás ao rei do Egito e lhe direis: 'O Senhor, o Deus dos hebreus, veio ao nosso encontro. E, agora, temos que ir, a três dias de marcha no deserto, para oferecermos sacrifícios ao Senhor nosso Deus'. 19 Eu sei, no entanto, que o rei do Egito não vos deixará partir, se não for obrigado por mão forte. 20 Por isso, estenderei minha mão e castigarei o Egito com toda a sorte de prodígios que vou realizar no meio deles. Depois disso, o rei do Egito vos deixará partir\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "O Senhor se lembra sempre da Aliança.",
+                            "verses": [
+                                "1 Dai graças ao Senhor, gritai seu nome, * anunciai entre as nações seus grandes feitos! 5 Lembrai as maravilhas que ele fez, * seus prodígios e as palavras de seus lábios!",
+                                "8 Ele sempre se recorda da Aliança, * promulgada a incontáveis gerações; 9 da Aliança que ele fez com Abraão, * e do seu santo juramento a Isaac.",
+                                "24 Deus deu um grande crescimento a seu povo * e o fez mais forte que os próprios opressores. 25 Ele mudou seus corações para odiá-lo, * e trataram com má-fé seus servidores.",
+                                "26 Então mandou Moisés, seu mensageiro, * e igualmente Aarão, seu escolhido; 27 por meio deles realizou muitos prodígios * e, na terra do Egito, maravilhas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 11,28-30",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, tomou Jesus a palavra e disse: 28 \"Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. 29 Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e vós encontrareis descanso. 30 Pois o meu jugo é suave e o meu fardo é leve\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "16/07/25",
+            "liturgy": "Bem-aventurada Virgem Maria do Monte Carmelo, Festa",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Zc 2,14-17",
+                            "title": "Leitura da Profecia de Zacarias",
+                            "text": "14 \"Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. 15 Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. 16 O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. 17 Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Lc 1",
+                            "chorus": "O Poderoso fez por mim maravilhas, e Santo é o seu nome. \n\nOu: Bendita sejais, ó Virgem Maria; trouxestes no ventre a Palavra eterna!",
+                            "verses": [
+                                "46 A minh'alma engrandece ao Senhor, * 47 e se alegrou o meu espírito em Deus, meu Salvador,",
+                                "48 pois, ele viu a pequenez de sua serva, * eis que agora as gerações hão de chamar-me de bendita. 49 O Poderoso fez por mim maravilhas * e Santo é o seu nome!",
+                                "50 Seu amor, de geração em geração, * chega a todos que o respeitam. 51 Demonstrou o poder de seu braço, * dispersou os orgulhosos.",
+                                "52 Derrubou os poderosos de seus tronos * e os humildes exaltou. 53 De bens saciou os famintos * e despediu, sem nada, os ricos.", 
+                                "54 Acolheu Israel, seu servidor, * fiel ao seu amor, 55 como havia prometido aos nossos pais, * em favor de Abraão e de seus filhos, para sempre."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Feliz quem ouve e observa a palavra de Deus!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 12,46-50",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 46 enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. 47 Alguém disse a Jesus: \"Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo\". 48 Jesus perguntou àquele que tinha falado: \"Quem é minha mãe, e quem são meus irmãos?\" 49 E, estendendo a mão para os discípulos, Jesus disse: \"Eis minha mãe e meus irmãos. 50 Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

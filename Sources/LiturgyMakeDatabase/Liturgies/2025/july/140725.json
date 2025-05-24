@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "14/07/25",
+            "liturgy": "15ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 1,8-14.22",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 8 surgiu um novo rei no Egito, que não tinha conhecido José, 9 e disse ao seu povo: \"Olhai como o povo dos filhos de Israel é mais numeroso e mais forte do que nós. 10 Vamos agir com prudência em relação a ele, para impedir que continue crescendo e, em caso de guerra, se una aos nossos inimigos, combata contra nós e acabe por sair do país\". 11 Estabeleceram inspetores de obras, para que o oprimissem com trabalhos penosos; e foi assim que ele construiu para o Faraó as cidades-entrepostos Pitom e Ramsés. 12 Mas, quanto mais o oprimiam, tanto mais se multiplicava e crescia. 13 Obcecados pelo medo dos filhos de Israel, os egípcios impuseram-lhes uma dura escravidão. 14 E tornaram-lhes a vida amarga pelo pesado trabalho da preparação do barro e dos tijolos, com toda a espécie de trabalhos dos campos e outros serviços que os levavam a fazer à força. 22 O Faraó deu esta ordem a todo o seu povo: \"Lançai ao rio Nilo todos os meninos hebreus recém-nascidos, mas poupai a vida das meninas\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 123(124)",
+                            "chorus": "Nosso auxílio está no nome do Senhor.",
+                            "verses": [
+                                "1 Se o Senhor não estivesse ao nosso lado, * que o diga Israel neste momento; 2 se o Senhor não estivesse ao nosso lado, * quando os homens investiram contra nós, 3 com certeza nos teriam devorado * no furor de sua ira contra nós.",
+                                "4 Então as águas nos teriam submergido, * a correnteza nos teria arrastado, 5 e então, por sobre nós teriam passado * essas águas sempre mais impetuosas. 6 Bendito seja o Senhor, que não deixou * cairmos como presa de seus dentes!",
+                                "7 Nossa alma como um pássaro escapou * do laço que lhe armara o caçador; o laço arrebentou-se de repente, * e assim nós conseguimos libertar-nos. 8 O nosso auxílio está no nome do Senhor, * do Senhor que fez o céu e fez a terra!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 10,34-11,1",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 34 \"Não penseis que vim trazer paz à terra; não vim trazer a paz, mas sim a espada. 35 De fato, vim separar o filho de seu pai, a filha de sua mãe, a nora de sua sogra. 36 E os inimigos do homem serão os seus próprios familiares. 37 Quem ama seu pai ou sua mãe mais do que a mim, não é digno de mim. Quem ama seu filho ou sua filha mais do que a mim, não é digno de mim. 38 Quem não toma a sua cruz e não me segue, não é digno de mim. 39 Quem procura conservar a sua vida vai perdê-la. E quem perde a sua vida por causa de mim, vai encontrá-la. 40 Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou. 41 Quem recebe um profeta, por ser profeta, receberá a recompensa de profeta. E quem recebe um justo, por ser justo, receberá a recompensa de justo. 42 Quem der, ainda que seja apenas um copo de água fresca, a um desses pequeninos, por ser meu discípulo, em verdade vos digo: não perderá a sua recompensa\". 11,1 Quando Jesus acabou de dar essas instruções aos doze discípulos, partiu daí, a fim de ensinar e pregar nas cidades deles."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

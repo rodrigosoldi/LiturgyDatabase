@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "21/07/25",
+            "liturgy": "16ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 14,5-18",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 5 foi anunciado ao rei dos egípcios que o povo tinha fugido. Então, mudaram-se contra ele os sentimentos do Faraó e dos seus servos, os quais disseram: \"Que fazemos? Como deixamos Israel escapar, privando-nos assim dos seus serviços?\" 6 O Faraó mandou atrelar o seu carro e levou consigo o seu povo. 7 Tomou seiscentos carros escolhidos e todos os carros do Egito, com os respectivos escudeiros. 8 O Senhor endureceu o coração do Faraó, rei do Egito, que foi no encalço dos filhos de Israel, enquanto estes tinham saído de braço erguido. 9 Os egípcios perseguiram os filhos de Israel com todos os cavalos e carros do Faraó, seus cavaleiros e seu exército, e encontraram-nos acampados junto do mar, perto de Fiairot, defronte de Beel-Sefon. 10 Como o Faraó se aproximasse, levantando os olhos, os filhos de Israel viram os egípcios às suas costas. Aterrorizados, eles clamaram ao Senhor. 11 E disseram a Moisés: \"Foi por não haver sepulturas no Egito que tu nos trouxeste para morrermos no deserto? De que nos valeu ter sido tirados do Egito? 12 Não era isso que te dizíamos lá: 'Deixa-nos em paz servir os egípcios?' Porque era muito melhor servir aos egípcios do que morrer no deserto\". 13 Moisés disse ao povo: \"Não temais! Permanecei firmes, e vereis o que o Senhor fará hoje para vos salvar; os egípcios que hoje estais vendo, nunca mais os tornareis a ver. 14 O Senhor combaterá por vós, e vós, ficai tranquilos\". 15 O Senhor disse a Moisés: \"Por que clamas a mim por socorro? Dize aos filhos de Israel que se ponham em marcha. 16 Quanto a ti, ergue a vara, estende o braço sobre o mar e divide-o, para que os filhos de Israel caminhem em seco pelo meio do mar. 17 De minha parte, endurecerei o coração dos egípcios, para que sigam atrás deles, e eu serei glorificado às custas do Faraó, e de todo o seu exército, dos seus carros e cavaleiros. 18 E os egípcios saberão que eu sou o Senhor, quando eu for glorificado às custas do Faraó, dos seus carros e cavaleiros\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Ex 15",
+                            "chorus": "Ao Senhor quero cantar, pois fez brilhar a sua glória!",
+                            "verses": [
+                                "1 Ao Senhor quero cantar, pois fez brilhar a sua glória: * precipitou no mar Vermelho o cavalo e o cavaleiro! 2 O Senhor é minha força, é a razão do meu cantar, † pois foi ele neste dia para mim libertação! * Ele é meu Deus e o louvarei, Deus de meu pai e o honrarei.",
+                                "3 O Senhor é um Deus guerreiro, o seu nome é \"Onipotente\": † 4 os soldados e os carros do Faraó jogou no mar. * seus melhores capitães afogou no mar Vermelho,",
+                                "5 Afundaram como pedras e as ondas os cobriram. † 6 Ó Senhor, o vosso braço é duma força insuperável! Ó Senhor, o vosso braço esmigalhou os inimigos!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Oxalá ouvísseis hoje a sua voz: Não fecheis os corações como em Meriba!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 12,38-42",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 38 alguns mestres da Lei e fariseus disseram a Jesus: \"Mestre, queremos ver um sinal realizado por ti\". 39 Jesus respondeu-lhes: \"Uma geração má e adúltera busca um sinal, mas nenhum sinal lhe será dado, a não ser o sinal do profeta Jonas. 40 Com efeito, assim como Jonas esteve três dias e três noites no ventre da baleia, assim também o Filho do Homem estará três dias e três noites no seio da terra. 41 No dia do juízo, os habitantes de Nínive se levantarão contra essa geração e a condenarão, porque se converteram diante da pregação de Jonas. E aqui está quem é maior do que Jonas. 42 No dia do juízo, a rainha do Sul se levantará contra essa geração, e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão, e aqui está quem é maior do que Salomão\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

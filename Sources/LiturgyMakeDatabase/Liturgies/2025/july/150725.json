@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "15/07/25",
+            "liturgy": "São Boaventura, bispo e doutor da Igreja, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 2,1-15a",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 1 um homem da família de Levi casou-se com uma mulher da mesma tribo, 2 e ela concebeu e deu à luz um filho. Ao ver que era um belo menino, manteve-o escondido durante três meses. 3 Mas não podendo escondê-lo por mais tempo, tomou uma cesta de junco, calafetou-a com betume e piche, pôs dentro dela a criança e deixou-a entre os caniços na margem do rio Nilo. 4 A irmã do menino ficou a certa distância para ver o que ia acontecer. 5 A filha do Faraó desceu para se banhar no rio, enquanto suas companheiras passeavam pela margem. Vendo, então, a cesta no meio dos caniços, mandou uma das servas apanhá-la. 6 Abrindo a cesta, viu a criança: era um menino, que chorava. Ela compadeceu-se dele e disse: \"É um menino dos hebreus\". 7 A irmã do menino disse, então, à filha do Faraó: \"Queres que te vá chamar uma mulher hebreia, que possa amamentar o menino?\" 8 A filha do Faraó respondeu: \"Vai\". E a menina foi e chamou a mãe do menino. 9 A filha do Faraó disse à mulher: \"Leva este menino, amamenta-o para mim, e eu te pagarei o teu salário\". A mulher levou o menino e amamentou. 10 Quando já estava crescido, ela levou-o à filha do Faraó, que o adotou como filho e lhe deu o nome de Moisés, porque, disse ela, \"eu o tirei das águas\". 11 Um dia, quando já era adulto, Moisés saiu para visitar seus irmãos hebreus; viu sua aflição e como um egípcio maltratava um deles. 12 Olhou para os lados e, não vendo ninguém, matou o egípcio e escondeu-o na areia. 13 No dia seguinte, saiu de novo e viu dois hebreus brigando, e disse ao agressor: \"Por que bates no teu companheiro?\" 14 E este replicou: \"Quem te estabeleceu nosso chefe e nosso juiz? Acaso pretendes matar-me, como mataste o egípcio?\" Moisés ficou com medo e disse consigo: \"Com certeza, o fato se tornou conhecido\". 15a O Faraó foi informado do que aconteceu, e procurava matar Moisés. Mas este, fugindo da sua vista, parou na terra de Madiã."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 68(69)",
+                            "chorus": "Humildes, procurai o Senhor Deus, e o vosso coração reviverá.",
+                            "verses": [
+                                "3 Na lama do abismo eu me afundo * e não encontro um apoio para os pés. Nestas águas muito fundas vim cair, * e as ondas já começam a cobrir-me!",
+                                "14 Por isso elevo para vós minha oração, * neste tempo favorável, Senhor Deus! Respondei-me pelo vosso imenso amor, * pela vossa salvação que nunca falha!",
+                                "30 Pobre de mim, sou infeliz e sofredor! * Que vosso auxílio me levante, Senhor Deus! 31 Cantando eu louvarei o vosso nome * e agradecido exultarei de alegria!",
+                                "33 Humildes, vede isto e alegrai-vos: † o vosso coração reviverá, * se procurardes o Senhor continuamente! 34 Pois nosso Deus atende à prece dos seus pobres, * e não despreza o clamor de seus cativos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Oxalá ouvísseis hoje a sua voz. Não fecheis os corações como em Meriba!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 11,20-24",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 20 Jesus começou a censurar as cidades onde fora realizada a maior parte de seus milagres, porque não se tinham convertido. 21 \"Ai de ti, Corazim! Ai de ti, Betsaida! Porque, se os milagres que se realizaram no meio de vós, tivessem sido feitos em Tiro e Sidônia, há muito tempo elas teriam feito penitência, vestindo-se de cilício e cobrindo-se de cinza. 22 Pois bem! Eu vos digo: no dia do julgamento, Tiro e Sidônia serão tratadas com menos dureza do que vós. 23 E tu, Cafarnaum! Acaso serás erguida até o céu? Não! Serás jogada no inferno! Porque, se os milagres que foram realizados no meio de ti tivessem sido feitos em Sodoma, ela existiria até hoje! 24 Eu, porém, vos digo: no dia do juízo, Sodoma será tratada com menos dureza do que vós!\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

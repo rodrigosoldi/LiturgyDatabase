@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "30/07/25",
+            "liturgy": "17ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 34,29-35",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "29 Quando Moisés desceu da montanha do Sinai, trazendo nas mãos as duas tábuas da aliança, não sabia que a pele do seu rosto resplandecia por ter falado com o Senhor. 30 Aarão e os filhos de Israel, vendo o rosto de Moisés resplandecente, tiveram medo de se aproximar. 31 Então Moisés os chamou, e tanto Aarão como os chefes da comunidade foram para junto dele. E, depois que lhes falou, 32 todos os filhos de Israel também se aproximaram dele, e Moisés transmitiu-lhes todas as ordens que tinha recebido do Senhor no monte Sinai. 33 Quando Moisés acabou de lhes falar, cobriu o rosto com um véu. 34 Todas as vezes que Moisés se apresentava ao Senhor, para falar com ele, retirava o véu, até a hora de sair; depois saía e dizia aos filhos de Israel tudo o que lhe tinha sido ordenado. 35 E eles viam a pele do rosto de Moisés resplandecer; mas ele voltava a cobrir o rosto com o véu, até o momento em que entrava para falar com o Senhor."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 98(99)",
+                            "chorus": "Santo é o Senhor nosso Deus!",
+                            "verses": [
+                                "5 Exaltai o Senhor nosso Deus, † e prostrai-vos perante seus pés, * pois é santo o Senhor nosso Deus!",
+                                "6 Eis Moisés e Aarão entre os seus sacerdotes. † E também Samuel invocava seu nome, * e ele mesmo, o Senhor, os ouvia.",
+                                "7 Da coluna de nuvem falava com eles. † E guardavam a lei e os preceitos divinos, * que o Senhor nosso Deus tinha dado.",
+                                "9 Exaltai o Senhor nosso Deus, † e prostrai-vos perante seu monte, * pois é santo o Senhor nosso Deus!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Eu vos chamo meus amigos, pois vos dei a conhecer o que o Pai me revelou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 13,44-46",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus à multidão: 44 \"O Reino dos Céus é como um tesouro escondido no campo. Um homem o encontra e o mantém escondido. Cheio de alegria, ele vai, vende todos os seus bens e compra aquele campo. 45 O Reino dos Céus também é como um comprador que procura pérolas preciosas. 46 Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

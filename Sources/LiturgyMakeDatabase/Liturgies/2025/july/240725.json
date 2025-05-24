@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "24/07/25",
+            "liturgy": "16ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 19,1-2.9-11.16-20b",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "1 No dia em que se cumpriam três meses da saída do Egito, Israel chegou ao deserto do Sinai. 2 Partindo de Rafidim, chegaram ao deserto do Sinai, onde acamparam. Israel armou ali suas tendas, defronte da montanha. 9 E o Senhor falou a Moisés: \"Virei a ti numa nuvem escura, para que o povo ouça quando falar contigo, e creia sempre em ti\". 10 Tendo Moisés transmitido ao Senhor as palavras do povo, O Senhor lhe disse: \"Vai ao povo e santifica-os hoje e amanhã. Eles devem lavar as suas vestes, 11 e estar prontos para o terceiro dia, pois nesse dia o Senhor descerá diante de todo o povo sobre a montanha do Sinai\". 16 Quando chegou o terceiro dia, ao raiar da manhã, houve trovões e relâmpagos. Uma nuvem espessa cobriu a montanha, e um fortíssimo som de trombetas se fez ouvir. No acampamento o povo se pôs a tremer. 17 Moisés fez o povo sair do acampamento ao encontro de Deus, e eles pararam ao pé da montanha. 18 Todo o monte Sinai fumegava, pois o Senhor descera sobre ele em meio ao fogo. A fumaça subia como de uma fornalha, e todo o monte tremia violentamente. 19 O som da trombeta ia aumentando cada vez mais. Moisés falava e o Senhor lhe respondia através do trovão. 20b O Senhor desceu sobre o monte Sinai e chamou Moisés ao cume do monte. E Moisés subiu."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Dn 3",
+                            "chorus": "A vós louvor, honra e glória eternamente!",
+                            "verses": [
+                                "52 Sede bendito, Senhor Deus de nossos pais.* A vós louvor, honra e glória eternamente! Sede bendito, nome santo e glorioso. A vós louvor, honra e glória eternamente!",
+                                "53 No templo santo onde refulge a vossa glória. * A vós louvor, honra e glória eternamente! 54 E em vosso trono de poder vitorioso. A vós louvor, honra e glória eternamente!",
+                                "55 Sede bendito, que sondais as profundezas* A vós louvor, honra e glória eternamente! e superior aos querubins vos assentais. A vós louvor, honra e glória eternamente!",
+                                "56 Sede bendito no celeste firmamento. * A vós louvor, honra e glória eternamente! R. 57 Obras todas do Senhor, glorificai-o. * A ele louvor, honra e glória eternamente!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 13,10-17",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 10 os discípulos aproximaram-se e disseram a Jesus: \"Por que tu falas ao povo em parábolas?\" 11 Jesus respondeu: \"Porque a vós foi dado o conhecimento dos mistérios do Reino dos Céus, mas a eles não é dado. 12 Pois à pessoa que tem, será dado ainda mais, e terá em abundância; mas à pessoa que não tem, será tirado até o pouco que tem. 13 É por isso que eu lhes falo em parábolas: porque olhando, eles não veem, e ouvindo, eles não escutam, nem compreendem. 14 Deste modo se cumpre neles a profecia de Isaías: 'Havereis de ouvir, sem nada entender. Havereis de olhar, sem nada ver. 15 Porque o coração deste povo se tornou insensível. Eles ouviram com má vontade e fecharam seus olhos, para não ver com os olhos nem ouvir com os ouvidos, nem compreender com o coração, de modo que se convertam e eu os cure'. 16 Felizes sois vós, porque vossos olhos veem e vossos ouvidos ouvem. 17 Em verdade vos digo, muitos profetas e justos desejaram ver o que vedes, e não viram, desejaram ouvir o que ouvis, e não ouviram\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

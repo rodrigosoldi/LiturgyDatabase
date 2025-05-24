@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "12/07/25",
+            "liturgy": "14ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 49,29-32.50,15-26a",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, Jacó transmitiu as suas ordens a seus filhos, dizendo: 49,29 \"Eu vou juntar-me ao meu povo; sepultai-me com meus pais na gruta de Macpela, que está no campo de Efron, o hitita, 30 defronte de Mambré, no país de Canaã. É a gruta que Abraão comprou a Efron, o hitita, junto com o campo, como propriedade funerária. 31 Lá foram sepultados Abraão e Sara, sua mulher, ali se sepultaram também Isaac e sua mulher Rebeca; e foi lá que sepultei Lia\". 32 Quando Jacó acabou de dar suas instruções aos filhos, recolheu os pés sobre a cama e morreu; e foi reunido aos seus. 50,15 Ao verem que seu pai tinha morrido, os irmãos de José disseram entre si: \"Não aconteça que José se lembre da injúria que padeceu, e nos faça pagar todo o mal que lhe fizemos\". 16 E mandaram dizer-lhe: \"Teu pai, antes de morrer, ordenou-nos 17 que te disséssemos estas palavras: 'Peço-te que esqueças o crime de teus irmãos, e o pecado e a maldade que usaram contra ti'. Nós pedimos, pois, que perdoes o crime dos servos do Deus de teu pai\". Ouvindo isto, José pôs-se a chorar. 18 Vieram seus irmãos e prostraram-se diante dele, dizendo: \"Somos teus servos\". 19 Ele respondeu: \"Não tenhais medo. Sou eu, porventura, Deus? 20 Vós pensastes fazer mal contra mim. Deus, porém, converteu-o em bem, para dar vida a um povo numeroso, como vedes presentemente. 21 Não temais: eu vos sustentarei e a vossos filhos\". E assim os consolou, falando-lhes com doçura e mansidão. 22 E José ficou morando no Egito, com toda a família de seu pai, e viveu cento e dez anos. 23 José viu os filhos de Efraim até à terceira geração, e os filhos de Maquir, filho de Manassés, que José também recebeu sobre seus joelhos. 24 José disse aos seus irmãos: \"Eu vou morrer. Deus vos visitará e vos fará subir deste país para a terra que ele jurou dar a Abraão, Isaac e Jacó\". 25 Depois de tê-los feito jurar e de ter dito: \"Quando Deus vos visitar, levai daqui os meus ossos convosco\", 26a José morreu, completando cento e dez anos de vida."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "Humildes, procurai o Senhor Deus, e o vosso coração reviverá.",
+                            "verses": [
+                                "1 Dai graças ao Senhor, gritai seu nome, * anunciai entre as nações seus grandes feitos! 2 Cantai, entoai salmos para ele, * publicai todas as suas maravilhas!",
+                                "3 Gloriai-vos em seu nome que é santo, * exulte o coração que busca a Deus! 4 Procurai o Senhor Deus e seu poder, * buscai constantemente a sua face!",
+                                "6 Descendentes de Abraão, seu servidor, * e filhos de Jacó, seu escolhido, 7 ele mesmo, o Senhor, é nosso Deus, * vigoram suas leis em toda a terra."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Felizes sereis vós, se fordes ultrajados por causa de Jesus, pois repousa sobre vós o Espírito de Deus."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 10,24-33",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 24 \"O discípulo não está acima do mestre, nem o servo acima do seu senhor. 25 Para o discípulo, basta ser como o seu mestre, e para o servo, ser como o seu senhor. Se ao dono da casa eles chamaram de Belzebu, quanto mais aos seus familiares! 26 Não tenhais medo deles, pois nada há de encoberto que não seja revelado, e nada há de escondido que não seja conhecido. 27 O que vos digo na escuridão, dizei-o à luz do dia; o que escutais ao pé do ouvido, proclamai-o sobre os telhados! 28 Não tenhais medo daqueles que matam o corpo, mas não podem matar a alma! Pelo contrário, temei aquele que pode destruir a alma e o corpo no inferno! 29 Não se vendem dois pardais por algumas moedas? No entanto, nenhum deles cai no chão sem o consentimento do vosso Pai. 30 Quanto a vós, até os cabelos da cabeça estão todos contados. 31 Não tenhais medo! Vós valeis mais do que muitos pardais. 32 Portanto, todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus. 33 Aquele, porém, que me negar diante dos homens, também eu o negarei diante do meu Pai que está nos céus\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

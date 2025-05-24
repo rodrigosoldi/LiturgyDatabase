@@ -1,0 +1,75 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "20/07/25",
+            "liturgy": "16º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 18,1-10a",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 1 o Senhor apareceu a Abraão junto ao carvalho de Mambré, quando ele estava sentado à entrada da sua tenda, no maior calor do dia. 2 Levantando os olhos, Abraão viu três homens de pé, perto dele. Assim que os viu, correu ao seu encontro e prostrou-se por terra. 3 E disse: \"Meu Senhor, se ganhei tua amizade, peço-te que não prossigas viagem, sem parar junto a mim, teu servo. 4 Mandarei trazer um pouco de água para vos lavar os pés, e descansareis debaixo da árvore. 5 Farei servir um pouco de pão para refazerdes vossas forças, antes de continuar a viagem. Pois foi para isso mesmo que vos aproximastes do vosso servo\". Eles responderam: \"Faze como disseste\". 6 Abraão entrou logo na tenda, onde estava Sara e lhe disse: \"Toma depressa três medidas da mais fina farinha, amassa alguns pães e assa-os\". 7 Depois, Abraão correu até o rebanho, pegou um bezerro dos mais tenros e melhores, e deu-o a um criado, para que o preparasse sem demora. 8 A seguir, foi buscar coalhada, leite e o bezerro assado, e pôs tudo diante deles. Abraão, porém, permaneceu de pé, junto deles, debaixo da árvore, enquanto comiam. 9 E eles lhe perguntaram: \"Onde está Sara, tua mulher?\" \"Está na tenda\", respondeu ele. 10a E um deles disse: \"Voltarei, sem falta, no ano que vem, por este tempo, e Sara, tua mulher, já terá um filho\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 14(15)",
+                            "chorus": "Senhor, quem morará em vossa casa?",
+                            "verses": [
+                                "2 É aquele que caminha sem pecado * e pratica a justiça fielmente; 3a que pensa a verdade no seu íntimo * b e não solta em calúnias sua língua.",
+                                "c Que em nada prejudica o seu irmão,* d nem cobre de insultos seu vizinho; 4a que não dá valor algum ao homem ímpio, * b mas honra os que respeitam o Senhor.",
+                                "5 não empresta o seu dinheiro com usura, † nem se deixa subornar contra o inocente. * Jamais vacilará quem vive assim!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Cl 1,24-28",
+                            "title": "Leitura da Carta de São Paulo aos Colossenses",
+                            "text": "Irmãos: 24 Alegro-me de tudo o que já sofri por vós e procuro completar na minha própria carne o que falta das tribulações de Cristo, em solidariedade com o seu corpo, isto é, a Igreja. 25 A ela eu sirvo, exercendo o cargo que Deus me confiou de vos transmitir a palavra de Deus em sua plenitude: 26 o mistério escondido por séculos e gerações, mas agora revelado aos seus santos. 27 A estes Deus quis manifestar como é rico e glorioso entre as nações este mistério: a presença de Cristo em vós, a esperança da glória. 28 Nós o anunciamos, admoestando a todos e ensinando a todos, com toda sabedoria, para a todos tornar perfeitos em sua união com Cristo."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Felizes os que observam a palavra do Senhor, de reto coração, e que produzem muitos frutos, até o fim perseverantes!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 10,38-42",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Naquele tempo, 38 Jesus entrou num povoado, e certa mulher, de nome Marta, recebeu-o em sua casa. 39 Sua irmã, chamada Maria, sentou-se aos pés do Senhor, e escutava a sua palavra. 40 Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: \"Senhor, não te importas que minha irmã me deixe sozinha, com todo o serviço? Manda que ela me venha ajudar!\" 41 O Senhor, porém, lhe respondeu: \"Marta, Marta! Tu te preocupas e andas agitada por muitas coisas. 42 Porém, uma só coisa é necessária. Maria escolheu a melhor parte e esta não lhe será tirada\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "06/07/25",
+            "liturgy": "14º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Is 66,10-14",
+                            "title": "Leitura do Livro do Profeta Isaías",
+                            "text": "10 Alegrai-vos com Jerusalém e exultai com ela todos vós que a amais; tomai parte em seu júbilo, todos vós que choráveis por ela, 11 para poderdes sugar e saciar-vos ao seio de sua consolação, e aleitar-vos e deliciar-vos aos úberes de sua glória. 12 Isto diz o Senhor: \"Eis que farei correr para ela a paz como um rio e a glória das nações como torrente transbordante. Sereis amamentados, carregados ao colo e acariciados sobre os joelhos. 13 Como uma mãe que acaricia o filho, assim eu vos consolarei; e sereis consolados em Jerusalém. 14c Tudo isso haveis de ver e o vosso coração exultará, e o vosso vigor se renovará como a relva do campo. A mão do Senhor se manifestará em favor de seus servos\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 65(66)",
+                            "chorus": "Aclamai o Senhor Deus, ó terra inteira.",
+                            "verses": [
+                                "1 Aclamai o Senhor Deus, ó terra inteira, * 2 cantai salmos a seu nome glorioso, dai a Deus a mais sublime louvação! * 3a Dizei a Deus: \"Como são grandes vossas obras!",
+                                "4 Toda a terra vos adore com respeito * e proclame o louvor de vosso nome!\" 5 Vinde ver todas as obras do Senhor: * seus prodígios estupendos entre os homens!",
+                                "6 O mar ele mudou em terra firme, * e passaram pelo rio a pé enxuto. Exultemos de alegria no Senhor! * 7 Ele domina para sempre com poder!",
+                                "16 Todos vós que a Deus temeis, vinde escutar: * vou contar-vos todo bem que ele me fez! 20 Bendito seja o Senhor Deus que me escutou, † não rejeitou minha oração e meu clamor, * nem afastou longe de mim o seu amor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gl 6,14-18",
+                            "title": "Leitura da Carta de São Paulo aos Gálatas",
+                            "text": "18 Irmãos: 14 Quanto a mim, que eu me glorie somente da cruz do Senhor nosso, Jesus Cristo. Por ele, o mundo está crucificado para mim, como eu estou crucificado para o mundo. 15 Pois nem a circuncisão, nem a incircuncisão têm valor; o que conta é a criação nova. 16 E para todos os que seguirem esta norma, como para o Israel de Deus, paz e misericórdia. 17 Doravante, que ninguém me moleste, pois eu trago em meu corpo as marcas de Jesus. 18 Irmãos, a graça do Senhor nosso, Jesus Cristo, esteja convosco. Amém!"
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "A paz de Cristo reine em vossos corações; ricamente habite em vós sua palavra!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 10,1-12.17-20",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Naquele tempo, 1 o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. 2 E dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. 3 Eis que vos envio como cordeiros para o meio de lobos. 4 Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! 5 Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!' 6 Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. 7 Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. 8 Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, 9 curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'. 10 Mas, quando entrardes numa cidade e não fordes bem recebidos, saindo pelas ruas, dizei: 11 'Até a poeira de vossa cidade, que se apegou aos nossos pés, sacudimos contra vós'. No entanto, sabei que o Reino de Deus está próximo! 12 Eu vos digo que, naquele dia, Sodoma será tratada com menos rigor do que essa cidade\". 17 Os setenta e dois voltaram muito contentes, dizendo: \"Senhor, até os demônios nos obedeceram por causa do teu nome\". 18 Jesus respondeu: \"Eu vi Satanás cair do céu, como um relâmpago. 19 Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal. 20 Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

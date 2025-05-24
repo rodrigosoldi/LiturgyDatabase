@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "05/07/25",
+            "liturgy": "13ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 27,1-5.15-29",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "1 Quando Isaac ficou velho, seus olhos enfraqueceram e já não podia ver. Chamou, então, o filho mais velho Esaú, e lhe disse: \"Meu filho!\" Este respondeu: \"Aqui estou!\" 2 Disse-lhe o pai: \"Como vês, já estou velho e não sei qual será o dia da minha morte. 3 Toma as tuas armas, as flechas e o arco, e sai para o campo. Se apanhares alguma caça, prepara-me um assado saboroso, 4 como sabes que eu gosto, e traze-o para que o coma, e assim te dar a bênção antes de morrer\". 5 Rebeca escutava o que Isaac dizia a seu filho Esaú. Esaú saiu para o campo à procura de caça para o pai. 15 Rebeca tomou, então, as melhores roupas que o filho mais velho tinha em casa, e vestiu com elas o filho mais novo, Jacó. 16 Cobriu-lhe as mãos e a parte lisa do pescoço com peles de cabrito. 17 Pôs nas mãos do filho Jacó o assado e o pão que havia preparado. 18 Este levou-os ao pai, dizendo: \"Meu pai!\" \"Estou ouvindo\", respondeu Isaac. \"Quem és tu, meu filho?\" 19 E disse Jacó a seu pai: \"Eu sou Esaú, teu filho primogênito; fiz como me ordenaste. Levanta-te, senta-te e come da minha caça, para me abençoares\". 20 Isaac replicou-lhe: \"Como conseguiste achar assim depressa, meu filho?\" Ele respondeu: \"É o Senhor teu Deus que fez que isso acontecesse\". 21 Isaac disse a Jacó: \"Vem cá, meu filho, para que eu te apalpe e veja se és ou não meu filho Esaú\". 22 Jacó achegou-se a seu pai Isaac, que o apalpou e disse: \"A voz, é a voz de Jacó, mas as mãos são as mãos de Esaú\". 23 E não o reconheceu, pois suas mãos estavam peludas como as do seu filho Esaú. Então, decidiu abençoá-lo. 24 Perguntou-lhe ainda: \"Tu és, de fato, meu filho Esaú?\" Ele respondeu: \"Sou\". 25 Isaac continuou: \"Meu filho, serve-me da tua caça para eu comer e te abençoar\". Jacó serviu-o e ele comeu; trouxe-lhe depois vinho e ele bebeu. 26 Disse-lhe então seu pai Isaac: \"Aproxima-te, meu filho, e beija-me\". 27 Jacó aproximou-se e o beijou. Quando Isaac sentiu o cheiro das suas roupas, abençoou-o, dizendo: \"Este é o cheiro do meu filho: é como o aroma de um campo fértil que o Senhor abençoou! 28 Que Deus te conceda o orvalho do céu, e a fertilidade da terra, a abundância de trigo e de vinho. 29 Que os povos te sirvam e se prostrem as nações em tua presença. Sê o senhor de teus irmãos, e diante de ti se inclinem os filhos de tua mãe. Maldito seja quem te amaldiçoar, e quem te abençoar, seja bendito!\""
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 134(135)",
+                            "chorus": "Louvai o Senhor, porque é bom! \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Louvai o Senhor, bendizei-o; * louvai o Senhor, servos seus, 2 que celebrais o louvor em seu templo * e habitais junto aos átrios de Deus!",
+                                "3 Louvai o Senhor, porque é bom; * cantai ao seu nome suave! 4 Escolheu para si a Jacó, * preferiu Israel por herança.",
+                                "5 Eu bem sei que o Senhor é tão grande, * que é maior do que todos os deuses. 6 Ele faz tudo quanto lhe agrada, † nas alturas dos céus e na terra, * no oceano e nos fundos abismos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 9,14-17",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 14 os discípulos de João aproximaram-se de Jesus e perguntaram: \"Por que razão nós e os fariseus praticamos jejuns, mas os teus discípulos não?\" 15 Disse-lhes Jesus: \"Por acaso, os amigos do noivo podem estar de luto enquanto o noivo está com eles? Dias virão em que o noivo será tirado do meio deles. Então, sim, eles jejuarão. 16 Ninguém coloca remendo de pano novo em roupa velha, porque o remendo repuxa a roupa e o rasgão fica maior ainda. 17 Também não se coloca vinho novo em odres velhos, senão os odres se arrebentam, o vinho se derrama e os odres se perdem. Mas vinho novo se coloca em odres novos, e assim os dois se conservam\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

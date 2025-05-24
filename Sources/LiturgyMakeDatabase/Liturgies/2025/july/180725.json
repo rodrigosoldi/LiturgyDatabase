@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "18/07/25",
+            "liturgy": "15ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 11,10-12.14",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 11,10 Moisés e Aarão realizaram muitos prodígios diante do Faraó; mas o Senhor endureceu o coração do Faraó, e ele não deixou que os filhos de Israel saíssem da sua terra. 12,1 O Senhor disse a Moisés e a Aarão no Egito: 2 \"Este mês será para vós o começo dos meses; será o primeiro mês do ano. 3 Falai a toda a comunidade dos filhos de Israel, dizendo: No décimo dia deste mês, cada um tome um cordeiro por família, um cordeiro por casa. 4 Se a família não for bastante numerosa para comer um cordeiro, convidará também o vizinho mais próximo, de acordo com o número de pessoas. Deveis calcular o número de comensais, conforme o tamanho do cordeiro. 5 O cordeiro será sem defeito, macho, de um ano. Podereis escolher tanto um cordeiro, como um cabrito: 6 e devereis guardá-lo preso até ao dia catorze deste mês. Então toda a comunidade de Israel reunida o imolará ao cair da tarde. 7 Tomareis um pouco do seu sangue e untareis os marcos e a travessa da porta, nas casas em que o comerdes. 8 Comereis a carne nessa mesma noite, assada ao fogo, com pães ázimos e ervas amargas. 9 Não comereis dele nada cru, ou cozido em água, mas assado ao fogo, inteiro, com cabeça, pernas e vísceras. 10 Não deixareis nada para o dia seguinte: o que sobrar, devereis queimá-lo ao fogo. 11 Assim devereis comê-lo: com os rins cingidos, sandálias nos pés e cajado na mão. E comereis às pressas, pois é a Páscoa, isto é, a Passagem do Senhor! 12 E naquela noite passarei pela terra do Egito e ferirei na terra do Egito todos os primogênitos, desde os homens até os animais; e infligirei castigos contra todos os deuses do Egito, eu, o Senhor. 13 O sangue servirá de sinal nas casas onde estiverdes. Ao ver o sangue, passarei adiante, e não vos atingirá a praga exterminadora, quando eu ferir a terra do Egito. 14 Este dia será para vós uma festa memorável em honra do Senhor, que haveis de celebrar por todas as gerações\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 115(116B)",
+                            "chorus": "Elevo o cálice da minha salvação, invocando o nome santo do Senhor. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "12 Que poderei retribuir ao Senhor Deus* por tudo aquilo que ele fez em meu favor? 13 Elevo o cálice da minha salvação,* invocando o nome santo do Senhor.",
+                                "15 É sentida por demais pelo Senhor* a morte de seus santos, seus amigos. 16 Eis que sou o vosso servo, ó Senhor † vosso servo que nasceu de vossa serva; mas me quebrastes os grilhões da escravidão!",
+                                "17 Por isso oferto um sacrifício de louvor,* invocando o nome santo do Senhor. 18 Vou cumprir minhas promessas ao Senhor* na presença de seu povo reunido."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 12,1-8",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "1 Naquele tempo, Jesus passou no meio de uma plantação num dia de sábado. Seus discípulos tinham fome e começaram a apanhar espigas para comer. 2 Vendo isso, os fariseus disseram-lhe: \"Olha, os teus discípulos estão fazendo, o que não é permitido fazer em dia de sábado!\" 3 Jesus respondeu-lhes: \"Nunca lestes o que fez Davi, quando ele e seus companheiros sentiram fome? 4 Como entrou na casa de Deus e todos comeram os pães da oferenda que nem a ele nem aos seus companheiros era permitido comer, mas unicamente aos sacerdotes? 5 Ou nunca lestes na Lei, que em dia de sábado, no Templo, os sacerdotes violam o sábado sem contrair culpa alguma? 6 Ora, eu vos digo: aqui está quem é maior do que o Templo. 7 Se tivésseis compreendido o que significa: 'Quero a misericórdia e não o sacrifício', não teríeis condenado os inocentes. 8 De fato, o Filho do Homem é senhor do sábado\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

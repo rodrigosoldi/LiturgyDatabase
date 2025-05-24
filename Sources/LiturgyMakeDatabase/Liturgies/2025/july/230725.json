@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "23/07/25",
+            "liturgy": "16ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 16,1-5.9-15",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "1 Toda a comunidade dos filhos de Israel partiu de Elim e chegou ao deserto de Sin, entre Elim e o Sinai, no dia quinze do segundo mês da saída do Egito. 2 A comunidade dos filhos de Israel pôs-se a murmurar contra Moisés e Aarão, no deserto, dizendo: 3 \"Quem dera que tivéssemos morrido pela mão do Senhor no Egito, quando nos sentávamos juntos às panelas de carne e comíamos pão com fartura! Por que nos trouxestes a este deserto para matar de fome a toda esta gente?\" 4 O Senhor disse a Moisés: \"Eu farei chover para vós o pão do céu. O povo sairá diariamente e só recolherá a porção de cada dia a fim de que eu o ponha à prova, para ver se anda ou não na minha lei. 5 No sexto dia, quando prepararem o que tiverem trazido, terão o dobro do que recolhem diariamente\". 9 E Moisés disse a Aarão: \"Dize a toda a comunidade dos filhos de Israel: 'Apresentai-vos diante do Senhor, pois ele ouviu a vossa murmuração'\". 10 Enquanto Aarão falava a toda a comunidade dos filhos de Israel, voltando os olhos para o deserto, eles viram aparecer na nuvem a glória do Senhor. 11 O Senhor falou, então, a Moisés, dizendo: 12 \"Eu ouvi as murmurações dos filhos de Israel. Dize-lhes, pois: 'Ao anoitecer, comereis carne, e pela manhã vos fartareis de pão. Assim sabereis que eu sou o Senhor vosso Deus'\". 13 Com efeito, à tarde, veio um bando de codornizes e cobriu o acampamento; e, pela manhã, formou-se uma camada de orvalho ao redor do acampamento. 14 Quando se evaporou o orvalho que caíra, apareceu na superfície do deserto uma coisa miúda, em forma de grãos, fina como a geada sobre a terra. 15 Vendo aquilo, os filhos de Israel disseram entre si: \"Que é isto?\" Porque não sabiam o que era. Moisés respondeu-lhes: \"Isto é o pão que o Senhor vos deu como alimento\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 77(78)",
+                            "chorus": "O Senhor deu o pão do céu, como alimento.",
+                            "verses": [
+                                "18 E tentaram o Senhor nos corações, * exigindo alimento à sua gula. 19 Falavam contra Deus e assim diziam: * \"Pode o Senhor servir a mesa no deserto?\"",
+                                "23 Ordenou, então, às nuvens lá dos céus, * e as comportas das alturas fez abrir; 24 fez chover-lhes o maná e alimentou-os, * e lhes deu para comer o pão do céu.",
+                                "25 O homem se nutriu do pão dos anjos, * e mandou-lhes alimento em abundância; 26 fez soprar o vento leste pelos céus * e fez vir, por seu poder, o vento sul.",
+                                "27 Fez chover carne para eles como pó, * choveram aves como areia do oceano; 28 elas caíram sobre os seus acampamentos * e pousaram ao redor de suas tendas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "A semente é de Deus a palavra, o Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 13,1-9",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "1 Naquele dia, Jesus saiu de casa e foi sentar-se às margens do mar da Galileia. 2 Uma grande multidão reuniu-se em volta dele. Por isso Jesus entrou numa barca e sentou-se, enquanto a multidão ficava de pé, na praia. 3 E disse-lhes muitas coisas em parábolas: \"O semeador saiu para semear. 4 Enquanto semeava, algumas sementes caíram à beira do caminho, e os pássaros vieram e as comeram. 5 Outras sementes caíram em terreno pedregoso, onde não havia muita terra. As sementes logo brotaram, porque a terra não era profunda. 6 Mas, quando o sol apareceu, as plantas ficaram queimadas e secaram, porque não tinham raiz. 7 Outras sementes caíram no meio dos espinhos. Os espinhos cresceram e sufocaram as plantas. 8 Outras sementes, porém, caíram em terra boa, e produziram à base de cem, de sessenta e de trinta frutos por semente. 9 Quem tem ouvidos, ouça!\""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

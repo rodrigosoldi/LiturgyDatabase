@@ -1,0 +1,87 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "13/07/25",
+            "liturgy": "15º Domingo do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Dt 30,10-14",
+                            "title": "Leitura do Livro do Deuteronômio",
+                            "text": "Moisés falou ao povo, dizendo: 10 Ouve a voz do Senhor teu Deus, e observa todos os seus mandamentos e preceitos, que estão escritos nesta lei. Converte-te para o Senhor teu Deus com todo o teu coração e com toda a tua alma. 11 Na verdade, este mandamento que hoje te dou não é difícil demais, nem está fora do teu alcance. 12 Não está no céu, para que possas dizer: 'Quem subirá ao céu por nós para apanhá-lo? Quem no-lo ensinará para que o possamos cumprir?' 13 Nem está do outro lado do mar, para que possas alegar: 'Quem atravessará o mar por nós para apanhá-lo? Quem no-lo ensinará para que o possamos cumprir?' 14 Ao contrário, esta palavra está bem ao teu alcance, está em tua boca e em teu coração, para que a possas cumprir."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 68(69)",
+                            "chorus": "Humildes, buscai a Deus e alegrai-vos: o vosso coração reviverá!",
+                            "verses": [
+                                "14 Por isso elevo para vós minha oração, * neste tempo favorável, Senhor Deus! Respondei-me pelo vosso imenso amor, * pela vossa salvação que nunca falha! 17 Senhor, ouvi-me pois suave é vossa graça, * ponde os olhos sobre mim com grande amor!",
+                                "30 Pobre de mim, sou infeliz e sofredor! * Que vosso auxílio me levante, Senhor Deus! 31 Cantando eu louvarei o vosso nome * e agradecido exultarei de alegria!",
+                                "33 Humildes, vede isto e alegrai-vos: o vosso coração reviverá, * se procurardes o Senhor continuamente! 34 Pois nosso Deus atende à prece dos seus pobres, * e não despreza o clamor de seus cativos.",
+                                "36a Sim, Deus virá e salvará Jerusalém, * b reconstruindo as cidades de Judá. 37 A descendência de seus servos há de herdá-las, † e os que amam o santo nome do Senhor * dentro delas fixarão sua morada!"
+                            ]
+                        },
+                        {
+                            "obs": "",
+                            "reference": "Sl 18B(19)",
+                            "chorus": "Os preceitos do Senhor são precisos, alegria ao coração.",
+                            "verses": [
+                                "8 A lei do Senhor Deus é perfeita, * conforto para a alma! O testemunho do Senhor é fiel, * sabedoria dos humildes.",
+                                "9 Os preceitos do Senhor são precisos, * alegria ao coração. O mandamento do Senhor é brilhante, * para os olhos é uma luz.",
+                                "10 É puro o temor do Senhor, * imutável para sempre. Os julgamentos do Senhor são corretos * e justos igualmente.",
+                                "11 Mais desejáveis do que o ouro são eles, * do que o ouro refinado. Suas palavras são mais doces que o mel, * que o mel que sai dos favos."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "reading",
+                    "title": "2ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Cl 1,15-20",
+                            "title": "Leitura da Carta de São Paulo aos Colossenses",
+                            "text": "15 Cristo é a imagem do Deus invisível, o primogênito de toda a criação, 16 pois por causa dele, foram criadas todas as coisas no céu e na terra, as visíveis e as invisíveis, tronos e dominações, soberanias e poderes. Tudo foi criado por meio dele e para ele. 17 Ele existe antes de todas as coisas e todas têm nele a sua consistência. 18 Ele é a Cabeça do corpo, isto é, da Igreja. Ele é o Princípio, o Primogênito dentre os mortos; de sorte que em tudo ele tem a primazia, 19 porque Deus quis habitar nele com toda a sua plenitude 20 e por ele reconciliar consigo todos os seres, os que estão na terra e no céu, realizando a paz pelo sangue da sua cruz."
+                        }
+                    ]                
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Ó Senhor, vossas palavras são espírito e vida; as palavras que dizeis bem que são de eterna vida!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Lc 10,25-37",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                                "text": "Naquele tempo, 25 Um mestre da Lei se levantou e, querendo pôr Jesus em dificuldade, perguntou: \"Mestre, que devo fazer para receber em herança a vida eterna?\" 26 Jesus lhe disse: \"O que está escrito na Lei? Como lês?\" 27 Ele então respondeu: \"Amarás o Senhor, teu Deus, de todo o teu coração e com toda a tua alma, com toda a tua força e com toda a tua inteligência; e ao teu próximo como a ti mesmo!\" 28 Jesus lhe disse: \"Tu respondeste corretamente. Faze isso e viverás\". 29 Ele, porém, querendo justificar-se, disse a Jesus: \"E quem é o meu próximo?\" 30 Jesus respondeu: \"Certo homem descia de Jerusalém para Jericó e caiu nas mãos de assaltantes. Estes arrancaram-lhe tudo, espancaram-no, e foram-se embora deixando-o quase morto. 31 Por acaso, um sacerdote estava descendo por aquele caminho. Quando viu o homem, seguiu adiante, pelo outro lado. 32 O mesmo aconteceu com um levita: chegou ao lugar, viu o homem e seguiu adiante, pelo outro lado. 33 Mas um samaritano que estava viajando, chegou perto dele, viu e sentiu compaixão. 34 Aproximou-se dele e fez curativos, derramando óleo e vinho nas feridas. Depois colocou o homem em seu próprio animal e levou-o a uma pensão, onde cuidou dele. 35 No dia seguinte, pegou duas moedas de prata e entregou-as ao dono da pensão, recomendando: \"Toma conta dele! Quando eu voltar, vou pagar o que tiveres gasto a mais\". E Jesus perguntou: 36 \"Na tua opinião, qual dos três foi o próximo do homem que caiu nas mãos dos assaltantes?\" 37 Ele respondeu: \"Aquele que usou de misericórdia para com ele\". Então Jesus lhe disse: \"Vai e faze a mesma coisa\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

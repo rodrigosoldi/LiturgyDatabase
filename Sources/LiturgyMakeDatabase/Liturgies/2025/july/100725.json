@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "10/07/25",
+            "liturgy": "14ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 44,18-21.23b-29;45,1-5",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "Naqueles dias, 44,18 Judá aproximou-se de José e, cheio de ânimo, disse: \"Perdão, meu senhor, permite ao teu servo falar com toda a franqueza, sem que se acenda a tua cólera contra mim. Afinal, tu és como um faraó! 19 Foi meu senhor quem perguntou a seus servos: 'Ainda tendes pai ou algum outro irmão?' 20 E nós respondemos ao meu senhor: 'Temos um pai já velho e um menino nascido em sua velhice, cujo irmão morreu; é o único filho de sua mãe que resta, e seu pai o ama com muita ternura'. 21 E tu disseste a teus servos: 'Trazei-o a mim, para que eu possa vê-lo. 23b Se não vier convosco o vosso irmão mais novo, não vereis mais a minha face'. 24 Quando, pois, voltamos para junto de teu servo, nosso pai, contamos tudo o que o meu senhor tinha dito. 25 Mais tarde disse-nos nosso pai: 'Voltai e comprai para nós algum trigo'. 26 E nós lhe respondemos: 'Não podemos ir, a não ser que o nosso irmão mais novo vá conosco. De outra maneira, sem ele, não nos podemos apresentar àquele homem'. 27 E o teu servo, nosso pai, respondeu: 'Bem sabeis que minha mulher me deu apenas dois filhos. 28 Um deles saiu de casa e eu disse: Um animal feroz o devorou! E até agora não apareceu. 29 Se me levardes também este, e lhe acontecer alguma desgraça no caminho, fareis descer de desgosto meus cabelos brancos à morada dos mortos'\". 45,1 Então José não pôde mais conter-se diante de todos os que o rodeavam, e gritou: \"Mandai sair toda a gente!\" E, assim, não ficou mais ninguém com ele, quando se deu a conhecer aos irmãos. 2 José rompeu num choro tão forte, que os egípcios ouviram e toda a casa do Faraó. 3 E José disse a seus irmãos: \"Eu sou José! Meu pai ainda vive?\" Mas os irmãos não podiam responder-lhe nada, pois foram tomados de um enorme terror. 4 Ele, porém, cheio de clemência, lhes disse: \"Aproximai-vos de mim\". Tendo-se eles aproximado, disse: \"Eu sou José, vosso irmão, a quem vendestes para o Egito. 5 Entretanto, não vos aflijais, nem vos atormenteis, por me terdes vendido a este país. Porque foi para a vossa salvação que Deus me mandou adiante de vós, para o Egito\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 104(105)",
+                            "chorus": "Lembrai as maravilhas do Senhor! \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "16 Mandou vir, então, a fome sobre a terra * e os privou de todo pão que os sustentava; 17 um homem enviara à sua frente, * José que foi vendido como escravo.",
+                                "18 Apertaram os seus pés entre grilhões * e amarraram seu pescoço com correntes, 19 até que se cumprisse o que previra, * e a palavra do Senhor lhe deu razão.",
+                                "20 Ordenou, então, o rei que o libertassem, * o soberano das nações mandou soltá-lo; 21 fez dele o senhor de sua casa, * e de todos os seus bens o despenseiro."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Convertei-vos e crede no Evangelho, pois, o Reino de Deus está chegando!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 10,7-15",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus aos seus discípulos: 7 \"Em vosso caminho, anunciai: 'O Reino dos Céus está próximo'. 8 Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça deveis dar! 9 Não leveis ouro, nem prata, nem dinheiro nos vossos cintos; 10 nem sacola para o caminho, nem duas túnicas, nem sandálias, nem bastão, porque o operário tem direito ao seu sustento. 11 Em qualquer cidade ou povoado onde entrardes, informai-vos para saber quem ali seja digno. Hospedai-vos com ele até a vossa partida. 12 Ao entrardes numa casa, saudai-a. 13 Se a casa for digna, desça sobre ela a vossa paz; se ela não for digna, volte para vós a vossa paz. 14 Se alguém não vos receber, nem escutar vossa palavra, saí daquela casa ou daquela cidade, e sacudi a poeira dos vossos pés. 15 Em verdade vos digo, as cidades de Sodoma e Gomorra serão tratadas com menos dureza do que aquela cidade, no dia do juízo\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

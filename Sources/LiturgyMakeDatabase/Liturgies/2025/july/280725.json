@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "28/07/25",
+            "liturgy": "17ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 32,15-24.30-34",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 15 Moisés voltou do cume da montanha, trazendo nas mãos as duas tábuas da aliança, que estavam escritas de ambos os lados. 16 Elas eram obra de Deus e a escritura nelas gravada era a escritura mesma de Deus. 17 Josué, ouvindo o tumulto do povo que gritava, disse a Moisés: \"Há gritos de guerra no acampamento!\" 18 Moisés respondeu: \"Não são gritos de vitória nem gritos de derrota; o que ouço são vozes de gente que canta\". 19 Quando chegou perto do acampamento, e viu o bezerro e as danças, Moisés encheu-se de ira e arremessou por terra as tábuas, quebrando-as no sopé da montanha. 20 Em seguida, apoderou-se do bezerro que haviam feito, queimou-o e triturou-o, até reduzi-lo a pó. Depois, espalhou o pó na água, e fez os filhos de Israel beberem dela. 21 Moisés disse a Aarão: \"Que te fez este povo, para atraíres sobre ele tão grande pecado?\" 22 Aarão respondeu: \"Não se indigne o meu Senhor. Tu bem sabes que este povo é inclinado ao mal. 23 Eles me disseram: 'Faze-nos deuses que caminhem à nossa frente, pois quanto àquele Moisés, que nos tirou da terra do Egito, não sabemos o que lhe aconteceu\". 24 Eu, então, lhes disse: 'Quem de vós tem ouro?' Eles trouxeram ouro e me entregaram, e eu lancei-o no fogo e saiu este bezerro\". 30 No dia seguinte, Moisés disse ao povo: \"Vós cometestes um grandíssimo pecado. Mas vou subir ao Senhor para ver se de algum modo poderei obter perdão para o vosso delito\". 31 Moisés voltou para junto do Senhor, e disse: \"Ah! este povo cometeu um grandíssimo pecado: fizeram para si deuses de ouro. 32 Peço-te que lhe perdoes esta culpa, senão, risca-me do livro que escreveste\". 33 O Senhor respondeu a Moisés: \"É aquele que pecou contra mim que eu riscarei do meu livro. 34 E agora vai, e conduze este povo para onde eu te disse. O meu anjo irá à tua frente; mas, quando chegar o dia do castigo, eu os punirei por este seu pecado\"."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 105(106)",
+                            "chorus": "Dai graças ao Senhor, porque ele é bom! \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "19 Construíram um bezerro no Horeb * e adoraram uma estátua de metal; 20 eles trocaram o seu Deus, que é sua glória, * pela imagem de um boi que come feno.",
+                                "21 Esqueceram-se do Deus que os salvara, * que fizera maravilhas no Egito; 22 no país de Cam fez tantas obras admiráveis, * no mar Vermelho, tantas coisas assombrosas.",
+                                "23 Até pensava em acabar com sua raça, * não se tivesse Moisés, o seu eleito, interposto, intercedendo junto a ele, * para impedir que sua ira os destruísse."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Deus nos gerou pela palavra da verdade como as primícias de suas criaturas."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 13,31-35",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 31 Jesus contou-lhes outra parábola: \"O Reino dos Céus é como uma semente de mostarda que um homem pega e semeia no seu campo. 32 Embora ela seja a menor de todas as sementes, quando cresce, fica maior do que as outras plantas. E torna-se uma árvore, de modo que os pássaros vêm e fazem ninhos em seus ramos.\" 33 Jesus contou-lhes ainda uma outra parábola: \"O Reino dos Céus é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado\". 34 Tudo isso Jesus falava em parábolas às multidões. Nada lhes falava sem usar parábolas, 35 para se cumprir o que foi dito pelo profeta: \"Abrirei a boca para falar em parábolas; vou proclamar coisas escondidas desde a criação do mundo\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

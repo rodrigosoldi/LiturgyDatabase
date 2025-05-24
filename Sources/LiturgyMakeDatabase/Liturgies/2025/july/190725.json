@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "19/07/25",
+            "liturgy": "15ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 12,37-42",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 37 os filhos de Israel partiram de Ramsés para Sucot. Eram cerca de seiscentos mil homens a pé, sem contar as crianças. 38 Além disso, uma multidão numerosa subiu com eles, assim como rebanhos consideráveis de ovelhas e bois. 39 Com a massa trazida do Egito fizeram pães ázimos, já que a massa não pudera fermentar, pois foram expulsos do Egito, e não tinham podido esperar, nem preparar provisões para si. 40 A permanência dos filhos de Israel no Egito foi de quatrocentos e trinta anos. 41 No mesmo dia em que se concluíam os quatrocentos e trinta anos, todos os exércitos do Senhor saíram da terra do Egito. 42 Aquela foi uma noite de vigília para o Senhor, quando os fez sair da terra do Egito: essa noite em honra do Senhor deve ser observada por todos os filhos de Israel em todas as suas gerações."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 135(136)",
+                            "chorus": "Eterna é a sua misericórdia. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Demos graças ao Senhor, porque ele é bom: * Porque eterno é seu amor! 23 De nós, seu povo, humilhado, recordou-se: * Porque eterno é seu amor! 24 De nossos inimigos libertou-nos: * Porque eterno é seu amor!",
+                                "10 Ele feriu os primogênitos do Egito * Porque eterno é seu amor! 11 E tirou do meio deles Israel: * Porque eterno é seu amor! 12 Com mão forte e com braço estendido: * Porque eterno é seu amor!",
+                                "13 Ele cortou o Mar Vermelho em duas partes: * Porque eterno é o seu amor! 14 Fez passar no meio dele Israel: * Porque eterno é o seu amor! 15 E afogou o Faraó com suas tropas: * Porque eterno é seu amor!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Em Cristo, Deus reconciliou consigo mesmo a humanidade; e a nós ele entregou esta reconciliação."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 12,14-21",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 14 os fariseus saíram e fizeram um plano para matar Jesus. 15 Ao saber disso, Jesus retirou-se dali. Grandes multidões o seguiram, e ele curou a todos. 16 E ordenou-lhes que não dissessem quem ele era, 17 para se cumprir o que foi dito pelo profeta Isaías: 18 \"Eis o meu servo, que escolhi; o meu amado, no qual coloco a minha afeição; porei sobre ele o meu Espírito, e ele anunciará às nações o direito. 19 Ele não discutirá, nem gritará, e ninguém ouvirá a sua voz nas praças. 20 Não quebrará o caniço rachado, nem apagará o pavio que ainda fumega, até que faça triunfar o direito. 21 Em seu nome as nações depositarão a sua esperança\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

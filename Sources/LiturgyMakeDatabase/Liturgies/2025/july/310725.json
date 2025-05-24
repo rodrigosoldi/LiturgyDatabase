@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "31/07/25",
+            "liturgy": "Santo Inácio de Loyola, presbítero, Memória",
+            "liturgicalColor": "BRANCO",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Ex 40,16-21.34-38",
+                            "title": "Leitura do Livro do Êxodo",
+                            "text": "Naqueles dias, 16 Moisés fez tudo o que o Senhor lhe havia ordenado. 17 No primeiro mês do segundo ano, no primeiro dia do mês, o santuário foi levantado. 18 Moisés levantou o santuário, colocou as bases e as tábuas, assentou as vigas e ergueu as colunas. 19 Estendeu a tenda sobre o santuário, pondo em cima a cobertura da tenda, como o Senhor lhe havia mandado. 20 Depois, tomando o documento da aliança, depositou-o dentro da arca e colocou sobre ela o propiciatório. 21 E, introduzindo a arca no santuário, pendurou diante dela o véu de proteção, como o Senhor tinha prescrito a Moisés. 34 Então a nuvem cobriu a Tenda da Reunião e a glória do Senhor encheu o santuário. 35 Moisés não podia entrar na Tenda da Reunião, porque a nuvem permanecia sobre ela, e a glória do Senhor tomava todo o santuário. 36 Em todas as etapas da viagem, sempre que a nuvem se elevava de cima do santuário, os filhos de Israel punham-se a caminho; 37 e nunca partiam antes que a nuvem se levantasse. 38 Pois, de dia, a nuvem do Senhor repousava sobre o santuário, e de noite aparecia sobre ela um fogo, que todos os filhos de Israel viam, em todas as suas etapas."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 83(84)",
+                            "chorus": "Quão amável, ó Senhor, é vossa casa!",
+                            "verses": [
+                                "3 Minha alma desfalece de saudades * e anseia pelos átrios do Senhor! Meu coração e minha carne rejubilam * e exultam de alegria no Deus vivo!",
+                                "4 Mesmo o pardal encontra abrigo em vossa casa, † e a andorinha ali prepara o seu ninho, * para nele seus filhotes colocar; vossos altares, ó Senhor Deus do universo! * vossos altares, ó meu Rei e meu Senhor!",
+                                "5 Felizes os que habitam vossa casa; * para sempre haverão de vos louvar! 6a Felizes os que em vós têm sua força, * 8a Caminharão com um ardor sempre crescente.",
+                                "11 Na verdade, um só dia em vosso templo * vale mais do que milhares fora dele! Prefiro estar no limiar de vossa casa, * a hospedar-me na mansão dos pecadores!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Abre-nos, ó Senhor, o coração, para ouvirmos a palavra de Jesus!"
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 13,47-53",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, disse Jesus à multidão: 47 \"O Reino dos Céus é ainda como uma rede lançada ao mar e que apanha peixes de todo tipo. 48 Quando está cheia, os pescadores puxam a rede para a praia, sentam-se e recolhem os peixes bons em cestos e jogam fora os que não prestam. 49 Assim acontecerá no fim dos tempos: os anjos virão para separar os homens maus dos que são justos, 50 e lançarão os maus na fornalha de fogo. E aí, haverá choro e ranger de dentes. 51 Compreendestes tudo isso?\" Eles responderam: \"Sim\". 52 Então Jesus acrescentou: \"Assim, pois, todo mestre da Lei, que se torna discípulo do Reino dos Céus, é como um pai de família que tira do seu tesouro coisas novas e velhas\". 53 Quando Jesus terminou de contar essas parábolas, partiu dali."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

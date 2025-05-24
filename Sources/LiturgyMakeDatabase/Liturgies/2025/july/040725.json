@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "liturgies": [
+        {
+            "date": "04/07/25",
+            "liturgy": "13ª Semana do Tempo Comum",
+            "liturgicalColor": "VERDE",
+            "obs": "",
+            "readings": [
+                {
+                    "type": "reading",
+                    "title": "1ª Leitura",
+                    "obs": "",
+                    "readings" : [
+                        {
+                            "obs": "",
+                            "reference": "Gn 23,1-4.19;24,1-8.62-67",
+                            "title": "Leitura do Livro do Gênesis",
+                            "text": "1 Sara viveu cento e vinte e sete anos, 2 e morreu em Cariat Arbe, que é Hebron, em Canaã. Abraão veio fazer luto por Sara e chorá-la. 3 Depois levantou-se de junto da morta e falou aos hititas: 4 \"Sou um estrangeiro e hóspede no vosso meio. Cedei-me como propriedade entre vós um lugar de sepultura, onde possa sepultar minha esposa que morreu\". 19 Assim, Abraão sepultou Sara, sua mulher, na caverna do campo de Macpela, em frente de Mambré, que é Hebron, na terra de Canaã. 24,1 Abraão já era velho, de idade avançada, e o Senhor o havia abençoado em tudo. 2 Abraão disse ao servo mais antigo da sua casa, administrador de todos os seus bens: \"Põe a mão debaixo da minha coxa 3 e jura-me pelo Senhor, Deus do céu e da terra, que não escolherás para meu filho uma mulher entre as filhas dos cananeus, no meio dos quais eu moro; 4 mas tu irás à minha terra natal, buscar entre os meus parentes uma mulher para o meu filho Isaac\". 5 E o servo respondeu: \"E se a mulher não quiser vir comigo para esta terra, deverei levar teu filho para a terra de onde saíste?\" 6 Abraão respondeu: \"Guarda-te de levar meu filho de volta para lá. 7 O Senhor, Deus do céu, que me tirou da casa do meu pai e da minha terra natal, e que me falou e jurou, dizendo: 'À tua descendência darei esta terra', ele mesmo enviará seu anjo diante de ti e trarás de lá uma mulher para meu filho. 8 Porém, se a mulher não quiser vir contigo, ficarás livre deste juramento; mas de maneira alguma levarás meu filho de volta para lá\". 62 Isaac tinha voltado da região do poço de Laai-Rói e morava na terra do Negueb. 63 Ao cair da tarde, Isaac saiu para o campo a passear. Levantando os olhos, viu camelos que chegavam. 64 Rebeca também, erguendo os olhos, viu Isaac. Desceu do camelo, 65 e perguntou ao servo: \"Quem é aquele homem que vem pelo campo, ao nosso encontro?\" O Servo respondeu: \"É o meu senhor\". Ela puxou o véu e cobriu o rosto. 66 Então o servo contou a Isaac tudo o que tinha feito. 67 Ele introduziu Rebeca na tenda de Sara, sua mãe, e recebeu-a por esposa. Isaac amou-a, consolando-se assim da morte da mãe."
+                        }
+                    ]                
+                },
+                {
+                    "type": "psalm",
+                    "title": "Salmo",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "obs": "",
+                            "reference": "Sl 105(106)",
+                            "chorus": "Dai graças ao Senhor, porque ele é bom. \n\nOu: Aleluia, Aleluia, Aleluia.",
+                            "verses": [
+                                "1 Dai graças ao Senhor, porque ele é bom, * porque eterna é a sua misericórdia! 2 Quem contará os grandes feitos do Senhor? * Quem cantará todo o louvor que ele merece?",
+                                "3 Felizes os que guardam seus preceitos * e praticam a justiça em todo o tempo! 4a Lembrai-vos, ó Senhor, de mim, lembrai-vos, * pelo amor que demonstrais ao vosso povo!",
+                                "b Visitai-me com a vossa salvação, * 5 para que eu veja o bem-estar do vosso povo, e exulte na alegria dos eleitos, * e me glorie com os que são vossa herança."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "gospel",
+                    "title": "Evangelho",
+                    "obs": "",
+                    "readings": [
+                        {
+                            "gospelAcclamation": {
+                                "chorus": "Aleluia, Aleluia, Aleluia.",
+                                "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+                            },
+                            "reading": {
+                                "obs": "",
+                                "reference": "Mt 9,9-13",
+                                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                                "text": "Naquele tempo, 9 Jesus viu um homem chamado Mateus, sentado na coletoria de impostos, e disse-lhe: \"Segue-me!\" Ele se levantou e seguiu a Jesus. 10 Enquanto Jesus estava à mesa, em casa de Mateus, vieram muitos cobradores de impostos e pecadores e sentaram-se à mesa com Jesus e seus discípulos. 11 Alguns fariseus viram isso e perguntaram aos discípulos: \"Por que vosso mestre come com os cobradores de impostos e pecadores?\" 12 Jesus ouviu a pergunta e respondeu: \"Aqueles que têm saúde não precisam de médico, mas sim os doentes. 13 Aprendei, pois, o que significa: 'Quero misericórdia e não sacrifício'. De fato, eu não vim para chamar os justos, mas os pecadores\"."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
