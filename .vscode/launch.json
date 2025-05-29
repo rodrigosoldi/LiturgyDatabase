@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LiturgyDatabase}",
+            "name": "Debug LiturgyMakeDatabase",
+            "program": "${workspaceFolder:LiturgyDatabase}/.build/debug/LiturgyMakeDatabase",
+            "preLaunchTask": "swift: Build Debug LiturgyMakeDatabase"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:LiturgyDatabase}",
+            "name": "Release LiturgyMakeDatabase",
+            "program": "${workspaceFolder:LiturgyDatabase}/.build/release/LiturgyMakeDatabase",
+            "preLaunchTask": "swift: Build Release LiturgyMakeDatabase"
+        }
+    ]
+}
