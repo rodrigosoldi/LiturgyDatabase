@@ -3,7 +3,7 @@
   "liturgies": [
     {
       "date": "01/08/25",
-      "liturgy": "Ascensão do Senhor, Solenidade",
+      "liturgy": "Santo Afonso Maria de Ligório, bispo e doutor da Igreja",
       "liturgicalColor": "BRANCO",
       "obs": "",
       "readings": [
@@ -14,9 +14,9 @@
           "readings": [
             {
               "obs": "",
-              "reference": "At 1,1-11",
-              "title": "Leitura dos Atos dos Apóstolos",
-              "text": "1 No meu primeiro livro, ó Teófilo, já tratei de tudo o que Jesus fez e ensinou, desde o começo, 2 até ao dia em que foi levado para o céu, depois de ter dado instruções pelo Espírito Santo, aos apóstolos que tinha escolhido. 3 Foi a eles que Jesus se mostrou vivo depois da sua paixão, com numerosas provas. Durante quarenta dias, apareceu-lhes falando do Reino de Deus. 4 Durante uma refeição, deu-lhes esta ordem: \\\"Não vos afasteis de Jerusalém, mas esperai a realização da promessa do Pai, da qual vós me ouvistes falar: 5 'João batizou com água; vós, porém, sereis batizados com o Espírito Santo, dentro de poucos dias'\\\". 6 Então os que estavam reunidos perguntaram a Jesus: \\\"Senhor, é agora que vais restaurar o Reino em Israel?\\\" 7 Jesus respondeu: \\\"Não vos cabe saber os tempos e os momentos que o Pai determinou com a sua própria autoridade. 8 Mas recebereis o poder do Espírito Santo que descerá sobre vós, para serdes minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra\\\". 9 Depois de dizer isto, Jesus foi levado ao céu, à vista deles. Uma nuvem o encobriu, de forma que seus olhos não mais podiam vê-lo. 10 Os apóstolos continuavam olhando para o céu, enquanto Jesus subia. Apareceram então dois homens vestidos de branco, 11 que lhes disseram: \\\"Homens da Galileia, por que ficais aqui, parados, olhando para o céu? Esse Jesus que vos foi levado para o céu, virá do mesmo modo como o vistes partir para o céu\\\"."
+              "reference": "Lv 23,1.4-11.15-16.27.34b-37",
+              "title": "Leitura do Livro do Levítico",
+              "text": "1 O Senhor falou a Moisés, dizendo: 4 \"São estas as solenidades do Senhor em que convocareis santas assembleias no devido tempo: 5 No dia catorze do primeiro mês, ao entardecer, é a Páscoa do Senhor. 6 No dia quinze do mesmo mês é a festa dos Ázimos, em honra do Senhor. Durante sete dias comereis pães ázimos. 7 No primeiro dia tereis uma santa assembleia, não fareis nenhum trabalho servil; 8 oferecereis ao Senhor sacrifícios pelo fogo durante sete dias. No sétimo dia haverá uma santa assembleia, e não fareis também nenhum trabalho servil\". 9 O Senhor falou a Moisés, dizendo: 10 \"Fala aos filhos de Israel e dize-lhes: 'Quando tiverdes entrado na terra que vos darei, e tiverdes feito a colheita, levareis ao sacerdote um feixe de espigas como primeiros frutos da vossa colheita. 11 O sacerdote elevará este feixe de espigas diante do Senhor, para que ele vos seja favorável: e fará isto no dia seguinte ao sábado. 15 A partir do dia seguinte ao sábado, desde o dia em que tiverdes trazido o feixe de espigas para ser apresentado, contareis sete semanas completas. 16 Contareis cinquenta dias até o dia seguinte ao sétimo sábado, e apresentareis ao Senhor uma nova oferta. 27 O décimo dia do sétimo mês é o dia da Expiação. Nele tereis uma santa assembleia, jejuareis e oferecereis ao Senhor um sacrifício pelo fogo. 34b No dia quinze deste sétimo mês, começa a festa das Tendas, que dura sete dias, em honra do Senhor. 35 No primeiro dia haverá uma santa assembleia e não fareis nenhum trabalho servil. 36 Durante sete dias oferecereis ao Senhor sacrifícios pelo fogo. No oitavo dia tereis uma santa assembleia, e oferecereis ao Senhor um sacrifício pelo fogo. É dia de reunião festiva: não fareis nenhum trabalho servil. 37 Estas são as solenidades do Senhor, nas quais convocareis santas assembleias para oferecer ao Senhor sacrifícios pelo fogo, holocaustos e oblações, vítimas e libações, cada qual no dia prescrito'\"."
             }
           ]
         },
@@ -27,32 +27,13 @@
           "readings": [
             {
               "obs": "",
-              "reference": "Sl 46(47)",
-              "chorus": "R. Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta! Ou: Aleluia, Aleluia, Aleluia.",
+              "reference": "Sl 80(81)",
+              "chorus": "R. Exultai no Senhor, nossa força.",
               "verses": [
-                "2 Povos todos do universo, batei palmas, * gritai a Deus aclamações de alegria! 3 Porque sublime é o Senhor, o Deus Altíssimo, * o soberano que domina toda a terra. R.",
-                "6 Por entre aclamações Deus se elevou, * o Senhor subiu ao toque da trombeta. 7 Salmodiai ao nosso Deus ao som da harpa, * salmodiai ao som da harpa ao nosso Rei! R.",
-                "8 Porque Deus é o grande Rei de toda a terra, * ao som da harpa acompanhai os seus louvores! 9 Deus reina sobre todas as nações, * está sentado no seu trono glorioso. R."
+                "3 Cantai salmos, tocai tamborim, * harpa e lira suaves tocai! 4 Na lua nova soai a trombeta, * na lua cheia, na festa solene! R.",
+                "5 Porque isto é costume em Jacó,* um preceito do Deus de Israel; 6a uma lei que foi dada a José, * b quando o povo saiu do Egito. R.",
+                "10 Em teu meio não exista um deus estranho, * nem adores a um deus desconhecido! 11a Porque eu sou o teu Deus e teu Senhor, * b que da terra do Egito te arranquei. R."
               ]
-            }
-          ]
-        },
-        {
-          "type": "reading",
-          "title": "2ª Leitura",
-          "obs": "",
-          "readings": [
-            {
-              "obs": "",
-              "reference": "Ef 1,17-23",
-              "title": "Leitura da Carta de São Paulo aos Efésios",
-              "text": "Irmãos: 17 O Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. 18 Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos, 19 e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente. 20 Ele manifestou sua força em Cristo, quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus, 21 bem acima de toda a autoridade, poder, potência, soberania ou qualquer título que se possa mencionar não somente neste mundo, mas ainda no mundo futuro. 22 Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a Cabeça da Igreja, 23 que é o seu corpo, a plenitude daquele que possui a plenitude universal. Palavra do Senhor."
-            },
-            {
-              "obs": "",
-              "reference": "Hb 9,24-28; 10,19-23",
-              "title": "Leitura da Carta aos Hebreus",
-              "text": "24 De fato, Cristo não entrou num santuário feito por mão humana, imagem do verdadeiro, mas no próprio céu, a fim de comparecer, agora, na presença de Deus, em nosso favor. 25 E não foi para se oferecer a si muitas vezes, como o sumo-sacerdote que, cada ano, entra no Santuário com sangue alheio. 26 Porque, se assim fosse, deveria ter sofrido muitas vezes, desde a fundação do mundo. Mas foi agora, na plenitude dos tempos, que, uma vez por todas, ele se manifestou para destruir o pecado pelo sacrifício de si mesmo. 27 O destino de todo homem é morrer uma só vez, e depois vem o julgamento. 28 Do mesmo modo, também Cristo, oferecido uma vez por todas, para tirar os pecados da multidão, aparecerá uma segunda vez, fora do pecado, para salvar aqueles que o esperam. 10,19 Sendo assim, irmãos, temos plena liberdade para entrar no Santuário, pelo sangue de Jesus. 20 Ele nos abriu um caminho novo e vivo, através da cortina, quer dizer, através da sua humanidade. 21 Temos um grande sacerdote constituído sobre a casa de Deus. 22 Aproximemo-nos, portanto, de coração sincero e cheio de fé, com coração purificado de toda a má consciência e o corpo lavado com água pura. 23 Sem desânimo, continuemos a afirmar a nossa esperança, porque é fiel quem fez a promessa."
             }
           ]
         },
@@ -65,13 +46,13 @@
               "obs": "",
               "gospelAcclamation": {
                 "chorus": "Aleluia, Aleluia, Aleluia.",
-                "text": "Ide ao mundo, ensinai aos povos todos; convosco estarei, todos os dias, até o fim dos tempos, diz Jesus."
+                "text": "A palavra do Senhor permanece eternamente, e esta é a palavra que vos foi anunciada."
               },
               "reading": {
                 "obs": "",
-                "reference": "Lc 24,46-53",
-                "title": "Conclusão do Evangelho de Jesus Cristo segundo Lucas",
-                "text": "Naquele tempo, disse Jesus a seus discípulos: 46 \\\"Assim está escrito: O Cristo sofrerá e ressuscitará dos mortos ao terceiro dia 47 e no seu nome, serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém. 48 Vós sereis testemunhas de tudo isso. Eu enviarei sobre vós aquele que meu Pai prometeu. Por isso, permanecei na cidade, até que sejais revestidos da força do alto\\\". 50 Então Jesus levou-os para fora, até perto de Betânia. Ali ergueu as mãos e abençoou-os. 51 Enquanto os abençoava, afastou-se deles e foi levado para o céu. 52 Eles o adoraram. Em seguida voltaram para Jerusalém, com grande alegria. 53 E estavam sempre no Templo, bendizendo a Deus."
+                "reference": "Mt 13,54-58",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 54 dirigindo-se para a sua terra, Jesus ensinava na sinagoga, de modo que ficavam admirados. E diziam: \"De onde lhe vem essa sabedoria e esses milagres? 55 Não é ele o filho do carpinteiro? Sua mãe não se chama Maria, e seus irmãos não são Tiago, José, Simão e Judas? 56 E suas irmãs não moram conosco? Então, de onde lhe vem tudo isso?\" 57 E ficaram escandalizados por causa dele. Jesus, porém, disse: \"Um profeta só não é estimado em sua própria pátria e em sua família!\" 58 E Jesus não fez ali muitos milagres, porque eles não tinham fé."
               }
             }
           ]
