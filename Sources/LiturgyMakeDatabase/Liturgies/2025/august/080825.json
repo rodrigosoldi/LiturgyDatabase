@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "08/08/25",
+      "liturgy": "São Domingos, presbítero, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dt 4,32-40",
+              "title": "Leitura do Livro do Deuteronômio",
+              "text": "Moisés falou ao povo dizendo: 32 \"Interroga os tempos antigos que te precederam, desde o dia em que Deus criou o homem sobre a terra, e investiga de um extremo ao outro dos céus, se houve jamais um acontecimento tão grande, ou se ouviu algo semelhante. 33 Existe, porventura, algum povo que tenha ouvido a voz de Deus falando-lhe do meio do fogo, como tu ouviste, e tenha permanecido vivo? 34 Ou terá vindo algum Deus escolher para si um povo entre as nações, por meio de provações, de sinais e prodígios, por meio de combates, com mão forte e braço estendido, e por meio de grandes terrores, como tudo o que por ti o Senhor vosso Deus fez no Egito, diante de teus próprios olhos? 35 A ti foi dado ver tudo isso, para que reconheças que o Senhor é na verdade Deus, e que não há outro Deus fora ele. 36 Do céu ele te fez ouvir sua voz para te instruir, e sobre a terra te fez ver o seu grande fogo; e do meio do fogo ouviste suas palavras, 37 porque amou teus pais e, depois deles, escolheu seus descendentes. Ele te fez sair do Egito por seu grande poder, 38 para expulsar, diante de ti, nações maiores e mais fortes do que tu, e para te introduzir na terra deles e dá-la a ti como herança, como tu estás vendo hoje. 39 Reconhece, pois, hoje, e grava-o em teu coração, que o Senhor é o Deus lá em cima do céu e cá embaixo na terra, e que não há outro além dele. 40 Guarda suas leis e seus mandamentos que hoje te prescrevo, para que sejas feliz, tu e teus filhos depois de ti, e vivas longos dias sobre a terra que o Senhor teu Deus te vai dar para sempre\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 76(77)",
+              "chorus": "R. Penso em vossas maravilhas, ó Senhor!",
+              "verses": [
+                "12 Recordando os grandes feitos do passado, * vossos prodígios eu relembro, ó Senhor; 13 eu medito sobre as vossas maravilhas * e sobre as obras grandiosas que fizestes. R.",
+                "14 São santos, ó Senhor, vossos caminhos! * Haverá deus que se compare ao nosso Deus? 15 Sois o Deus que operastes maravilhas, * vosso poder manifestastes entre os povos. R.",
+                "16 Com vosso braço redimistes vosso povo, * os filhos de Jacó e de José. 21 Como um rebanho conduzistes vosso povo * e o guiastes por Moisés e Aarão. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Felizes os que são perseguidos por causa da justiça do Senhor, porque o reino dos céus há de ser deles!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 16,24-28",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 24 Jesus disse aos discípulos: \"Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga. 25 Pois quem quiser salvar a sua vida vai perdê-la; e quem perder a sua vida por causa de mim, vai encontrá-la. 26 De fato, que adianta ao homem ganhar o mundo inteiro, mas perder a sua vida? O que poderá alguém dar em troca de sua vida? 27 Porque o Filho do Homem virá na glória do seu Pai, com os seus anjos, e então retribuirá a cada um de acordo com a sua conduta. 28 Em verdade vos digo: Alguns daqueles que estão aqui não morrerão antes de verem o Filho do Homem vindo com o seu Reino\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

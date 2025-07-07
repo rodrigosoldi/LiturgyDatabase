@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "26/08/25",
+      "liturgy": "21ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 2,1-8",
+              "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "1 Bem sabeis, irmãos, que nossa vinda até vós não foi em vão. 2 Apesar de maltratados e ultrajados em Filipos, como sabeis, encontramos em Deus a coragem de vos anunciar o evangelho, em meio a grandes lutas. 3 A nossa exortação não se baseia no erro, na ambiguidade ou no desejo de enganar. 4 Ao contrário, uma vez que Deus nos achou dignos para que nos confiasse o evangelho, falamos não para agradar aos homens, mas a Deus, que examina os nossos corações. 5 Bem sabeis que nunca usamos palavras de adulação, nem procedemos movidos por disfarçada ganância. Deus é testemunha disso. 6 E também não procuramos elogios humanos, nem da parte de vós, nem de outros, 7 embora pudéssemos fazer valer a nossa autoridade de apóstolos de Cristo. Foi com muita ternura que nos apresentamos a vós, como uma mãe que acalenta os seus filhinhos. 8 Tanto bem vos queríamos, que desejávamos dar-vos não somente o evangelho de Deus, mas até, a própria vida; a tal ponto chegou a nossa afeição por vós."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 138(139)",
+              "chorus": "R. Senhor, vós me sondais e conheceis.",
+              "verses": [
+                "1 Senhor, vós me sondais e conheceis, * 2 sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos, † 3 percebeis quando me deito e quando eu ando, * os meus caminhos vos são todos conhecidos. R.",
+                "4 A palavra nem chegou à minha língua, * e já, Senhor, a conheceis inteiramente. 5 Por detrás e pela frente me envolveis; * pusestes sobre mim a vossa mão. 6 Esta Verdade é por demais maravilhosa, * é tão sublime que não posso compreendê-la. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 23,23-26",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus: 23 \"Ai de vós, mestres da Lei e fariseus hipócritas! Vós pagais o dízimo da hortelã, da erva-doce e do cominho, e deixais de lado os ensinamentos mais importantes da Lei, como a justiça, a misericórdia e a fidelidade. Vós deveríeis praticar isto, sem contudo deixar aquilo. 24 Guias cegos! Vós filtrais o mosquito, mas engolis o camelo. 25 Ai de vós, mestres da Lei e fariseus hipócritas! Vós limpais o copo e o prato por fora, mas, por dentro, estais cheios de roubo e cobiça. 26 Fariseu cego! Limpa primeiro o copo por dentro, para que também por fora fique limpo\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

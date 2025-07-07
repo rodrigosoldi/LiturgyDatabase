@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "31/08/25",
+      "liturgy": "22º Domingo do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Eclo 3,19-21.30-31",
+              "title": "Leitura do Livro do Eclesiástico",
+              "text": "19 Filho, realiza teus trabalhos com mansidão e serás amado mais do que um homem generoso. 20 Na medida em que fores grande, deverás praticar a humildade, e assim encontrarás graça diante do Senhor. Muitos são altaneiros e ilustres, mas é aos humildes que ele revela seus mistérios. 21 Pois grande é o poder do Senhor, mas ele é glorificado pelos humildes. 30 Para o mal do orgulhoso não existe remédio, pois uma planta de pecado está enraizada nele, e ele não compreende. 31 O homem inteligente reflete sobre as palavras dos sábios, e com ouvido atento deseja a sabedoria."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 67(68)",
+              "chorus": "R. Com carinho preparastes uma mesa para o pobre.",
+              "verses": [
+                "4 Os justos se alegram na presença do Senhor * rejubilam satisfeitos e exultam de alegria! 5a Cantai a Deus, a Deus louvai, cantai um salmo a seu nome! * c o seu nome é Senhor: exultai diante dele! R.",
+                "6 Dos órfãos ele é pai, e das viúvas protetor: * é assim o nosso Deus em sua santa habitação. 7a É o Senhor quem dá abrigo, dá um lar aos deserdados, * b quem liberta os prisioneiros e os sacia com fartura. R.",
+                "10 Derramastes lá do alto uma chuva generosa, * e vossa terra, vossa herança, já cansada, renovastes; 11 e ali vosso rebanho encontrou sua morada; * com carinho preparastes essa terra para o pobre. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Hb 12,18-19.22-24a",
+              "title": "Leitura da Carta aos Hebreus",
+              "text": "Irmãos: 18 Vós não vos aproximastes de uma realidade palpável: \"fogo ardente e escuridão, trevas e tempestade, 19 som da trombeta e voz poderosa\", que os ouvintes suplicaram não continuasse. 22 Mas vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste; da reunião festiva de milhões de anjos; 23 da assembleia dos primogênitos, cujos nomes estão escritos nos céus; de Deus, o Juiz de todos; dos espíritos dos justos, que chegaram à perfeição; 24a de Jesus, mediador da nova aliança."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Tomai meu jugo sobre vós e aprendei de mim, que sou de manso e humilde coração!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 14,1.7-14",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "1 Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 7 Jesus notou como os convidados escolhiam os primeiros lugares. Então contou-lhes uma parábola: 8 \"Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu, 9 e o dono da casa, que convidou os dois, venha te dizer: 'Dá o lugar a ele'. Então tu ficarás envergonhado e irás ocupar o último lugar. 10 Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: 'Amigo, vem mais para cima'. E isto vai ser uma honra para ti diante de todos os convidados. 11 Porque quem se eleva, será humilhado e quem se humilha, será elevado\". 12 E disse também a quem o tinha convidado: \"Quando tu deres um almoço ou um jantar, não convides teus amigos, nem teus irmãos, nem teus parentes, nem teus vizinhos ricos. Pois estes poderiam também convidar-te e isto já seria a tua recompensa. 13 Pelo contrário, quando deres uma festa, convida os pobres, os aleijados, os coxos, os cegos. 14 Então tu serás feliz! Porque eles não te podem retribuir. Tu receberás a recompensa na ressurreição dos justos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

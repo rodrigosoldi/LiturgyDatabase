@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "04/08/25",
+      "liturgy": "São João Maria Vianney, presbítero",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Nm 11,4b-15",
+              "title": "Leitura do Livro dos Números",
+              "text": "Naqueles dias, 4b os filhos de Israel começaram a lamentar-se, dizendo: \"Quem nos dará carne para comer? 5 Vêm-nos à memória os peixes que comíamos de graça no Egito, os pepinos e os melões, as verduras, as cebolas e os alhos. 6 Aqui nada tem gosto ao nosso paladar, não vemos outra coisa a não ser o maná\". 7 O maná era parecido com a semente do coentro e amarelado como certa resina. 8 O povo se dispersava para o recolher e o moía num moinho, ou socava num pilão. Depois o cozinhavam numa panela e faziam broas com gosto de pão amassado com azeite. 9 À noite, quando o orvalho caía no acampamento, caía também o maná. 10 Moisés ouviu, pois, o povo lamentar-se em cada família, cada um à entrada de sua tenda. 11 Então o Senhor tomou-se de uma cólera violenta, e Moisés, achando também tal coisa intolerável, disse ao Senhor: \"Por que maltrataste assim o teu povo? Por que gozo tão pouco do teu favor, a ponto de descarregares sobre mim o peso de todo este povo? 12 Acaso fui eu quem concebeu e deu à luz todo este povo, para que me digas: 'Carrega-o ao colo, como a ama costuma fazer com a criança; e leva-o à terra que juraste dar a seus pais!' 13 Onde conseguirei carne para dar a toda esta gente? Pois se lamentam contra mim, dizendo: 'Dá-nos carne para comer!' 14 Já não posso suportar sozinho o peso de todo este povo: é grande demais para mim. 15 Se queres continuar a tratar-me assim, peço-te que me tires a vida, se achei graça a teus olhos, para que eu não veja mais tamanha desgraça\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 80(81)",
+              "chorus": "R. Exultai no Senhor, nossa força.",
+              "verses": [
+                "12 Mas meu povo não ouviu a minha voz, * Israel não quis saber de obedecer-me. 13 Deixei, então, que eles seguissem seus caprichos, * abandonei-os ao seu duro coração. R.",
+                "14 Quem me dera que meu povo me escutasse! * Que Israel andasse sempre em meus caminhos! 15 Seus inimigos, sem demora, humilharia * e voltaria minha mão contra o opressor. R.",
+                "16 Os que odeiam o Senhor, o adulariam, * seria este seu destino para sempre; 17 eu lhe daria de comer a flor do trigo, * e com o mel que sai da rocha o fartaria. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O homem não vive somente de pão, mas de toda palavra da boca de Deus."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 14,13-21",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 13 quando soube da morte de João Batista, Jesus partiu e foi de barco para um lugar deserto e afastado. Mas quando as multidões souberam disso, saíram das cidades e o seguiram a pé. 14 Ao sair do barco, Jesus viu uma grande multidão. Encheu-se de compaixão por eles e curou os que estavam doentes. 15 Ao entardecer, os discípulos aproximaram-se de Jesus e disseram: \"Este lugar é deserto e a hora já está adiantada. Despede as multidões, para que possam ir aos povoados comprar comida!\" 16 Jesus porém lhes disse: \"Eles não precisam ir embora. Dai-lhes vós mesmos de comer!\" 17 Os discípulos responderam: \"Só temos aqui cinco pães e dois peixes\". 18 Jesus disse: \"Trazei-os aqui\". 19 Jesus mandou que as multidões se sentassem na grama. Então pegou os cinco pães e os dois peixes, ergueu os olhos para o céu e pronunciou a bênção. Em seguida partiu os pães, e os deu aos discípulos. Os discípulos os distribuíram às multidões. 20 Todos comeram e ficaram satisfeitos, e dos pedaços que sobraram, recolheram ainda doze cestos cheios. 21 E os que haviam comido eram mais ou menos cinco mil homens, sem contar mulheres e crianças."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

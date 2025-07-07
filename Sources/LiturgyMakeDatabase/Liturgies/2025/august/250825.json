@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "25/08/25",
+      "liturgy": "21ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 1,1-5.8b-10",
+              "title": "Início da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "1 Paulo, Silvano e Timóteo, à Igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo: a vós, graça e paz! 2 Damos graças a Deus por todos vós, lembrando-vos sempre em nossas orações. 3 Diante de Deus, nosso Pai, recordamos sem cessar a atuação da vossa fé, o esforço da vossa caridade e a firmeza da vossa esperança em nosso Senhor Jesus Cristo. 4 Sabemos, irmãos amados por Deus, que sois do número dos escolhidos. 5 Porque o nosso evangelho não chegou até vós somente por meio de palavras, mas também mediante a força que é o Espírito Santo; e isso, com toda a abundância. Sabeis de que maneira procedemos entre vós, para o vosso bem. 8b A vossa fé em Deus propagou-se por toda parte. Assim, nós já nem precisamos falar, 9 pois as pessoas mesmas contam como vós nos acolhestes e como vos convertestes, abandonando os falsos deuses, para servir ao Deus vivo e verdadeiro, 10 esperando dos céus o seu Filho, a quem ele ressuscitou dentre os mortos: Jesus, que nos livra do castigo que está por vir."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 149",
+              "chorus": "R. O Senhor ama seu povo de verdade.\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "1 Cantai ao Senhor Deus um canto novo, * e o seu louvor na assembleia dos fiéis! 2 Alegre-se Israel em Quem o fez, * e Sião se rejubile no seu Rei! R.",
+                "3 Com danças glorifiquem o seu nome, * toquem harpa e tambor em sua honra! 4 Porque, de fato, o Senhor ama seu povo * e coroa com vitória os seus humildes. R.",
+                "5 Exultem os fiéis por sua glória, * e cantando se levantem de seus leitos, 6a com louvores do Senhor em sua boca. * 9b Eis a glória para todos os seus santos. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 23,13-22",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus: 13 \"Ai de vós, mestres da Lei e fariseus hipócritas! Vós fechais o Reino dos Céus aos homens. Vós, porém, não entrais, nem deixais entrar aqueles que o desejam. 15 Aí de vós, mestres da Lei e fariseus hipócritas! Vós percorreis o mar e a terra para converter alguém, e quando o conseguis, o tornais merecedor do inferno, duas vezes pior do que vós. 16 Ai de vós, guias cegos! Vós dizeis: 'Se alguém jura pelo Templo, não vale; mas, se alguém jura pelo ouro do Templo, então vale!' 17 Insensatos e cegos! O que vale mais: o ouro ou o Templo que santifica o ouro? 18 Vós dizeis também: 'Se alguém jura pelo altar, não vale; mas, se alguém jura pela oferta que está sobre o altar, então vale!' 19 Cegos! O que vale mais: a oferta, ou o altar que santifica a oferta? 20 Com efeito, quem jura pelo altar, jura por ele e por tudo o que está sobre ele. 21 E quem jura pelo Templo, jura por ele e por Deus que habita no Templo. 22 E quem jura pelo céu, jura pelo trono de Deus e por aquele que nele está sentado\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

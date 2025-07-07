@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "09/08/25",
+      "liturgy": "18ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dt 6,4-13",
+              "title": "Leitura do Livro do Deuteronômio",
+              "text": "Moisés falou ao povo, dizendo: 4 \"Ouve, Israel, o Senhor, nosso Deus, é o único Senhor. 5 Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma e com todas as tuas forças. 6 E trarás gravadas em teu coração todas estas palavras que hoje te ordeno. 7 Tu as repetirás com insistência aos teus filhos e delas falarás quando estiveres sentado em tua casa, ou andando pelos caminhos, quando te deitares, ou te levantares. 8 Tu as prenderás como sinal em tua mão e as colocarás como um sinal entre os teus olhos; 9 tu as escreverás nas entradas da tua casa e nas portas da tua cidade. 10 Quando o Senhor te introduzir na terra que prometeu com juramento a teus pais, Abraão, Isaac e Jacó, que te daria, com cidades grandes e belas que não edificaste, 11 casas cheias de toda espécie de bens que não acumulaste, cisternas já escavadas que não cavaste, vinhas e oliveiras que não plantaste; e quando comeres e te fartares, 12 então, cuida bem de não esqueceres o Senhor que te tirou do Egito, da casa da escravidão. 13 Temerás o Senhor teu Deus, a ele servirás e só pelo seu nome jurarás\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 17(18)",
+              "chorus": "R. Eu vos amo, ó Senhor, \n sois minha força e salvação.",
+              "verses": [
+                "2 Eu vos amo, ó Senhor! Sois minha força, * 3a minha rocha, meu refúgio e Salvador! Ó meu Deus, sois o rochedo que me abriga, * minha força e poderosa salvação. R.",
+                "b Ó meu Deus, sois o rochedo que me abriga * c sois meu escudo e proteção: em vós espero! 4 Invocarei o meu Senhor: a ele a glória! * e dos meus perseguidores serei salvo! R.",
+                "47 Viva o Senhor! Bendito seja o meu Rochedo! * E louvado seja Deus, meu Salvador! 51a Concedeis ao vosso rei grandes vitórias * b e mostrais misericórdia ao vosso Ungido. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo Salvador destruiu o mal e a morte; fez brilhar pelo Evangelho a luz e a vida imperecíveis."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 17,14-20",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "14 Naquele tempo, chegando Jesus e seus discípulos junto da multidão, um homem aproximou-se de Jesus, ajoelhou-se e disse: 15 \"Senhor, tem piedade do meu filho. Ele é epilético, e sofre ataques tão fortes que muitas vezes cai no fogo ou na água. 16 Levei-o aos teus discípulos, mas eles não conseguiram curá-lo!\" 17 Jesus respondeu: \"Ó gente sem fé e perversa! Até quando deverei ficar convosco? Até quando vos suportarei? Trazei aqui o menino\". 18 Então Jesus o ameaçou e o demônio saiu dele. Na mesma hora o menino ficou curado. 19 Então, os discípulos aproximaram-se de Jesus e lhe perguntaram em particular: \"Por que nós não conseguimos expulsar o demônio?\" 20 Jesus respondeu: \"Porque a vossa fé é demasiado pequena. Em verdade vos digo, se vós tiverdes fé do tamanho de uma semente de mostarda, direis a esta montanha: 'Vai daqui para lá' e ela irá. E nada vos será impossível\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
