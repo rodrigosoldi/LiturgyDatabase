@@ -8,7 +8,7 @@
 
 # LiturgyDatabase
 
-- Liturgies from **_June, 2024, 1st_** to **_July, 2025, 31th_**
+- Liturgies from **_June, 2024, 1st_** to **_October, 2025, 31st_**
 
 **This repo is updated periodically with new liturgies**
 **All liturgies are in Portuguese**
@@ -84,12 +84,26 @@ swift run LiturgyMakeDatabase <PATH_TO_CREATE_DATABASE.realm>
 
 It will iterate all jsons in folder `Liturgies` trying to add them to the database.
 To add more liturgies, create new jsons and add on `Liturgies` folder.
-See [Example](#example) to create a readable json.
+See [Examples](#examples) to create a readable json.
 You can use an [Empty](./Example/empty.json) json to create a new one.
 
 You will see the path of the database, and a little description for each liturgy added on database.
 
 If you don't want run the project, go to [Database Folder](./Database) and use `database.realm` to develop.
+
+### Database Generation Script
+
+The project includes a convenient script `generateDatabase.sh` that automatically builds the project and generates the database:
+
+```bash
+./generateDatabase.sh
+```
+
+This script will:
+1. Build the LiturgyMakeDatabase executable
+2. Run it to process all JSON files in the Liturgies folder
+3. Generate the database.realm file in the Database folder
+4. Copy the generated database to the Sources/LiturgyDatabase/resources folder
 
 ## Examples
 
@@ -102,7 +116,7 @@ let liturgies: [Liturgy] = try await liturgyDatabaseController.fetchAll()
 
 ### LiturgyMakeDatabase
 
-Once you download the project you will see an [Example JSON](./Example/example.json) at folder `Examples`. Feel free to update it json and run project to see updates.
+Once you download the project you will see an [Example JSON](./Example/example.json) at folder `Example`. Feel free to update it json and run project to see updates.
 Follow its structure to create new liturgies.
 I suggest creating one JSON file per liturgy day, but the structure is already prepared to receive an array of liturgies.
 

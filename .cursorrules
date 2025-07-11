@@ -1,0 +1,26 @@
+# LiturgyDatabase Project Rules
+
+## Build and Deploy Rule
+
+When the user says "build and deploy" or "bd", execute the following sequence:
+
+1. Execute the script `./generateDatabase.sh` to build and generate the database
+2. Check git status for changes
+3. If there are changes:
+   - Add all changes to staging with `git add -A`
+   - Get the latest tag number and increment it by 1
+   - Create a commit with a descriptive message about the changes
+   - Create a new tag with the incremented version number
+   - Push both the commit and tag to the remote repository
+4. Provide a summary of what was completed
+
+This rule automates the complete build, database generation, and deployment process.
+
+## Project Information
+
+- This is a Swift Package Manager (SPM) project for Catholic liturgy database
+- Contains liturgies from June 2024 to October 2025
+- Uses Realm database for storage
+- Has two main targets: LiturgyDatabase (library) and LiturgyMakeDatabase (executable)
+- All liturgies are in Portuguese
+- Database is generated from JSON files in the Liturgies folder 
