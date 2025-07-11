@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "22/10/25",
+      "liturgy": "29ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 6,12-18",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 12 que o pecado não reine mais em vosso corpo mortal, levando-vos a obedecer às suas paixões. 13 Não ofereçais mais vossos membros ao pecado como armas de iniquidade. Pelo contrário, oferecei-vos a Deus como pessoas vivas, isto é, como pessoas que passaram da morte à vida, e ponde vossos membros ao serviço de Deus como armas de justiça. 14 De fato, o pecado não vos dominará, visto que não estais sob o regime da Lei, mas sob o regime da graça. 15 Então, iremos pecar, porque não estamos sob o regime da Lei, mas sob o regime da graça? De modo algum! 16 Acaso não sabeis que, oferecendo-vos a alguém como escravos, sois realmente escravos daquele a quem obedeceis, seja escravos do pecado para a morte, seja escravos da obediência para a justiça? 17 Graças a Deus que vós, depois de terdes sido escravos do pecado, passastes a obedecer, de coração, aos ensinamentos, aos quais fostes entregues. 18 Libertados do pecado, vos tornastes escravos da justiça."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 123(124)",
+              "chorus": "R. Nosso auxílio está no nome do Senhor.",
+              "verses": [
+                "1 Se o Senhor não estivesse ao nosso lado, * que o diga Israel neste momento; 2 se o Senhor não estivesse ao nosso lado, * quando os homens investiram contra nós, 3 com certeza nos teriam devorado * no furor de sua ira contra nós. R.",
+                "4 Então as águas nos teriam submergido, * a correnteza nos teria arrastado, 5 e então, por sobre nós teriam passado * essas águas sempre mais impetuosas. 6 Bendito seja o Senhor, que não deixou * cairmos como presa de seus dentes! R.",
+                "7 Nossa alma como um pássaro escapou * do laço que lhe armara o caçador; o laço arrebentou-se de repente, * e assim nós conseguimos libertar-nos. 8 O nosso auxílio está no nome do Senhor, * do Senhor que fez o céu e fez a terra! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vigiai, diz Jesus, vigiai, pois, no dia em que não esperais, o vosso Senhor há de vir."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 12,39-48",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 39 \"Ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. 40 Vós também ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes\". 41 Então Pedro disse: \"Senhor, tu contas esta parábola para nós ou para todos?\" 42 E o Senhor respondeu: \"Quem é o administrador fiel e prudente que o senhor vai colocar à frente do pessoal de sua casa para dar comida a todos na hora certa? 43 Feliz o empregado que o patrão, ao chegar, encontrar agindo assim! 44 Em verdade eu vos digo: o senhor lhe confiará a administração de todos os seus bens. 45 Porém, se aquele empregado pensar: 'Meu patrão está demorando', e começar a espancar os criados e as criadas, e a comer, a beber e a embriagar-se, 46 o senhor daquele empregado chegará num dia inesperado e numa hora imprevista, ele o partirá ao meio e o fará participar do destino dos infiéis. 47 Aquele empregado que, conhecendo a vontade do senhor, nada preparou, nem agiu conforme a sua vontade, será chicoteado muitas vezes. 48 Porém, o empregado que não conhecia essa vontade e fez coisas que merecem castigo, será chicoteado poucas vezes. A quem muito foi dado, muito será pedido; a quem muito foi confiado, muito mais será exigido!"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

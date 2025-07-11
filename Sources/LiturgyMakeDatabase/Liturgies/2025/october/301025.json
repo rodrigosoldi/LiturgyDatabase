@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "30/10/25",
+      "liturgy": "30ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 8,31b-39",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 31b se Deus é por nós, quem será contra nós? 32 Deus que não poupou seu próprio Filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? 33 Quem acusará os escolhidos de Deus? Deus, que os declara justos? 34 Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? 35 Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? 36 Pois é assim que está escrito: \"Por tua causa somos entregues à morte, o dia todo; fomos tidos como ovelhas destinadas ao matadouro\". 37 Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! 38 Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, 39 nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 108(109)",
+              "chorus": "R. Salvai-me, Senhor, segundo a vossa bondade!",
+              "verses": [
+                "21 Agi a meu favor, ó Senhor Deus,† por amor do vosso nome, libertai-me,* pois, vossa lealdade é benfazeja! 22 Necessitado e infeliz, eis o que sou, dentro de mim meu coração está ferido! R.",
+                "26 Senhor, meu Deus, vinde ajudar-me e salvar-me,* segundo vosso amor e compaixão. 27 Para que nisso reconheçam vossa mão, e saibam que sois vós que o fizestes! R.",
+                "30 Celebrarei o meu Senhor em alta voz,* em meio à multidão hei de louvá-lo. 31 Pois ele defende o indigente e o salva* daqueles que condenam sua alma. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Bendito é o Rei que vem em nome do Senhor! Glória a Deus nos altos céus e na terra paz aos homens!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 13,31-35",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "31 Naquela hora, alguns fariseus aproximaram-se e disseram a Jesus: \"Tu deves ir embora daqui, porque Herodes quer te matar\". 32 Jesus disse: \"Ide dizer a essa raposa: eu expulso demônios e faço curas hoje e amanhã; e no terceiro dia terminarei o meu trabalho. 33 Entretanto, preciso caminhar hoje, amanhã e depois de amanhã, porque não convém que um profeta morra fora de Jerusalém. 34 Jerusalém, Jerusalém! Tu que matas os profetas e apedrejas os que te foram enviados! Quantas vezes eu quis reunir teus filhos, como a galinha reúne os pintainhos debaixo das asas, mas tu não quiseste! 35 Eis que vossa casa ficará abandonada. Eu vos digo: não me vereis mais, até que chegue o tempo em que vós mesmos direis: 'Bendito aquele que vem em nome do Senhor'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

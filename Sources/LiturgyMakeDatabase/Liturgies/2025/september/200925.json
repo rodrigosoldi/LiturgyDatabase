@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "20/09/25",
+      "liturgy": "Santos André Kim Tae-gon, presbítero, Paulo Chóng Hasang e companheiros, mártires, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Tm 6,13-16",
+              "title": "Leitura da Primeira Carta de São Paulo a Timóteo",
+              "text": "Caríssimo, 13 diante de Deus, que dá a vida a todas as coisas, e de Cristo Jesus, que deu o bom testemunho da verdade perante Pôncio Pilatos, eu te ordeno: 14 guarda o teu mandato íntegro e sem mancha até à manifestação gloriosa de nosso Senhor Jesus Cristo. 15 Esta manifestação será feita no tempo oportuno pelo bendito e único Soberano, o Rei dos reis e Senhor dos senhores, 16 o único que possui a imortalidade e que habita numa luz inacessível, que nenhum homem viu, nem pode ver. A ele, honra e poder eterno. Amém."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 99(100)",
+              "chorus": "R. Com canto apresentai-vos diante do Senhor!",
+              "verses": [
+                "2 Aclamai o Senhor, ó terra inteira, † servi ao Senhor com alegria, * ide a ele cantando jubilosos! R.",
+                "3 Sabei que o Senhor, só ele, é Deus, † Ele mesmo nos fez, e somos seus, * nós somos seu povo e seu rebanho. R.",
+                "4 Entrai por suas portas dando graças, † e em seus átrios com hinos de louvor; * dai-lhe graças, seu nome bendizei! R.",
+                "5 Sim, é bom o Senhor e nosso Deus, † sua bondade perdura para sempre, * seu amor é fiel eternamente! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Felizes os que observam a palavra do Senhor, de reto coração e que produzem muitos frutos, até o fim perseverantes!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 8,4-15",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 4 reuniu-se uma grande multidão, e de todas as cidades iam ter com Jesus. Então ele contou esta parábola: 5 \"O semeador saiu para semear a sua semente. Enquanto semeava, uma parte caiu à beira do caminho; foi pisada e os pássaros do céu a comeram. 6 Outra parte caiu sobre pedras; brotou e secou, porque não havia umidade. 7 Outra parte caiu no meio de espinhos; os espinhos cresceram juntos, e a sufocaram. 8 Outra parte caiu em terra boa; brotou e deu fruto, cem por um\". Dizendo isso, Jesus exclamou: \"Quem tem ouvidos para ouvir, ouça\". 9 Os discípulos lhe perguntaram o significado dessa parábola. 10 Jesus respondeu: \"A vós foi dado conhecer os mistérios do Reino de Deus. Mas aos outros, só por meio de parábolas, para que olhando não vejam, e ouvindo não compreendam. 11 A parábola quer dizer o seguinte: A semente é a Palavra de Deus. 12 Os que estão à beira do caminho são aqueles que ouviram, mas, depois, vem o diabo e tira a Palavra do coração deles, para que não acreditem e não se salvem. 13 Os que estão sobre a pedra são aqueles que, ouvindo, acolhem a Palavra com alegria. Mas eles não têm raiz: por um momento acreditam; mas na hora da tentação voltam atrás. 14 Aquilo que caiu entre os espinhos são os que ouvem, mas, com o passar do tempo, são sufocados pelas preocupações, pela riqueza e pelos prazeres da vida, e não chegam a amadurecer. 15 E o que caiu em terra boa são aqueles que, ouvindo com um coração bom e generoso, conservam a Palavra, e dão fruto na perseverança\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

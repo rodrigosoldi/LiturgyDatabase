@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "09/10/25",
+      "liturgy": "27ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Ml 3,13-20a",
+              "title": "Leitura da Profecia de Malaquias",
+              "text": "13 \"Vossas palavras são duras contra mim, diz o Senhor, e ainda perguntais: 14 'Que dissemos contra ti?` Vós estais dizendo: 'É coisa inútil servir a Deus; que vantagem tivemos em observar seus preceitos e em levar uma vida severa na presença do Senhor dos exércitos? 15 Portanto, hoje os felizardos são os soberbos, pois consolidaram-se, praticando o mal, e, mesmo provocando a Deus, estão impunes'\". 16 Vieram, entretanto, a falar uns com os outros, os tementes a Deus. O Senhor prestou atenção e ouviu-os; em sua presença foi escrito um livro de feitos notáveis, aberto aos que temem o Senhor e têm seu nome no pensamento. 17 \"Serão para mim o tesouro, diz o Senhor dos exércitos, para o dia que eu me reservar; hei de favorecê-los, como o pai ao filho que o serve. 18 De novo vereis a distância que há entre o justo e o ímpio, entre o que serve a Deus e o que não o serve. 19 Eis que virá o dia, abrasador como fornalha, em que todos os soberbos e ímpios serão como palha; e esse dia vindouro haverá de queimá-los, diz o Senhor dos exércitos, tal que não lhes deixará raiz nem ramo. 20a Para vós, que temeis o meu nome, nascerá o sol da justiça, trazendo salvação em suas asas\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 1",
+              "chorus": "R. É feliz quem a Deus se confia!",
+              "verses": [
+                "1 Feliz é todo aquele que não anda * conforme os conselhos dos perversos; que não entra no caminho dos malvados, * nem junto aos zombadores vai sentar-se; 2 mas encontra seu prazer na lei de Deus * e a medita, dia e noite, sem cessar. R.",
+                "3 Eis que ele é semelhante a uma árvore * que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, † e jamais as suas folhas vão murchar. * Eis que tudo o que ele faz vai prosperar, R.",
+                "4 mas bem outra é a sorte dos perversos. † Ao contrário, são iguais à palha seca * espalhada e dispersada pelo vento. 6 Pois Deus vigia o caminho dos eleitos, * mas a estrada dos malvados leva à morte. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Abri-nos, ó Senhor, o coração, para ouvirmos a palavra de Jesus!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 11,5-13",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 5 \"Se um de vós tiver um amigo e for procurá-lo à meia-noite e lhe disser: 'Amigo, empresta-me três pães, 6 porque um amigo meu chegou de viagem e nada tenho para lhe oferecer', 7 e se o outro responder lá de dentro: 'Não me incomodes! Já tranquei a porta, e meus filhos e eu já estamos deitados; não me posso levantar para te dar os pães'; 8 eu vos declaro: mesmo que o outro não se levante para dá-los porque é seu amigo, vai levantar-se ao menos por causa da impertinência dele e lhe dará quanto for necessário. 9 Portanto, eu vos digo: pedi e recebereis; procurai e encontrareis; batei e vos será aberto. 10 Pois quem pede, recebe; quem procura, encontra; e, para quem bate, se abrirá. 11 Será que algum de vós que é pai, se o filho pedir um peixe, lhe dará uma cobra? 12 Ou ainda, se pedir um ovo, lhe dará um escorpião? 13 Ora, se vós que sois maus, sabeis dar coisas boas aos vossos filhos, quanto mais o Pai do Céu dará o Espírito Santo aos que o pedirem!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "08/10/25",
+      "liturgy": "27ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jn 4,1-11",
+              "title": "Leitura da Profecia de Jonas",
+              "text": "1 Este desfecho causou em Jonas profunda mágoa e irritação; 2 orou então ao Senhor, dizendo: \"Peço-te me ouças, Senhor: não era isto que eu receava, quando ainda estava em minha terra? Por isso, antecipei-me, fugindo para Társis. Sabia que és um Deus benigno e misericordioso, paciente e cheio de bondade, e que facilmente perdoas a punição. 3 E agora, Senhor, peço que me tires a minha vida, para mim é melhor morrer do que viver\". 4 Disse o Senhor: \"Achas que tens boas razões para irar-te?\" 5 Jonas saiu da cidade e estabeleceu-se na parte oriental e ali fez para si uma cabana, onde repousava à sombra, a ver o que ia acontecer à cidade. 6 O Senhor Deus fez nascer uma hera, que cresceu sobre a cabana, para dar sombra à cabeça de Jonas e abrandar seu aborrecimento. E Jonas alegrou-se grandemente por causa da hera. 7 Mas, ao raiar do dia seguinte, Deus determinou que um verme atacasse a hera, e ela secou. 8 Quando o sol se levantou, mandou Deus do oriente um vento quente; e o sol bateu forte sobre a cabeça de Jonas, que se sentiu desfalecer; teve vontade de morrer, e disse: \"Para mim é melhor morrer do que viver\". 9 Disse Deus a Jonas: \"Achas que tens boas razões para irar-te por esta hera?\" \"Sim\", respondeu ele, \"tenho razão até para morrer de raiva\". 10 O Senhor replicou-lhe: \"Tu sofres por causa desta planta, que não te custou trabalho e não fizeste crescer, que nasceu numa noite e na outra morreu. 11 E eu não haveria de salvar esta grande cidade de Nínive, em que vivem cento e vinte mil seres humanos, que não sabem distinguir a mão direita da esquerda, e um grande número de animais?\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 85(86)",
+              "chorus": "R. Ó Senhor, sois amor, paciência e perdão.",
+              "verses": [
+                "3 Piedade de mim, ó Senhor, * porque clamo por vós todo o dia! 4 Animai e alegrai vosso servo, * pois a vós eu elevo a minh'alma. R.",
+                "5 Ó Senhor, vós sois bom e clemente, * sois perdão para quem vos invoca. 6 Escutai, ó Senhor, minha prece, * o lamento da minha oração! R.",
+                "9 As nações que criastes virão * adorar e louvar vosso nome. 10 Sois tão grande e fazeis maravilhas: * vós somente sois Deus e Senhor! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Recebestes um espírito de adoção, no qual chamamos Aba! Pai!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 11,1-4",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "1 Um dia, Jesus estava rezando num certo lugar. Quando terminou, um de seus discípulos pediu-lhe: \"Senhor, ensina-nos a rezar, como também João ensinou a seus discípulos\". 2 Jesus respondeu: \"Quando rezardes, dizei: 'Pai, santificado seja o teu nome. Venha o teu Reino. 3 Dá-nos a cada dia o pão de que precisamos, 4 e perdoa-nos os nossos pecados, pois nós também perdoamos a todos os nossos devedores; e não nos deixes cair em tentação'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "31/10/25",
+      "liturgy": "30ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 9,1-5",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 1 não estou mentindo, mas, em Cristo, digo a verdade, apoiado no testemunho do Espírito Santo e da minha consciência. 2 Tenho no coração uma grande tristeza e uma dor contínua, 3 a ponto de desejar ser eu mesmo segregado por Cristo em favor de meus irmãos, os de minha raça. 4 Eles são israelitas. A eles pertencem a filiação adotiva, a glória, as alianças, as leis, o culto, as promessas 5 e também os patriarcas. Deles é que descende, quanto à sua humanidade, Cristo, o qual está acima de todos — Deus bendito para sempre! — Amém!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 147(147B)",
+              "chorus": "R. Glorifica o Senhor, Jerusalém!",
+              "verses": [
+                "12 Glorifica o Senhor, Jerusalém! * Ó Sião, canta louvores ao teu Deus! 13 Pois reforçou com segurança as tuas portas, * e os teus filhos em teu seio abençoou; R.",
+                "14 a paz em teus limites garantiu * e te dá como alimento a flor do trigo. 15 Ele envia suas ordens para a terra, * e a palavra que ele diz corre veloz. R.",
+                "19 Anuncia a Jacó sua palavra, * seus preceitos suas leis a Israel. 20 Nenhum povo recebeu tanto carinho, * a nenhum outro revelou os seus preceitos. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 14,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "1 Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 2 Diante de Jesus, havia um hidrópico. 3 Tomando a palavra, Jesus falou aos mestres da Lei e aos fariseus: \"A Lei permite curar em dia de sábado, ou não?\" 4 Mas eles ficaram em silêncio. Então Jesus tomou o homem pela mão, curou-o e despediu-o. 5 Depois lhes disse: \"Se algum de vós tem um filho ou um boi que caiu num poço, não o tira logo, mesmo em dia de sábado?\" 6 E eles não foram capazes de responder a isso."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

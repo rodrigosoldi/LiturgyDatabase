@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "21/10/25",
+      "liturgy": "29ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 5,12.15b.17-19.20b-21",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 12 o pecado entrou no mundo por um só homem. Através do pecado, entrou a morte. E a morte passou para todos os homens, porque todos pecaram. 15b A transgressão de um só levou a multidão humana à morte, mas foi de modo bem mais superior que a graça de Deus, ou seja, o dom gratuito concedido através de um só homem, Jesus Cristo, se derramou em abundância sobre todos. 17 Por um só homem, pela falta de um só homem, a morte começou a reinar. Muito mais reinarão na vida, pela mediação de um só, Jesus Cristo, os que recebem o dom gratuito e superabundante da justiça. 18 Como a falta de um só acarretou condenação para todos os homens, assim o ato de justiça de um só trouxe, para todos os homens, a justificação que dá a vida. 19 Com efeito, como pela desobediência de um só homem a humanidade toda foi estabelecida numa situação de pecado, assim também, pela obediência de um só, toda a humanidade passará para uma situação de justiça. 20b Porém, onde se multiplicou o pecado, aí superabundou a graça. 21 Enfim, como o pecado tem reinado pela morte, que a graça reine pela justiça, para a vida eterna, por Jesus Cristo, Senhor nosso."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 39(40)",
+              "chorus": "R. Eis que venho fazer, com prazer, \n a vossa vontade, Senhor!",
+              "verses": [
+                "7 Sacrifício e oblação não quisestes, * mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, † holocaustos por nossos pecados, * 8a E então eu vos disse: \"Eis que venho!\" R.",
+                "b Sobre mim está escrito no livro: † 9 \"Com prazer faço a vossa vontade, * guardo em meu coração vossa lei!\" R.",
+                "10 Boas-novas de vossa justiça † anunciei numa grande assembleia; * vós sabeis: não fechei os meus lábios! R.",
+                "17 Mas se alegre e em vós rejubile * todo ser que vos busca, Senhor! Digam sempre: \"É grande o Senhor!\" * os que buscam em vós seu auxílio. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vigiai e orai para ficardes de pé, ante o Filho do Homem!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 12,35-38",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 35 \"Que vossos rins estejam cingidos e as lâmpadas acesas. 36 Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrirem, imediatamente, a porta, logo que ele chegar e bater. 37 Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. 38 E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

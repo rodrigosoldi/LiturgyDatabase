@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "15/10/25",
+      "liturgy": "Santa Teresa de Jesus, virgem e doutora da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 2,1-11",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "1 Ó homem, qualquer que sejas, tu que julgas, não tens desculpa; pois, julgando os outros, te condenas a ti mesmo, já que fazes as mesmas coisas, tu que julgas. 2 Ora, sabemos que o julgamento de Deus se exerce segundo a verdade contra os que praticam tais coisas. 3 Ó homem, tu que julgas os que praticam tais coisas e, no entanto, as fazes também tu, pensas que escaparás ao julgamento de Deus? 4 Ou será que desprezas as riquezas de sua bondade, de sua tolerância, de sua longanimidade, não entendendo que a benignidade de Deus é um insistente convite para te converteres? 5 Por causa de teu endurecimento no mal e por teu coração impenitente, estás acumulando ira para ti mesmo, no dia da ira, quando se revelará o justo juízo de Deus. 6 Deus retribuirá a cada um segundo as suas obras. 7 Para aqueles que, perseverando na prática do bem, buscam a glória, a honra e a incorruptibilidade, Deus dará a vida eterna; 8 porém, para os que, por espírito de rebeldia, desobedecem à verdade e se submetem à iniquidade, estão reservadas ira e indignação. 9 Tribulação e angústia para toda pessoa que faz o mal, primeiro para o judeu, mas também para o grego; 10 glória, honra e paz para todo aquele que pratica o bem, primeiro para o judeu, mas também para o grego; 11 pois Deus não faz distinção de pessoas."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 61(62)",
+              "chorus": "R. Senhor, pagais a cada um, conforme suas obras.",
+              "verses": [
+                "2 Só em Deus a minha alma tem repouso, * porque dele é que me vem a salvação! 3 Só ele é meu rochedo e salvação, * a fortaleza, onde encontro segurança! R.",
+                "6 Só em Deus a minha alma tem repouso, * porque dele é que me vem a salvação! 7 Só ele é meu rochedo e salvação, * a fortaleza, onde encontro segurança! R.",
+                "9 Povo todo, esperai sempre no Senhor, † e abri diante dele o coração: * nosso Deus é um refúgio para nós! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Minhas ovelhas escutam minha voz, eu as conheço e elas me seguem."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 11,42-46",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse o Senhor: 42 \"Aí de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso, sem deixar de lado aquilo. 43 Aí de vós, fariseus, porque gostais do lugar de honra nas sinagogas, e de serdes cumprimentados nas praças públicas. 44 Aí de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber\". 45 Um mestre da Lei tomou a palavra e disse: \"Mestre, falando assim, insultas-nos também a nós!\" 46 Jesus respondeu: \"Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis, e vós mesmos não tocais nessas cargas, nem com um só dedo\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

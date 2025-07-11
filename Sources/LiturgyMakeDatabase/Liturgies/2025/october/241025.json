@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "24/10/25",
+      "liturgy": "29ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 7,18-25a",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 18 estou ciente que o bem não habita em mim, isto é, na minha carne. Pois eu tenho capacidade de querer o bem, mas não de realizá-lo. 19 Com efeito, não faço o bem que quero, mas faço o mal que não quero. 20 Ora, se faço aquilo que não quero, então já não sou eu que estou agindo, mas o pecado que habita em mim. 21 Portanto, descubro em mim esta lei: Quando quero fazer o bem, é o mal que se me apresenta. 22 Como homem interior ponho toda a minha satisfação na lei de Deus; 23 mas sinto em meus membros outra lei, que luta contra a lei da minha razão e me aprisiona na lei do pecado, essa lei que está em meus membros. 24 Infeliz que eu sou! Quem me libertará deste corpo de morte? 25a Graças sejam dadas a Deus, por Jesus Cristo, nosso Senhor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 118(119)",
+              "chorus": "R. Ensinai-me a fazer vossa vontade!",
+              "verses": [
+                "66 Dai-me bom senso, retidão, sabedoria, * pois tenho fé nos vossos santos mandamentos! R.",
+                "68 Porque sois bom e realizais somente o bem, * ensinai-me a fazer vossa vontade! R.",
+                "76 Vosso amor seja um consolo para mim, * conforme a vosso servo prometestes. R.",
+                "77 Venha a mim o vosso amor e viverei, * porque tenho em vossa lei o meu prazer! R.",
+                "93 Eu jamais esquecerei vossos preceitos, * por meio deles conservais a minha vida. R.",
+                "94 Vinde salvar-me, ó Senhor, eu vos pertenço! * Porque sempre procurei vossa vontade. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois, revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 12,54-59",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 54 Jesus dizia às multidões: \"Quando vedes uma nuvem vinda do ocidente, logo dizeis que vem chuva. E assim acontece. 55 Quando sentis soprar o vento do sul, logo dizeis que vai fazer calor. E assim acontece. 56 Hipócritas! Vós sabeis interpretar o aspecto da terra e do céu. Como é que não sabeis interpretar o tempo presente? 57 Por que não julgais por vós mesmos o que é justo? 58 Quando, pois, tu vais com o teu adversário apresentar-te diante do magistrado, procura resolver o caso com ele enquanto estais a caminho. Senão ele te levará ao juiz, o juiz te entregará ao guarda, e o guarda te jogará na cadeia. 59 Eu te digo: daí tu não sairás, enquanto não pagares o último centavo\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

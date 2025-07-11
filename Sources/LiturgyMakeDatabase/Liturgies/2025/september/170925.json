@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "17/09/25",
+      "liturgy": "24ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Tm 3,14-16",
+              "title": "Leitura da Primeira Carta de São Paulo a Timóteo",
+              "text": "Caríssimo, 14 Escrevo com a esperança de ir ver-te em breve. 15 Se tardar, porém, quero que saibas como proceder na casa de Deus, que é a Igreja de Deus vivo, coluna e fundamento da verdade. 16 Não pode haver dúvida de que é grande o mistério da piedade: Ele foi manifestado na carne, foi justificado no espírito, contemplado pelos anjos, pregado às nações, acreditado no mundo, exaltado na glória!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 110(111)",
+              "chorus": "R. Grandiosas são as obras do Senhor!\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "1 Eu agradeço a Deus de todo o coração * junto com todos os seus justos reunidos! 2 Que grandiosas são as obras do Senhor, * elas merecem todo o amor e admiração! R.",
+                "3 Que beleza e esplendor são os seus feitos! * Sua justiça permanece eternamente! 4 O Senhor bom e clemente nos deixou * a lembrança de suas grandes maravilhas. R.",
+                "5 Ele dá o alimento aos que o temem * e jamais esquecerá sua Aliança. 6 Ao seu povo manifesta seu poder, * dando a ele a herança das nações. R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Senhor, tuas palavras são espírito, são vida; só tu tens palavras de vida eterna."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 7,31-35",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus: 31 \"Com quem hei de comparar os homens desta geração? Com quem eles se parecem? 32 São como crianças que se sentam nas praças, e se dirigem aos colegas, dizendo: 'Tocamos flauta para vós e não dançastes; fizemos lamentações e não chorastes!' 33 Pois veio João Batista, que não comia pão nem bebia vinho, e vós dissestes: 'Ele está com um demônio!' 34 Veio o Filho do Homem, que come e bebe, e vós dizeis: 'Ele é um comilão e beberrão, amigo dos publicanos e dos pecadores!' 35 Mas a sabedoria foi justificada por todos os seus filhos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

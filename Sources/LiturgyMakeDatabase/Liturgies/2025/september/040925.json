@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "04/09/25",
+      "liturgy": "22ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 1,9-14",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "Irmãos, 9 desde que recebemos essas notícias, não deixamos de rezar insistentemente por vós, para que chegueis a conhecer plenamente a vontade de Deus, com toda a sabedoria e com o discernimento da luz do Espírito. 10 Pois deveis levar uma vida digna do Senhor, para lhe serdes agradáveis em tudo. Deveis produzir frutos em toda boa obra e crescer no conhecimento de Deus, 11 animados de muita força, pelo poder de sua glória, de muita paciência e constância. 12 Com alegria dai graças ao Pai, que vos tornou capazes de participar da luz, que é a herança dos santos. 13 Ele nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado, 14 por quem temos a redenção, o perdão dos pecados."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 97(98)",
+              "chorus": "R. O Senhor fez conhecer seu poder salvador,\n perante as nações.",
+              "verses": [
+                "2 O Senhor fez conhecer a salvação, * e às nações, sua justiça; 3a recordou o seu amor sempre fiel * b pela casa de Israel. R.",
+                "c Os confins do universo contemplaram * d a salvação do nosso Deus. 4 Aclamai o Senhor Deus, ó terra inteira, * alegrai-vos e exultai! R.",
+                "5 Cantai salmos ao Senhor ao som da harpa * e da cítara suave! 6 Aclamai, com os clarins e as trombetas, * ao Senhor, o nosso Rei! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vinde após mim, disse o Senhor, e eu ensinarei a pescar gente."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 5,1-11",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus estava na margem do lago de Genesaré, e a multidão apertava-se ao seu redor para ouvir a palavra de Deus. 2 Jesus viu duas barcas paradas na margem do lago. Os pescadores haviam desembarcado e lavavam as redes. 3 Subindo numa das barcas, que era de Simão, pediu que se afastasse um pouco da margem. Depois sentou-se e, da barca, ensinava as multidões. 4 Quando acabou de falar, disse a Simão: \"Avança para águas mais profundas, e lançai vossas redes para a pesca\". 5 Simão respondeu: \"Mestre, nós trabalhamos a noite inteira e nada pescamos. Mas, em atenção à tua palavra, vou lançar as redes\". 6 Assim fizeram, e apanharam tamanha quantidade de peixes que as redes se rompiam. 7 Então fizeram sinal aos companheiros da outra barca, para que viessem ajudá-los. Eles vieram, e encheram as duas barcas, a ponto de quase afundarem. 8 Ao ver aquilo, Simão Pedro atirou-se aos pés de Jesus, dizendo: \"Senhor, afasta-te de mim, porque sou um pecador!\" 9 É que o espanto se apoderara de Simão e de todos os seus companheiros, por causa da pesca que acabavam de fazer. 10 Tiago e João, filhos de Zebedeu, que eram sócios de Simão, também ficaram espantados. Jesus, porém, disse a Simão: \"Não tenhas medo! De hoje em diante tu serás pescador de homens\". 11 Então levaram as barcas para a margem, deixaram tudo e seguiram a Jesus."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

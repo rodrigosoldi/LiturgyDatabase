@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "22/09/25",
+      "liturgy": "25ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Esd 1,1-6",
+              "title": "Início do Livro de Esdras",
+              "text": "1 No primeiro ano do reinado de Ciro, rei da Pérsia, para que se cumprisse a palavra do Senhor pronunciada pela boca de Jeremias, o Senhor moveu o espírito de Ciro, rei da Pérsia, que mandou publicar em todo o seu reino, de viva voz e por escrito, a seguinte proclamação: 2 \"Assim fala Ciro, rei da Pérsia: O Senhor, Deus do Céu, me deu todos os reinos da terra e me encarregou de lhe construir um templo em Jerusalém, na terra de Judá. 3 Quem, dentre vós todos, pertence ao seu povo? Que o Senhor, seu Deus, esteja com ele, e que se ponha a caminho e suba a Jerusalém, e construa o templo do Senhor, Deus de Israel, o Deus que está em Jerusalém. 4 E a todos os sobreviventes, onde quer que residam, as pessoas do lugar proporcionem prata, ouro, bens e animais, além de donativos espontâneos para o templo de Deus, que está em Jerusalém\". 5 Então se levantaram os chefes de família de Judá e de Benjamim, os sacerdotes e os levitas, todos aqueles que se sentiram inspirados por Deus para ir edificar o templo do Senhor, que está em Jerusalém. 6 E todos os seus vizinhos lhes trouxeram toda a espécie de ajuda em prata, ouro, bens, animais e objetos preciosos, sem falar em todas as doações espontâneas."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 125(126)",
+              "chorus": "R. Maravilhas fez conosco o Senhor!",
+              "verses": [
+                "1 Quando o Senhor reconduziu nossos cativos, * parecíamos sonhar; 2a encheu-se de sorriso nossa boca, * b nossos lábios, de canções. R.",
+                "c Entre os gentios se dizia: \"Maravilhas * d fez com eles o Senhor!\" 3 Sim, maravilhas fez conosco o Senhor, * exultemos de alegria! R.",
+                "4 Mudai a nossa sorte, ó Senhor, * como torrentes no deserto. 5 Os que lançam as sementes entre lágrimas, * ceifarão com alegria. R.",
+                "6 Chorando de tristeza sairão, * espalhando suas sementes; cantando de alegria voltarão, * carregando os seus feixes! R."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vós sois a luz do mundo; brilhe a todos a vossa luz. Vendo eles vossas obras, deem glória ao Pai celeste!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 8,16-18",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus à multidão: 16 \"Ninguém acende uma lâmpada para cobri-la com uma vasilha ou colocá-la debaixo da cama; ao contrário, coloca-a no candeeiro, a fim de que todos os que entram, vejam a luz. 17 Com efeito, tudo o que está escondido deverá tornar-se manifesto; e tudo o que está em segredo deverá tornar-se conhecido e claramente manifesto. 18 Portanto, prestai atenção à maneira como vós ouvis! Pois a quem tem alguma coisa, será dado ainda mais; e àquele que não tem, será tirado até mesmo o que ele pensa ter\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
