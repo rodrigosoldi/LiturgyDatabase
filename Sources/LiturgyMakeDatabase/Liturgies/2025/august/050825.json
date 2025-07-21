@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "05/08/25",
+      "liturgy": "18ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Nm 12,1-13",
+              "title": "Leitura do Livro dos Números",
+              "text": "Naqueles dias, 1 Maria e Aarão criticaram Moisés por causa de sua mulher etíope. 2 E disseram: \"Acaso o Senhor falou só através de Moisés? Não falou, também, por meio de nós?\" E o Senhor ouviu isto. 3 Moisés era um homem muito humilde, mais do que qualquer outro sobre a terra. 4 Então o Senhor disse a Moisés, Aarão e Maria: \"Ide todos os três à Tenda da Reunião\". E eles foram. 5 O Senhor desceu na coluna de nuvem, parou à entrada da Tenda, e chamou Aarão e Maria. Quando se aproximaram, ele lhes disse: 6 \"Escutai minhas palavras! Se houver entre vós um profeta do Senhor, eu me revelarei a ele em visões e falarei com ele em sonhos. 7 O mesmo, porém, não acontece com o meu servo Moisés, que é o mais fiel em toda a minha casa! 8 Porque a ele eu falo face a face; é às claras, e não por figuras, que ele vê o Senhor! Como, pois, vos atreveis a rebaixar o meu servo Moisés?\" 9 E, indignado contra eles, o Senhor retirou-se. 10 A nuvem que estava sobre a Tenda afastou-se, e no mesmo instante, Maria se achou coberta de lepra, branca como a neve. Quando Aarão olhou para ela e a viu toda coberta de lepra, 11 disse a Moisés: \"Rogo-te, meu Senhor! Não nos faças pagar pelo pecado que tivemos a insensatez de cometer. 12 Que Maria não fique como morta, como um aborto que é lançado fora do ventre de sua mãe, já com metade da carne consumida pela lepra\". 13 Então Moisés clamou ao Senhor, dizendo: \"Ó Deus, eu te suplico, dá-lhe a cura!\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 50(51),3-4.5-6a.6bc-7.12-13 (R. cf. 3a)",
+              "chorus": "<<!R.!>> Misericórdia, ó Senhor, porque pecamos!",
+              "verses": [
+                "Tende piedade, ó meu Deus, misericórdia! *\nNa imensidão de vosso amor, purificai-me!\nLavai-me todo inteiro do pecado, *\ne apagai completamente a minha culpa! <<!R.!>>",
+                "Eu reconheço toda a minha iniquidade, *\no meu pecado está sempre à minha frente.\nFoi contra vós, só contra vós, que eu pequei, *\ne pratiquei o que é mau aos vossos olhos! <<!R.!>>",
+                "Mostrais assim quanto sois justo na sentença, *\ne quanto é reto o julgamento que fazeis.\nVede, Senhor, que eu nasci na iniquidade *\ne pecador minha mãe me concebeu. <<!R.!>>",
+                "Criai em mim um coração que seja puro, *\ndai-me de novo um espírito decidido.\nÓ Senhor, não me afasteis de vossa face, *\nnem retireis de mim o vosso Santo Espírito! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Mestre, tu és o Filho de Deus, és Rei de Israel!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 14,22-36",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Depois que a multidão comera até saciar-se, 22 Jesus mandou que os discípulos entrassem na barca e seguissem, à sua frente, para o outro lado do mar, enquanto ele despediria as multidões. 23 Depois de despedi-las, Jesus subiu ao monte, para orar a sós. A noite chegou, e Jesus continuava ali, sozinho. 24 A barca, porém, já longe da terra, era agitada pelas ondas, pois o vento era contrário. 25 Pelas três horas da manhã, Jesus veio até os discípulos, andando sobre o mar. 26 Quando os discípulos o avistaram, andando sobre o mar, ficaram apavorados, e disseram: \"É um fantasma\". E gritaram de medo. 27 Jesus, porém, logo lhes disse: \"Coragem! Sou eu. Não tenhais medo!\" 28 Então Pedro lhe disse: \"Senhor, se és tu, manda-me ir ao teu encontro, caminhando sobre a água\". 29 E Jesus respondeu: \"Vem!\" Pedro desceu da barca e começou a andar sobre a água, em direção a Jesus. 30 Mas, quando sentiu o vento, ficou com medo e começando a afundar, gritou: \"Senhor, salva-me!\" 31 Jesus logo estendeu a mão, segurou Pedro, e lhe disse: \"Homem fraco na fé, por que duvidaste?\" 32 Assim que subiram no barco, o vento se acalmou. 33 Os que estavam na barca, prostraram-se diante dele, dizendo: \"Verdadeiramente, tu és o Filho de Deus!\" 34 Após a travessia desembarcaram em Genesaré. 35 Os habitantes daquele lugar, reconheceram Jesus e espalharam a notícia por toda a região. Então levaram a ele todos os doentes; 36 e pediam que pudessem, ao menos, tocar a barra de sua veste. E todos os que a tocaram, ficaram curados."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "07/08/25",
+      "liturgy": "18ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Nm 20,1-13",
+              "title": "Leitura do Livro dos Números",
+              "text": "Naqueles dias, 1 toda a comunidade dos filhos de Israel chegou ao deserto de Sin, no primeiro mês, e o povo permaneceu em Cades. Ali morreu Maria e ali mesmo foi sepultada. 2 Como não havia água para o povo, este juntou-se contra Moisés e Aarão, 3 e, levantando-se em motim, disseram: \"Antes tivéssemos morrido, quando morreram nossos irmãos diante do Senhor! 4 Para que trouxestes a comunidade do Senhor a este deserto, a fim de que morrêssemos, nós e nossos animais? 5 Por que nos fizestes sair do Egito e nos trouxestes a este lugar detestável, em que não se pode semear, e que não produz figueiras, nem vinhas nem romãzeiras, e, além disso, não tem água para beber?\" 6 Deixando a comunidade, Moisés e Aarão foram até a entrada da Tenda da Reunião, e prostraram-se com a face em terra. E a glória do Senhor apareceu sobre eles. 7 O Senhor falou, então, a Moisés, dizendo: 8 \"Toma a tua vara e reúne o povo, tu e teu irmão Aarão; na presença deles ordenai à pedra e ela dará água. Quando fizeres sair água da pedra, dá de beber à comunidade e aos seus animais\". 9 Moisés tomou, então, a vara que estava diante do Senhor, como lhe fora ordenado. 10 Depois, Moisés e Aarão reuniram a assembleia diante do rochedo, e Moisés lhes disse: \"Ouvi, rebeldes! Podemos, acaso, fazer sair água desta pedra para vós?\" 11 E, levantando a mão, Moisés feriu duas vezes a rocha com a vara, e jorrou água em abundância, de modo que o povo e os animais puderam beber. 12 Então o Senhor disse a Moisés e a Aarão: \"Visto que não acreditastes em mim, para manifestar a minha santidade aos olhos dos filhos de Israel, não introduzireis este povo na terra que lhe vou dar\". 13 Estas são as águas de Meriba, onde os filhos de Israel disputaram contra o Senhor, e ele lhes manifestou a sua santidade."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 94(95),1-2.6-7.8-9 (R. 8ab)",
+              "chorus": "<<!R.!>> Oxalá ouvísseis hoje a sua voz:\n Não fecheis os corações como em Meriba.",
+              "verses": [
+                "Vinde, exultemos de alegria no Senhor, *\naclamemos o Rochedo que nos salva!\nAo seu encontro caminhemos com louvores, *\ne com cantos de alegria o celebremos! <<!R.!>>",
+                "Vinde adoremos e prostremo-nos por terra, *\ne ajoelhemos ante o Deus que nos criou!\nPorque ele é o nosso Deus, nosso Pastor, †\ne nós somos o seu povo e seu rebanho, *\nas ovelhas que conduz com sua mão. <<!R.!>>",
+                "Oxalá ouvísseis hoje a sua voz: †\n\"Não fecheis os corações como em Meriba, *\ncomo em Massa, no deserto, aquele dia,\nem que outrora vossos pais me provocaram, *\napesar de terem visto as minhas obras\". <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Tu és Pedro e sobre esta pedra, eu irei construir minha Igreja. E as portas do inferno não irão derrotá-la!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 16,13-23",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 13 Jesus foi à região de Cesareia de Filipe e ali perguntou aos seus discípulos: \"Quem dizem os homens ser o Filho do Homem?\" 14 Eles responderam: \"Alguns dizem que é João Batista; outros que é Elias; Outros ainda, que é Jeremias ou algum dos profetas\". 15 Então Jesus lhes perguntou: \"E vós, quem dizeis que eu sou?\" 16 Simão Pedro respondeu: \"Tu és o Messias, o Filho do Deus vivo.\" 17 Respondendo, Jesus lhe disse: \"Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18 Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19 Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus\". 20 Jesus, então, ordenou aos discípulos que não dissessem a ninguém que ele era o Messias. 21 Jesus começou a mostrar aos seus discípulos que devia ir à Jerusalém e sofrer muito da parte dos anciãos, dos sumos sacerdotes e dos mestres da Lei, e que devia ser morto e ressuscitar no terceiro dia. 22 Então Pedro tomou Jesus à parte e começou a repreendê-lo, dizendo: \"Deus não permita tal coisa, Senhor! Que isto nunca te aconteça!\" 23 Jesus, porém, voltou-se para Pedro, e disse: \"Vai para longe, Satanás! Tu és para mim uma pedra de tropeço, porque não pensas as coisas de Deus mas sim as coisas dos homens!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
