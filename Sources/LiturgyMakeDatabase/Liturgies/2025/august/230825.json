@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "23/08/25",
+      "liturgy": "Santa Rosa de Lima, virgem, Padroeira da América Latina, Festa",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Cor 10,17-11,2",
+              "title": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+              "text": "Irmãos, 17 quem se gloria, glorie-se no Senhor. 18 Pois é aprovado só aquele que o Senhor recomenda e não aquele que se recomenda a si mesmo. 11,1 Oxalá pudésseis suportar um pouco de insensatez, da minha parte. Na verdade, vós me suportais. 2 Sinto por vós um amor ciumento semelhante ao amor que Deus vos tem. Fui eu que vos desposei a um único esposo, apresentando-vos a Cristo como virgem pura."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 148,1-2.11-13a.13c-14 (R. cf. 12a.13a)",
+              "chorus": "<<!R.!>> Aleluia, Aleluia, Aleluia.\n\nOu: Vós jovens, vós moças e rapazes,\n louvai todos o nome do Senhor!",
+              "verses": [
+                "Louvai o Senhor Deus nos altos céus, *\nlouvai-o no excelso firmamento!\nLouvai-o, anjos seus, todos louvai-o, *\nlouvai-o, legiões celestiais! <<!R.!>>",
+                "Reis da terra, povos todos, bendizei-o, *\ne vós, príncipes e todos os juízes;\ne vós, jovens, e vós, moças e rapazes, †\nanciãos e criancinhas, bendizei-o! *\nLouvem o nome do Senhor, louvem-no todos. <<!R.!>>",
+                "A majestade e esplendor de sua glória *\nultrapassam em grandeza o céu e a terra.\nEle exaltou seu povo eleito em poderio *\nele é o motivo de louvor para os seus Santos.\nÉ um hino para os filhos de Israel, *\neste povo que ele ama e lhe pertence. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Ficai em meu amor, assim fala o Senhor; quem em mim permanece e no qual permaneço, esse dá muito fruto!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 13,44-46",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus à multidão: 44 \"O Reino dos Céus é como um tesouro escondido no campo. Um homem o encontra e o mantém escondido. Cheio de alegria, ele vai, vende todos os seus bens e compra aquele campo. 45 O Reino dos Céus também é como um comprador que procura pérolas preciosas. 46 Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

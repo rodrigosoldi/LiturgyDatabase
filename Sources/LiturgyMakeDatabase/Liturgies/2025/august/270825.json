@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "27/08/25",
+      "liturgy": "Santa Mônica, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 2,9-13",
+              "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "9 Irmãos, certamente ainda vos lembrais dos nossos trabalhos e fadigas. Trabalhamos dia e noite, para não sermos pesados a nenhum de vós. Foi assim que anunciamos o evangelho de Deus. 10 Vós sois testemunhas, e Deus também, de quão santo, justo, irrepreensível foi o nosso proceder para convosco, os fiéis. 11 Bem sabeis que, como um pai a seus filhos, 12 nós exortamos a cada um de vós e encorajamos e insistimos, para que vos comporteis de modo digno de Deus, que vos chama ao seu reino e à sua glória. 13 Por isso, agradecemos a Deus sem cessar por vós terdes acolhido a pregação da palavra de Deus, não como palavra humana, mas como aquilo que de fato é: Palavra de Deus, que está produzindo efeito em vós que abraçastes a fé."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 138(139),7-8.9-10.11-12ab (R. 1a)",
+              "chorus": "<<!R.!>> Senhor, vós me sondais e me conheceis!",
+              "verses": [
+                "Em que lugar me ocultarei de vosso espírito? *\nE para onde fugirei de vossa face?\nSe eu subir até os céus, ali estais; *\nse eu descer até o abismo, estais presente. <<!R.!>>",
+                "Se a aurora me emprestar as suas asas, *\npara eu voar e habitar no fim dos mares;\nmesmo lá vai me guiar a vossa mão *\ne segurar-me com firmeza a vossa destra. <<!R.!>>",
+                "Se eu pensasse: \"A escuridão venha esconder-me *\ne que a luz ao meu redor se faça noite!\"\nMesmo as trevas para vós não são escuras, *\na própria noite resplandece como o dia. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O amor de Deus se realiza em todo aquele que guarda sua palavra fielmente."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 23,27-32",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus: 27 \"Ai de vós, mestres da Lei e fariseus hipócritas! Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão! 28 Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça. 29 Aí de vós, mestres da Lei e fariseus hipócritas! Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, 30 e dizeis: 'Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas'. 31 Com isso, confessais que sois filhos daqueles que mataram os profetas. 32 Completai, pois, a medida de vossos pais!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

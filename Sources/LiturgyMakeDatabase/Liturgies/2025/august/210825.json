@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "21/08/25",
+      "liturgy": "São Pio X, papa, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jz 11,29-39a",
+              "title": "Leitura do Livro dos Juízes",
+              "text": "Naqueles dias, 29 o espírito do Senhor veio sobre Jefté e ele, atravessando Galaad e Manassés, passou por Masfa e Galaad e de lá marchou contra os filhos de Amon. 30 E Jefté fez um voto ao Senhor, dizendo: \"Se entregares os amonitas em minhas mãos, 31 a primeira pessoa que sair da porta de minha casa para vir ao meu encontro, quando eu voltar vencedor sobre os amonitas, pertencerá ao Senhor e eu a oferecerei em holocausto\". 32 Jefté passou às terras dos amonitas para combater contra eles, e o Senhor entregou-os em suas mãos. 33 E Jefté fez uma grande mortandade em vinte cidades, desde Aroer até a entrada de Menit e até Abel-Carmim, e assim os filhos de Amon foram subjugados pelos filhos de Israel. 34 Quando Jefté voltou para sua casa em Masfa, sua filha veio-lhe ao encontro, dançando ao som do tamborim. Era a sua única filha, pois não tinha mais filhos. 35 Ao vê-la, rasgou as vestes e bradou: \"Ai! Minha filha, tu me prostraste de dor! És a causa da minha desgraça! Pois fiz uma promessa ao Senhor e não posso voltar atrás\". 36 Então ela respondeu: \"Meu pai, se fizeste um voto ao Senhor, trata-me segundo o que prometeste, porque o Senhor concedeu que te vingasses de teus inimigos, os amonitas\". 37 Depois, disse ao pai: \"Concede-me apenas o que te peço: deixa-me livre dois meses para ir vagar pelos montes com minhas companheiras e chorar a minha virgindade\". 38 \"Vai!\", respondeu ele. E deixou-a partir por dois meses. Ela foi com suas companheiras chorar pelos montes a sua virgindade. 39a Passados os dois meses, voltou para o seu pai e ele cumpriu o voto que tinha feito."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 39(40),5.7-8a.8b-9.10 (R. cf. 8a.9a)",
+              "chorus": "<<!R.!>> Eis que venho fazer, com prazer,\n a vossa vontade Senhor!",
+              "verses": [
+                "É feliz quem a Deus se confia; †\nquem não segue os que adoram os ídolos *\ne se perdem por falsos caminhos. <<!R.!>>",
+                "Sacrifício e oblação não quisestes, *\nmas abristes, Senhor, meus ouvidos;\nnão pedistes ofertas nem vítimas, †\nholocaustos por nossos pecados, *\nE então eu vos disse: \"Eis que venho!\" <<!R.!>>",
+                "Sobre mim está escrito no livro: †\n\"Com prazer faço a vossa vontade, *\nguardo em meu coração vossa lei!\" <<!R.!>>",
+                "Boas-Novas de vossa justiça †\nanunciei numa grande assembleia; *\nvós sabeis: não fechei os meus lábios! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Oxalá ouvísseis hoje a sua voz: Não fecheis os corações como em Meriba!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 22,1-14",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 1 Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, 2 dizendo: \"O Reino dos Céus é como a história do rei que preparou a festa de casamento do seu filho. 3 E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram vir. 4 O rei mandou outros empregados, dizendo: 'Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos e tudo está pronto. Vinde para a festa!' 5 Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6 outros agarraram os empregados, bateram neles e os mataram. 7 O rei ficou indignado e mandou suas tropas, para matar aqueles assassinos e incendiar a cidade deles. 8 Em seguida, o rei disse aos empregados: 'A festa de casamento está pronta, mas os convidados não foram dignos dela. 9 Portanto, ide até às encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes'. 10 Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados. 11 Quando o rei entrou para ver os convidados, observou ali um homem que não estava usando traje de festa 12 e perguntou-lhe: 'Amigo, como entraste aqui sem o traje de festa?' Mas o homem nada respondeu. 13 Então o rei disse aos que serviam: 'Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Ali haverá choro e ranger de dentes'. 14 Por que muitos são chamados, e poucos são escolhidos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

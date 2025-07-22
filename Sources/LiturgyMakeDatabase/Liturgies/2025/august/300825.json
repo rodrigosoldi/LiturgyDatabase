@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "30/08/25",
+      "liturgy": "21ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 4,9-11",
+              "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "Irmãos, 9 não é preciso escrever-vos a respeito do amor fraterno, pois já aprendestes de Deus mesmo a amar-vos uns aos outros. 10 É o que já estais fazendo com todos os irmãos, em toda a Macedônia. Só podemos exortar-vos, irmãos, a progredirdes sempre mais. 11 Procurai viver com tranquilidade, dedicando-vos aos vossos afazeres e trabalhando com as próprias mãos, como recomendamos."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 97(98),1.7-8.9 (R. 9)",
+              "chorus": "<<!R.!>> O Senhor julgará as nações com justiça.",
+              "verses": [
+                "Cantai ao Senhor Deus um canto novo, *\nporque ele fez prodígios!\nSua mão e o seu braço forte e santo *\nalcançaram-lhe a vitória. <<!R.!>>",
+                "Aplauda o mar com todo ser que nele vive, *\no mundo inteiro e toda gente!\nAs montanhas e os rios batam palmas *\ne exultem de alegria, <<!R.!>>",
+                "na presença do Senhor, pois ele vem, *\nvem julgar a terra inteira.\nJulgará o universo com justiça *\ne as nações com equidade. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu vos dou novo preceito: que uns aos outros vos ameis, como eu vos tenho amado."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 25,14-30",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos esta parábola: 14 \"Um homem ia viajar para o estrangeiro. Chamou seus empregados e lhes entregou seus bens. 15 A um deu cinco talentos, a outro deu dois e ao terceiro, um; a cada qual de acordo com a sua capacidade. Em seguida viajou. 16 O empregado que havia recebido cinco talentos saiu logo, trabalhou com eles, e lucrou outros cinco. 17 Do mesmo modo, o que havia recebido dois lucrou outros dois. 18 Mas aquele que havia recebido um só, saiu, cavou um buraco na terra, e escondeu o dinheiro do seu patrão. 19 Depois de muito tempo, o patrão voltou e foi acertar contas com os empregados. 20 O empregado que havia recebido cinco talentos entregou-lhe mais cinco, dizendo: 'Senhor, tu me entregaste cinco talentos. Aqui estão mais cinco que lucrei'. 21 O patrão lhe disse: 'Muito bem, servo bom e fiel! como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!' 22 Chegou também o que havia recebido dois talentos, e disse: 'Senhor, tu me entregaste dois talentos. Aqui estão mais dois que lucrei'. 23 O patrão lhe disse: 'Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!' 24 Por fim, chegou aquele que havia recebido um talento, e disse: 'Senhor, sei que és um homem severo, pois colhes onde não plantaste e ceifas onde não semeaste. 25 Por isso fiquei com medo e escondi o teu talento no chão. Aqui tens o que te pertence'. 26 O patrão lhe respondeu: 'Servo mau e preguiçoso! Tu sabias que eu colho onde não plantei e que ceifo onde não semeei? 27 Então devias ter depositado meu dinheiro no banco, para que, ao voltar, eu recebesse com juros o que me pertence'. 28 Em seguida, o patrão ordenou: 'Tirai dele o talento e dai-o àquele que tem dez! 29 Porque a todo aquele que tem será dado mais, e terá em abundância, mas daquele que não tem, até o que tem lhe será tirado. 30 Quanto a este servo inútil, jogai-o lá fora, na escuridão. Ali haverá choro e ranger de dentes!'\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

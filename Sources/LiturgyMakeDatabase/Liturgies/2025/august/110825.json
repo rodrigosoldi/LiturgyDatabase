@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "11/08/25",
+      "liturgy": "Santa Clara, virgem, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dt 10,12-22",
+              "title": "Leitura do Livro do Deuteronômio",
+              "text": "Moisés falou ao povo, dizendo: 12 \"E agora, Israel, o que é que o Senhor teu Deus te pede? Apenas que o temas e andes em seus caminhos; que ames e sirvas ao Senhor teu Deus, com todo o teu coração e com toda a tua alma, 13 e que guardes os mandamentos e preceitos do Senhor, que hoje te prescrevo para que sejas feliz. 14 Vê: é ao Senhor teu Deus que pertencem os céus, o mais alto dos céus, a terra e tudo o que nela existe. 15 No entanto, foi a teus pais que o Senhor se afeiçoou e amou; e, depois deles, foi à sua descendência, isto é, a vós, que ele escolheu entre todos os povos, como hoje está provado. 16 Abri, pois, o vosso coração, e não endureçais mais vossa cerviz, 17 porque o vosso Deus é o Deus dos deuses e o Senhor dos senhores, o Deus grande, poderoso e terrível, que não faz acepção de pessoas nem aceita suborno. 18 Ele faz justiça ao órfão e à viúva, ama o estrangeiro e lhe dá alimento e roupa. 19 Portanto, amai os estrangeiros, porque vós também fostes estrangeiros na terra do Egito. 20 Temerás o Senhor teu Deus e só a ele servirás; a ele te apegarás e jurarás por seu nome. 21 Ele é o teu louvor, ele é o teu Deus, que fez por ti essas coisas grandes e terríveis que viste com teus próprios olhos. 22 Ao descerem para o Egito, teus pais eram apenas setenta pessoas, e agora o Senhor teu Deus te fez tão numeroso como as estrelas do céu\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 147(147B),12-13.14-15.19-20 (R. 12a)",
+              "chorus": "<<!R.!>> Glorifica o Senhor, Jerusalém!\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Glorifica o Senhor, Jerusalém! *\nÓ Sião, canta louvores ao teu Deus!\nPois reforçou com segurança as tuas portas, *\ne os teus filhos em teu seio abençoou. <<!R.!>>",
+                "A paz em teus limites garantiu *\ne te dá como alimento a flor do trigo.\nEle envia suas ordens para a terra, *\ne a palavra que ele diz corre veloz. <<!R.!>>",
+                "Anuncia a Jacó sua palavra, *\nseus preceitos suas leis a Israel.\nNenhum povo recebeu tanto carinho, *\na nenhum outro revelou os seus preceitos. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Pelo Evangelho o Pai nos chamou, a fim de alcançarmos a glória de nosso Senhor Jesus Cristo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 17,22-27",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 22 quando Jesus e os seus discípulos estavam reunidos na Galileia, ele lhes disse: \"O Filho do Homem vai ser entregue nas mãos dos homens. 23 Eles o matarão, mas no terceiro dia ele ressuscitará\". E os discípulos ficaram muito tristes. 24 Quando chegaram a Cafarnaum, os cobradores do imposto do Templo aproximaram-se de Pedro e perguntaram: \"O vosso mestre não paga o imposto do Templo?\" 25 Pedro respondeu: \"Sim, paga\". Ao entrar em casa, Jesus adiantou-se, e perguntou: \"Simão, que te parece: Os reis da terra cobram impostos ou taxas de quem: dos filhos ou dos estranhos?\" 26 Pedro respondeu: \"Dos estranhos!\" Então Jesus disse: \"Logo os filhos são livres. 27 Mas, para não escandalizar essa gente, vai ao mar, lança o anzol, e abre a boca do primeiro peixe que tu pescares. Ali tu encontrarás uma moeda; pega então a moeda e vai entregá-la a eles, por mim e por ti\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

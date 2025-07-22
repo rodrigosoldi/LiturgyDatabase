@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "24/08/25",
+      "liturgy": "21º Domingo do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 66,18-21",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "Assim diz o Senhor: 18 Eu que conheço suas obras e seus pensamentos, virei para reunir todos os povos e línguas; eles virão e verão minha glória. 19 Porei no meio deles um sinal, e enviarei, dentre os que foram salvos, mensageiros para os povos de Társis, Fut, Lud, Mosoc, Ros, Tubal e Javã, para as terras distantes, e, para aquelas que ainda não ouviram falar em mim e não viram minha glória. Esses enviados anunciarão às nações minha glória, 20 e reconduzirão, de toda parte, até meu santo monte em Jerusalém, como oferenda ao Senhor, irmãos vossos, a cavalo, em carros e liteiras, montados em mulas e dromedários, - diz o Senhor - e como os filhos de Israel, levarão sua oferenda em vasos purificados para a casa do Senhor. 21 Escolherei dentre eles alguns para serem sacerdotes e levitas, diz o Senhor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 116(117),1.2 (R. Mc 16,15)",
+              "chorus": "<<!R.!>> Proclamai o Evangelho a toda criatura!\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Cantai louvores ao Senhor, todas as gentes, *\npovos todos, festejai-o! <<!R.!>>",
+                "Pois comprovado é seu amor para conosco, *\npara sempre ele é fiel! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Hb 12,5-7.11-13",
+              "title": "Leitura da Carta aos Hebreus",
+              "text": "Irmãos: 5 Já esquecestes as palavras de encorajamento que vos foram dirigidas como a filhos: \"Meu filho, não desprezes a educação do Senhor, não te desanimes quando ele te repreende; 6 pois o Senhor corrige a quem ele ama e castiga a quem aceita como filho\". 7 É para a vossa educação que sofreis, e é como filhos que Deus vos trata. Pois qual é o filho a quem o pai não corrige? 11 No momento mesmo, nenhuma correção parece alegrar, mas causa dor. Depois, porém, produz um fruto de paz e de justiça para aqueles que nela foram exercitados. 12 Portanto, \"firmai as mãos cansadas e os joelhos enfraquecidos; 13 acertai os passos dos vossos pés\", para que não se extravie o que é manco, mas antes seja curado."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou o Caminho, a Verdade e a Vida; ninguém chega ao Pai senão por mim."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 13,22-30",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 22 Jesus atravessava cidades e povoados, ensinando e prosseguindo o caminho para Jerusalém. 23 Alguém lhe perguntou: \"Senhor, é verdade que são poucos os que se salvam?\" Jesus respondeu: 24 \"Fazei todo esforço possível para entrar pela porta estreita. Porque eu vos digo que muitos tentarão entrar e não conseguirão. 25 Uma vez que o dono da casa se levantar e fechar a porta, vós, do lado de fora, começareis a bater, dizendo: 'Senhor, abre-nos a porta!' Ele responderá: 'Não sei de onde sois.' 26 Então começareis a dizer: 'Nós comemos e bebemos diante de ti, e tu ensinaste em nossas praças!' 27 Ele, porém, responderá: 'Não sei de onde sois. Afastai-vos de mim todos vós que praticais a injustiça!' 28 Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac e Jacó, junto com todos os profetas no Reino de Deus, e vós, porém, sendo lançados fora. 29 Virão homens do oriente e do ocidente, do norte e do sul, e tomarão lugar à mesa no Reino de Deus. 30 E assim há últimos que serão primeiros, e primeiros que serão últimos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

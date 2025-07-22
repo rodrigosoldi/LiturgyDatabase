@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "28/08/25",
+      "liturgy": "Santo Agostinho, bispo e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 3,7-13",
+              "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "Irmãos, 7 ficamos confortados, em meio a toda angústia e tribulação, pela notícia acerca de vossa fé. 8 Agora sentimo-nos reviver, porque vós estais firmes no Senhor. 9 Como podemos agradecer a Deus por toda a alegria que nos invade diante do nosso Deus, por causa de vós? 10 Noite e dia rezamos efusivamente para vos rever e completar o que ainda falta na vossa fé. 11 Que o próprio Deus e nosso Pai, e nosso Senhor Jesus dirijam os nossos passos até a vós. 12 O Senhor vos conceda que o amor entre vós e para com todos aumente e transborde sempre mais, a exemplo do amor que temos por vós. 13 Que assim ele confirme os vossos corações numa santidade sem defeito aos olhos de Deus, nosso Pai, no dia da vinda de nosso Senhor Jesus, com todos os seus santos."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 89(90),3-4.12-13.14 e 17 (R. 14)",
+              "chorus": "<<!R.!>> Saciai-nos de manhã com vosso amor!",
+              "verses": [
+                "Vós fazeis voltar ao pó todo mortal, *\nquando dizeis: \"Voltai ao pó, filhos de Adão!\"\nPois mil anos para vós são como ontem, *\nqual vigília de uma noite que passou. <<!R.!>>",
+                "Ensinai-nos a contar os nossos dias, *\ne dai ao nosso coração sabedoria!\nSenhor, voltai-vos! Até quando tardareis? *\nTende piedade e compaixão de vossos servos! <<!R.!>>",
+                "Saciai-nos de manhã com vosso amor, *\ne exultaremos de alegria todo o dia!\nQue a bondade do Senhor e nosso Deus *\nrepouse sobre nós e nos conduza!\nTornai fecundo, ó Senhor, nosso trabalho, *\nfazei dar frutos o labor de nossas mãos! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vigiai, diz Jesus, vigiai, pois, no dia em que não esperais, o vosso Senhor há de vir."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 24,42-51",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo disse Jesus aos seus discípulos: 42 \"Ficai atentos! porque não sabeis em que dia virá o Senhor. 43 Compreendei bem isso: se o dono da casa soubesse a que horas viria o ladrão, certamente vigiaria e não deixaria que a sua casa fosse arrombada. 44 Por isso, também vós ficai preparados! Porque na hora em que menos pensais, o Filho do Homem virá. 45 Qual é o empregado fiel e prudente, que o senhor colocou como responsável pelos demais empregados, para lhes dar alimento na hora certa? 46 Feliz o empregado, cujo senhor o encontrar agindo assim, quando voltar. 47 Em verdade vos digo, ele lhe confiará a administração de todos os seus bens. 48 Mas, se o empregado mau pensar: 'Meu senhor está demorando', 49 e começar a bater nos companheiros, a comer e a beber com os bêbados; 50 então o senhor desse empregado virá no dia em que ele não espera, e na hora que ele não sabe. 51 Ele o partirá ao meio e lhe imporá a sorte dos hipócritas. Ali haverá choro e ranger de dentes\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

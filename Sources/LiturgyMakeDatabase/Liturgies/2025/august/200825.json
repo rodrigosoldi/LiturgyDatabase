@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "20/08/25",
+      "liturgy": "São Bernardo, abade e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jz 9,6-15",
+              "title": "Leitura do Livro dos Juízes",
+              "text": "Naquele tempo, 6 todos os habitantes de Siquém e os de Bet-Melo se reuniram junto a um carvalho que havia em Siquém e proclamaram rei a Abimelec. 7 Informado disso, Joatão foi postar-se no cume do monte Garizim e se pôs a gritar em alta voz, dizendo: \"Ouvi-me, moradores de Siquém, e que Deus vos ouça. 8 Certa vez, as árvores resolveram ungir um rei para reinar sobre elas, e disseram à oliveira: 'Reina sobre nós'. 9 Mas ela respondeu: 'Iria eu renunciar ao meu azeite, com que se honram os deuses e os homens, para me balançar acima das árvores?' 10 Então as árvores disseram à figueira: 'Vem e reina sobre nós'. 11 E ela lhes respondeu: 'Iria eu renunciar à minha doçura e aos saborosos frutos, para me balançar acima das outras árvores?' 12 As árvores disseram então à videira: 'Vem e reina sobre nós'. 13 E ela lhes respondeu: 'Iria eu renunciar ao meu vinho, que alegra os deuses e os homens, para me balançar acima das outras árvores?' 14 Por fim, todas as árvores disseram ao espinheiro: 'Vem tu reinar sobre nós'. 15 O espinheiro respondeu-lhes: 'Se deveras me constituís vosso rei, vinde e repousai à minha sombra; mas se não o quereis, saia fogo do espinheiro e devore os cedros do Líbano!'\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 20(21),2-3.4-5.6-7 (R. 2a)",
+              "chorus": "<<!R.!>> Ó Senhor, em vossa força o rei se alegra.",
+              "verses": [
+                "Ó Senhor, em vossa força o rei se alegra; *\nquanto exulta de alegria em vosso auxílio!\nO que sonhou seu coração, lhe concedestes; *\nnão recusastes os pedidos de seus lábios. <<!R.!>>",
+                "Com bênção generosa o preparastes; *\nde ouro puro coroastes sua fronte.\nA vida ele pediu e vós lhe destes, *\nlongos dias, vida longa pelos séculos. <<!R.!>>",
+                "É grande a sua glória em vosso auxílio; *\nde esplendor e majestade o revestistes.\nTransformastes o seu nome numa bênção, *\ne o cobristes de alegria em vossa face. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 20,1-16a",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos esta parábola: 1 \"O Reino dos Céus é como a história do patrão que saiu de madrugada para contratar trabalhadores para a sua vinha. 2 Combinou com os trabalhadores uma moeda de prata por dia, e os mandou para a vinha. 3 Às nove horas da manhã, o patrão saiu de novo, viu outros que estavam na praça, desocupados, 4 e lhes disse: 'Ide também vós para a minha vinha! E eu vos pagarei o que for justo'. 5 E eles foram. O patrão saiu de novo ao meio-dia e às três horas da tarde, e fez a mesma coisa. 6 Saindo outra vez pelas cinco horas da tarde, encontrou outros que estavam na praça, e lhes disse: 'Por que estais aí o dia inteiro desocupados?' 7 Eles responderam: 'Porque ninguém nos contratou'. O patrão lhes disse: 'Ide vós também para a minha vinha'. 8 Quando chegou a tarde, o patrão disse ao administrador: 'Chama os trabalhadores e paga-lhes uma diária a todos, começando pelos últimos até os primeiros!' 9 Vieram os que tinham sido contratados às cinco da tarde e cada um recebeu uma moeda de prata. 10 Em seguida vieram os que foram contratados primeiro, e pensavam que iam receber mais. Porém, cada um deles também recebeu uma moeda de prata. 11 Ao receberem o pagamento, começaram a resmungar contra o patrão: 12 'Estes últimos trabalharam uma hora só, e tu os igualaste a nós, que suportamos o cansaço e o calor o dia inteiro'. 13 Então o patrão disse a um deles: 'Amigo, eu não fui injusto contigo. Não combinamos uma moeda de prata? 14 Toma o que é teu e volta para casa! Eu quero dar a este que foi contratado por último o mesmo que dei a ti. 15 Por acaso não tenho o direito de fazer o que quero com aquilo que me pertence? Ou estás com inveja, porque estou sendo bom?' 16a Assim, os últimos serão os primeiros, e os primeiros serão os últimos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

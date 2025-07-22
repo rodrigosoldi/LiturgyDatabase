@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "19/08/25",
+      "liturgy": "20ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jz 6,11-24a",
+              "title": "Leitura do Livro dos Juízes",
+              "text": "Naqueles dias, 11 veio o anjo do Senhor e sentou-se debaixo de um carvalho que havia em Efra, e pertencia a Joás, da família de Abiezer. Gedeão, seu filho, estava sacudindo e limpando o trigo na eira, para o esconder dos madianitas, 12 quando o anjo do Senhor lhe apareceu e disse: \"O Senhor está contigo, valente guerreiro!\" 13 Gedeão respondeu: \"Se o Senhor está conosco, peço-te, Senhor, que me digas por que nos aconteceu tudo isto? Onde estão aquelas tuas maravilhas que nossos pais nos contaram, dizendo: 'O Senhor nos tirou do Egito'? Mas agora o Senhor nos abandonou e nos entregou nas mãos dos madianitas\". 14 Então o Senhor voltou-se para ele e disse: \"Vai, e com essa força que tens livra Israel da mão dos madianitas. Sou eu que te envio\". 15 Gedeão replicou-lhe: \"Dize-me, te peço, meu senhor, como poderei eu libertar Israel? Minha família é a mais humilde de Manassés, e eu sou o último na casa de meu pai\". 16 O Senhor lhe respondeu: \"Eu estarei contigo, e tu derrotarás os madianitas como se fossem um só homem\". 17 E Gedeão prosseguiu: \"Se achei graça diante de ti, dá-me um sinal de que és tu que falas comigo. 18 Não te afastes daqui, até que eu volte, com uma oferenda para te apresentar\". E o senhor respondeu: \"Ficarei aqui até voltares\". 19 Gedeão retirou-se, preparou um cabrito e, com uma medida de farinha, fez pães ázimos. Pôs a carne num cesto e o caldo numa vasilha, levou tudo para debaixo do carvalho e lhe apresentou. 20 O anjo do Senhor lhe disse: \"Toma a carne e os pães ázimos, coloca-os sobre esta pedra e derrama por cima o caldo\". E Gedeão assim fez. 21 O anjo do Senhor estendeu a ponta da vara que tinha na mão e tocou na carne e nos pães ázimos. Levantou-se então um fogo da pedra e consumiu a carne e os pães. E o anjo do senhor desapareceu da sua vista. 22 Percebendo que era o anjo do Senhor, Gedeão exclamou: \"Ai de mim, Senhor Deus, porque vi o anjo do Senhor face a face!\" 23 Mas o Senhor lhe disse: \"A paz esteja contigo, não tenhas medo: não morrerás!\" 24a Então Gedeão construiu ali mesmo um altar ao Senhor e o chamou: \"O Senhor é paz\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 84(85),9.11-12.13-14 (R. 9b)",
+              "chorus": "<<!R.!>> O Senhor anunciará a paz para o seu povo.",
+              "verses": [
+                "Quero ouvir o que o Senhor irá falar:*\né a paz que ele vai anunciar;\na paz para o seu povo e seus amigos,*\npara os que voltam ao Senhor seu coração. <<!R.!>>",
+                "A verdade e o amor se encontrarão,*\na justiça e a paz se abraçarão;\nda terra brotará a fidelidade,*\ne a justiça olhará dos altos céus. <<!R.!>>",
+                "O Senhor nos dará tudo o que é bom,*\ne a nossa terra nos dará suas colheitas;\na justiça andará na sua frente *\ne a salvação há de seguir os passos seus. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo, Senhor nosso, embora sendo rico, para nós se tornou pobre, a fim de enriquecer-nos mediante sua pobreza."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 19,23-30",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 23 Jesus disse aos discípulos: \"Em verdade vos digo, dificilmente um rico entrará no Reino dos Céus. 24 E digo ainda: é mais fácil um camelo entrar pelo buraco de uma agulha, do que um rico entrar no Reino de Deus\". 25 Ouvindo isso, os discípulos ficaram muito espantados, e perguntaram: \"Então, quem pode ser salvo?\" 26 Jesus olhou para eles e disse: \"Para os homens isso é impossível, mas para Deus tudo é possível\". 27 Pedro tomou a palavra e disse a Jesus: \"Vê! Nós deixamos tudo e te seguimos. O que haveremos de receber?\" 28 Jesus respondeu: \"Em verdade vos digo, quando o mundo for renovado e o Filho do Homem se sentar no trono de sua glória, também vós, que me seguistes, havereis de sentar-vos em doze tronos, para julgar as doze tribos de Israel. 29 E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos, campos, por causa do meu nome, receberá cem vezes mais e terá como herança a vida eterna. 30 Muitos que agora são os primeiros, serão os últimos. E muitos que agora são os últimos, serão os primeiros\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
