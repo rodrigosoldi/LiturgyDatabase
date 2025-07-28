@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "30/09/25",
+      "liturgy": "São Jerônimo, presbítero e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Zc 8,20-23",
+              "title": "Leitura da Profecia de Zacarias",
+              "text": "20 Isto diz o Senhor dos exércitos: \"Virão ainda povos e habitantes de cidades grandes, 21 dizendo os habitantes de uma para os de outra cidade: 'Vamos orar na presença do Senhor, vamos visitar o Senhor dos exércitos; eu irei também'. 22 Virão muitos povos e nações fortes visitar o Senhor dos exércitos e orar na presença do Senhor\". 23 Isto diz o Senhor dos exércitos: \"Naqueles dias, dez homens de todas as línguas faladas entre as nações vão segurar pelas bordas da roupa um homem de Judá, dizendo: 'Nós iremos convosco; porque ouvimos dizer que Deus está convosco'\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 86(87),1-3.4-5.6-7 (R. Zc 8,23)",
+              "chorus": "<<!R.!>> Nós temos ouvido que Deus está convosco.",
+              "verses": [
+                "O Senhor ama a cidade *\nque fundou no Monte santo;\nama as portas de Sião *\nmais que as casas de Jacó.\nDizem coisas gloriosas *\nda Cidade do Senhor. <<!R.!>>",
+                "Lembro o Egito e Babilônia *\nentre os meus veneradores.\nNa Filisteia ou em Tiro †\nou no país da Etiópia, *\neste ou aquele ali nasceu.\nDe Sião, porém, se diz: †\n\"Nasceu nela todo homem; *\nDeus é sua segurança\". <<!R.!>>",
+                "Deus anota no seu livro, †\nonde inscreve os povos todos: *\n\"Foi ali que estes nasceram\".\nE por isso todos juntos *\na cantar se alegrarão;\ne, dançando, exclamarão: *\n\"Estão em ti as nossas fontes!\" <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Veio o Filho do Homem, a fim de servir e dar sua vida em resgate por muitos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 9,51-56",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "51 Estava chegando o tempo de Jesus ser levado para o céu. Então ele tomou a firme decisão de partir para Jerusalém 52 e enviou mensageiros à sua frente. Estes puseram-se a caminho e entraram num povoado de samaritanos, para preparar hospedagem para Jesus. 53 Mas os samaritanos não o receberam, pois Jesus dava a impressão de que ia a Jerusalém. 54 Vendo isso, os discípulos Tiago e João disseram: \"Senhor, queres que mandemos descer fogo do céu para destruí-los?\" 55 Jesus, porém, voltou-se e repreendeu-os. 56 E partiram para outro povoado."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

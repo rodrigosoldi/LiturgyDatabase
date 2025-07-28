@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "24/09/25",
+      "liturgy": "25ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Esd 9,5-9",
+              "title": "Leitura do Livro de Esdras",
+              "text": "5 Na hora da oblação da tarde, eu, Esdras, levantei-me da minha prostração. E, com as vestes e o manto rasgados, caí de joelhos, estendi as mãos para o Senhor, meu Deus. 6 E disse: \"Meu Deus, estou coberto de vergonha e confusão ao levantar a minha face para ti, porque nossas iniquidades multiplicaram-se acima de nossas cabeças e nossas faltas se acumularam até ao céu. 7 Desde os tempos de nossos pais até este dia, uma grande culpa pesa sobre nós: por causa de nossas iniquidades, nós, nossos reis e nossos sacerdotes, fomos entregues às mãos dos reis estrangeiros, à espada, ao cativeiro, à pilhagem e à vergonha, como acontece ainda hoje. 8 Mas agora, por um breve instante, o Senhor nosso Deus concedeu-nos a graça de preservar dentre nós um resto, e de permitir que nos fixemos em seu lugar santo. Assim o nosso Deus deu brilho aos nossos olhos e concedeu-nos um pouco de vida no meio de nossa servidão. 9 Pois éramos escravos, mas em nossa servidão o nosso Deus não nos abandonou. Antes, conseguiu para nós o favor dos reis da Pérsia, deu-nos bastante vida para podermos reconstruir o templo do nosso Deus e restaurar suas ruínas, e concedeu-nos um abrigo seguro em Judá e em Jerusalém\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Tb 13,2.3-4.5.8 (R. 2a)",
+              "chorus": "<<!R.!>> Bendito seja Deus que vive eternamente!",
+              "verses": [
+                "Vós sois grande, Senhor, para sempre, *\ne vosso reino se estende nos séculos!\nPorque vós castigais e salvais, *\nfazeis descer aos abismos da terra,\ne de lá nos trazeis novamente: *\nde vossa mão nada pode escapar. <<!R.!>>",
+                "Vós que sois de Israel, dai-lhe graças *\ne por entre as nações celebrai-o!\nO Senhor dispersou-vos na terra *\npara narrardes sua glória entre os povos,\nE fazê-los saber, para sempre, *\nque não há outro Deus além dele. <<!R.!>>",
+                "Castigou-nos por nossos pecados, *\nseu amor haverá de salvar-nos.\nCompreendei o que fez para nós, *\ndai-lhe graças, com todo o respeito! <<!R.!>>",
+                "Bendizei o Senhor, seus eleitos, *\nfazei festa e alegres louvai-o! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Convertei-vos e crede no Evangelho, pois, o Reino de Deus está chegando!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 9,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus convocou os Doze, deu-lhes poder e autoridade sobre todos os demônios e para curar doenças, 2 e enviou-os a proclamar o Reino de Deus e a curar os enfermos. 3 E disse-lhes: \"Não leveis nada para o caminho: nem cajado, nem sacola, nem pão, nem dinheiro, nem mesmo duas túnicas. 4 Em qualquer casa onde entrardes, ficai aí; e daí é que partireis de novo. 5 Todos aqueles que não vos acolherem, ao sairdes daquela cidade, sacudi a poeira dos vossos pés, como protesto contra eles\". 6 Os discípulos partiram e percorriam os povoados, anunciando a Boa-Nova e fazendo curas em todos os lugares."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "05/09/25",
+      "liturgy": "22ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 1,15-20",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "15 Cristo Jesus é a imagem do Deus invisível, o primogênito de toda a criação, 16 pois por causa dele, foram criadas todas as coisas no céu e na terra, as visíveis e as invisíveis, tronos e dominações, soberanias e poderes. Tudo foi criado por meio dele e para ele. 17 Ele existe antes de todas as coisas e todas têm nele a sua consistência. 18 Ele é a Cabeça do corpo, isto é, da Igreja. Ele é o Princípio, o Primogênito dentre os mortos; de sorte que em tudo ele tem a primazia, 19 porque Deus quis habitar nele com toda a sua plenitude 20 e por ele reconciliar consigo todos os seres, os que estão na terra e no céu, realizando a paz pelo sangue da sua cruz."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 99(100),2.3.4.5 (R. 2c)",
+              "chorus": "<<!R.!>> Com canto apresentai-vos diante do Senhor!",
+              "verses": [
+                "Aclamai o Senhor, ó terra inteira, †\nservi ao Senhor com alegria, *\nide a ele cantando jubilosos! <<!R.!>>",
+                "Sabei que o Senhor, só ele, é Deus, †\nEle mesmo nos fez, e somos seus, *\nnós somos seu povo e seu rebanho. <<!R.!>>",
+                "Entrai por suas portas dando graças, †\ne em seus átrios com hinos de louvor; *\ndai-lhe graças, seu nome bendizei! <<!R.!>>",
+                "Sim, é bom o Senhor e nosso Deus, †\nsua bondade perdura para sempre, *\nseu amor é fiel eternamente! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou a luz do mundo; aquele que me segue não caminha entre as trevas, mas terá a luz da vida."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 5,33-39",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 33 os fariseus e os mestres da Lei disseram a Jesus: \"Os discípulos de João, e também os discípulos dos fariseus, jejuam com frequência e fazem orações. Mas os teus discípulos comem e bebem\". 34 Jesus, porém, lhes disse: \"Os convidados de um casamento podem fazer jejum enquanto o noivo está com eles? 35 Mas dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão\". 36 Jesus contou-lhes ainda uma parábola: \"Ninguém tira retalho de roupa nova para fazer remendo em roupa velha; senão vai rasgar a roupa nova, e o retalho novo não combinará com a roupa velha. 37 Ninguém coloca vinho novo em odres velhos; porque, senão, o vinho novo arrebenta os odres velhos e se derrama; e os odres se perdem. 38 Vinho novo deve ser colocado em odres novos. 39 E ninguém, depois de beber vinho velho, deseja vinho novo; porque diz: o velho é melhor\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

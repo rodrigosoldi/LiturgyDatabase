@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "12/09/25",
+      "liturgy": "23ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Tm 1,1-2.12-14",
+              "title": "Início da Primeira Carta de São Paulo a Timóteo",
+              "text": "1 Paulo, apóstolo de Cristo Jesus, por ordem de Deus, nosso Salvador, e de Cristo Jesus, nossa esperança, 2 a Timóteo, verdadeiro filho na fé: a graça, a misericórdia e a paz de Deus Pai e de Cristo Jesus, nosso Senhor. 12 Agradeço àquele que me deu força, Cristo Jesus, nosso Senhor, pela confiança que teve em mim ao designar-me para o seu serviço, 13 a mim, que antes blasfemava, perseguia e insultava. Mas encontrei misericórdia, porque agia com a ignorância de quem não tem fé. 14 Transbordou a graça de nosso Senhor com a fé e o amor que há em Cristo Jesus."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 15(16),1-2a e 5.7-8.11 (R. cf. 5a)",
+              "chorus": "<<!R.!>> O Senhor é a porção da minha herança!",
+              "verses": [
+                "Guardai-me, ó Deus, porque em vós me refugio! *\nDigo ao Senhor: \"Somente vós sois meu Senhor.\nÓ Senhor, sois minha herança e minha taça, *\nmeu destino está seguro em vossas mãos! <<!R.!>>",
+                "Eu bendigo o Senhor, que me aconselha, *\ne até de noite me adverte o coração.\nTenho sempre o Senhor ante meus olhos, *\npois se o tenho a meu lado não vacilo. <<!R.!>>",
+                "Vós me ensinais vosso caminho para a vida; † \njunto a vós, felicidade sem limites, *\ndelícia eterna e alegria ao vosso lado! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vossa palavra é a verdade; santificai-nos na verdade!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 6,39-42",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 39 Jesus contou uma parábola aos discípulos: Pode um cego guiar outro cego? Não cairão os dois num buraco? 40 Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. 41 Por que vês tu o cisco no olho do teu irmão, e não percebes a trave que há no teu próprio olho? 42 Como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco do teu olho, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho, e então poderás enxergar bem para tirar o cisco do olho do teu irmão."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

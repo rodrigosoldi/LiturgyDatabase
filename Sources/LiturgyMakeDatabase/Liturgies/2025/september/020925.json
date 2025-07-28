@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "02/09/25",
+      "liturgy": "22ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Ts 5,1-6.9-11",
+              "title": "Leitura da Primeira Carta de São Paulo aos Tessalonicenses",
+              "text": "1 Quanto ao tempo e à hora, meus irmãos, não há por que vos escrever. 2 Vós mesmos sabeis perfeitamente que o dia do Senhor virá como ladrão, de noite. 3 Quando as pessoas disserem: \"Paz e segurança!\", então de repente sobrevirá a destruição, como as dores de parto sobre a mulher grávida. E não poderão escapar. 4 Mas vós, meus irmãos, não estais nas trevas, de modo que esse dia vos surpreenda como um ladrão. 5 Todos vós sois filhos da luz e filhos do dia. Não somos da noite, nem das trevas. 6 Portanto, não durmamos, como os outros, mas sejamos vigilantes e sóbrios. 9 Deus não nos destinou para a ira, mas para alcançarmos a salvação, por meio de nosso Senhor Jesus Cristo. 10 Ele morreu por nós, para que, quer vigiando nesta vida, quer adormecidos na morte, alcancemos a vida junto dele. 11 Por isso, exortai-vos e edificai-vos uns aos outros como já costumais fazer."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 26(27),1.4.13-14 (R. 13)",
+              "chorus": "<<!R.!>> Sei que a bondade do Senhor eu hei de ver,\n na terra dos viventes.",
+              "verses": [
+                "O Senhor é minha luz e salvação;*\nde quem eu terei medo?\nO Senhor é a proteção da minha vida; *\nperante quem eu tremerei? <<!R.!>>",
+                "Ao Senhor eu peço apenas uma coisa, *\ne é só isto que eu desejo:\nhabitar no santuário do Senhor *\npor toda a minha vida;\nsaborear a suavidade do Senhor *\ne contemplá-lo no seu templo. <<!R.!>>",
+                "Sei que a bondade do Senhor eu hei de ver *\nna terra dos viventes.\nEspera no Senhor e tem coragem, *\nespera no Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Um grande profeta surgiu entre nós e Deus visitou o seu povo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 4,31-37",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 31 Jesus desceu a Cafarnaum, cidade da Galileia, e aí ensinava-os aos sábados. 32 As pessoas ficavam admiradas com o seu ensinamento, porque Jesus falava com autoridade. 33 Na sinagoga, havia um homem possuído pelo espírito de um demônio impuro, que gritou em alta voz: 34 \"O que queres de nós, Jesus Nazareno? Vieste para nos destruir? Eu sei quem tu és: tu és o Santo de Deus!\" 35 Jesus o ameaçou, dizendo: \"Cala-te, e sai dele!\" Então o demônio lançou o homem no chão, saiu dele, e não lhe fez mal nenhum. 36 O espanto se apossou de todos e eles comentavam entre si: \"Que palavra é essa? Ele manda nos espíritos impuros, com autoridade e poder, e eles saem\". 37 E a fama de Jesus se espalhava em todos os lugares da redondeza."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

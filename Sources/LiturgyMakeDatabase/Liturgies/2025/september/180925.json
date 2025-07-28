@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "18/09/25",
+      "liturgy": "24ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Tm 4,12-16",
+              "title": "Leitura da Primeira Carta de São Paulo a Timóteo",
+              "text": "Caríssimo, 12 ninguém te despreze por seres jovem. Pelo contrário, serve de exemplo para os fiéis, na palavra, na conduta, na caridade, na fé, na pureza. 13 Até que eu chegue, dedica-te à leitura, à exortação, ao ensino. 14 Não descuides o dom da graça que tu tens e que te foi dada por indicação da profecia, acompanhada da imposição das mãos do presbitério. 15 Com perseverança, põe estas coisas em prática, para que todos vejam o teu progresso. 16 Cuida de ti mesmo e daquilo que ensinas. Mostra-te perseverante. Assim te salvarás a ti mesmo e também àqueles que te escutam."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 110(111),7-8.9.10 (R. 2a)",
+              "chorus": "<<!R.!>> Grandiosas são as obras do Senhor!",
+              "verses": [
+                "Suas obras são verdade e são justiça, *\nseus preceitos, todos eles, são estáveis,\nconfirmados para sempre e pelos séculos, *\nrealizados na verdade e retidão. <<!R.!>>",
+                "Enviou libertação para o seu povo, †\nconfirmou sua Aliança para sempre. *\nSeu nome é santo e é digno de respeito. <<!R.!>>",
+                "Temer a Deus é o princípio do saber, †\ne é sábio todo aquele que o pratica. *\nPermaneça eternamente o seu louvor. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 7,36-50",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 36 um fariseu convidou Jesus para uma refeição em sua casa. Jesus entrou na casa do fariseu e pôs-se à mesa. 37 Certa mulher, conhecida na cidade como pecadora, soube que Jesus estava à mesa, na casa do fariseu. Ela trouxe um frasco de alabastro com perfume, 38 e, ficando por detrás, chorava aos pés de Jesus; com as lágrimas começou a banhar-lhe os pés, enxugava-os com os cabelos, cobria-os de beijos e os ungia com o perfume. 39 Vendo isso, o fariseu que o havia convidado ficou pensando: \"Se este homem fosse um profeta, saberia que tipo de mulher está tocando nele, pois é uma pecadora\". 40 Jesus disse então ao fariseu: \"Simão, tenho uma coisa para te dizer\". Simão respondeu: \"Fala, mestre!\" 41 \"Certo credor tinha dois devedores; um lhe devia quinhentas moedas de prata, o outro cinquenta. 42 Como não tivessem com que pagar, o homem perdoou os dois. Qual deles o amará mais?\" 43 Simão respondeu: \"Acho que é aquele ao qual perdoou mais\". Jesus lhe disse: \"Tu julgaste corretamente\". 44 Então Jesus virou-se para a mulher e disse a Simão: \"Estás vendo esta mulher? Quando entrei em tua casa, tu não me ofereceste água para lavar os pés; ela, porém, banhou meus pés com lágrimas e enxugou-os com os cabelos. 45 Tu não me deste o beijo de saudação; ela, porém, desde que entrei, não parou de beijar meus pés. 46 Tu não derramaste óleo na minha cabeça; ela, porém, ungiu meus pés com perfume. Por esta razão, eu te declaro: 47 os muitos pecados que ela cometeu estão perdoados porque ela mostrou muito amor. Aquele a quem se perdoa pouco mostra pouco amor\". 48 E Jesus disse à mulher: \"Teus pecados estão perdoados\". 49 Então, os convidados começaram a pensar: \"Quem é este que até perdoa pecados?\" 50 Mas Jesus disse à mulher: \"Tua fé te salvou. Vai em paz!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

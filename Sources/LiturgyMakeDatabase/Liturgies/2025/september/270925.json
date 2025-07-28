@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "27/09/25",
+      "liturgy": "São Vicente de Paulo, presbítero, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Zc 2,5-9.14-15a",
+              "title": "Leitura da Profecia de Zacarias",
+              "text": "5 Levantei os olhos e eis que vi um homem com um cordel de medir na mão. 6 Perguntei-lhe: \"Aonde vais?\" Respondeu-me: \"Vou medir Jerusalém, para ver qual é a sua largura e o seu comprimento\". 7 Eis que apareceu o anjo que falava em mim, enquanto lhe vinha ao encontro um outro anjo, 8 que lhe disse: \"Corre a falar com esse moço, dizendo: A população de Jerusalém precisa ficar sem muralha, em vista da multidão de homens e animais que vivem no seu interior. 9 Eu serei para ela, diz o Senhor, muralha de fogo ao seu redor, e mostrarei minha glória no meio dela. 14 Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. 15a Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jr 31,10.11-12ab.13 (R. 10d)",
+              "chorus": "<<!R.!>> O Senhor nos guardará qual pastor a seu rebanho.",
+              "verses": [
+                "Ouvi, nações, a palavra do Senhor *\ne anunciai-a nas ilhas mais distantes:\n\"Quem dispersou Israel, vai congregá-lo, *\ne o guardará qual pastor a seu rebanho!\" <<!R.!>>",
+                "Pois, na verdade, o Senhor remiu Jacó *\ne o libertou do poder do prepotente.\nVoltarão para o monte de Sião, †\nentre brados e cantos de alegria *\nafluirão para as bênçãos do Senhor: <<!R.!>>",
+                "Então a virgem dançará alegremente, *\ntambém o jovem e o velho exultarão;\nmudarei em alegria o seu luto, *\nserei consolo e conforto após a guerra. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo Salvador destruiu o mal e a morte; fez brilhar pelo Evangelho a luz e a vida imperecíveis."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 9,43b-45",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 43b Todos estavam admirados com todas as coisas que Jesus fazia. Então Jesus disse a seus discípulos: 44 \"Prestai bem atenção às palavras que vou dizer: O Filho do Homem vai ser entregue nas mãos dos homens\". 45 Mas os discípulos não compreendiam o que Jesus dizia. O sentido lhes ficava escondido, de modo que não podiam entender; e eles tinham medo de fazer perguntas sobre o assunto."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

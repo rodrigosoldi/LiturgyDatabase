@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "11/09/25",
+      "liturgy": "23ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 3,12-17",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "Irmãos, 12 vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, 13 suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. 14 Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. 15 Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. 16 Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. 17 Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 150,1-2.3-4.5-6 (R. 6)",
+              "chorus": "<<!R.!>> Louve o Senhor tudo o que vive e que respira.\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Louvai o Senhor Deus no santuário, *\nlouvai-o no alto céu de seu poder!\nLouvai-o por seus feitos grandiosos, *\nlouvai-o em sua grandeza majestosa! <<!R.!>>",
+                "Louvai-o com o toque da trombeta, *\nlouvai-o com a harpa e com a cítara!\nLouvai-o com a dança e o tambor, *\nlouvai-o com as cordas e as flautas! <<!R.!>>",
+                "Louvai-o com os címbalos sonoros, *\nlouvai-o com os címbalos de júbilo!\nLouve a Deus tudo o que vive e que respira, *\ntudo cante os louvores do Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Se nós nos amamos, irmãos, Deus vive unido conosco e, em nós, seu amor fica pleno!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 6,27-38",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, falou Jesus a seus discípulos: 27 \"A vós que me escutais, eu digo: Amai os vossos inimigos e fazei o bem aos que vos odeiam, 28 bendizei os que vos amaldiçoam, e rezai por aqueles que vos caluniam. 29 Se alguém te der uma bofetada numa face, oferece também a outra. Se alguém te tomar o manto, deixa-o levar também a túnica. 30 Dá a quem te pedir e, se alguém tirar o que é teu, não peças que o devolva. 31 O que vós desejais que os outros vos façam, fazei-o também vós a eles. 32 Se amais somente aqueles que vos amam, que recompensa tereis? Até os pecadores amam aqueles que os amam. 33 E se fazeis o bem somente aos que vos fazem o bem, que recompensa tereis? Até os pecadores fazem assim. 34 E se emprestais somente àqueles de quem esperais receber, que recompensa tereis? Até os pecadores emprestam aos pecadores, para receber de volta a mesma quantia. 35 Ao contrário, amai os vossos inimigos, fazei o bem e emprestai sem esperar coisa alguma em troca. Então, a vossa recompensa será grande, e sereis filhos do Altíssimo, porque Deus é bondoso também para com os ingratos e os maus. 36 Sede misericordiosos, como também o vosso Pai é misericordioso. 37 Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai, e sereis perdoados. 38 Dai e vos será dado. Uma boa medida, calcada, sacudida, transbordante será colocada no vosso colo; porque com a mesma medida com que medirdes os outros, vós também sereis medidos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

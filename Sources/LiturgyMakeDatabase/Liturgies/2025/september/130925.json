@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "13/09/25",
+      "liturgy": "São João Crisóstomo, bispo e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Tm 1,15-17",
+              "title": "Leitura da Primeira Carta de São Paulo a Timóteo",
+              "text": "Caríssimo, 15 segura e digna de ser acolhida por todos é esta palavra: Cristo veio ao mundo para salvar os pecadores. E eu sou o primeiro deles! 16 Por isso encontrei misericórdia, para que em mim, como primeiro, Cristo Jesus demonstrasse toda a grandeza de seu coração; ele fez de mim um modelo de todos os que crerem nele para alcançar a vida eterna. 17 Ao Rei dos séculos, ao único Deus, imortal e invisível, honra e glória pelos séculos dos séculos. Amém!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 112(113),1-2.3-4.5a e 6-7 (R. 2)",
+              "chorus": "<<!R.!>> Bendito seja o nome do Senhor, \n agora e para sempre!\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Louvai, louvai, ó servos do Senhor, *\nlouvai, louvai o nome do Senhor!\nBendito seja o nome do Senhor, *\nagora e por toda a eternidade! <<!R.!>>",
+                "Do nascer do sol até o seu ocaso, *\nlouvado seja o nome do Senhor!\nO Senhor está acima das nações, *\nsua glória vai além dos altos céus. <<!R.!>>",
+                "Quem pode comparar-se ao nosso Deus, *\nque se inclina para olhar o céu e a terra?\nLevanta da poeira o indigente *\ne do lixo ele retira o pobrezinho. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Quem me ama, realmente, guardará minha palavra e meu Pai o amará e a ele nós viremos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 6,43-49",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 43 \"Não existe árvore boa que dê frutos ruins, nem árvore ruim que dê frutos bons. 44 Toda árvore é reconhecida pelos seus frutos. Não se colhem figos de espinheiros, nem uvas de plantas espinhosas. 45 O homem bom tira coisas boas do bom tesouro do seu coração. Mas o homem mau tira coisas más do seu mau tesouro, pois sua boca fala do que o coração está cheio. 46 Por que me chamais: 'Senhor! Senhor!', mas não fazeis o que eu digo? 47 Vou mostrar-vos com quem se parece todo aquele que vem a mim, ouve as minhas palavras e as põe em prática. 48 É semelhante a um homem que construiu uma casa: cavou fundo e colocou o alicerce sobre a rocha. Veio a enchente, a torrente deu contra a casa, mas não conseguiu derrubá-la, porque estava bem construída. 49 Aquele, porém, que ouve e não põe em prática, é semelhante a um homem que construiu uma casa no chão, sem alicerce. A torrente deu contra a casa, e ela imediatamente desabou; e foi grande a ruína dessa casa\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
