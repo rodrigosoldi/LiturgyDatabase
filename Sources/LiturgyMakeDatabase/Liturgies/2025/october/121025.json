@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "12/10/25",
+      "liturgy": "Bem-aventurada Virgem Maria da Conceição Aparecida, Solenidade",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Est 5,1b-2;7,2b-3",
+              "title": "Leitura do Livro de Ester",
+              "text": "1b Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada. 2 Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7,2b Então, o rei lhe disse: \"O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida\". 3 Ester respondeu-lhe: \"Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida - eis o meu pedido! - e a vida do meu povo - eis o meu desejo!\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 44(45),11-12a.12b-13.14-15a.15b-16 (R. 11.12a)",
+              "chorus": "<<!R.!>> Escutai, minha filha, olhai, ouvi isto:\n que o Rei se encante com vossa beleza!",
+              "verses": [
+                "Escutai, minha filha, olhai, ouvi isto: *\n\"Esquecei vosso povo e a casa paterna! \nQue o Rei se encante com vossa beleza! *",
+                "Prestai-lhe homenagem: é vosso Senhor! <<!R.!>>",
+                "O povo de Tiro vos traz seus presentes, *\nos grandes do povo vos pedem favores.\nMajestosa, a princesa real vem chegando, *\nvestida de ricos brocados de ouro.",
+                "Em vestes vistosas ao Rei se dirige, *",
+                "e as virgens amigas lhe formam cortejo; \nentre cantos de Festa e com grande alegria, *\ningressam, então, no palácio real\". <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Ap 12,1.5.13a.15-16a",
+              "title": "Leitura do Livro do Apocalipse de São João",
+              "text": "1 Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. 5 E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono. 13a Quando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino. 15 A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir. 16a A terra, porém, veio em socorro da mulher."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Disse a mãe de Jesus aos serventes: “Fazei tudo o que Ele disser!”"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 2,1-11",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Naquele tempo, 1 houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. 2 Também Jesus e seus discípulos tinham sido convidados para o casamento. 3 Como o vinho veio a faltar, a mãe de Jesus lhe disse: \"Eles não têm mais vinho\". 4 Jesus respondeu-lhe: \"Mulher, por que dizes isto a mim? Minha hora ainda não chegou.\" 5 Sua mãe disse aos que estavam servindo: \"Fazei o que ele vos disser\". 6 Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros. 7 Jesus disse aos que estavam servindo: \"Enchei as talhas de água\". Encheram-nas até a boca. 8 Jesus disse: \"Agora tirai e levai ao mestre-sala\". E eles levaram. 9 O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água. 10 O mestre-sala chamou então o noivo e lhe disse: \"Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!\" 11 Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,7 @@
 
 # LiturgyDatabase
 
-- Liturgies from **_June, 2024, 1st_** to **_September, 2025, 30th_**
+- Liturgies from **_June, 2024, 1st_** to **_October, 2025, 31st_**
 
 **This repo is updated periodically with new liturgies**
 **All liturgies are in Portuguese**

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "25/10/25",
+      "liturgy": "Santo Antônio de Sant'Ana Galvão, religioso, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 8,1-11",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 1 não há mais condenação para aqueles que estão em Cristo Jesus. 2 Pois a lei do Espírito que dá a vida em Jesus Cristo te libertou da lei do pecado e da morte. 3 Com efeito, aquilo que era impossível para a Lei, já que ela estava enfraquecida pela carne, Deus o realizou; tendo enviado seu próprio Filho numa condição semelhante àquela da humanidade pecadora, e por causa justamente do pecado, condenou o pecado em nossa condição humana, 4 para que toda a justiça exigida pela Lei, seja cumprida em nós que não procedemos segundo a carne, mas segundo o Espírito. 5 Os que vivem segundo a carne aspiram pelas coisas da carne; os que vivem segundo o Espírito, aspiram pelas coisas do Espírito. 6 Na verdade, as aspirações da carne levam à morte e as aspirações do Espírito levam à vida e à paz. 7 Tudo isso, porque as tendências da carne são inimizade contra Deus: não se submetem - nem poderiam submeter-se - à Lei de Deus. 8 Os que vivem segundo a carne não podem agradar a Deus. 9 Vós não viveis segundo a carne, mas segundo o Espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. 10 Se, porém, Cristo está em vós, embora vosso corpo esteja ferido de morte por causa do pecado, vosso espírito está cheio de vida, graças à justiça. 11 E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito que mora em vós."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 23(24),1-2.3-4ab.5-6",
+              "chorus": "<<!R.!>> É assim a geração dos que buscam vossa face,\nó Senhor, Deus de Israel.",
+              "verses": [
+                "Ao Senhor pertence a terra e o que ela encerra,*\no mundo inteiro com os seres que o povoam;\nporque ele a tornou firme sobre os mares,*\ne sobre as águas a mantém inabalável. <<!R.!>>",
+                "\"Quem subirá até o monte do Senhor,*\nquem ficará em sua santa habitação?\"\n\"Quem tem mãos puras e inocente coração,*\nquem não dirige sua mente para o crime. <<!R.!>>",
+                "Sobre este desce a bênção do Senhor*\ne a recompensa de seu Deus e Salvador\".\n\"É assim a geração dos que o procuram,*\ne do Deus de Israel buscam a face\". <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Não quero a morte do pecador, diz o Senhor, mas que ele volte, se converta e tenha vida."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 13,1-9",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "1 Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam. 2 Jesus lhes respondeu: \"Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus, por terem sofrido tal coisa? 3 Eu vos digo que não. Mas se vós não vos converterdes, ireis morrer todos do mesmo modo. 4 E aqueles dezoito que morreram, quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém? 5 Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo\". 6 E Jesus contou esta parábola: \"Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou. 7 Então disse ao vinhateiro: 'Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?' 8 Ele, porém, respondeu: 'Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo. 9 Pode ser que venha a dar fruto. Se não der, então tu a cortarás'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

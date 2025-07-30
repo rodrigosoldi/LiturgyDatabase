@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "01/10/25",
+      "liturgy": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Ne 2,1-8",
+              "title": "Leitura do Livro de Neemias",
+              "text": "1 Era o mês de Nisã, no vigésimo ano do rei Artaxerxes. Como o vinho estivesse diante do rei, eu peguei no vinho e ofereci-o ao rei. Como em sua presença eu nunca podia estar triste, 2 o rei disse-me: \"Por que estás com a fisionomia triste? Não estás doente. Isso só pode ser tristeza do coração\". Fiquei muito apreensivo e disse ao rei: 3 \"Que o rei viva para sempre! Como o meu rosto poderia não estar triste, quando está em ruínas a cidade onde estão os túmulos de meus pais e suas portas foram consumidas pelo fogo?\" 4 E o rei disse-me: \"O que desejas?\" Então, fazendo uma oração ao Deus do céu, 5 eu disse ao rei: \"Se for do agrado do rei e se o teu servo achar graça diante de ti, deixa-me ir para a Judeia, à cidade onde se encontram os túmulos de meus pais, a fim de que possa reconstruí-la\". 6 O rei, junto de quem a rainha se sentara, perguntou-me: \"Quanto tempo vai durar a tua viagem e quando estarás de volta?\" Eu indiquei-lhe a data do regresso e ele autorizou-me a partir. 7 Eu disse ainda ao rei: \"Se parecer bem ao rei, sejam-me dadas cartas para os governadores de além do rio, para que me deixem passar, até que chegue à Judeia. 8 E também outra carta para Asaf, guarda da floresta do rei, para que me forneça madeira de construção para as portas da cidadela do templo, para as muralhas da cidade, e para a casa em que vou morar\". E o rei concedeu-me tudo, pois a bondosa mão de Deus me protegia."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 136(137),1-2.3.4-5.6 (R. 6a)",
+              "chorus": "<<!R.!>> Que se prenda a minha língua ao céu da boca,\nse de ti, Jerusalém, eu me esquecer!",
+              "verses": [
+                "Junto aos rios da Babilônia † \nnos sentávamos chorando, *\ncom saudades de Sião.\nNos salgueiros por ali *\npenduramos nossas harpas. <<!R.!>>",
+                "Pois foi lá que os opressores *\nnos pediram nossos cânticos;\nnossos guardas exigiam *\nalegria na tristeza:\n\"Cantai hoje para nós *\nalgum canto de Sião!\" <<!R.!>>",
+                "Como havemos de cantar † \nos cantares do Senhor *\nnuma terra estrangeira?\nSe de ti, Jerusalém, † \nalgum dia eu me esquecer, *\nque resseque a minha mão! <<!R.!>>",
+                "Que se cole a minha língua † \ne se prenda ao céu da boca, *\nse de ti não me lembrar!\nSe não for Jerusalém *\nminha grande alegria! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu tudo considero como perda e como lixo, a fim de eu ganhar Cristo e ser achado nele!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 9,57-62",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 57 enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: \"Eu te seguirei para onde quer que fores\". 58 Jesus lhe respondeu: \"As raposas têm tocas e os pássaros têm ninhos; mas o Filho do Homem não tem onde repousar a cabeça\". 59 Jesus disse a outro: \"Segue-me\". Este respondeu: \"Deixa-me primeiro ir enterrar meu pai\". 60 Jesus respondeu: \"Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus\". 61 Um outro ainda lhe disse: \"Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares\". 62 Jesus, porém, respondeu-lhe: \"Quem põe a mão no arado e olha para trás, não está apto para o Reino de Deus\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "29/10/25",
+      "liturgy": "30ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 8,26-30",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 26 o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemido inefáveis. 27 E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos. 28 Sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. 29 Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. 30 E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 12(13),4-5.6",
+              "chorus": "<<!R.!>> Senhor, eu confiei na vossa graça!",
+              "verses": [
+                "Olhai, Senhor, meu Deus, e respondei-me! †\nNão deixeis que se me apague a luz dos olhos *\ne se fechem, pela morte, adormecidos!\nQue o inimigo não me diga: \"Eu triunfei!\" *\nNem exulte o opressor por minha queda. <<!R.!>>",
+                "Uma vez que confiei no vosso amor! †\nMeu coração, por vosso auxílio, rejubile, *\ne que eu vos cante pelo bem que me fizestes! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Pelo Evangelho o Pai nos chamou, a fim de alcançarmos a glória de nosso Senhor Jesus Cristo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 13,22-30",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 22 Jesus atravessava cidades e povoados, ensinando e prosseguindo o caminho para Jerusalém. 23 Alguém lhe perguntou: \"Senhor, é verdade que são poucos os que se salvam?\" Jesus respondeu: 24 \"Fazei todo esforço possível para entrar pela porta estreita. Porque eu vos digo que muitos tentarão entrar e não conseguirão. 25 Uma vez que o dono da casa se levantar e fechar a porta, vós, do lado de fora, começareis a bater, dizendo: 'Senhor, abre-nos a porta!' Ele responderá: 'Não sei de onde sois'. 26 Então começareis a dizer: 'Nós comemos e bebemos diante de ti, e tu ensinaste em nossas praças!' 27 Ele, porém, responderá: 'Não sei de onde sois. Afastai-vos de mim todos vós que praticais a injustiça!' 28 Ali haverá choro e ranger de dentes, quando virdes Abraão, Isaac e Jacó, junto com todos os profetas no Reino de Deus, e vós, porém, sendo lançados fora. 29 Virão homens do oriente e do ocidente, do norte e do sul, e tomarão lugar à mesa no Reino de Deus. 30 E assim há últimos que serão primeiros, e primeiros que serão últimos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "04/10/25",
+      "liturgy": "São Francisco de Assis, religioso, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Br 4,5-12.27-29",
+              "title": "Leitura do Livro de Baruc",
+              "text": "5 Coragem, meu povo, que sois a lembrança viva de Israel: 6 fostes vendido às nações, mas não para serdes exterminados; por terdes provocado a ira de Deus é que fostes entregues aos inimigos. 7 Exasperastes Aquele que vos criou, oferecendo sacrifícios aos demônios, e não a Deus. 8 Esquecestes o Deus que vos alimentou, o Deus eterno, e entristecestes aquela que vos nutriu, Jerusalém. 9 Ela viu desabar sobre vós a ira de Deus e disse: \"Escutai, vizinhas de Sião: Deus fez cair sobre mim uma grande aflição. 10 Eu vi o cativeiro de meus filhos e filhas, que o Eterno lhes infligiu. 11 Eu os havia criado com alegria; com lágrimas e luto os vi partir. 12 Ninguém se alegre por ver-me viúva e abandonada por muitos! Por causa dos pecados de meus filhos, fiquei deserta; eles se desviaram da lei de Deus. 27 Animai-vos, meus filhos, e clamai a Deus; ele, que vos fez sofrer, há de lembrar-se de vós. 28 Como por livre vontade vos desviastes de Deus, agora, voltando, buscai-o com zelo dez vezes maior; 29 aquele que trouxe sofrimento para vós, para vós trará, com a vossa salvação, eterna alegria\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 68(69),33-35.36-37 (R. 34a)",
+              "chorus": "<<!R.!>> Nosso Deus atende a prece dos seus pobres.",
+              "verses": [
+                "Humildes, vede isto e alegrai-vos: †\no vosso coração reviverá, *\nse procurardes o Senhor continuamente!\nPois nosso Deus atende à prece dos seus pobres, *\ne não despreza o clamor de seus cativos.\nQue céus e terra glorifiquem o Senhor *\ncom o mar e todo ser que neles vive! R",
+                "Sim, Deus virá e salvará Jerusalém, †\nreconstruindo as cidades de Judá, *\nonde os pobres morarão, sendo seus donos.\nA descendência de seus servos há de herdá-las, †\ne os que amam o santo nome do Senhor *\ndentro delas fixarão sua morada! R"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do teu Reino aos pequeninos, escondendo-os aos doutores!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 10,17-24",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 17 os setenta e dois voltaram muito contentes, dizendo: \"Senhor, até os demônios nos obedeceram por causa do teu nome\". 18 Jesus respondeu: \"Eu vi Satanás cair do céu, como um relâmpago. 19 Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal. 20 Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu\". 21 Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22 Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\". 23 Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes! 24 Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

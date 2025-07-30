@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "10/10/25",
+      "liturgy": "27ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jl 1,13-15;2,1-2",
+              "title": "Leitura da Profecia de Joel",
+              "text": "13 Ponde as vestes e chorai, sacerdotes, gemei, ministros do altar. Entrai no templo, deitai-vos em sacos, ministros de Deus; a casa de vosso Deus está vazia de oblações e libações. 14 Prescrevei o jejum sagrado, convocai a assembleia, congregai os anciãos e toda a gente do povo na casa do Senhor, vosso Deus, e clamai ao Senhor: 15 \"Ai de nós neste dia!\" O dia do Senhor está às portas, está chegando com a força devastadora da tempestade. 2,1 Tocai trombeta em Sião, gritai alerta em meu santo monte; tremam os habitantes da terra, que está chegando o dia do Senhor, ele está às portas. 2 É um dia de escuridão fechada, dia de nuvens e remoinhos; como aurora espraiada nos montes, assim é um povo numeroso e forte, tal como jamais se viu algum outro nem jamais se verá, até aos anos de gerações futuras."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 9A(9),2-3.6 e 16.8-9 (R. 9a)",
+              "chorus": "<<!R.!>> O Senhor há de julgar o mundo inteiro com justiça.",
+              "verses": [
+                "Senhor, de coração vos darei graças, *\nas vossas maravilhas cantarei!\nEm vós exultarei de alegria, *\ncantarei ao vosso nome, Deus Altíssimo! <<!R.!>>",
+                "Repreendestes as nações, e os maus perdestes, *\napagastes o seu nome para sempre.\nOs maus caíram no buraco que cavaram, *\nnos próprios laços foram presos os seus pés. <<!R.!>>",
+                "Mas Deus sentou-se para sempre no seu trono, *\npreparou o tribunal do julgamento;\njulgará o mundo inteiro com justiça, *\ne as nações há de julgar com equidade. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Agora o príncipe deste mundo há de ser lançado fora; quando eu for elevado da terra, atrairei para mim todo ser."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 11,15-26",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, Jesus estava expulsando um demônio. 15 Mas alguns disseram: \"É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios\". 16 Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17 Mas, conhecendo seus pensamentos, Jesus disse-lhes: \"Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra. 18 Ora, se até Satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19 Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes. 20 Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21 Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22 Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava, e reparte o que roubou. 23 Quem não está comigo, está contra mim. E quem não recolhe comigo, dispersa. 24 Quando o espírito mau sai de um homem, fica vagando em lugares desertos, à procura de repouso; não o encontrando, ele diz: 'Vou voltar para minha casa de onde saí'. 25 Quando ele chega, encontra a casa varrida e arrumada. 26 Então ele vai, e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

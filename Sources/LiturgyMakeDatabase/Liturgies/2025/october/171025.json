@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "17/10/25",
+      "liturgy": "Santo Inácio de Antioquia, bispo e mártir, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 4,1-8",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 1 que vantagem diremos ter obtido Abraão, nosso pai segundo a carne? 2 Pois se Abraão se tornou justo em virtude das obras, está aí seu motivo de glória... mas não perante Deus! 3 Com efeito, o que diz a Escritura? \"Abraão creu em Deus, e isso lhe foi creditado como justiça\". 4 Ora, para quem faz um trabalho, o salário não é creditado como um presente gratuito, mas como uma dívida. 5 Porém, para a pessoa que, em vez de fazer um trabalho, crê naquele que torna justo o ímpio, a sua fé lhe é creditada como atestado de justiça. 6 É assim que Davi declara feliz o homem a quem Deus credita a justiça independentemente das obras: 7 \"Felizes aqueles cujas transgressões foram remidas e cujos pecados foram perdoados; 8 feliz o homem do qual Deus não leva em conta o pecado\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 31(32),1-2.5.11",
+              "chorus": "<<!R.!>> Vós sois para mim proteção e refúgio,\n eu canto bem alto a vossa salvação.",
+              "verses": [
+                "Feliz o homem que foi perdoado *\ne cuja falta já foi encoberta!\nFeliz o homem a quem o Senhor †\nnão olha mais como sendo culpado,*\ne em cuja alma não há falsidade! <<!R.!>>",
+                "Eu confessei, afinal, meu pecado, *\ne minha falta vos fiz conhecer.\nDisse: \"Eu irei confessar meu pecado!\" *\nE perdoastes, Senhor, minha falta. <<!R.!>>",
+                "Regozijai-vos, ó justos, em Deus, †\ne no Senhor exultai de alegria! *\nCorações retos, cantai jubilosos! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Sobre nós venha, Senhor, a vossa graça, da mesma forma que em vós nós esperamos!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 12,1-7",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 milhares de pessoas se reuniram, a ponto de uns pisarem os outros. Jesus começou a falar, primeiro a seus discípulos: \"Tomai cuidado com o fermento dos fariseus, que é a hipocrisia. 2 Não há nada de escondido, que não venha a ser revelado, e não há nada de oculto que não venha a ser conhecido. 3 Portanto, tudo o que tiverdes dito na escuridão, será ouvido à luz do dia; e o que tiverdes pronunciado ao pé do ouvido, no quarto, será proclamado sobre os telhados. 4 Pois bem, meus amigos, eu vos digo: não tenhais medo daqueles que matam o corpo, não podendo fazer mais do que isto. 5 Vou mostrar-vos a quem deveis temer: temei aquele que, depois de tirar a vida, tem o poder de lançar-vos no inferno. Sim, eu vos digo, a este temei. 6 Não se vendem cinco pardais por uma pequena quantia? No entanto, nenhum deles é esquecido por Deus. 7 Até mesmo os cabelos de vossa cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
