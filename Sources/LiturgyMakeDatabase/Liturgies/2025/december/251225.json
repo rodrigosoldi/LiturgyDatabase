@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "25/12/25",
+      "liturgy": "Natal de Nosso Senhor Jesus Cristo, Solenidade",
+      "liturgicalColor": "VERDE",
+      "obs": "1º Dia na Oitava de Natal",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 62,11-12",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "11 Eis que o Senhor fez-se ouvir até as extremidades da terra: \"Dizei à cidade de Sião: Eis que está chegando o teu salvador, com a recompensa já em suas mãos e o prêmio à sua disposição. 12 O povo será chamado Povo santo, os Resgatados do Senhor; e tu terás por nome Desejada, Cidade-não-abandonada\","
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "SI 96(97),1.6.11-12",
+              "chorus": "<<!R.!>> Brilha hoje uma luz sobre nós,\n pois nasceu para nós o Senhor.",
+              "verses": [
+                "Deus é Rei! Exulte a terra de alegria, *\ne as ilhas numerosas rejubilem!\nE proclama o céu sua justiça, *\ntodos os povos podem ver a sua glória. <<!R.!>>",
+                "Uma luz já se levanta para os justos, *\ne a alegria para os retos corações.\nHomens justos, alegrai-vos no Senhor, *\ncelebrai e bendizei seu santo nome! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Tt 3,4-7",
+              "title": "Leitura da Carta de São Paulo a Tito",
+              "text": "Caríssimo: 4 Manifestou-se a bondade de Deus, nosso Salvador, e o seu amor pelos homens: 5 Ele salvou-nos, não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia, quando renascemos e fomos renovados no batismo pelo Espírito Santo, 6 que ele derramou abundantemente sobre nós por meio de nosso Salvador Jesus Cristo. 7 Justificados assim pela sua graça, nos tornamos na esperança herdeiros da vida eterna."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Glória a Deus nos altos céus, e paz na terra entre os homens, que ele ama. Aleluia."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 2,15-20",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "15 Quando os anjos se afastaram, voltando para o céu, os pastores disseram entre si: \"Vamos a Belém ver este acontecimento que o Senhor nos revelou\". 16 Os pastores foram às pressas a Belém e encontraram Maria e José, e o recém-nascido deitado na manjedoura. 17 Tendo-o visto, contaram o que lhes fora dito sobre o menino. 18 E todos os que ouviram os pastores ficaram maravilhados com aquilo que contavam. 19 Quanto a Maria, guardava todos esses fatos e meditava sobre eles em seu coração. 20 Os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham visto e ouvido, conforme lhes tinha sido dito."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

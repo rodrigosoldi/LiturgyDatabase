@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "14/12/25",
+      "liturgy": "3º Domingo do Advento",
+      "liturgicalColor": "ROSA",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 35,1-6a.10",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "1 Alegre-se a terra que era deserta e intransitável, exulte a solidão e floresça como um lírio. 2 Germine e exulte de alegria e louvores. Foi-lhe dada a glória do Líbano, o esplendor do Carmelo e de Saron; seus habitantes verão a glória do Senhor, a majestade do nosso Deus. 3 Fortalecei as mãos enfraquecidas e firmai os joelhos debilitados. 4 Dizei às pessoas deprimidas: \"Criai ânimo, não tenhais medo! Vede, é vosso Deus, é a vingança que vem, é a recompensa de Deus; é ele que vem para vos salvar\". 5 Então se abrirão os olhos dos cegos e se descerrarão os ouvidos dos surdos. 6a O coxo saltará como um cervo e se desatará a língua dos mudos. 10 Os que o Senhor salvou, voltarão para casa. Eles virão a Sião cantando louvores, com infinita alegria brilhando em seus rostos: cheios de gozo e contentamento, não mais conhecerão a dor e o pranto."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 145(146),7.8-9a.9bc-lO",
+              "chorus": "<<!R.!>> Vinde Senhor, para salvar o vosso povo!\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "O Senhor é fiel para sempre, *\nfaz justiça aos que são oprimidos;\nele dá alimento aos famintos, *\né o Senhor quem liberta os cativos. <<!R.!>>",
+                "O Senhor abre os olhos aos cegos,*\no Senhor faz erguer-se o caído,\no Senhor ama aquele que é justo,*\né o Senhor que protege o estrangeiro. <<!R.!>>",
+                "Ele ampara a viúva e o órfão,*\nmas confunde os caminhos dos maus.\nO Senhor reinará para sempre!*\nÓ Sião, o teu Deus reinará. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Tg 5,7-10",
+              "title": "Leitura da Carta de São Tiago",
+              "text": "Irmãos: 7 Ficai firmes até à vinda do Senhor. Vede o agricultor: ele espera o precioso fruto da terra e fica firme até cair a chuva do outono ou da primavera. 8 Também vós, ficai firmes e fortalecei vossos corações, porque a vinda do Senhor está próxima. 9 Irmãos, não vos queixeis uns dos outros, para que não sejais julgados. Eis que o juiz está às portas. 10 Irmãos, tomai por modelo de sofrimento e firmeza os profetas, que falaram em nome do Senhor."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O Espírito do Senhor sobre mim fez a sua unção, enviou-me aos empobrecidos a fazer feliz proclamação!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 11,2-11",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 2 João estava na prisão. Quando ouviu falar das obras de Cristo, enviou-lhe alguns discípulos, 3 para lhe perguntarem: \"És tu, aquele que há de vir, ou devemos esperar um outro?\" 4 Jesus respondeu-lhes: \"Ide contar a João o que estais ouvindo e vendo: 5 os cegos recuperam a vista, os paralíticos andam, os leprosos são curados, os surdos ouvem, os mortos ressuscitam e os pobres são evangelizados. 6 Feliz aquele que não se escandaliza por causa de mim!\" 7 Os discípulos de João partiram, e Jesus começou a falar às multidões, sobre João: \"O que fostes ver no deserto? Um caniço agitado pelo vento? 8 O que fostes ver? Um homem vestido com roupas finas? Mas os que vestem roupas finas estão nos palácios dos reis. 9 Então, o que fostes ver? Um profeta? Sim, eu vos afirmo, e alguém que é mais do que profeta. 10 É dele que está escrito: 'Eis que envio o meu mensageiro à tua frente; ele vai preparar o teu caminho diante de ti'. 11 Em verdade vos digo, de todos os homens que já nasceram, nenhum é maior do que João Batista. No entanto, o menor no Reino dos Céus é maior do que ele\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

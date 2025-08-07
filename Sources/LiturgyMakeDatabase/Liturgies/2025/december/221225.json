@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "22/12/25",
+      "liturgy": "4ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 1,24-28",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 24 Ana, logo que o desmamou, levou consigo Samuel à casa do Senhor em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho. O menino, porém, era ainda uma criança. 25 Depois de sacrificarem o novilho, apresentaram o menino a Eli. 26 E Ana disse-lhe: \"Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença. 27 Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica. 28 Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida\". E adoraram o Senhor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 2,1.4-5.6-7.8abcd",
+              "chorus": "<<!R.!>> Meu coração exultou no meu Senhor, Salvador.",
+              "verses": [
+                "Exulta no Senhor meu coração, *\ne se eleva a minha fronte no meu Deus;\nMinha boca desafia os meus rivais *\nporque me alegro com a vossa salvação. <<!R.!>>",
+                "O arco dos fortes foi dobrado, foi quebrado, *\nmas os fracos se vestiram de vigor.\nOs saciados se empregaram por um pão, *\nmas os pobres e os famintos se fartaram.\nMuitas vezes deu à luz a que era estéril, *\nmas a mãe de muitos filhos definhou. <<!R.!>>",
+                "É o Senhor quem dá a morte e dá a vida, *\nfaz descer à sepultura e faz voltar;\né o Senhor quem faz o pobre e faz o rico, *\né o Senhor quem nos humilha e nos exalta. <<!R.!>>",
+                "O Senhor ergue do pó o homem fraco, *\ne do lixo ele retira o indigente,\npara fazê-los assentar-se com os nobres *\nnum lugar de muita honra e distinção. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Ó Rei e Senhor das nações, e pedra angular da Igreja, vinde salvar a mulher e o homem, que, um dia, formastes do barro."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 1,46-56",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 46 Maria disse: \"A minha alma engrandece o Senhor, 47 e o meu espírito se alegra em Deus, meu Salvador, 48 porque olhou para a humildade de sua serva. Doravante todas as gerações me chamarão bem-aventurada, 49 porque o Todo-poderoso fez grandes coisas em meu favor. O seu nome é santo, 50 e sua misericórdia se estende, de geração em geração, a todos os que o temem. 51 Ele mostrou a força de seu braço: dispersou os soberbos de coração. 52 Derrubou do trono os poderosos e elevou os humildes. 53 Encheu de bens os famintos, e despediu os ricos de mãos vazias. 54 Socorreu Israel, seu servo, lembrando-se de sua misericórdia, 55 conforme prometera aos nossos pais, em favor de Abraão e de sua descendência, para sempre\". 56 Maria ficou três meses com Isabel; depois voltou para casa."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

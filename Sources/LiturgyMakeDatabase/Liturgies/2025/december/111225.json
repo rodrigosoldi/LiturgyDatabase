@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "11/12/25",
+      "liturgy": "2ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 41,13-20",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "13 Eu sou o Senhor, teu Deus, que te tomo pela mão e te digo: \"Não temas; eu te ajudarei\". 14 Não tenhas medo, Jacó, pobre verme, não temais, homens de Israel. Eu vos ajudarei, diz o Senhor e Salvador, o Santo de Israel. 15 Eis que te transformei num carro novo de triturar, guarnecido de dentes de serra. Hás de triturar e despedaçar os montes, e reduzirás as colinas a poeira. 16 Ao expô-los ao vento, o vento os levará e o temporal os dispersará; exultarás no Senhor e te alegrarás no Santo de Israel. 17 Pobres e necessitados procuram água, mas não há, estão com a língua seca de sede. Eu, o Senhor, os atenderei, eu, Deus de Israel, não os abandonarei. 18 Farei nascer rios nas colinas escalvadas e fontes no meio dos vales; transformarei o deserto em lagos e a terra seca em nascentes d'água. 19 Plantarei no deserto o cedro, a acácia e a murta e a oliveira; crescerão no ermo o pinheiro, o olmo e o cipreste juntamente, 20 para que os homens vejam e saibam, considerem e compreendam que a mão do Senhor fez essas coisas e o Santo de Israel tudo criou."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 144(145),1.9.10-11.12-13ab",
+              "chorus": "<<!R.!>> Misericórdia e piedade é o Senhor!\nEle é amor, é paciência, é compaixão.",
+              "verses": [
+                "Ó meu Deus, quero exaltar-os, ó meu Rei, *\ne bendizer o vosso nome pelos séculos.\nO Senhor é muito bom para com todos, *\nsua ternura abraça toda criatura. <<!R.!>>",
+                "Que vossas obras, ó Senhor, vos glorifiquem, *\ne os vossos santos com louvores vos bendigam!\nNarrem a glória e o esplendor do vosso reino *\ne saibam proclamar vosso poder! <<!R.!>>",
+                "Para espalhar vossos prodígios entre os homens *\ne o fulgor de vosso reino esplendoroso.\nO vosso reino é um reino para sempre, *\nvosso poder, de geração em geração. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Que os céus, lá do alto, derramem o orvalho, que chova das nuvens o Justo esperado, que a terra se abra e germine o Senhor!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 11,11-15",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus à multidão: 11 Em verdade eu vos digo, de todos os homens que já nasceram, nenhum é maior do que João Batista. No entanto, o menor no Reino dos Céus é maior do que ele. 12 Desde os dias de João Batista até agora, o Reino dos Céus sofre violência, e são os violentos que o conquistam. 13 Com efeito, todos os profetas e a Lei profetizaram até João. 14 E se quereis aceitar, ele é o Elias que há de vir. 15 Quem tem ouvidos, ouça\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

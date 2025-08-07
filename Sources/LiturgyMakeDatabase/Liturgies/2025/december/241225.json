@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "24/12/25",
+      "liturgy": "4ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 7,1-5.8b-12.14a.16",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "1 Tendo-se o rei Davi instalado já em sua casa e tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, 2 ele disse ao profeta Natã: \"Vê: eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!\" 3 Natã respondeu ao rei: \"Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo\". 4 Mas, naquela mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: 5 \"Vai dizer ao meu servo Davi: Assim fala o Senhor: 'Porventura és tu que me construirás uma casa para eu habitar? 8b Fui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel. 9 Estive contigo em toda a parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra. 10 Vou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado. Os homens violentos não tornarão a oprimi-lo como outrora, 11 no tempo em que eu estabelecia juízes sobre o meu povo, Israel. Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos. E o Senhor te anuncia que te fará uma casa. 12 Quando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza. 14a Eu serei para ele um pai e ele será para mim um filho. 16 Tua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre' \"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 88(89),2-3.4-5.27 e 29",
+              "chorus": "<<!R.!>> Ó Senhor, eu cantarei eternamente o vosso amor!",
+              "verses": [
+                "Ó Senhor, eu cantarei eternamente o vosso amor, *\nde geração em geração eu cantarei vossa verdade!\nPorque dissestes: \"O amor é garantido para sempre!\" *\nE a vossa lealdade é tão firme como os céus. <<!R.!>>",
+                "\"Eu firmei uma Aliança com meu servo, meu eleito, *\ne eu fiz um juramento a Davi, meu servidor.\nPara sempre, no teu trono, firmarei tua linhagem, *\nde geração em geração garantirei o teu reinado!\" <<!R.!>>",
+                "Ele, então, me invocará: 'Ó Senhor, vós sois meu Pai, *\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\nGuardarei eternamente para ele a minha graça *\ne com ele firmarei minha Aliança indissolúvel. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Ó Sol da manhã, ó Sol de justiça, da eterna luz esplendor: oh, vinde brilhar para o povo sentado, na sombra da morte."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 1,67-79",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 67 Zacarias, o pai de João, repleto do Espírito Santo, profetizou, dizendo: 68 \"Bendito seja o Senhor, Deus de Israel, porque a seu povo visitou e libertou. 69 Fez aparecer para nós uma força de salvação na casa de seu servo Davi, 70 como tinha prometido desde outrora, pela boca de seus santos profetas, 71 para nos salvar dos nossos inimigos e da mão de todos os que nos odeiam. 72 Ele usou de misericórdia para com nossos pais, recordando-se de sua santa aliança 73 e do juramento que fez a nosso pai Abraão, para conceder-nos, 74 que, sem temor e libertos das mãos dos inimigos, nós o sirvamos, 75 com santidade e justiça, em sua presença, todos os nossos dias. 76 E tu, Menino, serás chamado profeta do Altíssimo, pois irás adiante do Senhor para preparar-lhe os caminhos, 77 anunciando ao seu povo a salvação, pelo perdão dos seus pecados. 78 Graças à misericordiosa compaixão do nosso Deus, o sol que nasce do alto nos visitará, 79 para iluminar os que jazem nas trevas e nas sombras da morte, e dirigir nossos passos no caminho da paz.\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

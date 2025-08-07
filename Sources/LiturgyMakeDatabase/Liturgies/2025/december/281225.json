@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "28/12/25",
+      "liturgy": "Sagrada Família de Jesus, Maria e José, Festa",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Eclo 3,3-7.14-17a",
+              "title": "Leitura do Livro do Eclesiástico",
+              "text": "3 Deus honra o pai nos filhos e confirma, sobre eles, a autoridade da mãe. 4 Quem honra o seu pai, alcança o perdão dos pecados; evita cometê-los e será ouvido na oração cotidiana. 5 Quem respeita a sua mãe é como alguém que ajunta tesouros. 6 Quem honra o seu pai, terá alegria com seus próprios filhos; e, no dia em que orar, será atendido. 7 Quem respeita o seu pai, terá vida longa, e quem obedece ao pai é o consolo da sua mãe. 14 Meu filho, ampara o teu pai na velhice e não lhe causes desgosto enquanto ele vive. 15 Mesmo que ele esteja perdendo a lucidez, procura ser compreensivo para com ele; não o humilhes, em nenhum dos dias de sua vida, a caridade feita a teu pai não será esquecida, 16 mas servirá para reparar os teus pecados 17a e, na justiça, será para tua edificação."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 127(128),1-2.3.4-5",
+              "chorus": "<<!R.!>> Felizes os que temem o Senhor e trilham seus caminhos!",
+              "verses": [
+                "Feliz és tu se temes o Senhor *\ne trilhas seus caminhos!\nDo trabalho de tuas mãos hás de viver, *\nserás feliz, tudo irá bem! <<!R.!>>",
+                "A tua esposa é uma videira bem fecunda *\nno coração da tua casa;\nos teus filhos são rebentos de oliveira *\nao redor de tua mesa. <<!R.!>>",
+                "Será assim abençoado todo homem *\nque teme o Senhor.\nO Senhor te abençoe de Sião, *\ncada dia de tua vida. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 3,12-21",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "Irmãos: 12 Vós sois amados por Deus, sois os seus santos eleitos. Por isso, revesti-vos de sincera misericórdia, bondade, humildade, mansidão e paciência, 13 suportando-vos uns aos outros e perdoando-vos mutuamente, se um tiver queixa contra o outro. Como o Senhor vos perdoou, assim perdoai vós também. 14 Mas, sobretudo, amai-vos uns aos outros, pois o amor é o vínculo da perfeição. 15 Que a paz de Cristo reine em vossos corações, à qual fostes chamados como membros de um só corpo. E sede agradecidos. 16 Que a palavra de Cristo, com toda a sua riqueza, habite em vós. Ensinai e admoestai-vos uns aos outros com toda a sabedoria. Do fundo dos vossos corações, cantai a Deus salmos, hinos e cânticos espirituais, em ação de graças. 17 Tudo o que fizerdes, em palavras ou obras, seja feito em nome do Senhor Jesus Cristo. Por meio dele dai graças a Deus, o Pai. 18 Esposas, sede solícitas para com vossos maridos, como convém, no Senhor. 19 Maridos, amai vossas esposas e não sejais grosseiros com elas. 20 Filhos, obedecei em tudo aos vossos pais, pois isso é bom e correto no Senhor. 21 Pais, não intimideis os vossos filhos, para que eles não desanimem."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Que a paz de Cristo reine em vossos corações e ricamente habite em vós sua palavra!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 2,13-15.19-23",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "13 Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse: \"Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo\". 14 José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. 15 Ali ficou até à morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta: \"Do Egito chamei o meu Filho\". 19 Quando Herodes morreu, o anjo do Senhor apareceu em sonho a José, no Egito, 20 e lhe disse: \"Levanta-te, pega o menino e sua mãe, e volta para a terra de Israel; pois aqueles que procuravam matar o menino já estão mortos\". 21 José levantou-se, pegou o menino e sua mãe, entrou na terra de Israel. 22 Mas, quando soube que Arquelau reinava na Judeia, no lugar de seu pai Herodes, teve medo de ir para lá. Por isso, depois de receber um aviso em sonho, José retirou-se para a região da Galileia, 23 e foi morar numa cidade chamada Nazaré. Isso aconteceu para se cumprir o que foi dito pelos profetas: \"Ele será chamado Nazareno\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

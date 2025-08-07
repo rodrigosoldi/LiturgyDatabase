@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "15/12/25",
+      "liturgy": "3ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Nm 24,2-7.15-17a",
+              "title": "Leitura do Livro dos Números",
+              "text": "Naqueles dias, 2 Balaão levantou os olhos e viu Israel acampado por tribos. O espírito de Deus veio sobre ele, 3 e Balaão pronunciou seu poema: \"Oráculo de Balaão, filho de Beor, oráculo do homem que tem os olhos abertos; 4 oráculo daquele que ouve as palavras de Deus, que vê o que o Poderoso lhe faz ver, que cai, e seus olhos se abrem. 5 Como são belas as tuas tendas, ó Jacó, e as tuas moradas, ó Israel! 6 Elas se estendem como vales, como jardins ao longo de um rio, como aloés que o Senhor plantou, como cedros junto das águas. 7 A água transborda de seus cântaros, e sua semente é ricamente regada. Seu rei é mais poderoso do que Agag, seu reino está em ascensão\". 15 E Balaão continuou pronunciando o seu poema: \"Oráculo de Balaão, filho de Beor, oráculo do homem que tem os olhos abertos, 16 oráculo daquele que ouve as palavras de Deus, e conhece os pensamentos do Altíssimo, que vê o que o Poderoso lhe faz ver, que cai, e seus olhos se abrem. 17a Eu o vejo, mas não agora; e o contemplo, mas não de perto. Uma estrela sai de Jacó, e um cetro se levanta de Israel\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 24(25),4bc-5ab.6-7bc.8-9",
+              "chorus": "<<!R.!>> Fazei-me conhecer a vossa estrada, ó Senhor!",
+              "verses": [
+                "Mostrai-me, ó Senhor, vossos caminhos, *\ne fazei-me conhecer a vossa estrada!\nVossa verdade me oriente e me conduza, *\nporque sois o Deus da minha salvação. <<!R.!>>",
+                "Recordai, Senhor meu Deus, vossa ternura *\ne a vossa compaixão que são eternas!\nDe mim lembrai-vos, porque sois misericórdia *\ne sois bondade sem limites, ó Senhor! <<!R.!>>",
+                "O Senhor é piedade e retidão, *\ne reconduz ao bom caminho os pecadores.\nEle dirige os humildes na justiça, *\ne aos pobres ele ensina o seu caminho. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Mostrai-nos, ó Senhor, vossa bondade e a vossa salvação nos concedei!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 21,23-27",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 23 Jesus voltou ao Templo. Enquanto ensinava, os sumos sacerdotes e os anciãos do povo aproximaram-se dele e perguntaram: \"Com que autoridade fazes estas coisas? Quem te deu tal autoridade?\" 24 Jesus respondeu-lhes: \"Também eu vos farei uma pergunta. Se vós me responderdes, também eu vos direi com que autoridade faço estas coisas. 25 Donde vinha o batismo de João? Do céu ou dos homens?\" Eles refletiam entre si: \"Se dissermos: 'Do céu', ele nos dirá: 'Por que não acreditastes nele?' 26 Se dissermos: 'Dos homens', temos medo do povo, pois todos têm João Batista na conta de profeta\". 27 Eles então responderam a Jesus: \"Não sabemos\". Ao que Jesus também respondeu: \"Eu também não vos direi com que autoridade faço estas coisas\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

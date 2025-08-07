@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "01/12/25",
+      "liturgy": "1ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 4,2-6",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "2 Naquele dia, o povo do Senhor terá esplendor e glória, e o fruto da terra será de grande alegria para os sobreviventes de Israel. 3 Então, os que forem deixados em Sião, os sobreviventes de Jerusalém, serão chamados santos, a saber, todos os destinados à vida em Jerusalém. 4 Quando o Senhor tiver lavado as imundícies das filhas de Sião, e limpado as manchas de sangue dentro de Jerusalém, com espírito de justiça e de purificação, 5 ele criará em todo lugar do monte Sião e em suas assembleias uma nuvem durante o dia, e fumaça e clarão de chamas durante a noite: e será proteção para toda a sua glória, 6 uma tenda para dar sombra contra o calor do dia, abrigo e refúgio contra a ventania e a chuva."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 121(122),1-2.3-4a.4b-5.6-7.8-9",
+              "chorus": "<<!R.!>> Que alegria, quando me disseram:\n \"Vamos à casa Senhor!\"",
+              "verses": [
+                "Que alegria, quando ouvi que me disseram: *\n\"Vamos à casa Senhor!\"\nE agora nossos pés já se detêm, *\nJerusalém, em tuas portas. <<!R.!>>\nJerusalém, cidade bem edificada *\nnum conjunto harmonioso;\npara lá sobem as tribos de Israel, *\nas tribos do Senhor. <<!R.!>>",
+                "Para louvar, segundo a lei de Israel,*\no nome do Senhor.\nA sede da justiça lá está *\ne o trono de Davi. <<!R.!>>",
+                "Rogai que viva em paz Jerusalém,*\ne em segurança os que te amam!\nQue a paz habite dentro de teus muros,*\ntranquilidade em teus palácios! <<!R.!>>",
+                "Por amor a meus irmãos e meus amigos,*\npeço: \"A paz esteja em ti!\"\nPelo amor que tenho à casa do Senhor,*\neu te desejo todo bem! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Ó vinde libertar-nos, Senhor e nosso Deus; mostrai a vossa face e nós seremos salvos!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 8,5-11",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 5 quando Jesus entrou em Cafarnaum, um oficial romano aproximou-se dele, suplicando: 6 \"Senhor, o meu empregado está de cama, lá em casa, sofrendo terrivelmente com uma paralisia\". 7 Jesus respondeu: \"Vou curá-lo\". 8 O oficial disse: \"Senhor, eu não sou digno de que entres em minha casa. Dize uma só palavra e o meu empregado ficará curado. 9 Pois eu também sou subordinado e tenho soldados debaixo de minhas ordens. E digo a um : 'Vai!', e ele vai; e a outro: 'Vem!', e ele vem; e digo ao meu escravo: 'Faze isto!', e ele faz\". 10 Quando ouviu isso, Jesus ficou admirado, e disse aos que o seguiam: \"Em verdade, vos digo: nunca encontrei em Israel alguém que tivesse tanta fé. 11 Eu vos digo: muitos virão do Oriente e do Ocidente, e se sentarão à mesa no Reino dos Céus, junto com Abraão, Isaac e Jacó\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

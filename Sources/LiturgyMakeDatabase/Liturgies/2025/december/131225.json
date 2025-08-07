@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "13/12/25",
+      "liturgy": "Santa Luzia, virgem e mártir, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Eclo 48,1-4.9-11",
+              "title": "Leitura do Livro do Eclesiástico",
+              "text": "Naqueles dias, 1 o profeta Elias surgiu como um fogo, e sua palavra queimava como uma tocha. 2 Fez vir a fome sobre eles e, no seu zelo, reduziu-os a pouca gente. 3 Pela palavra do Senhor fechou o céu e de lá fez cair fogo por três vezes. 4 Ó Elias, como te tornaste glorioso por teus prodígios! Quem poderia gloriar-se de ser semelhante a ti? 9 Tu foste arrebatado num turbilhão de fogo, num carro de cavalos também de fogo, 10 tu, nas ameaças para os tempos futuros, foste designado para acalmar a ira do Senhor antes do furor, para reconduzir o coração do pai ao filho, e restabelecer as tribos de Jacó. 11 Felizes os que te viram, e os que adormeceram na tua amizade!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 79(80),2ac e 3b.15-16.18-19",
+              "chorus": "<<!R.!>> Convertei-nos, ó Senhor,\nresplandecei a vossa face e nós seremos salvos!",
+              "verses": [
+                "Ó Pastor de Israel, prestai ouvidos.*\nVós que sobre os querubins vos assentais.\nDespertai vosso poder, ó nosso Deus*\ne vinde logo nos trazer a salvação! <<!R.!>>",
+                "Voltai-vos para nós, Deus do universo!†\nOlhai dos altos céus e observai.*\nVisitai a vossa vinha e protegei-a!\nFoi a vossa mão direita que a plantou;*\nprotegei-a, e ao rebento que firmastes! <<!R.!>>",
+                "Pousai a mão por sobre o vosso Protegido,*\no filho do homem que escolhestes para vós!\nE nunca mais vos deixaremos, Senhor Deus!*\nDai-nos vida, e louvaremos vosso nome! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Preparai o caminho do Senhor, endireitai suas veredas! Toda carne há de ver a salvação que vem de Deus!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 17,10-13",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Ao descerem do monte, 10 os discípulos perguntaram a Jesus: \"Por que os mestres da Lei dizem que Elias deve vir primeiro?\" 11 Jesus respondeu: \"Elias vem e colocará tudo em ordem. 12 Ora, eu vos digo: Elias já veio, mas eles não o reconheceram. Ao contrário, fizeram com ele tudo o que quiseram. Assim também o Filho do Homem será maltratado por eles\". 13 Então os discípulos compreenderam que Jesus lhes falava de João Batista."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

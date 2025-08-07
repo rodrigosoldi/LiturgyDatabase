@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "09/12/25",
+      "liturgy": "2ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 40,1-11",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "1 Consolai o meu povo, consolai-o! - diz o vosso Deus. 2 Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados. 3 Grita uma voz: \"Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus. 4 Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: 5 a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou\". 6 Dizia uma voz: \"Grita!\" E respondi: \"O que devo gritar?\" A criatura humana é feno, toda a sua glória é como flor do campo; 7 seca o feno, murcha a flor ao soprar o Senhor sobre eles. Sim, o povo é feno. 8 Seca o feno, murcha a flor, mas a palavra de nosso Deus fica para sempre. 9 Sobe a um alto monte, tu, que trazes a boa nova a Sião; levanta com força a tua voz, tu, que trazes a boa nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: \"Eis o vosso Deus, 10 eis que o Senhor Deus vem com poder, seu braço tudo domina: eis, com ele, sua conquista, eis à sua frente a vitória. 11 Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 95(96),1-2.3e10ac.11-12.13",
+              "chorus": "<<!R.!>> Olhai e vede: o nosso Deus vem com poder!",
+              "verses": [
+                "Cantai ao Senhor Deus um canto novo,*\ncantai ao Senhor Deus, ó terra inteira!\nCantai e bendizei seu santo nome!*\nDia após dia anunciai sua salvação. <<!R.!>>",
+                "Manifestai a sua glória entre as nações, *\ne entre os povos do universo seus prodígios!\nPublicai entre as nações: \"Reina o Senhor!\" *\ne os povos ele julga com justiça. <<!R.!>>",
+                "O céu se rejubile e exulte a terra, *\naplauda o mar com o que vive em suas águas;\nos campos com seus frutos rejubilem *\ne exultem as florestas e as matas <<!R.!>>",
+                "na presença do Senhor, pois ele vem, *\nporque vem para julgar a terra inteira.\nGovernará o mundo todo com justiça, *\ne os povos julgará com lealdade. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Está perto o dia do Senhor, ele mesmo virá salvar-nos!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 18,12-14",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 12 \"Que vos parece? Se um homem tem cem ovelhas, e uma delas se perde, não deixa ele as noventa e nove nas montanhas, para procurar aquela que se perdeu? 13 Em verdade vos digo, se ele a encontrar, ficará mais feliz com ela, do que com as noventa e nove que não se perderam. 14 Do mesmo modo, o Pai que está nos céus não deseja que se perca nenhum desses pequeninos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

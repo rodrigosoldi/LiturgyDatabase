@@ -11,7 +11,7 @@ When the user says "build and deploy" or "bd", execute the following sequence:
      * Current liturgy date range (by scanning the Liturgies folder structure)
      * Update any version references if needed
      * Ensure all information is current and accurate
-   - Automatically generate and update a CHANGELOG.md
+   - Automatically generate and update a CHANGELOG.md, even if it's not created yet
    - Add all changes to staging with `git add -A`
    - Get the latest tag number and increment it by 1
    - Create a commit with a descriptive message about the changes

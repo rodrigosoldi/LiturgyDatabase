@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "05/12/25",
+      "liturgy": "1ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 29,17-24",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "Assim fala o Senhor Deus: 17 Dentro de pouco tempo, não se transformará o Líbano em jardim? E não poderá o jardim tornar-se floresta? 18 Naquele dia, os surdos ouvirão as palavras do livro e os olhos dos cegos verão, no meio das trevas e das sombras. 19 Os humildes aumentarão sua alegria no Senhor, e os mais pobres dos homens se rejubilarão no Santo de Israel; 20 fracassou o prepotente, desapareceu o trapaceiro, e sucumbiram todos os malfeitores precoces, 21 os que faziam os outros pecar por palavras, e armavam ciladas ao juiz à porta da cidade e atacavam o justo com palavras falsas. 22 Isto diz o Senhor à casa de Jacó, ele que libertou Abraão: \"Agora, Jacó não mais terá que envergonhar-se nem seu rosto terá que enrubescer; 23 quando contemplarem as obras de minhas mãos, hão de honrar meu nome no meio do povo, honrarão o Santo de Jacó, e temerão o Deus de Israel; 24 os homens de espírito inconstante conseguirão sabedoria e os maldizentes concordarão em aprender\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 26(27),1.4.13-14",
+              "chorus": "<<!R.!>> O Senhor é minha luz e salvação.",
+              "verses": [
+                "O Senhor é minha luz e salvação;*\nde quem eu terei medo?\nO Senhor é a proteção da minha vida;\nperante quem eu tremerei? <<!R.!>>",
+                "Ao Senhor eu peço apenas uma coisa,*\ne é só isto que eu desejo:\nhabitar no santuário do Senhor*\npor toda a minha vida;\nsaborear a suavidade do Senhor*\ne contemplá-lo no seu templo. <<!R.!>>",
+                "Sei que a bondade do Senhor eu hei de ver*\nna terra dos viventes.\nEspera no Senhor e tem coragem,*\nespera no Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eis que virá o nosso Deus com poder e majestade, E ele há de iluminar os olhos dos seus servos!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 9,27-31",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 27 partindo Jesus, dois cegos o seguiram, gritando: \"Tem piedade de nós, filho de Davi!\" 28 Quando Jesus entrou em casa, os cegos se aproximaram dele. Então Jesus perguntou-lhes: \"Vós acreditais que eu posso fazer isso?\" Eles responderam: \"Sim, Senhor\". 29 Então Jesus tocou nos olhos deles, dizendo: \"Faça-se conforme a vossa fé\". 30 E os olhos deles se abriram. Jesus os advertiu severamente: \"Tomai cuidado para que ninguém fique sabendo\". 31 Mas eles saíram, e espalharam sua fama por toda aquela região."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

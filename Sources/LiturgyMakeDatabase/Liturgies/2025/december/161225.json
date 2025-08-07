@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "16/12/25",
+      "liturgy": "3ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sf 3,1-2.9-13",
+              "title": "Leitura da Profecia de Sofonias",
+              "text": "Assim fala o Senhor: 1 \"Ai de ti, rebelde e desonrada, cidade desumana. 2 Ela não prestou ouvidos ao apelo, não aceitou a correção; não teve confiança no Senhor, nem se aproximou de seu Deus. 9 Darei aos povos, nesse tempo, lábios purificados, para que todos invoquem o nome do Senhor e lhe prestem culto em união de esforços. 10 Desde além-rios da Etiópia, os que me adoram, os dispersos do meu povo, me trarão suas oferendas. 11 Naquele dia, não terás de envergonhar-te por causa de todas as tuas obras com que prevaricaste contra mim; pois eu afastarei do teu meio teus fanfarrões arrogantes, e não continuarás a fazer de meu santo monte motivo de tuas vanglórias. 12 E deixarei entre vós um punhado de homens humildes e pobres\". E no nome do Senhor porá sua esperança o resto de Israel. 13 Eles não cometerão iniquidades nem falarão mentiras; não se encontrará em sua boca uma língua enganadora; serão apascentados e repousarão, e ninguém os molestará."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 33(34),2-3.6-7.17-18.19 e 23",
+              "chorus": "<<!R.!>> Este infeliz gritou a Deus e foi ouvido.",
+              "verses": [
+                "Bendirei o Senhor Deus em todo o tempo, *\nseu louvor estará sempre em minha boca.\nMinha alma se gloria no Senhor; *\nque ouçam os humildes e se alegrem! <<!R.!>>",
+                "Contemplai a sua face e alegrai-vos, *\ne vosso rosto não se cubra de vergonha!\nEste infeliz gritou a Deus, e foi ouvido, *\ne o Senhor o libertou de toda angústia. <<!R.!>>",
+                "Mas ele volta a sua face contra os maus, *\npara da terra apagar sua lembrança.\nClamam os justos, e o Senhor bondoso escuta *\ne de todas as angústias os liberta. <<!R.!>>",
+                "Do coração atribulado ele está perto *\ne conforta os de espírito abatido.\nMas o Senhor liberta a vida dos seus servos, *\ne castigado não será quem nele espera. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vinde, ó Senhor, não tardeis mais; fazei o povo acabar com os seus crimes."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 21,28-32",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus aos chefes dos sacerdotes e anciãos do povo: 28 \"Que vos parece? Um homem tinha dois filhos. Dirigindo-se ao primeiro, ele disse: 'Filho, vai trabalhar hoje na vinha!' 29 O filho respondeu: 'Não quero'. Mas depois mudou de opinião e foi. 30 O pai dirigiu-se ao outro filho e disse a mesma coisa. Este respondeu: `Sim, senhor, eu vou'. Mas não foi. 31 Qual dos dois fez a vontade do pai?' Os sumos sacerdotes e os anciãos do povo responderam: \"O primeiro\". Então Jesus lhes disse: \"Em verdade vos digo, que os publicanos e as prostitutas vos precedem no Reino de Deus. 32 Porque João veio até vós, num caminho de justiça, e vós não acreditastes nele. Ao contrário, os publicanos e as prostitutas creram nele. Vós, porém, mesmo vendo isso, não vos arrependestes para crer nele\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

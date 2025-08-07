@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "02/12/25",
+      "liturgy": "1ª Semana do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 11,1-10",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "Naqueles dias, 1 nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor; 2 sobre ele repousará o espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; 3 no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer; 4 mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. 5 Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. 6 O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. 7 A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; 8 a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. 9 Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar. 10 Naquele dia, a raiz de Jessé se erguerá como um sinal entre os povos; hão de buscá-la as nações, e gloriosa será a sua morada."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 71(72),1-2.7-8.12-13.17",
+              "chorus": "<<!R.!>> Nos seus dias a justiça florirá\n e paz em abundância, para sempre.",
+              "verses": [
+                "Dai ao Rei vossos poderes, Senhor Deus,*\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo,*\ncom equidade ele julgue os vossos pobres. <<!R.!>>",
+                "Nos seus dias a justiça florirá*\ne grande paz, até que a lua perca o brilho!\nDe mar a mar estenderá o seu domínio,*\ne desde o rio até os confins de toda a terra! <<!R.!>>",
+                "Libertará o indigente que suplica,*\ne o pobre ao qual ninguém quer ajudar.\nTerá pena do indigente e do infeliz,*\ne a vida dos humildes salvará. <<!R.!>>",
+                "Seja bendito o seu nome para sempre!*\nE que dure como o sol sua memória!\nTodos os povos serão nele abençoados,*\ntodas as gentes cantarão o seu louvor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eis que virá o nosso Deus com poder e majestade. E ele há de iluminar os olhos dos seus servos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 10,21-24",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "21 Naquele momento, Jesus exultou no Espírito Santo e disse: \"Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes, e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22 Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar\". 23 Jesus voltou-se para os discípulos e disse-lhes em particular: \"Felizes os olhos que veem o que vós vedes! 24 Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo, e não puderam ver; quiseram ouvir o que estais ouvindo, e não puderam ouvir\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
