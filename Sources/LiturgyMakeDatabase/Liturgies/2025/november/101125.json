@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "10/11/25",
+      "liturgy": "São Leão Magno, papa e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 1,1-7",
+              "title": "Início do Livro da Sabedoria",
+              "text": "1 Amai a justiça, vós que governais a terra; tende bons sentimentos para com o Senhor e procurai-o com simplicidade de coração. 2 Ele se deixa encontrar pelos que não exigem provas, e se manifesta aos que nele confiam. 3 Pois os pensamentos perversos afastam de Deus; e seu poder, posto à prova, confunde os insensatos. 4 A Sabedoria não entra numa alma que trama o mal nem mora num corpo sujeito ao pecado. 5 O espírito santo, que a ensina, foge da astúcia, afasta-se dos pensamentos insensatos e retrai-se quando sobrevém a injustiça. 6 Com efeito, a Sabedoria é o espírito que ama os homens, mas não deixa sem castigo quem blasfema com seus próprios lábios, pois Deus é testemunha dos seus pensamentos, investiga seu coração segundo a verdade e mantém-se à escuta da sua língua; 7 porque o espírito do Senhor enche toda a terra, mantém unidas todas as coisas e tem conhecimento de tudo o que se diz."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 138(139),1-3.4-6.7-8.9-10",
+              "chorus": "<<!R.!>> Conduzi-me no caminho para a vida, ó Senhor!",
+              "verses": [
+                "Senhor, vós me sondais e conheceis, *\nsabeis quando me sento ou me levanto;\nde longe penetrais meus pensamentos, †\npercebeis quando me deito e quando eu ando, *\nos meus caminhos vos são todos conhecidos. <<!R.!>>",
+                "A palavra nem chegou à minha língua, *\ne já, Senhor, a conheceis inteiramente.\nPor detrás e pela frente me envolveis; *\npusestes sobre mim a vossa mão.\nEsta Verdade é por demais maravilhosa, *\né tão sublime que não posso compreendê-la. <<!R.!>>",
+                "Em que lugar me ocultarei de vosso espírito? *\nE para onde fugirei de vossa face?\nSe eu subir até os céus, ali estais; *\nse eu descer até o abismo, estais presente. <<!R.!>>",
+                "Se a aurora me emprestar as suas asas, *\npara eu voar e habitar no fim dos mares;\nmesmo lá vai me guiar a vossa mão *\ne segurar-me com firmeza a vossa destra. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Como astros no mundo brilheis, pregando a Palavra da vida!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 17,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus disse a seus discípulos: \"É inevitável que aconteçam escândalos. Mas ai daquele que produz escândalos! 2 Seria melhor para ele que lhe amarrassem uma pedra de moinho no pescoço e o jogassem no mar, do que escandalizar um desses pequeninos. 3 Prestai atenção: se o teu irmão pecar, repreende-o. Se ele se converter, perdoa-lhe. 4 Se ele pecar contra ti sete vezes num só dia, e sete vezes vier a ti, dizendo: 'Estou arrependido', tu deves perdoá-lo\". 5 Os apóstolos disseram ao Senhor: \"Aumenta a nossa fé!\" 6 O Senhor respondeu: \"Se vós tivésseis fé, mesmo pequena como um grão de mostarda, poderíeis dizer a esta amoreira: 'Arranca-te daqui e planta-te no mar', e ela vos obedeceria\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

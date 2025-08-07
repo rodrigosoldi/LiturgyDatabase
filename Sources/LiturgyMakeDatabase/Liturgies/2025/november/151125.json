@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "15/11/25",
+      "liturgy": "32ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 18,14-16.19,6-9",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "14 Quando um tranquilo silêncio envolvia todas as coisas e a noite chegava ao meio de seu curso, 15 a tua palavra onipotente, vinda do alto do céu, do seu trono real, precipitou-se, como guerreiro impiedoso, no meio de uma terra condenada ao extermínio; como espada afiada, levava teu decreto irrevogável; 16 defendendo-se, encheu tudo de morte e, mesmo estando sobre a terra, ela atingia o céu. 19,6 Então, a criação inteira, obediente às tuas ordens, foi de novo remodelada em cada espécie de seres, para que teus filhos fossem preservados de todo perigo. 7 Apareceu a nuvem para dar sombra ao acampamento, e a terra enxuta surgiu onde antes era água: o mar Vermelho tornou-se caminho desimpedido, e as ondas violentas se transformaram em campo verdejante, 8 por onde passaram, como um só povo, os que eram protegidos por tua mão, contemplando coisas assombrosas. 9 Como cavalos soltos na pastagem e como cordeiros, correndo aos saltos, glorificaram-te a ti, Senhor, seu libertador."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 104(105),2-3.36-37.42-43",
+              "chorus": "<<!R.!>> Lembrai sempre as maravilhas do Senhor!\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Cantai, entoai salmos para ele, *\npublicai todas as suas maravilhas!\nGloriai-vos em seu nome que é santo, *\nexulte o coração que busca a Deus! <<!R.!>>",
+                "Matou na própria terra os primogênitos, *\na fina flor de sua força varonil.\nFez sair com ouro e prata o povo eleito, *\nnenhum doente se encontrava em suas tribos. <<!R.!>>",
+                "Ele lembrou-se de seu santo juramento, *\nque fizera a Abraão, seu servidor.\nFez sair com grande júbilo o seu povo, *\ne seus eleitos, entre gritos de alegria. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Pelo Evangelho o Pai nos chamou, a fim de alcançarmos a glória de nosso Senhor Jesus Cristo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 18,1-8",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus contou aos discípulos uma parábola, para mostrar-lhes a necessidade de rezar sempre, e nunca desistir, dizendo: 2 \"Numa cidade havia um juiz que não temia a Deus, e não respeitava homem algum. 3 Na mesma cidade havia uma viúva, que vinha à procura do juiz, pedindo: 'Faze-me justiça contra o meu adversário!' 4 Durante muito tempo, o juiz se recusou. Por fim, ele pensou: 'Eu não temo a Deus, e não respeito homem algum. 5 Mas esta viúva já me está aborrecendo. Vou fazer-lhe justiça, para que ela não venha a agredir-me!'\" 6 E o Senhor acrescentou: \"Escutai o que diz este juiz injusto. 7 E Deus, não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar? 8 Eu vos digo que Deus lhes fará justiça bem depressa. Mas o Filho do homem, quando vier, será que ainda vai encontrar fé sobre a terra?\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

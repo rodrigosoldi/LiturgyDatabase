@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "05/11/25",
+      "liturgy": "31ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 13,8-10",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 8 não fiqueis devendo nada a ninguém, a não ser o amor mútuo, — pois quem ama o próximo está cumprindo a Lei. 9 De fato, os mandamentos: \"Não cometerás adultério\", \"Não matarás\", \"Não roubarás\", \"Não cobiçarás\", e qualquer outro mandamento se resumem neste: \"Amarás a teu próximo como a ti mesmo\". 10 O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 111(112),1-2.4-5.9",
+              "chorus": "<<!R.!>> Feliz quem tem piedade e empresta!\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Feliz o homem que respeita o Senhor *\ne que ama com carinho a sua lei!\nSua descendência será forte sobre a terra, *\nabençoada a geração dos homens retos! <<!R.!>>",
+                "Ele é correto, generoso e compassivo, *\ncomo luz brilha nas trevas para os justos.\nFeliz o homem caridoso e prestativo, *\nque resolve seus negócios com justiça. <<!R.!>>",
+                "Ele reparte com os pobres os seus bens, †\npermanece para sempre o bem que fez, *\ne crescerão a sua glória e seu poder. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Felizes sereis vós, se fordes ultrajados, por causa de Jesus, pois repousa sobre vós o Espírito de Deus."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 14,25-33",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 25 grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: 26 \"Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. 27 Quem não carrega sua cruz e não caminha atrás de mim, não pode ser meu discípulo. 28 Com efeito: qual de vós, querendo construir uma torre, não se senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, 29 ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 30 'Este homem começou a construir e não foi capaz de acabar!' 31 Ou ainda: Qual o rei que ao sair para guerrear com outro, não se senta primeiro e examina bem se com dez mil homens poderá enfrentar o outro que marcha contra ele com vinte mil? 32 Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. 33 Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "18/11/25",
+      "liturgy": "33ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Mc 6,18-31",
+              "title": "Leitura do Segundo Livro dos Macabeus",
+              "text": "18 Eleazar era um dos principais doutores da Lei, homem de idade avançada e de venerável aparência. Quiseram obrigá-lo a comer carne de porco, abrindo à força sua boca. 19 Mas ele, preferindo morrer gloriosamente a viver desonrado, caminhou espontaneamente para a tortura da roda, 20 depois de ter cuspido o que lhe haviam posto na boca. Assim deveriam proceder os que têm a coragem de recusar aquilo que nem para salvar a vida é lícito comer. 21 Os encarregados desse ímpio banquete ritual, que conheciam Eleazar desde muito tempo, chamaram-no à parte e insistiram para que mandasse trazer carnes cujo uso lhes era permitido e que ele mesmo tivesse preparado, apenas fingisse comer carnes provenientes do sacrifício, conforme o rei ordenara. 22 Agindo assim evitaria a morte, aproveitando esta oportunidade que lhe davam em consideração à velha amizade. 23 Mas ele tomou uma nobre resolução digna da sua idade, digna do prestígio de sua velhice, dos seus cabelos embranquecidos com honra, e da vida sem mancha que levara desde a infância. Uma resolução digna, sobretudo, da santa legislação instituída pelo próprio Deus. E respondeu coerentemente, dizendo que o mandassem logo para a mansão dos mortos. 24 E acrescentou: \"Usar desse fingimento seria indigno da nossa idade. Muitos jovens ficariam convencidos de que Eleazar, aos noventa anos, adotou as normas de vida dos estrangeiros; 25 seriam enganados por mim, por causa do fingimento que eu usaria para salvar um breve resto de vida. De minha parte, eu atrairia sobre minha velhice a vergonha e a desonra. 26 E ainda que escapasse por um momento ao castigo dos homens, eu não poderia, nem vivo nem morto, fugir das mãos do Todo-poderoso. 27 Se, pelo contrário, eu agora renunciar corajosamente a esta vida, vou mostrar-me digno de minha velhice, 28 e deixarei aos jovens o nobre exemplo de como se deve morrer, com entusiasmo e generosidade, pelas veneráveis e santas leis\". Ditas estas palavras, caminhou logo para o suplício. 29 Os que o conduziam, transformaram em brutalidade a benevolência manifestada pouco antes. E consideraram loucas as palavras que ele acabara de dizer. 30 Eleazar, porém, estando para morrer sob os golpes, disse ainda entre gemidos: \"O Senhor, em sua santa sabedoria, vê muito bem que eu, podendo escapar da morte, suporto em meu corpo as dores cruéis provocadas pelos açoites, mas em minha alma suporto-as com alegria, por causa do temor que lhe tenho\". 31 Assim Eleazar partiu desta vida. Com sua morte deixou um exemplo de coragem e um modelo inesquecível de virtude, não só para os jovens, mas também para toda a nação."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 3,2-3.4-5.6-7",
+              "chorus": "<<!R.!>> É o Senhor quem me sustenta e me protege!",
+              "verses": [
+                "Quão numerosos, ó Senhor, os que me atacam; *\nquanta gente se levanta contra mim!\nMuitos dizem, comentando a meu respeito: *\n\"Ele não acha a salvação junto de Deus!\" <<!R.!>>",
+                "Mas sois vós o meu escudo protetor, *\na minha glória que levanta minha cabeça!\nQuando eu chamei em alta voz pelo Senhor, *\ndo Monte santo ele me ouviu e respondeu. <<!R.!>>",
+                "Eu me deito e adormeço bem tranquilo; *\nacordo em paz, pois o Senhor é meu sustento.\nNão terei medo de milhares que me cerquem †\ne furiosos se levantem contra mim. *\nLevantai-vos, ó Senhor, vinde salvar-me! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Por amor, Deus enviou-nos o seu Filho, como vítima por nossas transgressões."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 19,1-10",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus tinha entrado em Jericó e estava atravessando a cidade. 2 Havia ali um homem chamado Zaqueu, que era chefe dos cobradores de impostos e muito rico. 3 Zaqueu procurava ver quem era Jesus, mas não conseguia, por causa da multidão, pois era muito baixo. 4 Então ele correu à frente e subiu numa figueira para ver Jesus, que devia passar por ali. 5 Quando Jesus chegou ao lugar, olhou para cima e disse: \"Zaqueu, desce depressa! Hoje eu devo ficar na tua casa\". 6 Ele desceu depressa, e recebeu Jesus com alegria. 7 Ao ver isso, todos começaram a murmurar, dizendo: \"Ele foi hospedar-se na casa de um pecador!\" 8 Zaqueu ficou de pé, e disse ao Senhor: \"Senhor, eu dou a metade dos meus bens aos pobres, e se defraudei alguém, vou devolver quatro vezes mais\". 9 Jesus lhe disse: \"Hoje a salvação entrou nesta casa, porque também este homem é um filho de Abraão. 10 Com efeito, o Filho do Homem veio procurar e salvar o que estava perdido\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

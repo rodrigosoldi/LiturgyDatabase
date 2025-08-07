@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "28/11/25",
+      "liturgy": "34ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 7,2-14",
+              "title": "Leitura da Profecia de Daniel",
+              "text": "Eu, Daniel, 2 tive uma visão durante a noite; eis que os quatro ventos do céu revolviam o vasto mar, 3 e quatro grandes animais, diferentes uns dos outros, emergiam do mar. 4 O primeiro era semelhante a um leão, e tinha asas de águia; ainda estava olhando, quando lhe foram arrancadas as asas; ele foi erguido da terra e posto de pé como um homem, e foi-lhe dado um coração de homem. 5 Eis que surgiu outro animal, o segundo, semelhante a um urso, que estava erguido pela metade e tinha três costelas nas fauces entre os dentes; ouvia-se dizer: \"Vamos, come mais carne\". 6 Continuei a olhar, e eis que assomou outro animal, semelhante a um leopardo; tinha no dorso quatro asas de ave, e havia no animal quatro cabeças. E foi-lhe dado poder. 7 Depois, eu insistia em minha visão noturna, e eis que apareceu o quarto animal, terrível, estranho e extremamente forte; com suas dentuças de ferro, tudo devorava e triturava, calcando aos pés o que sobrava; era bem diferente dos outros animais que eu vi antes, e tinha dez chifres. 8 Eu observava estes chifres, e eis que apontou entre eles outro chifre pequeno, e, em compensação, foram arrancados três dos primeiros chifres; e eis que neste chifre pequeno havia uns olhos como olhos de homem e uma boca que fazia ouvir uma fala muito forte. 9 Eu continuava olhando até que foram colocados uns tronos, e um Ancião de muitos dias aí tomou lugar. Sua veste era branca como neve e os cabelos da cabeça, como lã pura; seu trono eram chamas de fogo, e as rodas do trono, como fogo em brasa. 10 Derramava-se aí um rio de fogo que nascia diante dele; serviam-no milhares de milhares, e milhões de milhões assistiam-no ao trono; foi instalado o tribunal e os livros foram abertos. 11 Eu estava olhando para o lado das palavras fortes que o mencionado chifre fazia ouvir, quando percebi que o animal tinha sido morto, e vi que seu corpo fora feito em pedaços e tinha sido entregue ao fogo para queimar; 12 percebi também que aos restantes animais foi-lhes tirado o poder, sendo-lhes prolongada a vida por certo tempo. 13 Continuei insistindo na visão noturna, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. 14 Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 3,75-77.78-79.80-81",
+              "chorus": "<<!R.!>> Louvai-o e exaltai-o, pelos séculos sem fim!",
+              "verses": [
+                "Montes e colinas, bendizei o Senhor! †\nPlantas da terra, bendizei o Senhor!\nMares e rios, bendizei o Senhor! <<!R.!>>",
+                "Fontes e nascentes, bendizei o Senhor!\nBaleias e peixes, bendizei o Senhor! <<!R.!>>",
+                "Pássaros do céu, bendizei o Senhor!\nFeras e rebanhos, bendizei o Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 21,29-33",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 29 Jesus contou-lhes uma parábola: \"Olhai a figueira e todas as árvores. 30 Quando vedes que elas estão dando brotos, logo sabeis que o verão está perto. 31 Vós também, quando virdes acontecer essas coisas, ficai sabendo que o Reino de Deus está perto. 32 Em verdade, eu vos digo: tudo isso vai acontecer antes que passe esta geração. 33 O céu e a terra passarão, mas as minhas palavras não hão de passar\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "30/11/25",
+      "liturgy": "1º Domingo do Advento",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 2,1-5",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "1 Visão de Isaías, filho de Amós, sobre Judá e Jerusalém. 2 Acontecerá, nos últimos tempos, que o monte da casa do Senhor estará firmemente estabelecido no ponto mais alto das montanhas e dominará as colinas. A ele acorrerão todas as nações, 3 para lá irão numerosos povos e dirão: \"Vamos subir ao monte do Senhor, à casa do Deus de Jacó, para que ele nos mostre seus caminhos e nos ensine a cumprir seus preceitos\"; porque de Sião provém a lei e de Jerusalém, a palavra do Senhor. 4 Ele há de julgar as nações e arguir numerosos povos; estes transformarão suas espadas em arados e suas lanças em foices: não pegarão em armas uns contra os outros e não mais travarão combate. 5 Vinde, todos da casa de Jacó, e deixemo-nos guiar pela luz do Senhor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 121(122),1-2.4-5.6-7.8-9",
+              "chorus": "<<!R.!>> Que alegria, quando me disseram: \"Vamos à casa do Senhor!\"",
+              "verses": [
+                "Que alegria, quando ouvi que me disseram: *\n\"Vamos à casa do Senhor!\"\nE agora nossos pés já se detêm, *\nJerusalém, em tuas portas. <<!R.!>>",
+                "para lá sobem as tribos de Israel, *\nas tribos do Senhor.\nPara louvar, segundo a lei de Israel, *\no nome do Senhor.\nA sede da justiça lá está *\ne o trono de Davi <<!R.!>>",
+                "Rogai que viva em paz Jerusalém, *\ne em segurança os que te amam!\nQue a paz habite dentro de teus muros, *\ntranquilidade em teus palácios! <<!R.!>>",
+                "Por amor a meus irmãos e meus amigos, *\npeço: \"A paz esteja em ti!\"\nPelo amor que tenho à casa do Senhor, *\neu te desejo todo bem! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 13,11-14a",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: 11 Vós sabeis em que tempo estamos, pois já é hora de despertar. Com efeito, agora a salvação está mais perto de nós do que quando abraçamos a fé. 12 A noite já vai adiantada, o dia vem chegando: despojemo-nos das ações das trevas e vistamos as armas da luz. 13 Procedamos honestamente, como em pleno dia: nada de glutonerias e bebedeiras, nem de orgias sexuais e imoralidades, nem de brigas e rivalidades. 14a Pelo contrário, revesti-vos do Senhor Jesus Cristo."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Mostrai-nos, ó Senhor, vossa bondade e a vossa salvação nos concedei!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 24,37-44",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, Jesus disse aos seus discípulos: 37 \"A vinda do Filho do Homem será como no tempo de Noé. 38 Pois nos dias, antes do dilúvio, todos comiam e bebiam, casavam-se e davam-se em casamento, até o dia em que Noé entrou na arca. 39 E eles nada perceberam até que veio o dilúvio e arrastou a todos. Assim acontecerá também na vinda do Filho do Homem. 40 Dois homens estarão trabalhando no campo: um será levado e o outro será deixado. 41 Duas mulheres estarão moendo no moinho: uma será levada e a outra será deixada. 42 Portanto, ficai atentos! porque não sabeis em que dia virá o Senhor. 43 Compreendei bem isso: se o dono da casa soubesse a que horas viria o ladrão, certamente vigiaria e não deixaria que a sua casa fosse arrombada. 44 Por isso, também vós ficai preparados! Porque na hora em que menos pensais, o Filho do Homem virá\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

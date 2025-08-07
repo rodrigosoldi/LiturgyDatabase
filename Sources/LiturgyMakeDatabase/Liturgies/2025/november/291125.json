@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "29/11/25",
+      "liturgy": "34ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 7,15-27",
+              "title": "Leitura da Profecia de Daniel",
+              "text": "15 Fiquei chocado em meu íntimo: eu, Daniel, fiquei aterrorizado com estas coisas, e as visões da imaginação me deixaram perturbado. 16 Aproximei-me de um dos presentes e pedi-lhe que me desse explicações sobre o significado de tudo aquilo. Respondeu-me, fazendo-me conhecer a interpretação das coisas: 17 \"Estes quatro possantes animais são quatro reinos que surgirão na terra; 18 mas os que receberão o reino, são os santos do Altíssimo; eles ficarão de posse do reino por todos os séculos, eternamente\". 19 Depois, quis ser mais bem informado a respeito do quarto animal, que era bastante diferente dos outros e o mais terrível de todos, com seus dentes de ferro e garras de bronze, sempre devorando e triturando, e calcando aos pés o que restava; 20 e ainda a respeito dos dez chifres e sobre o outro que nascera e fizera cair outros três, sobre o chifre que tinha olhos e boca, e que fazia ouvir uma fala forte, e era maior que os outros. 21 Eu continuava a olhar, e eis que este chifre combatia contra os santos e vencia, 22 até que veio o Ancião de muitos dias e fez justiça aos santos do Altíssimo, e chegou o tempo para os santos entrarem na posse do reino. 23 Respondeu-me assim: \"O quarto animal é um quarto reino que surgirá na terra, e que será maior do que todos os outros reinos; há de devorar a terra inteira, espezinhá-la e esmagá-la. 24 Quanto aos dez chifres do reino, serão dez reis; um outro surgirá depois deles, e este será mais poderoso do que seus antecessores, e abaterá os três reis, e articulará insolências contra o Altíssimo 25 e perseguirá seus santos e se julgará em condições de mudar os tempos e a lei; os santos serão entregues ao seu arbítrio por um tempo, por tempos e por um meio-tempo; 26 o tribunal se estabelecerá, e ao chifre será tirado o poder, até ser destruído e desaparecer para sempre; 27 e então, que seja dado o reino, o poder e a grandeza dos reinos que existem sob o céu ao povo dos santos do Altíssimo, cujo reino é um reino eterno, e a quem todos os reis servirão e prestarão obediência\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 3,82-83.84-85.86-87",
+              "chorus": "<<!R.!>> Louvai-o e exaltai-o, pelos séculos sem fim!",
+              "verses": [
+                "Filhos dos homens, bendizei o Senhor!\nFilhos de Israel, bendizei o Senhor! <<!R.!>>",
+                "Sacerdotes do Senhor, bendizei o Senhor!\nServos do Senhor, bendizei o Senhor! <<!R.!>>",
+                "Almas dos justos, bendizei o Senhor!\nSantos e humildes, bendizei o Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vigiai e orai para ficardes de pé ante o filho do homem!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 21,34-36",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 34 \"Tomai cuidado para que vossos corações não fiquem insensíveis por causa da gula, da embriaguez e das preocupações da vida, e esse dia não caia de repente sobre vós; 35 pois esse dia cairá como uma armadilha sobre todos os habitantes de toda a terra. 36 Portanto, ficai atentos e orai a todo momento, a fim de terdes força para escapar de tudo o que deve acontecer e para ficardes em pé diante do Filho do Homem\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

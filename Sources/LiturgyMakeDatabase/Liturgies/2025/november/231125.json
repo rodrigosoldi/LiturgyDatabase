@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "23/11/25",
+      "liturgy": "Nosso Senhor Jesus Cristo, Rei do Universo, Solenidade",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 5,1-3",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "Naqueles dias, 1 Todas as tribos de Israel vieram encontrar-se com Davi em Hebron e disseram-lhe: \"Aqui estamos. Somos teus ossos e tua carne. 2 Tempo atrás, quando Saul era nosso rei, eras tu que dirigias os negócios de Israel. E o Senhor te disse: 'Tu apascentarás o meu povo Israel e serás o seu chefe' \". 3 Vieram, pois, todos os anciãos de Israel até ao rei em Hebron. O rei Davi fez com eles uma aliança em Hebron, na presença do Senhor, e eles o ungiram rei de Israel."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 121(122),1-2.4-5",
+              "chorus": "<<!R.!>> Quanta alegria e felicidade: vamos à casa do Senhor!",
+              "verses": [
+                "Que alegria, quando ouvi que me disseram:*\n\"Vamos à casa do Senhor!\"\nE agora nossos pés já se detêm,*\nJerusalém, em tuas portas. <<!R.!>>",
+                "Para lá sobem as tribos de Israel,*\nas tribos do Senhor.\nPara louvar, segundo a lei de Israel,\no nome do Senhor.*\nA sede da justiça lá está \n e o trono de Davi. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 1,12-20",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "Irmãos: 12 Com alegria dai graças ao Pai, que vos tornou capazes de participar da luz, que é a herança dos santos. 13 Ele nos libertou do poder das trevas e nos recebeu no reino de seu Filho amado, 14 por quem temos a redenção, o perdão dos pecados. 15 Ele é a imagem do Deus invisível, o primogênito de toda a criação, 16 pois por causa dele foram criadas todas as coisas no céu e na terra, as visíveis e as invisíveis, tronos e dominações, soberanias e poderes. Tudo foi criado por meio dele e para ele. 17 Ele existe antes de todas as coisas e todas têm nele a sua consistência. 18 Ele é a Cabeça do corpo, isto é, da Igreja. Ele é o Princípio, o Primogênito dentre os mortos; de sorte que em tudo ele tem a primazia, 19 porque Deus quis habitar nele com toda a sua plenitude 20 e por ele reconciliar consigo todos os seres, os que estão na terra e no céu, realizando a paz pelo sangue da sua cruz."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "É bendito aquele que vem vindo, que vem vindo em nome do Senhor; e o reino que vem, seja bendito, ao que vem e a seu reino, o louvor!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 23,35-43",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 35 os chefes zombavam de Jesus dizendo: \"A outros ele salvou. Salve-se a si mesmo, se, de fato, é o Cristo de Deus, o Escolhido!\" 36 Os soldados também caçoavam dele; aproximavam-se, ofereciam-lhe vinagre, 37 e diziam: \"Se és o rei dos judeus, salva-te a ti mesmo!\" 38 Acima dele havia um letreiro: \"Este é o Rei dos Judeus.\" 39 Um dos malfeitores crucificados o insultava, dizendo: \"Tu não és o Cristo? Salva-te a ti mesmo e a nós!\" 40 Mas o outro o repreendeu, dizendo: \"Nem sequer temes a Deus, tu que sofres a mesma condenação? 41 Para nós, é justo, porque estamos recebendo o que merecemos; mas ele não fez nada de mal\". 42 E acrescentou: '\"Jesus, lembra-te de mim, quando entrares no teu reinado.\" 43 Jesus lhe respondeu: \"Em verdade eu te digo: ainda hoje estarás comigo no Paraíso\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

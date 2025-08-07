@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "08/11/25",
+      "liturgy": "31ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 16,3-9.16.22-27",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 3 saudai Prisca e Áquila, colaboradores meus em Cristo Jesus, 4 os quais expuseram a sua própria vida para salvar a minha. Por isso, eu lhes sou agradecido; não somente eu, mas também todas as Igrejas do mundo pagão. 5 Saudai igualmente a Igreja que se reúne na casa deles. Saudai meu muito estimado Epêneto, que faz parte dos primeiros frutos da Ásia para Cristo. 6 Saudai Maria, que trabalhou muito em proveito vosso. 7 Saudai Andrônico e Júnias, meus parentes e companheiros de prisão, apóstolos notáveis e que se tornaram discípulos de Cristo antes de mim. 8 Saudai Ampliato, a quem estimo muito no Senhor. 9 Saudai Urbano, nosso colaborador em Cristo, e a meu caríssimo Estáquis. 16 Saudai-vos uns aos outros com o beijo santo. Todas as igrejas de Cristo vos saúdam. 22 Saúdo-vos eu Tércio, que escrevo esta epístola no Senhor. 23 Saúda-vos Caio, meu hóspede e de toda a Igreja. 24 Saúda-vos Erasto, tesoureiro da cidade, e o irmão Quarto. 25 Glória seja dada àquele que tem o poder de vos confirmar na fidelidade ao meu Evangelho e à pregação de Jesus Cristo, de acordo com a revelação do mistério mantido em sigilo desde sempre. 26 Agora este mistério foi manifestado e, mediante as Escrituras proféticas, conforme determinação do Deus eterno, foi levado ao conhecimento de todas as nações, para trazê-las à obediência da fé. 27 A ele, o único Deus, o sábio, por meio de Jesus Cristo, a glória, pelos séculos dos séculos. Amém!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 144(145),2-3.4-5.10-11",
+              "chorus": "<<!R.!>> Bendirei o vosso nome pelos séculos, Senhor!",
+              "verses": [
+                "Todos os dias haverei de bendizer-vos, *\nhei de louvar o vosso nome para sempre.\nGrande é o Senhor e muito digno de louvores, *\ne ninguém pode medir sua grandeza. <<!R.!>>",
+                "Uma idade conta à outra vossas obras *\ne publica os vossos feitos poderosos;\nproclamam todos o esplendor de vossa glória *\ne divulgam vossas obras portentosas! <<!R.!>>",
+                "Que vossas obras, ó Senhor, vos glorifiquem, *\ne os vossos santos com louvores vos bendigam!\nNarrem a glória e o esplendor do vosso reino *\ne saibam proclamar vosso poder! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo, Senhor nosso, embora sendo rico, para nós se tornou pobre, a fim de enriquecer-nos, mediante sua pobreza."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 16,9-15",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 9 \"Usai o dinheiro injusto para fazer amigos, pois, quando acabar, eles vos receberão nas moradas eternas. 10 Quem é fiel nas pequenas coisas também é fiel nas grandes, e quem é injusto nas pequenas também é injusto nas grandes. 11 Por isso, se vós não sois fiéis no uso do dinheiro injusto, quem vos confiará o verdadeiro bem? 12 E se não sois fiéis no que é dos outros, quem vos dará aquilo que é vosso? 13 Ninguém pode servir a dois senhores: porque ou odiará um e amará o outro, ou se apegará a um e desprezará o outro. Vós não podeis servir a Deus e ao dinheiro\". 14 Os fariseus, que eram amigos do dinheiro, ouviam tudo isso e riam de Jesus. 15 Então, Jesus lhes disse: \"Vós gostais de parecer justos diante dos homens, mas Deus conhece vossos corações. Com efeito, o que é importante para os homens, é detestável para Deus\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

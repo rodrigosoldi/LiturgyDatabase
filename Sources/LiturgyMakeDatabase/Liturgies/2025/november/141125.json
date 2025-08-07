@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "14/11/25",
+      "liturgy": "32ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 13,1-9",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "1 São insensatos por natureza todos os homens que ignoram a Deus, os que, partindo dos bens visíveis, não foram capazes de conhecer aquele que é; nem tampouco, pela consideração das obras, chegaram a reconhecer o Artífice. 2 Tomaram por deuses, por governadores do mundo, o fogo e o vento, o ar fugidio, o giro das estrelas, a água impetuosa, os luzeiros do dia. 3 Se, encantados por sua beleza, tomaram estas criaturas por deuses, reconheçam quanto o seu Senhor está acima delas: pois foi o autor da beleza quem as criou. 4 Se ficaram maravilhados com o seu poder e a sua atividade, concluam daí quanto mais poderoso é aquele que as formou: 5 de fato, partindo da grandeza e da beleza das criaturas, pode-se chegar a ver, por analogia, aquele que as criou. 6 Contudo, estes merecem menor repreensão: talvez se tenham extraviado procurando a Deus e querendo encontrá-lo. 7 Com efeito, vivendo entre as obras dele, põem-se a procurá-lo, mas deixam-se seduzir pela aparência, pois é belo aquilo que se vê! 8 Mesmo assim, nem a estes se pode perdoar: 9 porque, se chegaram a tão vasta ciência, a ponto de investigarem o universo, como é que não encontraram mais facilmente o seu Senhor?"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 18A(19),2-3.4-5",
+              "chorus": "<<!R.!>> Os céus proclamam a glória do Senhor!",
+              "verses": [
+                "Os céus proclamam a glória do Senhor, *\ne o firmamento, a obra de suas mãos;\no dia ao dia transmite esta mensagem, *\na noite à noite publica esta notícia. <<!R.!>>",
+                "Não são discursos nem frases ou palavras, *\nnem são vozes que possam ser ouvidas;\nseu som ressoa e se espalha em toda a terra, *\nchega aos confins do universo a sua voz. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Levantai vossa cabeça e olhai, pois, a vossa redenção se aproxima!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 17,26-37",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 26 \"Como aconteceu nos dias de Noé, assim também acontecerá nos dias do Filho do Homem. 27 Eles comiam, bebiam, casavam-se e se davam em casamento, até ao dia em que Noé entrou na arca. Então chegou o dilúvio e fez morrer todos eles. 28 Acontecerá como nos dias de Ló: comiam e bebiam, compravam e vendiam, plantavam e construíam. 29 Mas no dia em que Ló saiu de Sodoma, Deus fez chover fogo e enxofre do céu e fez morrer todos. 30 O mesmo acontecerá no dia em que o Filho do Homem for revelado. 31 Nesse dia, quem estiver no terraço, não desça para apanhar os bens que estão em sua casa. E quem estiver nos campos não volte para trás. 32 Lembrai-vos da mulher de Ló. 33 Quem procura ganhar a sua vida, vai perdê-la; e quem a perde, vai conservá-la. 34 Eu vos digo: nessa noite, dois estarão numa cama; um será tomado e o outro será deixado. 35 Duas mulheres estarão moendo juntas; uma será tomada e a outra será deixada. 36 Dois homens estarão no campo; um será levado e o outro será deixado\". 37 Os discípulos perguntaram: \"Senhor, onde acontecerá isso?\" Jesus respondeu: \"Onde estiver o cadáver, aí se reunirão os abutres\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

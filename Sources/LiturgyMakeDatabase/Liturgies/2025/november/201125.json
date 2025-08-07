@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "20/11/25",
+      "liturgy": "33ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Mc 2,15-29",
+              "title": "Leitura do Primeiro Livro dos Macabeus",
+              "text": "Naqueles dias, 15 os delegados do rei Antíoco, encarregados de obrigar os judeus à apostasia, chegaram à cidade de Modin para organizarem os sacrifícios. 16 Muitos israelitas aproximaram-se deles, mas Matatias e seus filhos ficaram juntos, à parte. 17 Tomando a palavra, os delegados do rei dirigiram-se a Matatias, dizendo: \"Tu és um chefe de fama e prestígio na cidade, apoiado por filhos e irmãos. 18 Sê o primeiro a aproximar-te e executa a ordem do rei, como fizeram todas as nações, os homens de Judá e os que ficaram em Jerusalém. Tu e teus filhos sereis contados entre os amigos do rei. E sereis honrados, tu e teus filhos, com prata e ouro e numerosos presentes\". 19 Com voz forte, Matatias respondeu: \"Ainda que todas as nações, incorporadas no império do rei, passem a obedecer-lhe, abandonando a religião de seus antepassados e submetendo-se aos decretos reais, 20 eu, meu filhos e meus irmãos, continuaremos seguindo a aliança de nossos pais. 21 Deus nos guarde de abandonarmos sua Lei e seus mandamentos. 22 Não atenderemos às ordens do rei e não nos desviaremos de nossa religião nem para a direita nem para a esquerda\". 23 Mal ele concluiu estas palavras, um judeu adiantou-se à vista de todos para oferecer um sacrifício no altar de Modin segundo a determinação do rei. 24 Ao ver isso, Matatias inflamou-se de zelo e ficou profundamente indignado. Tomado de justa cólera, precipitou-se contra o homem e matou-o sobre o altar. 25 Matou também o delegado do rei, que queria obrigar a sacrificar, e destruiu o altar. 26 Ardia em zelo pela Lei, como Fineias havia feito com Zambri, filho de Salu. 27 E Matatias saiu gritando em alta voz pela cidade: \"Quem tiver amor pela Lei e quiser conservar a aliança, venha e siga-me!\" 28 Então fugiu, ele e seus filhos, para as montanhas, abandonando tudo o que possuíam na cidade. 29 Também muitos, seguidores da justiça e do direito, desceram para o deserto e ali se estabeleceram."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 49(50),1-2.5-6.14-15",
+              "chorus": "<<!R.!>> A todos que procedem retamente,\n eu mostrarei a salvação que vem de Deus.",
+              "verses": [
+                "Falou o Senhor Deus, chamou a terra, †\ndo sol nascente ao sol poente a convocou. *\nDe Sião, beleza plena, Deus refulge. <<!R.!>>",
+                "\"Reuni à minha frente os meus eleitos, *\nque selaram a Aliança em sacrifícios!\"\nTestemunha o próprio céu seu julgamento, *\nporque Deus mesmo é juiz e vai julgar. <<!R.!>>",
+                "Imola a Deus um sacrifício de louvor *\ne cumpre os votos que fizeste ao Altíssimo.\nInvoca-me no dia da angústia, *\ne então te livrarei e hás de louvar-me. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Oxalá ouvísseis hoje a sua voz: não fecheis os corações como em Meriba!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 19,41-44",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 41 quando Jesus se aproximou de Jerusalém e viu a cidade, começou a chorar. E disse: 42 \"Se tu também compreendesses hoje o que te pode trazer a paz! Agora, porém, isso está escondido aos teus olhos! 43 Dias virão em que os inimigos farão trincheiras contra ti e te cercarão de todos os lados. 44 Eles esmagarão a ti e a teus filhos. E não deixarão em ti pedra sobre pedra. Porque tu não reconheceste o tempo em que foste visitada\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

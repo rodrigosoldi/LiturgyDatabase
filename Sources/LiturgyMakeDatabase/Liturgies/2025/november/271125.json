@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "27/11/25",
+      "liturgy": "34ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 6,12-28",
+              "title": "Leitura da Profecia de Daniel",
+              "text": "Naqueles dias, 12 aproximaram-se os chefes do reino e encontraram Daniel orando e fazendo preces a seu Deus. 13 Foram ter com o rei e falaram a propósito do decreto: \"Ó rei, acaso não assinaste um decreto segundo o qual toda pessoa que, nos próximos trinta dias, dirija oração a qualquer divindade ou homem que não sejas tu, ó rei, seria atirada na cova dos leões?\" O rei respondeu: \"O que dizeis, é verdade, como manda a lei dos medos e persas, e que não se pode violar\". 14 Então eles disseram perante o rei: \"Daniel, um dos cativos de Judá, não fez caso de ti, ó rei, nem do decreto que assinaste, mas três vezes por dia ele faz suas preces e orações\". 15 Ao ouvir isto, o rei ficou muito desapontado, e tomou a resolução de salvar Daniel, empenhando-se em libertá-lo antes do pôr do sol. 16 Mas aqueles homens instaram com o rei e disseram: \"Não te esqueças, ó rei, de que é lei dos medos e persas que não se pode mudar nenhum decreto que o rei tenha promulgado\". 17 Então o rei deu ordem para buscar Daniel e lançá-lo na cova dos leões. E disse a ele: \"O teu Deus, a quem prestas culto com perseverança, haverá de salvar-te\". 18 Trouxeram uma pedra e colocaram-na sobre a boca da cova, que o rei marcou com seu anel e os dos grandes da corte, para que nada se tentasse contra Daniel. 19 O rei retirou-se para o palácio e foi dormir sem cear, e não quis que lhe trouxessem comida; além disso, não conseguiu conciliar o sono. 20 Ao raiar do dia, levantou-se o rei e foi apressadamente à cova dos leões; 21 aproximando-se da cova, chamou por Daniel com voz aflita, e disse: \"Daniel, servo do Deus vivo, teu Deus, a quem prestas culto com perseverança, pôde salvar-te dos leões?\" 22 E Daniel respondeu ao rei: \"Ó rei, vive para sempre! 23 O meu Deus enviou seu anjo e fechou a boca dos leões; os leões não me fizeram mal, porque, na presença dele, foi provada a minha inocência; tampouco pratiquei qualquer crime contra ti, ó rei\". 24 Com isso, alegrou-se grandemente o rei; e mandou tirar Daniel da cova; quando o retiraram, nenhuma lesão mostrava ele, porque acreditara em seu Deus. 25 O rei mandou vir os homens que acusaram Daniel, e os fez lançar na cova dos leões, juntamente com seus filhos e suas mulheres; estes não tinham chegado ao fundo da cova, e já os leões caíam sobre eles, esmagando-lhes os ossos. 26 Então o rei Dario escreveu a todos os povos, nações e línguas que habitavam a terra: \"Que vossa paz se multiplique. 27 Está decretado por mim que, em todo o território do meu império, todos respeitem e temam o Deus de Daniel: ele é o Deus vivo que permanece para sempre, seu reino não será destruído e seu poder durará eternamente; 28 ele é o libertador e o salvador, que opera sinais e maravilhas no céu e na terra. Foi ele quem salvou Daniel das garras dos leões!\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 3,68-70.71-72.73-74",
+              "chorus": "<<!R.!>> Louvai-o e exaltai-o, pelos séculos sem fim!",
+              "verses": [
+                "Orvalhos e garoas, bendizei o Senhor! †\nGeada e frio, bendizei o Senhor! *\nGelos e neves, bendizei o Senhor! <<!R.!>>",
+                "Noites e dias, bendizei o Senhor!\nLuzes e trevas, bendizei o Senhor! <<!R.!>>",
+                "Raios e nuvens, bendizei o Senhor!\nIlhas e terra, bendizei o Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Levantai vossa cabeça e olhai, pois a vossa redenção se aproxima!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 21,20-28",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 20 \"Quando virdes Jerusalém cercada de exércitos, ficai sabendo que a sua destruição está próxima. 21 Então, os que estiverem na Judeia, devem fugir para as montanhas; os que estiverem no meio da cidade, devem afastar-se; os que estiverem no campo, não entrem na cidade. 22 Pois esses dias são de vingança, para que se cumpra tudo o que dizem as Escrituras. 23 Infelizes das mulheres grávidas e daquelas que estiverem amamentando naqueles dias, pois haverá uma grande calamidade na terra e ira contra este povo. 24 Serão mortos pela espada e levados presos para todas as nações. e Jerusalém será pisada pelos infiéis, até que o tempo dos pagãos se complete. 25 Haverá sinais no sol, na lua e nas estrelas. Na terra, as nações ficarão angustiadas, com pavor do barulho do mar e das ondas. 26 Os homens vão desmaiar de medo, só em pensar no que vai acontecer ao mundo, porque as forças do céu serão abaladas. 27 Então eles verão o Filho do Homem, vindo numa nuvem com grande poder e glória. 28 Quando estas coisas começarem a acontecer, levantai-vos e erguei a cabeça, porque a vossa libertação está próxima\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

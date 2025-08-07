@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "22/11/25",
+      "liturgy": "Santa Cecília, virgem e mártir, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Mc 6,1-13",
+              "title": "Leitura do Primeiro Livro dos Macabeus",
+              "text": "Naqueles dias, 1 o rei Antíoco estava percorrendo as províncias mais altas do seu império, quando ouviu dizer que Elimaida, na Pérsia, era uma cidade célebre por suas riquezas, sua prata e ouro, 2 e que seu templo era fabulosamente rico, contendo véus tecidos de ouro e couraças e armas ali deixadas por Alexandre, filho de Filipe, rei da Macedônia, que fora o primeiro a reinar entre os gregos. 3 Antíoco marchou para lá e tentou apoderar-se da cidade, para saqueá-la, mas não o conseguiu, pois seus habitantes haviam tomado conhecimento do seu plano 4 e levantaram-se em guerra contra ele. Obrigado a fugir, Antíoco afastou-se acabrunhado, e voltou para a Babilônia. 5 Estava ainda na Pérsia, quando vieram comunicar-lhe a derrota das tropas enviadas contra a Judeia. 6 O próprio Lísias, tendo sido o primeiro a partir de lá à frente de poderoso exército, tinha sido posto em fuga. E os judeus tinham-se reforçado em armas e soldados, graças aos abundantes despojos que tomaram dos exércitos vencidos. 7 Além disso, tinha derrubado a Abominação, que ele havia construído sobre o altar de Jerusalém. E tinham cercado o templo com altos muros, e ainda fortificado Betsur, uma das cidades do rei. 8 Ouvindo as notícias, o rei ficou espantado e muito agitado. Caiu de cama e adoeceu de tristeza, pois as coisas não tinham acontecido segundo o que ele esperava. 9 Ficou assim por muitos dias, recaindo sempre de novo numa profunda melancolia, e sentiu que ia morrer. 10 Chamou então todos os amigos e disse: \"O sono fugiu de meus olhos e meu coração desfalece de angústia. 11 Eu disse a mim mesmo: A que grau de aflição cheguei e em que ondas enormes me debato! Eu, que era tão feliz e amado, quando era poderoso! 12 Lembro-me agora das iniquidades que pratiquei em Jerusalém. Apoderei-me de todos os objetos de prata e ouro que lá se encontravam, e mandei exterminar sem motivo os habitantes de Judá. 13 Reconheço que é por causa disso que estas desgraças me atingiram, e com profunda angústia vou morrer em terra estrangeira\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 9A(9),2-3.4 e 6.16b e 19",
+              "chorus": "<<!R.!>> Cantarei de alegria, ó Senhor, pois me livrastes!",
+              "verses": [
+                "Senhor, de coração vos darei graças, *\nas vossas maravilhas cantarei!\nEm vós exultarei de alegria, *\ncantarei ao vosso nome, Deus Altíssimo! <<!R.!>>",
+                "Voltaram para trás meus inimigos, *\nperante a vossa face pereceram.\nRepreendestes as nações, e os maus perdestes, *\napagastes o seu nome para sempre. <<!R.!>>",
+                "Os maus caíram no buraco que cavaram, *\nnos próprios laços foram presos os seus pés.\nMas o pobre não será sempre esquecido, *\nnem é vã a esperança dos humildes. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo salvador destruiu o mal e a morte; fez brilhar pelo Evangelho a luz e a vida imperecíveis"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 20,27-40",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 27 aproximaram-se de Jesus alguns saduceus, que negam a ressurreição, 28 e lhe perguntaram: \"Mestre, Moisés deixou-nos escrito: 'se alguém tiver um irmão casado e este morrer sem filhos, deve casar-se com a viúva a fim de garantir a descendência para o seu irmão'. 29 Ora, havia sete irmãos. O primeiro casou e morreu, sem deixar filhos. 30 Também o segundo 31 e o terceiro se casaram com a viúva. E assim os sete: todos morreram sem deixar filhos. 32 Por fim, morreu também a mulher. 33 Na ressurreição, ela será esposa de quem? Todos os sete estiveram casados com ela\". 34 Jesus respondeu aos saduceus: \"Nesta vida, os homens e as mulheres casam-se, 35 mas os que forem julgados dignos da ressurreição dos mortos e de participar da vida futura, nem eles se casam nem elas se dão em casamento; 36 e já não poderão morrer, pois serão iguais aos anjos, serão filhos de Deus, porque ressuscitaram. 37 Que os mortos ressuscitam, Moisés também o indicou na passagem da sarça, quando chama o Senhor o Deus de Abraão, o Deus de Isaac e o Deus de Jacó. 38 Deus não é Deus dos mortos, mas dos vivos, pois todos vivem para ele\". 39 Alguns doutores da Lei disseram a Jesus: \"Mestre, tu falaste muito bem\". 40 E ninguém mais tinha coragem de perguntar coisa alguma a Jesus."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

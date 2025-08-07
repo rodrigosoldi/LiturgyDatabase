@@ -1,0 +1,339 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "02/11/25",
+      "liturgy": "Comemoração de Todos os Fiéis Defuntos",
+      "liturgicalColor": "ROXO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Jó 19,1.23-27a",
+              "title": "Leitura do Livro de Jó",
+              "text": "Jó tomou a palavra e disse: \"Gostaria que minhas palavras fossem escritas e gravadas numa inscrição com ponteiro de ferro e com chumbo, cravadas na rocha para sempre! Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus. Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros\"."
+            },
+            {
+              "obs": "",
+              "reference": "2Mc 12,43-46",
+              "title": "Leitura do Segundo Livro dos Macabeus",
+              "text": "Naqueles dias, Judas, mandou fazer uma coleta, recolhendo cerca de dez mil dracmas, que enviou a Jerusalém para que se oferecesse um sacrifício pelo pecado. Ação justa e nobre, inspirada na sua crença na ressurreição. Pois, se ele não esperasse que os soldados mortos haviam de ressuscitar, teria sido vão e supérfluo rezar por eles. Considerava, porém, que aos que morrem piedosamente está reservada uma bela recompensa. Santo e piedoso pensamento, este de orar pelos mortos. Por isso ele ofereceu um sacrifício expiatório pelos defuntos, para que fossem livres dos seus pecados."
+            },
+            {
+              "obs": "",
+              "reference": "Sb 3,1-9",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "A vida dos justos está nas mãos de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, e sua partida do meio de nós, uma destruição; mas eles estão em paz. Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si. Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto; no dia do seu julgamento hão de brilhar, correndo como centelhas no meio da palha; vão julgar as nações e dominar os povos, e o Senhor reinará sobre eles para sempre. Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos."
+            },
+            {
+              "obs": "",
+              "reference": "Sb 3,1-6.9",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "A vida dos justos está nas mãos de Deus, e nenhum tormento os atingirá. Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, e sua partida do meio de nós, uma destruição; mas eles estão em paz. Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si. Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto. Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos."
+            },
+            {
+              "obs": "",
+              "reference": "Sb 4,7-15",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "O justo, ainda que morra jovem, encontrará descanso. A honra da velhice não consiste numa longa vida, e não se mede pelo número de anos; mas os cabelos brancos são uma vida sensata, e a idade avançada, uma vida sem mancha. o justo agradou a Deus e é amado por ele; vivia entre pecadores, e Deus o transferiu para outro lugar; foi arrebatado, para que a maldade não lhe pervertesse a consciência, nem o engano seduzisse a sua alma. Pois a atração dos vícios obscurece os valores verdadeiros, e a vertigem das paixões corrompe a mente sem malícia. Tendo alcançado em pouco tempo a perfeição, completou uma longa carreira; pois sua alma era agradável ao Senhor, que por isso se apressou em tirá-Ia do meio da maldade. As pessoas vêem isso e não compreendem, e não lhes vem à mente que a graça e a misericórdia são para os eleitos do Senhor, e que ele intervém em favor dos seus santos."
+            },
+            {
+              "obs": "",
+              "reference": "Is 15,6a.7-9",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "Naquele dia, O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias. Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. Naquele dia, se dirá: \"Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo\"."
+            },
+            {
+              "obs": "",
+              "reference": "Lm 3,17-26",
+              "title": "Leitura do Livro das Lamentações",
+              "text": "Minha vida distanciou-se da paz, estou esquecido de seus bens. Disse para mim mesmo: \"Acabou-se o meu vigor, minha esperança ausentou-se do Senhor\". Lembra-te de minha miséria e de meus extravios, amargos como fel e absinto. Remorde-me a memória, vai-se consumindo a minh'alma. Revolverei essas coisas no espírito, por isso continuo esperando. É pela bondade do Senhor que não fomos destruídos, não se esgotou a sua misericórdia; cada manhã ela se renova; grande é tua fidelidade, Senhor. Diz minh'alma: \"O Senhor é minha herança, por isso, espero por ele\". O Senhor é bondoso para quem nele confia, para a alma que o procura. É bom aguardar em silêncio a salvação que vem de Deus."
+            },
+            {
+              "obs": "",
+              "reference": "Dn 12,1-3",
+              "title": "Leitura do Profeta Daniel",
+              "text": "Eu, Daniel, ouvi a palavra do Senhor: Naquele tempo, se levantará Miguel, o grande príncipe; defensor dos filhos de teu povo; e será um tempo de angústia, como nunca houve até então, desde que começaram a existir nações. Mas, nesse tempo, teu povo será salvo, todos os que se acharem inscritos no livro. Muitos dos que dormem no pó da terra, despertarão, uns para a vida eterna, outros para o opróbrio eterno. Mas os que tiverem sido sábios, brilharão como o firmamento; e os que tiverem ensinado a muitos homens os caminhos da virtude, brilharão como as estrelas, por toda a eternidade."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 23(24),1-2.3-4ab.5-6",
+              "chorus": "<<!R.!>> O Senhor é o pastor que me conduz,\nnão me falta coisa alguma.\n\nOu: Mesmo que eu passe pelo vale tenebroso,\nnenhum mal eu temerei.",
+              "verses": [
+                "O Senhor é o pastor que me conduz; *\nnão me falta coisa alguma.\nPelos prados e campinas verdejantes *\nele me leva a descansar. <<!R.!>>",
+                "Para as águas repousantes me encaminha, *\ne restaura as minhas forças.\nEle me guia no caminho mais seguro, *\npela honra do seu nome. <<!R.!>>",
+                "Mesmo que eu passe pelo vale tenebroso, *\nnenhum mal eu temerei.\nEstais comigo com bastão e com cajado, *\neles me dão a segurança! <<!R.!>>",
+                "Preparais à minha frente uma mesa, *\nbem à vista do inimigo;\ncom óleo vós ungis minha cabeça, *\ne o meu cálice transborda. <<!R.!>>",
+                "Felicidade e todo bem hão de seguir-me, *\npor toda a minha vida;\ne, na casa do Senhor, habitarei *\npelos tempos infinitos. <<!R.!>>"
+              ]
+            },
+            {
+              "obs": "",
+              "reference": "Sl 24(25),6-7bc.17-18.20-21",
+              "chorus": "<<!R.!>> Senhor meu Deus, a vós elevo a minha alma.\n\nOu: Não se envergonha quem em vós põe a esperança.",
+              "verses": [
+                "Recordai, Senhor meu Deus, vossa ternura *\ne a vossa compaixão que são eternas!\nDe mim lembrai-vos, porque sois misericórdia *\ne sois bondade sem limites, ó Senhor! <<!R.!>>",
+                "Aliviai meu coração de tanta angústia, *\ne libertai-me das minhas aflições!\nConsiderai minha miséria e sofrimento *\ne concede i vosso perdão aos meus pecados! <<!R.!>>",
+                "Defendei a minha vida e libertai-me; *\nem vós confio, que eu não seja envergonhado!\nQue a retidão e a inocência me protejam, *\npois em vós eu coloquei minha esperança! <<!R.!>>"
+              ]
+            },
+            {
+              "obs": "",
+              "reference": "Sl 26(27),1.4.7-8b.9a.13-14",
+              "chorus": "<<!R.!>> O Senhor é minha luz e salvação.\n\nOu: Sei que a bondade do Senhor eu hei de ver na terra dos viventes.",
+              "verses": [
+                "O Senhor é minha luz e salvação; *\nde quem eu terei medo?\nO Senhor é a proteção da minha vida; *\nperante quem eu tremerei? <<!R.!>>",
+                "Ao Senhor eu peço apenas uma coisa, *\ne é só isto que eu desejo:\nhabitar no santuário do Senhor *\npor toda a minha vida;\nsaborear a suavidade do Senhor *\ne contemplá-lo no seu templo. <<!R.!>>",
+                "Ó Senhor, ouvi a voz do meu apelo, †\natendei por compaixão! *\nÉ vossa face que eu procuro.\nNão afasteis em vossa ira o vosso servo, *\nsois vós o meu auxílio! <<!R.!>>",
+                "Sei que a bondade do Senhor eu hei de ver *\nna terra dos viventes.\nEspera no Senhor e tem coragem, *\nespera no Senhor! <<!R.!>>"
+              ]
+            },
+            {
+              "obs": "",
+              "reference": "Sl 102(103),8.10.13-14.15-16.17-18",
+              "chorus": "<<!R.!>> O Senhor é indulgente, é favorável.\n\nOu: A salvação dos justos vem de Deus.",
+              "verses": [
+                "O Senhor é indulgente, é favorável, *\né paciênte, é bondoso e compassivo.\nNão nos trata como exigem nossas faltas, *\nnem nos pune em proporção às nossas culpas. <<!R.!>>",
+                "Como um pai se compadece de seus filhos, *\no Senhor tem compaixão dos que o temem.\nPorque sabe de que barro somos feitos, *\ne se lembra que apenas somos pó. <<!R.!>>",
+                "Os dias do homem se parecem com a erva, *\nela floresce como a flor dos verdes campos;\nmas apenas sopra o vento ela se esvai, *\njá nem sabemos onde era o seu lugar. <<!R.!>>",
+                "Mas o amor do Senhor Deus por quem o teme *\né de sempre e perdura para sempre;\ne também sua justiça se estende *\npor gerações até os filhos de seus filhos,\naos que guardam fielmente sua Aliança *\ne se lembram de cumprir os seus preceitos. <<!R.!>>"
+              ]
+            },
+            {
+              "obs": "",
+              "reference": "Sl 114(116A),5.6; SI 115,10-11.15-16ac",
+              "chorus": "<<!R.!>> Andarei na presença de Deus, junto a ele, na terra dos vivos.\n\nOu: Aleluía, Aleluia, Aleluia.",
+              "verses": [
+                "O Senhor é justiça e bondade, *\nnosso Deus é amor-compaixão.\nÉ o Senhor quem defende os humildes: *\neu estava oprimido, e salvou-me. <<!R.!>>",
+                "Guardei a minha fé, mesmo dizendo: *\n\"É demais o sofrimento em minha vida!\"\nConfiei, quando dizia na aflição: *\n\"Todo homem é mentiroso! Todo homem!\" <<!R.!>>",
+                "É sentida por demais pelo Senhor *\na morte de seus santos, seus amigos.\nEis que sou o vosso servo, Ó Senhor *\nmas me quebrastes os grilhões da escravidão! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Cor 15,20-24a.25-28",
+              "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "text": "Irmãos: Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão. Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. A seguir, será o fim, quando ele entregar a realeza a Deus-Pai. Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. O último inimigo a ser destruído é a morte. Com efeito, \"Deus pôs tudo debaixo de seus pés\". Mas, quando ele disser: \"Tudo está submetido\", é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo. E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 5,5-11",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: A esperança não decepciona, porque o amor de Deus foi derramado em nossos corações pelo Espírito Santo que nos foi dado. Com efeito, quando éramos ainda fracos, Cristo morreu pelos ímpios, no tempo marcado. Dificilmente alguém morrerá por um justo; por uma pessoa muito boa, talvez alguém se anime a morrer. Pois bem, a prova de que Deus nos ama é que Cristo morreu por nós, quando éramos ainda pecadores. Muito mais agora, que já estamos justificados pelo sangue de Cristo, seremos salvos da ira por ele. Quando éramos inimigos de Deus, fomos reconciliados com ele pela morte do seu Filho; quanto mais agora, estando já reconciliados, seremos salvos por sua vida! Ainda mais: Nós nos gloriamos em Deus, por nosso Senhor Jesus Cristo. É por ele que, já desde o tempo presente, recebemos a reconciliação."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 5,17-21",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Por um só homem, pela falta de um só homem, a morte começou a reinar. Muito mais reinarão na vida, pela mediação de um só, Jesus Cristo, os que recebem o dom gratuito e superabundante da justiça. Como a falta de um só acarretou condenação para todos os homens, assim o ato de justiça de um só trouxe, para todos os homens, a justificação que dá a vida. Com efeito, como pela desobediência de um só homem a humanidade toda foi estabelecida numa situação de pecado, assim também, pela obediência de um só, toda a humanidade passará para uma situação de justiça. Quanto à Lei, ela interveio para que se multiplicasse a transgressão. Porém, onde se multiplicou o pecado, aí superabundou a graça. Enfim, como o pecado tem reinado pela morte, que a graça reine pela justiça, para a vida eterna, por Jesus Cristo, Senhor nosso."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 6,3-9",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados? Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova. Pois, se fomos, de certo modo, identificados a Jesus Cristo por uma morte semelhante à sua, seremos semelhantes a ele também pela ressurreição. Sabemos que o nosso velho homem foi crucificado com Cristo, para que seja destruído o corpo de pecado, de maneira a não mais servirmos ao pecado. Com efeito, aquele que morreu está livre do pecado. Se, pois, morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 6,3-4.8-9",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Será que ignorais que todos nós, batizados em Jesus Cristo, é na sua morte que fomos batizados? Pelo batismo na sua morte, fomos sepultados com ele, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós levemos uma vida nova. Se, pois, morremos com Cristo, cremos que também viveremos com ele. Sabemos que Cristo ressuscitado dos mortos não morre mais; a morte já não tem poder sobre ele."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 8,14-23",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Todos aqueles que se deixam conduzir pelo Espírito de Deus são filhos de Deus. De fato, vós não recebestes um espírito de escravos, para recairdes no medo, mas recebestes um espírito de filhos adotivos, no qual todos nós clamamos: Abá - ó Pai! O próprio Espírito se une ao nosso espírito para nos atestar que somos filhos de Deus. E, se somos filhos, somos também herdeiros - herdeiros de Deus e co-herdeiros de Cristo; - se realmente sofremos com ele, é para sermos também glorificados com ele. Eu entendo que os sofrimentos do tempo presente nem merecem ser comparados com a glória que deve ser revelada em nós. De fato, toda a criação está esperando ansiosamente o momento de se revelarem os filhos de Deus. Pois a criação ficou sujeita à vaidade, não por sua livre vontade, mas por sua dependência daquele que a sujeitou; também ela espera ser libertada da escravidão da corrupção e, assim, participar da liberdade e da glória dos filhos de Deus. Com efeito, sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 8,31b-35.37-39",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Se Deus é por nós, quem será contra nós? Deus que não poupou seu próprio filho, mas o entregou por todos nós, como não nos daria tudo junto com ele? Quem acusará os escolhidos de Deus? Deus, que os declara justos? Quem condenará? Jesus Cristo, que morreu, mais ainda, que ressuscitou, e está, à direita de Deus, intercedendo por nós? Quem nos separará do amor de Cristo? Tribulação? Angústia? Perseguição? Fome? Nudez? Perigo? Espada? Mas, em tudo isso, somos mais que vencedores, graças àquele que nos amou! Tenho a certeza que nem a morte, nem a vida, nem os anjos, nem os poderes celestiais, nem o presente nem o futuro, nem as forças cósmicas, nem a altura, nem a profundeza, nem outra criatura qualquer será capaz de nos separar do amor de Deus por nós, manifestado em Cristo Jesus, nosso Senhor."
+            },
+            {
+              "obs": "",
+              "reference": "Rm 14,7-9.10c-12",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos: Ninguém dentre nós vive para si mesmo ou morre para si mesmo. Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos. Pois é diante do tribunal de Deus que todos compareceremos. Com efeito, está escrito: \"Por minha vida, diz o Senhor, todo joelho se dobrará diante de mim e toda língua glorificará a Deus\". Assim, cada um de nós prestará contas de si mesmo a Deus."
+            },
+            {
+              "obs": "",
+              "reference": "1Cor 15,20-24a.25-28",
+              "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "text": "Irmãos: Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão. Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. a A seguir, será o fim, quando ele entregar a realeza a Deus-Pai. Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. O último inimigo a ser destruído é a morte. Com efeito, \"Deus pôs tudo debaixo de seus pés\". Mas, quando ele disser: \"Tudo está submetido\", é claro que estará excluído dessa submissão aquele que submeteu tudo a Cristo. E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
+            },
+            {
+              "obs": "",
+              "reference": "1Cor 15,20-23",
+              "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "text": "Irmãos: Cristo ressuscitou dos mortos como primícias dos que morreram. Com efeito, por um homem veio a morte e é também por um homem . que vem a ressurreição dos mortos. Como em Adão todos morrem, assim também em Cristo todos reviverão. Porém, cada qual segundo uma ordem determinada: Em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda."
+            },
+            {
+              "obs": "",
+              "reference": "2Tm 2,8-13",
+              "title": "Leitura da Segunda Carta de São Paulo a Timóteo",
+              "text": "Caríssimo: Lembra-te de Jesus Cristo, da descendência de Davi, ressuscitado dentre os mortos, segundo o meu evangelho. Por ele eu estou sofrendo até às algemas, como se eu fosse um malfeitor; mas a palavra de Deus não está algemada. Por isso suporto qualquer coisa pelos eleitos, para que eles também alcancem a salvação, que está em Cristo Jesus, com a glória eterna. Merece fé esta palavra: se com ele morremos, com ele viveremos. Se com ele ficamos firmes, com ele reinaremos. Se nós o negamos, também ele nos negará. Se lhe somos infiéis, ele permanece fiel, pois não pode negar-se a si mesmo."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "É esta a vontade de quem me enviou: que eu não perca nenhum dos que ele me deu, mas que eu os ressuscite no último dia."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 12,35-40",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus a seus discípulos: Que vossos rins estejam cingidos e as lâmpadas acesas. Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrir, imediatamente, a porta, logo que ele chegar e bater. Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar! Mas ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. Vós também, ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes\"."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu te louvo, ó Pai Santo, Deus do céu, Senhor da terra os mistérios do teu Reino aos pequenos, Pai, revelas!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 5,1-12a",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, Vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, e Jesus começou a ensiná-Ias: \"Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. Bem-aventurados os aflitos, porque serão consolados. Bem-aventurados os mansos, porque possuirão a terra. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. Bem-aventurados os misericordiosos, porque alcançarão misericórdia. Bem-aventurados os puros de coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. Bem-aventurados sais vós, quando vos injuriarem e perseguirem, e, mentindo, disserem todo tipo de mal contra vós, por causa de mim. Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Benditos do Pai, se apossai-vos do Reino, que foi preparado, bem desde o começo!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 11,25-30",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, Jesus pôs-se a dizer: \"Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. Tudo me foi entregue por meu Pai, e ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho o quiser revelar. Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e vós encontrareis descanso. Pois o meu jugo é suave e o meu fardo é leve."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Deus o mundo,tanto amou, que seu seu Filho entregou! Quem no Filho crê e confia, nele encontra eterna vida!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 25,1-13",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, disse Jesus a seus discípulos esta parábola: \"O Reino dos Céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo. Cinco delas eram imprevidentes, e as outras cinco eram previdentes. As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo. As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas. o noivo estava demorando e todas elas acabaram cochilando e dormindo. No meio da noite, ouviu-se um grito: 'O noivo está chegando. Ide ao seu encontro!' Então as dez jovens se levantaram e prepararam as lâmpadas. As imprevidentes disseram às previdentes: 'Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando'. As previdentes responderam: 'De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar aos vendedores'. Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou. Por fim, chegaram também as outras jovens e disseram: 'Senhor! Senhor! Abre-nos a porta!' Ele, porém, respondeu: 'Em verdade eu vos digo: Não vos conheço!' Portanto, ficai vigiando, pois não sabeis qual será o dia, nem a hora\"."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Quem vê o Filho e nele crê esse tem a vida eterna, e eu o farei ressuscitar n'último dia, diz Jesus."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 15,33-39;16,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Quando chegou o meio-dia, houve escuridão sobre toda a terra, até as três horas da tarde. Pelas três da tarde, Jesus gritou com voz forte: \"Eloi, Eloi, lamá sabactâni?\", que quer dizer: \"Meu Deus, meu Deus, por que me abandonaste?\" Alguns dos que estavam ali perto, ouvindo-o, disseram: \"Vejam, ele está chamando Elias!\" Alguém correu e embebeu uma esponja em vinagre, colocou-a na ponta de uma vara e lhe deu de beber, dizendo: \"Deixai! Vamos ver se Elias vem tirá-lo da cruz\". Então Jesus deu um forte grito e expirou. Neste momento a cortina do santuário rasgou-se de alto a baixo, em duas partes. Quando o oficial do exército, que estava bem em frente dele, viu corno Jesus havia expirado, disse: \"Na verdade, este homem era Filho de Deus!\" Quando passou o sábado, Maria Madalena e Maria, a mãe de Tiago, e Salomé, compraram perfumes para ungir o corpo de Jesus. E bem cedo, no primeiro dia da semana, ao nascer do sol, elas foram ao túmulo. E diziam entre si: \"Quem rolará para nós a pedra da entrada do túmulo?\" Era uma pedra muito grande. Mas, quando olharam, viram que a pedra já tinha sido retirada. Entraram, então, no túmulo e viram um jovem, sentado do lado direito, vestido de branco. E ficaram muito assustadas. Mas o jovem lhes disse: \"Não vos assusteis! Vós procurais Jesus de Nazaré, que foi crucificado? Ele ressuscitou. Não está aqui. Vede o lugar onde o puseram\"."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou o pão da vida que, do céu desceu ao mundo; quem come deste pão, viverá eternamente."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 7,11-17",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, Jesus dirigiu-se a uma cidade chamada Naim. Com ele iam seus discípulos e uma grande multidão. Quando chegou à porta da cidade, eis que levavam um defunto, filho único; e sua mãe era viúva. Grande multidão da cidade a acompanhava. Ao vê-la, o Senhor sentiu compaixão para com ela e lhe disse: \"Não chores!\" Aproximou-se, tocou o caixão, e os que o carregavam pararam. Então, Jesus disse: \"Jovem, eu te ordeno, levanta-te!\" O que estava morto sentou-se e começou a falar. E Jesus o entregou à sua mãe. Todos ficaram com muito medo e glorificavam a Deus, dizendo: \"Um grande profeta apareceu entre nós e Deus veio visitar o seu povo\". E a notícia do fato espalhou-se pela Judéia inteira, e por toda a redondeza."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou a ressurreição, eu sou a vida, eu sou; não morrerá para sempre quem crê em mim, seu Senhor!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 11,17-27",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Quando Jesus chegou, a Betânia, encontrou Lázaro sepultado havia quatro dias. Betânia ficava a uns três quilômetros de Jerusalém. Muitos judeus tinham vindo à casa de Marta e Maria para as consolar por causa do irmão. Quando Marta soube que Jesus tinha chegado, foi ao encontro dele. Maria ficou sentada em casa. Então Marta disse a Jesus: \"Senhor, se tivesses estado aqui, meu irmão não teria morrido. Mas mesmo assim, eu sei que o que pedires a Deus, ele to concederá\". Respondeu-lhe Jesus: \"Teu irmão ressuscitará\". Disse Marta: \"Eu sei que ele ressuscitará na ressurreição, no último dia\". Então Jesus disse: \"Eu sou a ressurreição e a vida. Quem crê em mim, mesmo que morra, viverá. E todo aquele que vive e crê em mim, não morrerá jamais. Crês isto?\" Respondeu ela: \"Sim, Senhor, eu creio firmemente que tu és o Messias, o Filho de Deus, que devia vir ao mundo\"."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A nossa cidade é nos céus de onde, também, esperamos o Cristo Jesus, Senhor nosso."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 12,23-28",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Naquele tempo disse Jesus a seus discípulos: \"Chegou a hora em que o Filho do Homem vai ser glorificado. Em verdade, em verdade vos digo: Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto. Quem se apega à sua vida, perde-a; mas quem faz pouca conta de sua vida neste mundo conservá-la-á para a vida eterna. Se alguém me quer servir, siga-me, e onde eu estou estará também o meu servo. Se alguém me serve, meu Pai o honrará. Agora sinto-me angustiado. E que direi? 'Pai, livra-me desta hora!'? Mas foi precisamente para esta hora que eu vim. 'Pai, glorifica o teu nomel:\" Então, veio uma voz do céu: \"Eu o glorifiquei e o glorificarei de novo!"
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Se com Cristo nós morremos com Cristo viveremos. Se com ele nós sofremos, com ele reinaremos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 14,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Naquele tempo, disse Jesus a seus discípulos: \"Não se perturbe o vosso coração. Tendes fé em Deus, tende fé em mim também. Na casa de meu Pai há muitas moradas. Se assim não fosse, eu vos teria dito. Vou preparar um lugar para vós, e quando eu tiver ido preparar-vos um lugar, voltarei e vos levarei comigo, a fim de que onde eu estiver estejais também vós. E para onde eu vou, vós conheceis o caminho\". Tomé disse a Jesus: \"Senhor, nós não sabemos para onde vais. Como podemos conhecer o caminho?\" Jesus respondeu: \"Eu sou o Caminho, a Verdade e a Vida. Ninguém vai ao Pai senão por mim\"."
+              }
+            },
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo, o Primogênito dos mortos, a ele a glória e o domínio pelos séculos!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 17,24-26",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Naquele tempo, levantando os olhos para o céu, Jesus orou, dizendo: \"Pai, aqueles que me deste, quero que estejam comigo onde eu estiver, para que eles contemplem a minha glória, glória que tu me deste, porque me amaste, antes da fundação do universo. Pai justo, o mundo não te conheceu, mas eu te conheci, e estes também conheceram que tu me enviaste. Eu lhes fiz conhecer o teu nome, e o tornarei conhecido ainda mais, para que o amor com que me amaste esteja neles, e eu mesmo esteja neles\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

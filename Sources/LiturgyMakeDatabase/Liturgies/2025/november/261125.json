@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "26/11/25",
+      "liturgy": "34ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 5,1-6.13-14.16-17.23-28",
+              "title": "Leitura da Profecia de Daniel",
+              "text": "Naqueles dias, 1 o rei Baltasar ofereceu um grande banquete aos mil dignitários de sua corte, tomando vinho em companhia deles. 2 Já embriagado, Baltasar mandou trazer os vasos de ouro e prata, que seu pai Nabucodonosor tinha tirado do templo de Jerusalém, para beberem deles o rei e os grandes do reino, suas mulheres e concubinas. 3 Foram, pois, trazidos os vasos de ouro e prata, retirados do templo de Jerusalém, e deles se serviram o rei e os grandes do reino, suas mulheres e concubinas; 4 bebiam vinho e engrandeciam seus deuses de ouro e prata, de bronze e ferro, de madeira e pedra. 5 Naquele mesmo instante, apareceram dedos de mão humana que iam escrevendo, diante do candelabro, sobre a superfície da parede do palácio, e o rei via os dedos da mão que escrevia. 6 Alterou-se o semblante do rei, confundiram-se suas ideias e ele sentiu vacilarem os ossos dos quadris e tremerem os joelhos. 13 Então Daniel foi introduzido à presença do rei, e este lhe disse: \"És tu Daniel, um dos cativos de Judá, trazidos de Judá pelo rei, meu pai? 14 Ouvi dizer que possuis o espírito dos deuses, e que em ti se acham ciência, entendimento e sabedoria em grau superior. 16 Ora, ouvi dizer também que sabes decifrar coisas obscuras e deslindar assuntos complicados; se, portanto, conseguires ler o escrito e dar-me sua interpretação, tu te vestirás de púrpura, e levarás ao pescoço um colar de ouro, e serás o terceiro homem do reino\". 17 Em resposta, disse Daniel perante o rei: \"Fiquem contigo teus presentes e presenteia um outro com tuas honrarias; contudo, vou ler, ó rei, o escrito e fazer-te a interpretação. 23 Tu te levantaste contra o Senhor do céu; os vasos de sua casa foram trazidos à tua presença e deles bebestes vinho, tu e os grandes do reino, suas mulheres e concubinas; ao mesmo tempo, celebravas os deuses de prata e ouro, de bronze e ferro, de madeira e pedra, deuses que não veem nem ouvem, e nada entendem, — e ao Deus, que tem em suas mãos tua vida e teu destino, não soubeste glorificar. 24 Por isso, foram mandados por ele os dedos da mão, que fez este escrito. 25 Assim se lê o escrito que foi traçado: mâne, técel, pársin. 26 E esta é a explicação das palavras: mâne: Deus contou os dias de teu reinado e deu-o por concluído; 27 técel: foste pesado na balança, e achado com menos peso; 28 pársin: teu reino foi dividido e entregue aos medos e persas\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 3,62-63.64-65.66-67",
+              "chorus": "<<!R.!>> Louvai-o e exaltai-o pelos séculos sem fim!",
+              "verses": [
+                "Lua e sol, bendizei o Senhor! *\nAstros e estrelas, bendizei o Senhor! <<!R.!>>",
+                "Chuvas e orvalhos, bendizei o Senhor! *\nBrisas e ventos, bendizei o Senhor! <<!R.!>>",
+                "Fogo e calor, bendizei o Senhor! *\nFrio e ardor, bendizei o Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Permanece fiel até a morte, e a coroa da vida eu te darei!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 21,12-19",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus aos seus discípulos: 12 \"Antes que estas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome. 13 Esta será a ocasião em que testemunhareis a vossa fé. 14 Fazei o firme propósito de não planejar com antecedência a própria defesa; 15 porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater. 16 Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos. E eles matarão alguns de vós. 17 Todos vos odiarão por causa do meu nome. 18 Mas vós não perdereis um só fio de cabelo da vossa cabeça. 19 É permanecendo firmes que ireis ganhar a vida!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

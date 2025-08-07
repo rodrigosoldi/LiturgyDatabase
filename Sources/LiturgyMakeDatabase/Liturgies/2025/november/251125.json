@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "25/11/25",
+      "liturgy": "34ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 2,31-45",
+              "title": "Leitura da Profecia de Daniel",
+              "text": "Naqueles dias, disse Daniel a Nabucodonosor: 31 \"Tu, ó rei, olhavas, e pareceu-te ver uma estátua grande, muito alta, erguida à tua frente, de aspecto aterrador. 32 A cabeça da estátua era de ouro fino, peito e braços eram de prata, ventre e coxas, de bronze; 33 sendo as pernas de ferro, e os pés, parte de ferro e parte de barro. 34 Estavas olhando, quando uma pedra, sem ser empurrada por ninguém, se desprendeu de algum lugar, e veio bater na estátua, em seus pés de ferro e barro, fazendo-os em pedaços; 35 então, a um só tempo, despedaçaram-se ferro, barro, bronze, prata e ouro, tudo ficando como a palha miúda das eiras, no verão, que o vento varre sem deixar vestígios; mas a pedra que atingira a estátua transformou-se num grande monte e encheu toda a terra. 36 Este foi o sonho; vou dar também a interpretação, ó rei, em tua presença. 37 Tu és um grande rei, e o Deus do céu te deu a realeza, o poder, a autoridade e a glória; 38 ele entregou em tuas mãos os filhos dos homens, os animais do campo e as aves do céu, onde quer que habitem, e te constituiu senhor de todos eles: tu és a cabeça de ouro. 39 Depois de ti, surgirá outro reino, que é inferior ao teu, e ainda um terceiro, que será de bronze, e dominará toda a terra. 40 O quarto reino será forte como ferro; e assim como o ferro tudo esmaga e domina, do mesmo modo, à semelhança do ferro, ele esmagará e destruirá todos aqueles reinos. 41 Viste os pés e dedos dos pés, parte de barro e parte de ferro, porque o reino será dividido; terá a força do ferro, conforme viste o ferro misturado com barro cozido. 42 Viste também que os dedos dos pés eram parte de ferro e parte de barro, porque o reino em parte será sólido e em parte quebradiço. 43 Quanto ao ferro misturado com barro cozido, haverá de certo ligações por via de casamentos, mas sem coesão entre as partes, assim como o ferro não faz liga com o barro. 44 No tempo desses reinos, o Deus do céu suscitará um reino que nunca será destruído, um reino que não passará a outro povo; antes, esmagará e aniquilará todos esses reinos, e ele permanecerá para sempre. 45 Quanto à pedra que, sem ser tocada por mãos, se desprendeu do monte e despedaçou o barro cozido, o ferro, o bronze, a prata e o ouro, o grande Deus faz saber ao rei o que acontecerá depois, no futuro. O sonho é verdadeiro, e sua interpretação, fiel\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Dn 3,57-59.60-61",
+              "chorus": "<<!R.!>> Louvai-o e exaltai-o pelos séculos sem fim!",
+              "verses": [
+                "Obras do Senhor, bendizei o Senhor! *\nLouvai-o e exaltai-o pelos séculos sem fim!\nCéus do Senhor, bendizei o Senhor! *\nAnjos do Senhor, bendizei o Senhor! <<!R.!>>",
+                "Águas do alto céu, bendizei o Senhor! *\nPotências do Senhor, bendizei o Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Permanece fiel até a morte, e a coroa da vida eu te darei!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 21,5-11",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 5 algumas pessoas comentavam a respeito do Templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse: 6 \"Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído\". 7 Mas eles perguntaram: \"Mestre, quando acontecerá isto? E qual vai ser o sinal de que estas coisas estão para acontecer?\" 8 Jesus respondeu: \"Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: 'Sou eu!' E ainda: 'O tempo está próximo'. Não sigais essa gente! 9 Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que estas coisas aconteçam primeiro, mas não será logo o fim\". 10 E Jesus continuou: \"Um povo se levantará contra outro povo, um país atacará outro país. 11 Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

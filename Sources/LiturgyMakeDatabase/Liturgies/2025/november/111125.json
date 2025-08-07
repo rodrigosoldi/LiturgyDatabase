@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "11/11/25",
+      "liturgy": "São Martinho de Tours, bispo, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 2,23-3,9",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "23 Deus criou o homem para a imortalidade e o fez à imagem de sua própria natureza; 24 foi por inveja do diabo que a morte entrou no mundo, e experimentam-na os que a ele pertencem. 3,1 A vida dos justos está nas mãos de Deus, e nenhum tormento os atingirá. 2 Aos olhos dos insensatos parecem ter morrido; sua saída do mundo foi considerada uma desgraça, 3 e sua partida do meio de nós, uma destruição; mas eles estão em paz. 4 Aos olhos dos homens parecem ter sido castigados, mas sua esperança é cheia de imortalidade; 5 tendo sofrido leves correções, serão cumulados de grandes bens, porque Deus os pôs à prova e os achou dignos de si. 6 Provou-os como se prova o ouro no fogo e aceitou-os como ofertas de holocausto; 7 no dia do seu julgamento hão de brilhar, correndo como centelhas no meio da palha; 8 vão julgar as nações e dominar os povos, e o Senhor reinará sobre eles para sempre. 9 Os que nele confiam compreenderão a verdade, e os que perseveram no amor ficarão junto dele, porque a graça e a misericórdia são para seus eleitos."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 33(34),2-3.16-17.18-19",
+              "chorus": "<<!R.!>> Bendirei o Senhor Deus em todo o tempo!",
+              "verses": [
+                "Bendirei o Senhor Deus em todo o tempo, *\nseu louvor estará sempre em minha boca.\nMinha alma se gloria no Senhor; *\nque ouçam os humildes e se alegrem! <<!R.!>>",
+                "O Senhor pousa seus olhos sobre os justos, *\ne seu ouvido está atento ao seu chamado;\nmas ele volta a sua face contra os maus, *\npara da terra apagar sua lembrança. <<!R.!>>",
+                "Clamam os justos, e o Senhor bondoso escuta *\ne de todas as angústias os liberta.\nDo coração atribulado ele está perto *\ne conforta os de espírito abatido. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Quem me ama, realmente, guardará minha palavra, e meu Pai o amará e a ele nós viremos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 17,7-10",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, disse Jesus: 7 \"Se algum de vós tem um empregado que trabalha a terra ou cuida dos animais, por acaso vai dizer-lhe, quando ele volta do campo: 'Vem depressa para a mesa'? 8 Pelo contrário, não vai dizer ao empregado: 'Prepara-me o jantar, cinge-te e serve-me, enquanto eu como e bebo; depois disso tu poderás comer e beber?' 9 Será que vai agradecer ao empregado, porque fez o que lhe havia mandado? 10 Assim também vós: quando tiverdes feito tudo o que vos mandaram, dizei: 'Somos servos inúteis; fizemos o que devíamos fazer'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "13/11/25",
+      "liturgy": "32ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 7,22-8,1",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "22 Na Sabedoria há um espírito inteligente, santo, único, múltiplo, sutil, móvel, perspicaz, imaculado, lúcido, invulnerável, amante do bem, penetrante, 23 desimpedido, benfazejo, amigo dos homens, constante, seguro, sem inquietação, que tudo pode, que tudo supervisiona, que penetra todos os espíritos, os inteligentes, os puros, os mais sutis. 24 Pois a Sabedoria é mais ágil que qualquer movimento, e atravessa e penetra tudo por causa da sua pureza. 25 Ela é um sopro do poder de Deus, uma emanação pura da glória do Todo-poderoso; por isso, nada de impuro pode introduzir-se nela: 26 ela é um reflexo da luz eterna, espelho sem mancha da atividade de Deus e imagem da sua bondade. 27 Sendo única, tudo pode; permanecendo imutável, renova tudo; e comunicando-se às almas santas de geração em geração, forma os amigos de Deus e os profetas. 28 Pois Deus ama tão somente aquele que vive com a Sabedoria. 29 De fato, ela é mais bela que o sol e supera todas as constelações; comparada à luz, ela tem a primazia: 30 pois a luz cede lugar à noite, ao passo que, contra a Sabedoria, o mal não prevalece. 8,1 Ela se estende com vigor de uma extremidade à outra da terra e com suavidade governa todas as coisas."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 118(119),89,90.91.130.135.175",
+              "chorus": "<<!R.!>> É eterna, ó Senhor, vossa palavra!",
+              "verses": [
+                "É eterna, ó Senhor, vossa palavra, *\nela é tão firme e estável como o céu. <<!R.!>>",
+                "De geração em geração, vossa verdade *\npermanece como a terra que firmastes. <<!R.!>>",
+                "Porque mandastes, tudo existe até agora; *\ntodas as coisas, ó Senhor, vos obedecem! <<!R.!>>",
+                "Vossa palavra, ao revelar-se, me ilumina, *\nela dá sabedoria aos pequeninos. <<!R.!>>",
+                "Fazei brilhar vosso semblante ao vosso servo, *\ne ensinai-me vossas leis e mandamentos! <<!R.!>>",
+                "Possa eu viver e para sempre vos louvar; *\ne que me ajudem, ó Senhor, vossos conselhos! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou a videira e vós sois os ramos; um fruto abundante vós haveis de dar."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 17,20-25",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 20 os fariseus perguntaram a Jesus sobre o momento em que chegaria o Reino de Deus. Jesus respondeu: \"O Reino de Deus não vem ostensivamente. 21 Nem se poderá dizer: 'Está aqui'ou 'Está ali', porque o Reino de Deus está entre vós\". 22 E Jesus disse aos discípulos: \"Dias virão em que desejareis ver um só dia do Filho do Homem e não podereis ver. 23 As pessoas vos dirão: 'Ele está ali'ou 'Ele está aqui'. Não deveis ir, nem correr atrás. 24 Pois, como o relâmpago brilha de um lado até ao outro do céu, assim também será o Filho do Homem, no seu dia. 25 Antes, porém, ele deverá sofrer muito e ser rejeitado por esta geração\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

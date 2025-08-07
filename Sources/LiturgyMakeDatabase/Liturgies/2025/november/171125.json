@@ -1,0 +1,66 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "17/11/25",
+      "liturgy": "Santa Isabel da Hungria, religiosa, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Mc 1,10-15.41-43.54-57.62-64",
+              "title": "Leitura do Primeiro Livro dos Macabeus",
+              "text": "Naqueles dias, 10 brotou uma raiz iníqua, Antíoco Epífanes, filho do rei Antíoco. Estivera em Roma, como refém, e subiu ao trono no ano cento e trinta e sete da era dos gregos. 11 Naqueles dias, apareceram em Israel pessoas ímpias, que seduziram a muitos, dizendo: \"Vamos fazer uma aliança com as nações vizinhas, pois, desde que nos isolamos delas, muitas desgraças nos aconteceram\". 12 Estas palavras agradaram, 13 e alguns do povo entusiasmaram-se e foram procurar o rei, que os autorizou a seguir os costumes pagãos. 14 Edificaram em Jerusalém um ginásio, de acordo com as normas dos gentios. 15 Aboliram o uso da circuncisão e renunciaram à aliança sagrada. Associaram-se com os pagãos e venderam-se para fazer o mal. 41 Então o rei Antíoco publicou um decreto para todo o reino, ordenando que todos formassem um só povo, obrigando cada um a abandonar seus costumes particulares. 42 Todos os pagãos acataram a ordem do rei 43 e inclusive muitos israelitas adotaram sua religião, sacrificando aos ídolos e profanando o sábado. 54 No dia quinze do mês de Casleu, no ano cento e quarenta e cinco, Antíoco fez erigir sobre o altar dos sacrifícios a Abominação da desolação. E pelas cidades circunvizinhas de Judá construíram altares. 55 Queimavam incenso junto às portas das casas e nas ruas. 56 Os livros da Lei, que lhes caíam nas mãos, eram atirados ao fogo, depois de rasgados. 57 Em virtude do decreto real, era condenado à morte todo aquele em cuja casa fosse encontrado um livro da Aliança, assim como qualquer pessoa que continuasse a observar a Lei. 62 Mas muitos israelitas resistiram e decidiram firmemente não comer alimentos impuros. 63 Preferiram a morte a contaminar-se com aqueles alimentos. E, não querendo violar a aliança sagrada, esses foram trucidados. 64 Uma cólera terrível se abateu sobre Israel."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 118(119),53.61.134.150.155.158",
+              "chorus": "<<!R.!>> Vivificai-me, ó Senhor, e guardarei vossa Aliança!",
+              "verses": [
+                "Apodera-se de mim a indignação, *\nvendo que os ímpios abandonam vossa lei. <<!R.!>>",
+                "Mesmo que os ímpios me amarrem com seus laços, *\nnem assim hei de esquecer a vossa lei. <<!R.!>>",
+                "Libertai-me da opressão e da calúnia, *\npara que eu possa observar vossos preceitos! <<!R.!>>",
+                "Meus opressores se aproximam com maldade; *\ncomo estão longe, ó Senhor, de vossa lei! <<!R.!>>",
+                "Como estão longe de salvar-se os pecadores, *\npois não procuram, ó Senhor, vossa vontade! <<!R.!>>",
+                "Quando vejo os renegados, sinto nojo, *\nporque foram infiéis à vossa lei. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu sou a luz do mundo; aquele que me segue, não caminha entre as trevas, mas terá a luz da vida."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 18,35-43",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "35 Quando Jesus se aproximava de Jericó, um cego estava sentado à beira do caminho, pedindo esmolas. 36 Ouvindo a multidão passar, ele perguntou o que estava acontecendo. 37 Disseram-lhe que Jesus Nazareno estava passando por ali. 38 Então o cego gritou: \"Jesus, filho de Davi, tem piedade de mim!\" 39 As pessoas que iam na frente mandavam que ele ficasse calado. Mas ele gritava mais ainda: \"Filho de Davi, tem piedade de mim!\" 40 Jesus parou e mandou que levassem o cego até ele. Quando o cego chegou perto, Jesus perguntou: 41 \"O que queres que eu faça por ti?\" O cego respondeu: \"Senhor, eu quero enxergar de novo\". 42 Jesus disse: \"Enxerga, pois, de novo. A tua fé te salvou\". 43 No mesmo instante, o cego começou a ver de novo e seguia Jesus, glorificando a Deus. Vendo isso, todo o povo deu louvores a Deus."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

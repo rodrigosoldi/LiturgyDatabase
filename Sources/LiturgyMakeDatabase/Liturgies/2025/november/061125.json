@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "06/11/25",
+      "liturgy": "31ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 14,7-12",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 7 ninguém dentre nós vive para si mesmo ou morre para si mesmo. 8 Se estamos vivos, é para o Senhor que vivemos; se morremos, é para o Senhor que morremos. Portanto, vivos ou mortos, pertencemos ao Senhor. 9 Cristo morreu e ressuscitou exatamente para isto, para ser o Senhor dos mortos e dos vivos. 10 E tu, por que julgas o teu irmão? Ou, mesmo, por que desprezas o teu irmão? Pois é diante do tribunal de Deus que todos compareceremos. 11 Com efeito, está escrito: \"Por minha vida, diz o Senhor, todo joelho se dobrará diante de mim e toda língua glorificará a Deus\". 12 Assim, cada um de nós prestará contas de si mesmo a Deus."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 26(27),1.4.13-14",
+              "chorus": "<<!R.!>> Sei que a bondade do Senhor eu hei de ver,\nna terra dos viventes.",
+              "verses": [
+                "O Senhor é minha luz e salvação; *\nde quem eu terei medo?\nO Senhor é a proteção da minha vida; *\nperante quem eu tremerei? <<!R.!>>",
+                "Ao Senhor eu peço apenas uma coisa, *\ne é só isto que eu desejo:\nhabitar no santuário do Senhor *\npor toda a minha vida;\nsaborear a suavidade do Senhor *\ne contemplá-lo no seu templo. <<!R.!>>",
+                "Sei que a bondade do Senhor eu hei de ver *\nna terra dos viventes.\nEspera no Senhor e tem coragem, *\nespera no Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 15,1-10",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 os publicanos e pecadores aproximavam-se de Jesus para o escutar. 2 Os fariseus, porém, e os mestres da Lei criticavam Jesus. \"Este homem acolhe os pecadores e faz refeição com eles\". 3 Então Jesus contou-lhes esta parábola: 4 \"Se um de vós tem cem ovelhas e perde uma, não deixa as noventa e nove no deserto, e vai atrás daquela que se perdeu, até encontrá-la? 5 Quando a encontra, coloca-a nos ombros com alegria, 6 e, chegando a casa, reúne os amigos e vizinhos, e diz: 'Alegrai-vos comigo! Encontrei a minha ovelha que estava perdida!' 7 Eu vos digo: Assim haverá no céu mais alegria por um só pecador que se converte, do que por noventa e nove justos que não precisam de conversão. 8 E se uma mulher tem dez moedas de prata e perde uma, não acende uma lâmpada, varre a casa e a procura cuidadosamente, até encontrá-la? 9 Quando a encontra, reúne as amigas e vizinhas, e diz: 'Alegrai-vos comigo! Encontrei a moeda que tinha perdido!' 10 Por isso, eu vos digo, haverá alegria entre os anjos de Deus por um só pecador que se converte\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

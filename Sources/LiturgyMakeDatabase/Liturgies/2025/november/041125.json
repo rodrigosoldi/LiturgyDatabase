@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "04/11/25",
+      "liturgy": "São Carlos Borromeu, bispo, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 12,5-16a",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 5 nós, embora muitos, somos em Cristo um só corpo e, todos membros uns dos outros. 6 Temos dons diferentes, de acordo com a graça dada a cada um de nós: se é a profecia, exerçamo-la em harmonia com a fé; 7 se é o serviço, pratiquemos o serviço; se é o dom de ensinar, consagremo-nos ao ensino; 8 se é o dom de exortar, exortemos. Quem distribui donativos, faça-o com simplicidade; quem preside, presida com solicitude; quem se dedica a obras de misericórdia, faça-o com alegria. 9 O amor seja sincero. Detestai o mal, apegai-vos ao bem. 10 Que o amor fraterno vos una uns aos outros com terna afeição, prevenindo-vos com atenções recíprocas. 11 Sede zelosos e diligentes, fervorosos de espírito, servindo sempre ao Senhor, 12 alegres por causa da esperança, fortes nas tribulações, perseverantes na oração. 13 Socorrei os santos em suas necessidades, persisti na prática da hospitalidade. 14 Abençoai os que vos perseguem, abençoai e não amaldiçoeis. 15 Alegrai-vos com os que se alegram, chorai com os que choram. 16a Mantende um bom entendimento uns com os outros; não vos deixeis levar pelo gosto de grandeza, mas acomodai-vos às coisas humildes."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 130(131),1.2.3",
+              "chorus": "<<!R.!>> Guardai-me, em paz, junto a vós, ó Senhor!",
+              "verses": [
+                "Senhor, meu coração não é orgulhoso, *\nnem se eleva arrogante o meu olhar;\nnão ando à procura de grandezas, *\nnem tenho pretensões ambiciosas! <<!R.!>>",
+                "Fiz calar e sossegar a minha alma; *\nela está em grande paz dentro de mim,\ncomo a criança bem tranquila, amamentada *\nno regaço acolhedor de sua mãe. <<!R.!>>",
+                "Confia no Senhor, ó Israel, *\ndesde agora e por toda a eternidade! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vinde a mim, todos vós que estais cansados, e descanso eu vos darei, diz o Senhor."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 14,15-24",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 15 um homem que estava à mesa, disse a Jesus: \"Feliz aquele que come o pão no Reino de Deus!\" 16 Jesus respondeu: \"Um homem deu um grande banquete e convidou muitas pessoas. 17 Na hora do banquete, mandou seu empregado dizer aos convidados: 'Vinde, pois tudo está pronto'. 18 Mas todos, um a um, começaram a dar desculpas. O primeiro disse: 'Comprei um campo, e preciso ir vê-lo. Peço-te que aceites minhas desculpas'. 19 Um outro disse: 'Comprei cinco juntas de bois, e vou experimentá-las. Peço-te que aceites minhas desculpas'. 20 Um terceiro disse: 'Acabo de me casar e, por isso, não posso ir'. 21 O empregado voltou e contou tudo ao patrão. Então o dono da casa ficou muito zangado e disse ao empregado: 'Sai depressa pelas praças e ruas da cidade. Traze para cá os pobres, os aleijados, os cegos e os coxos'. 22 O empregado disse: 'Senhor, o que tu mandaste fazer foi feito, e ainda há lugar'. 23 O patrão disse ao empregado: 'Sai pelas estradas e atalhos, e obriga as pessoas a virem aqui, para que minha casa fique cheia'. 24 Pois eu vos digo: nenhum daqueles que foram convidados provará do meu banquete'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

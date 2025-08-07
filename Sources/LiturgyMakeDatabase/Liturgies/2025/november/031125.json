@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "03/11/25",
+      "liturgy": "31ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 11,29-36",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "Irmãos, 29 os dons e a vocação de Deus são irrevogáveis. 30 Outrora, vós fostes desobedientes a Deus, mas agora alcançastes misericórdia, em consequência da desobediência deles. 31 Assim são eles agora os desobedientes, para que, em consequência da misericórdia usada convosco, alcancem finalmente misericórdia. 32 Com efeito, Deus encerrou todos os homens na desobediência, a fim de exercer misericórdia para com todos. 33 Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Como são inescrutáveis os seus juízos e impenetráveis os seus caminhos! 34 De fato, quem conheceu o pensamento do Senhor? Ou quem foi seu conselheiro? 35 Ou quem se antecipou em dar-lhe alguma coisa, de maneira a ter direito a uma retribuição? 36 Na verdade, tudo é dele, por ele, e para ele. A ele, a glória para sempre. Amém!"
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 68(69),30-31.33-34.36-37",
+              "chorus": "<<!R.!>> Respondei-me, ó Senhor, pelo vosso imenso amor!",
+              "verses": [
+                "Pobre de mim, sou infeliz e sofredor! *\nQue vosso auxílio me levante, Senhor Deus!\nCantando eu louvarei o vosso nome *\ne agradecido exultarei de alegria! <<!R.!>>",
+                "Humildes, vede isto e alegrai-vos: †\no vosso coração reviverá, *\nse procurardes o Senhor continuamente!\nPois nosso Deus atende à prece dos seus pobres, *\ne não despreza o clamor de seus cativos. <<!R.!>>",
+                "Sim, Deus virá e salvará Jerusalém, †\nreconstruindo as cidades de Judá, *\nonde os pobres morarão, sendo seus donos.\nA descendência de seus servos há de herdá-las, †\ne os que amam o santo nome do Senhor *\ndentro delas fixarão sua morada! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Se guardais minha palavra, diz Jesus, realmente vós sereis os meus discípulos."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 14,12-14",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 12 dizia Jesus ao chefe dos fariseus que o tinha convidado: \"Quando tu deres um almoço ou um jantar, não convides teus amigos, nem teus irmãos, nem teus parentes, nem teus vizinhos ricos. Pois estes poderiam também convidar-te e isto já seria a tua recompensa. 13 Pelo contrário, quando deres uma festa, convida os pobres, os aleijados, os coxos, os cegos. 14 Então tu serás feliz! Porque eles não te podem retribuir. Tu receberás a recompensa na ressurreição dos justos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

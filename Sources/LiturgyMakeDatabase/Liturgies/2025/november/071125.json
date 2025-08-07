@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "07/11/25",
+      "liturgy": "31ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Rm 15,14-21",
+              "title": "Leitura da Carta de São Paulo aos Romanos",
+              "text": "14 Meus irmãos, de minha parte, estou convencido, a vosso respeito, que vós tendes bastante bondade e ciência, de tal maneira que podeis admoestar-vos uns aos outros. 15 No entanto, em algumas passagens, eu vos escrevo com certa ousadia, como para reavivar a vossa memória, em razão da graça que Deus me deu. 16 Por esta graça eu fui feito ministro de Jesus Cristo entre os pagãos e consagrado servidor do Evangelho de Deus, para que os pagãos se tornem uma oferenda bem aceite santificada no Espírito Santo. 17 Tenho, pois, esta glória em Jesus Cristo no que se refere ao serviço de Deus: 18 Não ouso falar senão daquilo que Cristo realizou por meu intermédio, para trazer os pagãos à obediência da fé, pela palavra e pela ação, 19 por sinais e prodígios, no poder do Espírito de Deus. Assim, eu preguei o Evangelho de Cristo, desde Jerusalém e arredores até à Ilíria, 20 tendo o cuidado de pregar somente onde Cristo ainda não fora anunciado, para não acontecer eu construir sobre alicerce alheio. 21 Agindo desta maneira, eu estou de acordo com o que está escrito: \"Aqueles aos quais ele nunca fora anunciado, verão; aqueles que não tinham ouvido falar dele, compreenderão\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 97(98),1.2-3ab.3cd-4",
+              "chorus": "<<!R.!>> O Senhor fez conhecer seu poder salvador\n perante as nações.",
+              "verses": [
+                "Cantai ao Senhor Deus um canto novo, *\nporque ele fez prodígios!\nSua mão e o seu braço forte e santo *\nalcançaram-lhe a vitória. <<!R.!>>",
+                "O Senhor fez conhecer a salvação, *\ne às nações, sua justiça;\nrecordou o seu amor sempre fiel *\npela casa de Israel. <<!R.!>>",
+                "Os confins do universo contemplaram *\na salvação do nosso Deus.\nAclamai o Senhor Deus, ó terra inteira, *\nalegrai-vos e exultai! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O amor de Deus se realiza em todo aquele que guarda sua palavra fielmente."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 16,1-8",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 Jesus disse aos discípulos: \"Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2 Ele o chamou e lhe disse: 'Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens'. 3 O administrador então começou a refletir: 'O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4 Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração'. 5 Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: 'Quanto deves ao meu patrão?' 6 Ele respondeu: 'Cem barris de óleo!' O administrador disse: 'Pega a tua conta, senta-te, depressa, e escreve cinquenta!' 7 Depois ele perguntou a outro: 'E tu, quanto deves?' Ele respondeu: 'Cem medidas de trigo'. O administrador disse: 'Pega tua conta e escreve oitenta'. 8 E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

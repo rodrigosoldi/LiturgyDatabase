@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "12/11/25",
+      "liturgy": "São Josafá, bispo e mártir, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sb 6,1-11",
+              "title": "Leitura do Livro da Sabedoria",
+              "text": "1 Escutai, ó reis, e compreendei. Instruí-vos, governadores dos confins da terra! 2 Prestai atenção, vós que dominais as multidões e vos orgulhais do número de vossos súditos. 3 Pois o poder vos foi dado pelo Senhor e a soberania, pelo Altíssimo. É ele quem examinará as vossas obras e sondará as vossas intenções; 4 apesar de estardes ao serviço do seu reino, não julgastes com retidão, nem observastes a Lei, nem procedestes conforme a vontade de Deus. 5 Por isso, ele cairá de repente sobre vós, de modo terrível, porque um julgamento implacável será feito sobre os poderosos. 6 O pequeno pode ser perdoado por misericórdia, mas os poderosos serão examinados com poder. 7 O Senhor de todos não recuará diante de ninguém nem se deixará impressionar pela grandeza, porque o pequeno e o grande, foi ele quem os fez, e a sua providência é a mesma para com todos; 8 mas para os poderosos, o julgamento será severo. 9 A vós, pois, governantes, dirigem-se as minhas palavras, para que aprendais a Sabedoria e não venhais a tropeçar. 10 Os que observam fielmente as coisas santas serão justificados; e os que as aprenderem vão encontrar sua defesa. 11 Portanto, desejai ardentemente minhas palavras, amai-as e sereis instruídos."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 81(82),3-4.6-7",
+              "chorus": "<<!R.!>> Levantai-vos, ó Senhor, julgai a terra!",
+              "verses": [
+                "Fazei justiça aos indefesos e aos órfãos, *\nao pobre e ao humilde absolvei!\nLibertai o oprimido, o infeliz, *\nda mão dos opressores arrancai-os! <<!R.!>>",
+                "Eu disse: \"Ó juízes, vós sois deuses, *\nsois filhos todos vós do Deus Altíssimo!\nE, contudo, como homens morrereis, *\ncaireis como qualquer dos poderosos!\" <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Em tudo dai graças, pois esta é a vontade de Deus para convosco, em Cristo, o Senhor."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 17,11-19",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "11 Aconteceu que, caminhando para Jerusalém, Jesus passava entre a Samaria e a Galileia. 12 Quando estava para entrar num povoado, dez leprosos vieram ao seu encontro. Pararam à distância, 13 e gritaram: \"Jesus, Mestre, tem compaixão de nós!\" 14 Ao vê-los, Jesus disse: \"Ide apresentar-vos aos sacerdotes\". Enquanto caminhavam, aconteceu que ficaram curados. 15 Um deles, ao perceber que estava curado, voltou glorificando a Deus em alta voz; 16 atirou-se aos pés de Jesus, com o rosto por terra, e lhe agradeceu. E este era um samaritano. 17 Então Jesus lhe perguntou: \"Não foram dez os curados? E os outros nove, onde estão? 18 Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?\" 19 E disse-lhe: \"Levanta-te e vai! Tua fé te salvou\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
