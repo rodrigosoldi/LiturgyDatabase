@@ -4,10 +4,10 @@
 import PackageDescription
 
 let package = Package(
-    name: "LiturgyDatabase",
+	name: "LiturgyDatabase",
 	platforms: [
 		.iOS(.v16),
-		.macOS(.v13)
+		.macOS(.v13),
 	],
 	products: [
 		.library(
@@ -17,43 +17,48 @@ let package = Package(
 		.executable(
 			name: "LiturgyMakeDatabase",
 			targets: ["LiturgyMakeDatabase"]
-		)
+		),
 	],
 	dependencies: [
-		.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.2")		
+		.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.2"),
 	],
-    targets: [
+	targets: [
 		.target(
 			name: "LiturgyDatabase",
 			dependencies: [
 				"RealmSwift",
+				"Realm",
 				"SwiftyJSON",
-				"LiturgyCommon"
+				"LiturgyCommon",
 			],
 			path: "Sources/LiturgyDatabase",
 			resources: [
- 				.copy("resources/database.realm")
+				.copy("resources/database.realm"),
 			]
 		),
 		.target(
 			name: "LiturgyCommon",
 			dependencies: [
 				"RealmSwift",
-				"SwiftyJSON"
+				"Realm",
+				"SwiftyJSON",
 			],
 			path: "Sources/LiturgyCommon"
 		),
-        .executableTarget(
-            name: "LiturgyMakeDatabase",
+		.executableTarget(
+			name: "LiturgyMakeDatabase",
 			dependencies: [
-				"RealmSwift", package: "realm-swift"),
+				"RealmSwift",
+				"Realm",
 				"SwiftyJSON",
-				"LiturgyCommon"
+				"LiturgyCommon",
 			],
 			path: "Sources/LiturgyMakeDatabase",
 			resources: [
-				.copy("Liturgies/")
+				.copy("Liturgies/"),
 			]
-		)
-    ]
+		),
+		.binaryTarget(name: "RealmSwift", path: "Resources/RealmSwift.xcframework"),
+		.binaryTarget(name: "Realm", path: "Resources/Realm.xcframework"),
+	]
 )
