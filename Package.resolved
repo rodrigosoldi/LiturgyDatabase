@@ -1,6 +1,15 @@
 {
-  "originHash" : "233e746c1c69f82baeefede0dca9fe8d8fff33bd6abdc9e1a119d53cc29112a5",
+  "originHash" : "452a25ac96648c9f3dd6be7555cfec1d9010e0c9591d76b67a22cffe2432dfa1",
   "pins" : [
+    {
+      "identity" : "ldrealm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rodrigosoldi/LDRealm.git",
+      "state" : {
+        "revision" : "601c3093dfc25806082bff856a4af02e71a6bfbd",
+        "version" : "1.0.1"
+      }
+    },
     {
       "identity" : "swiftyjson",
       "kind" : "remoteSourceControl",

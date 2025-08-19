@@ -21,13 +21,13 @@ let package = Package(
 	],
 	dependencies: [
 		.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "5.0.2"),
+		.package(url: "https://github.com/rodrigosoldi/LDRealm.git", from: "1.0.1"),
 	],
 	targets: [
 		.target(
 			name: "LiturgyDatabase",
 			dependencies: [
-				"RealmSwift",
-				"Realm",
+				"LDRealm",
 				"SwiftyJSON",
 				"LiturgyCommon",
 			],
@@ -39,8 +39,7 @@ let package = Package(
 		.target(
 			name: "LiturgyCommon",
 			dependencies: [
-				"RealmSwift",
-				"Realm",
+				"LDRealm",
 				"SwiftyJSON",
 			],
 			path: "Sources/LiturgyCommon"
@@ -48,8 +47,7 @@ let package = Package(
 		.executableTarget(
 			name: "LiturgyMakeDatabase",
 			dependencies: [
-				"RealmSwift",
-				"Realm",
+				"LDRealm",
 				"SwiftyJSON",
 				"LiturgyCommon",
 			],
@@ -58,7 +56,5 @@ let package = Package(
 				.copy("Liturgies/"),
 			]
 		),
-		.binaryTarget(name: "RealmSwift", path: "Resources/RealmSwift.xcframework"),
-		.binaryTarget(name: "Realm", path: "Resources/Realm.xcframework"),
 	]
 )
