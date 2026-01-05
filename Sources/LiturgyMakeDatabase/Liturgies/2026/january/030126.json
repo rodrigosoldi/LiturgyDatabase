@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "03/01/26",
+      "liturgy": "Tempo do Natal antes da Epifania",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Jo 2,29-3,6",
+              "title": "Leitura da Primeira Carta de São João",
+              "text": "Caríssimos, 29 já que sabeis que ele é justo, sabei também que todo aquele que pratica a justiça nasceu dele. 3,1 Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Se o mundo não nos conhece, é porque não conheceu o Pai. 2 Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é. 3 Todo o que espera nele, purifica-se a si mesmo, como também ele é puro. 4 Todo o que comete pecado, comete também a iniquidade, porque o pecado é a iniquidade. 5 Vós sabeis que ele se manifestou para tirar os pecados e que nele não há pecado. 6 Todo aquele que peca mostra que não o viu, nem o conheceu."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 97(98),1.3cd-4.5-6 (R. 3a)",
+              "chorus": "<<!R.!>> Os confins do universo contemplaram\n a salvação do nosso Deus.",
+              "verses": [
+                "Cantai ao Senhor Deus um canto novo,*\nporque ele fez prodígios!\nSua mão e o seu braço forte e santo*\nalcançaram-lhe a vitória. <<!R.!>>",
+                "Os confins do universo contemplaram*\na salvação do nosso Deus.\nAclamai o Senhor Deus, ó terra inteira,*\nalegrai-vos e exultai! <<!R.!>>",
+                "Cantai salmos ao Senhor ao som da harpa*\ne da cítara suave!\nAclamai, com os clarins e as trombetas,*\nao Senhor, o nosso Rei! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A Palavra se fez carne, entre nós ela habitou; e todos os que a acolheram, de Deus filhos se tornaram."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 1,29-34",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "29 No dia seguinte, João viu Jesus aproximar-se dele e disse: \"Eis o Cordeiro de Deus, que tira o pecado do mundo. 30 Dele é que eu disse: Depois de mim vem um homem que passou à minha frente, porque existia antes de mim. 31 Também eu não o conhecia, mas se eu vim batizar com água, foi para que ele fosse manifestado a Israel\". 32 E João deu testemunho, dizendo: \"Eu vi o Espírito descer, como uma pomba do céu, e permanecer sobre ele. 33 Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: 'Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo'. 34 Eu vi e dou testemunho: Este é o Filho de Deus!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

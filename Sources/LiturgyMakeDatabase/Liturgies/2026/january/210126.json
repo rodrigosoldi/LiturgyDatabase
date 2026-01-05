@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "21/01/26",
+      "liturgy": "Santa Inês, virgem e mártir, Memória",
+      "liturgicalColor": "VERMELHO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 17,32-33.37.40-51",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 32 Davi foi conduzido a Saul e lhe disse: \"Ninguém desanime por causa desse filisteu! Eu, teu servo, lutarei contra ele\". 33 Mas Saul ponderou: \"Não poderás enfrentar esse filisteu, pois tu és só ainda um jovem, e ele é um homem de guerra desde a sua mocidade\". 37 Davi respondeu: \"O Senhor me livrou das garras do leão e das garras do urso. Ele me salvará também das mãos deste filisteu\". Então Saul disse a Davi: \"Vai, e que o Senhor esteja contigo\". 40 Em seguida, tomou o seu cajado, escolheu no regato cinco pedras bem lisas e colocou-as no seu alforje de pastor, que lhe servia de bolsa para guardar pedras. Depois, com a sua funda na mão, avançou contra o filisteu. 41 Este, que se vinha aproximando mais e mais, precedido do seu escudeiro, 42 quando pôde ver bem Davi desprezou-o, porque era muito jovem, ruivo e de bela aparência. 43 E lhe disse: \"Sou por acaso um cão, para vires a mim com um cajado?\" E o filisteu amaldiçoou Davi em nome de seus deuses. 44 E acrescentou: \"Vem, e eu darei a tua carne às aves do céu e aos animais da terra!\" 45 Davi respondeu: \"Tu vens a mim com espada, lança e escudo; eu, porém, vou a ti em nome do Senhor Todo-poderoso, o Deus dos exércitos de Israel que tu insultaste! 46 Hoje mesmo, o Senhor te entregará em minhas mãos, e te abaterei e te cortarei a cabeça, e darei o teu cadáver e os cadáveres do exército dos filisteus às aves do céu e aos animais da terra, para que toda a terra saiba que há um Deus em Israel. 47 E toda esta multidão de homens conhecerá que não é pela espada nem pela lança que o Senhor concede a vitória; porque o Senhor é o árbitro da guerra, e ele vos entregará em nossas mãos\". 48 Logo que o filisteu avançou e marchou em direção a Davi, este saiu das linhas de formação e correu ao encontro do filisteu. 49 Davi meteu, então, a mão no alforje, apanhou uma pedra e arremessou-a com a funda, atingindo o filisteu na fronte com tanta força, que a pedra se encravou na sua testa e o gigante tombou com o rosto em terra. 50 E assim Davi venceu o filisteu, ferindo-o de morte com uma funda e uma pedra. E, como não tinha espada na mão, 51 correu para o filisteu, chegou junto dele, arrancou-lhe a espada da bainha e acabou de matá-lo, cortando-lhe a cabeça. Vendo morto o seu guerreiro mais valente, os filisteus fugiram."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 143 (144),1.2.9-10",
+              "chorus": "<<!R.!>> Bendito seja o Senhor, meu rochedo!",
+              "verses": [
+                "Bendito seja o Senhor, meu rochedo, †\nque adestrou minhas mãos para a luta, *\ne os meus dedos treinou para a guerra! <<!R.!>>",
+                "Ele é meu amor, meu refúgio, *\nlibertador, fortaleza e abrigo;\nÉ meu escudo: é nele que espero, *\nele submete as nações a meus pés. <<!R.!>>",
+                "Um canto novo, meu Deus, vou cantar-vos, *\nnas dez cordas da harpa louvar-vos,\na vós que dais a vitória aos reis *\ne salvais vosso servo Davi. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus pregava a Boa-nova, o Reino anunciando, e curava toda espécie de doenças entre o povo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 3,1-6",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 1 Jesus entrou de novo na sinagoga. Havia ali um homem com a mão seca. 2 Alguns o observavam para ver se haveria de curar em dia de sábado, para poderem acusá-lo. 3 Jesus disse ao homem da mão seca: \"Levanta-te e fica aqui no meio!\" 4 E perguntou-lhes: \"É permitido no sábado fazer o bem ou fazer o mal? Salvar uma vida ou deixá-la morrer?\" Mas eles nada disseram. 5 Jesus, então, olhou ao seu redor, cheio de ira e tristeza, porque eram duros de coração; e disse ao homem: \"Estende a mão\". Ele a estendeu e a mão ficou curada. 6 Ao saírem, os fariseus com os partidários de Herodes, imediatamente tramaram, contra Jesus, a maneira como haveriam de matá-lo."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

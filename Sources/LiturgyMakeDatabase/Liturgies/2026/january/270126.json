@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "27/01/26",
+      "liturgy": "3ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 6,12b-15.17-19",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "Naqueles dias, 12b Davi pôs-se a caminho e transportou festivamente a arca de Deus da casa de Obed-Edom para a cidade de Davi. 13 A cada seis passos que davam, os que transportavam a arca do Senhor, sacrificavam um boi e um carneiro. 14 Davi, cingido apenas com um efod de linho, dançava com todas as suas forças diante do Senhor. 15 Davi e toda a casa de Israel conduziram a arca do Senhor, soltando gritos de júbilo e tocando trombetas. 17 Introduziram a arca do Senhor e depuseram-na em seu lugar, no centro da tenda que Davi tinha armado para ela. Em seguida, ele ofereceu holocaustos e sacrifícios pacíficos na presença do Senhor. 18 Assim que terminou de oferecer os holocaustos e os sacrifícios pacíficos, Davi abençoou o povo em nome do Senhor Todo-poderoso. 19 E distribuiu a toda a multidão de Israel, a cada um dos homens e das mulheres, um pão de forno, um bolo de tâmaras e uma torta de uvas. Depois todo o povo foi para casa."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 23(24),7.8.9.10",
+              "chorus": "<<!R.!>> Dizei-nos: \"Quem é este Rei da glória?\"\n\"É o Senhor, o valoroso, o grandioso!\"",
+              "verses": [
+                "\"Ó portas, levantai vossos frontões! †\nElevai-vos bem mais alto, antigas portas, *\na fim de que o Rei da glória possa entrar!\" <<!R.!>>",
+                "Dizei-nos: \"Quem é este Rei da glória?\" †\n\"É o Senhor, o valoroso, o onipotente, *\no Senhor, o poderoso nas batalhas!\" <<!R.!>>",
+                "\"Ó portas, levantai vossos frontões! †\nElevai-vos bem mais alto, antigas portas, *\na fim de que o Rei da glória possa entrar!\" <<!R.!>>",
+                "Dizei-nos: \"Quem é este Rei da glória?\" †\n\"O Rei da glória é o Senhor onipotente, *\no Rei da glória é o Senhor Deus do universo!\" <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Graças te dou, ó Pai, Senhor do céu e da terra, pois revelaste os mistérios do seu Reino aos pequeninos, escondendo-os aos doutores!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 3,31-35",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 31 Chegaram a mãe de Jesus e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. 32 Havia uma multidão sentada ao redor dele. Então lhe disseram: \"Tua mãe e teus irmãos estão lá fora à tua procura\". 33 Ele respondeu: \"Quem é minha mãe, e quem são meus irmãos?\" 34 E olhando para os que estavam sentados ao seu redor, disse: \"Aqui estão minha mãe e meus irmãos. 35 Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

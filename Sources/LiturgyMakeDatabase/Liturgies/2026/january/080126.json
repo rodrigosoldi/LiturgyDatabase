@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "08/01/26",
+      "liturgy": "Tempo do Natal depois da Epifania",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Jo 4,19-5,4",
+              "title": "Leitura da Primeira Carta de São João",
+              "text": "Caríssimos, 19 quanto a nós, amemos Deus porque ele nos amou primeiro. 20 Se alguém disser: \"Amo a Deus\", mas entretanto odeia o seu irmão, é um mentiroso; pois quem não ama o seu irmão, a quem vê, não poderá amar a Deus, a quem não vê. 21 E este é o mandamento que dele recebemos: aquele que ama a Deus, ame também o seu irmão. 5,1 Todo o que crê que Jesus é o Cristo, nasceu de Deus, e quem ama aquele que gerou alguém, amará também aquele que dele nasceu. 2 Podemos saber que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos. 3 Pois isto é amar a Deus: observar os seus mandamentos. E os seus mandamentos não são pesados, 4 pois todo o que nasceu de Deus vence o mundo. E esta é a vitória que venceu o mundo: a nossa fé."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 71(72),1-2.14.15bc.17",
+              "chorus": "<<!R.!>> As nações de toda a terra,\n hão de adorar-vos, ó Senhor!",
+              "verses": [
+                "Dai ao Rei vossos poderes, Senhor Deus, *\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo, *\ncom equidade ele julgue os vossos pobres. <<!R.!>>",
+                "Há de livrá-los da violência e opressão, *\npois vale muito o sangue deles a seus olhos!\nHão de rezar também por ele sem cessar, *\nbendizê-lo e honrá-lo cada dia. <<!R.!>>",
+                "Seja bendito o seu nome para sempre! *\nE que dure como o sol sua memória!\nTodos os povos serão nele abençoados, *\ntodas as gentes cantarão o seu louvor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O Espírito do Senhor repousa sobre mim e enviou-me a anunciar aos pobres o Evangelho."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 4,14-22a",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 14 Jesus voltou para a Galileia, com a força do Espírito, e sua fama espalhou-se por toda a redondeza. 15 Ele ensinava nas suas sinagogas e todos o elogiavam. 16 E veio à cidade de Nazaré, onde se tinha criado. Conforme seu costume, entrou na sinagoga no sábado, e levantou-se para fazer a leitura. 17 Deram-lhe o livro do profeta Isaías. Abrindo o livro, Jesus achou a passagem em que está escrito: 18 \"O Espírito do Senhor está sobre mim, porque ele me consagrou com a unção para anunciar a Boa-Nova aos pobres; enviou-me para proclamar a libertação aos cativos e aos cegos a recuperação da vista; para libertar os oprimidos 19 e para proclamar um ano da graça do Senhor\". 20 Depois fechou o livro, entregou-o ao ajudante, e sentou-se. Todos os que estavam na sinagoga tinham os olhos fixos nele. 21 Então começou a dizer-lhes: \"Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir\". 22a Todos davam testemunho a seu respeito, admirados com as palavras cheias de encanto que saíam da sua boca."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "28/01/26",
+      "liturgy": "Santo Tomás de Aquino, presbítero e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 7,4-17",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "Naqueles dias, 4 a palavra do Senhor foi dirigida a Natã nestes termos: 5 \"Vai dizer ao meu servo Davi: 'Assim fala o Senhor: Porventura és tu que me construirás uma casa para eu habitar? 6 Pois eu nunca morei numa casa, desde que tirei do Egito os filhos de Israel, até ao dia de hoje, mas tenho vagueado em tendas e abrigos. 7 Por todos os lugares onde andei com os filhos de Israel, disse, porventura, a algum dos chefes de Israel, que encarreguei de apascentar o meu povo: Por que não me edificastes uma casa de cedro?` 8 Dirás pois, agora, ao meu servo Davi: 'Assim fala o Senhor Todo-poderoso: Fui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel. 9 Estive contigo em toda parte por onde andaste, e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra. 10 Vou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado. Os homens violentos não tornarão a oprimi-lo como outrora, 11 no tempo em que eu estabelecia juízes sobre o meu povo, Israel. Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos. E o Senhor te anuncia que te fará uma casa. 12 Quando chegar o fim dos teus dias e repousares com teus pais, então, suscitarei, depois de ti, um filho teu, e confirmarei a sua realeza. 13 Será ele que construirá uma casa para o meu nome, e eu firmarei para sempre o seu trono real. 14 Eu serei para ele um pai e ele será para mim um filho. Se ele proceder mal, eu o castigarei com vara de homens e com golpes dos filhos dos homens. 15 Mas não retirarei dele a minha graça, como a retirei de Saul, a quem expulsei da minha presença. 16 Tua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre'\". 17 Natã comunicou a Davi todas essas palavras e toda essa revelação."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 88(89),4-5.27-28.29-30",
+              "chorus": "<<!R.!>> Guardarei eternamente para ele a minha graça.",
+              "verses": [
+                "\"Eu firmei uma Aliança com meu servo, meu eleito, *\ne eu fiz um juramento a Davi, meu servidor:\nPara sempre, no teu trono, firmarei tua linhagem, *\nde geração em geração garantirei o teu reinado!\" <<!R.!>>",
+                "Ele, então, me invocará: 'Ó Senhor, vós sois meu Pai, *\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\nE por isso farei dele o meu filho primogênito, *\nsobre os reis de toda a terra farei dele o Rei altíssimo. <<!R.!>>",
+                "Guardarei eternamente para ele a minha graça *\ne com ele firmarei minha Aliança indissolúvel.\nPelos séculos sem fim conservarei sua descendência, *\ne o seu trono, tanto tempo quanto os céus, há de durar. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Semente é de Deus a palavra, o Cristo é o semeador; todo aquele que o encontra, vida eterna encontrou."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 4,1-20",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 1 Jesus começou a ensinar de novo às margens do mar da Galileia. Uma multidão muito grande se reuniu em volta dele, de modo que Jesus entrou numa barca e se sentou, enquanto a multidão permanecia junto às margens, na praia. 2 Jesus ensinava-lhes muitas coisas em parábolas. E, em seu ensinamento, dizia-lhes: 3 \"Escutai! O semeador saiu a semear. 4 Enquanto semeava, uma parte da semente caiu à beira do caminho; vieram os pássaros e a comeram. 5 Outra parte caiu em terreno pedregoso, onde não havia muita terra; brotou logo, porque a terra não era profunda, 6 mas, quando saiu o sol, ela foi queimada; e, como não tinha raiz, secou. 7 Outra parte caiu no meio dos espinhos; os espinhos cresceram, a sufocaram, e ela não deu fruto. 8 Outra parte caiu em terra boa e deu fruto, que foi crescendo e aumentando, chegando a render trinta, sessenta e até cem por um\". 9 E Jesus dizia: \"Quem tem ouvidos para ouvir, ouça\". 10 Quando ficou sozinho, os que estavam com ele, junto com os Doze, perguntaram sobre as parábolas. 11 Jesus lhes disse: \"A vós, foi dado o mistério do Reino de Deus; para os que estão fora, tudo acontece em parábolas, 12 para que olhem mas não enxerguem, escutem mas não compreendam, para que não se convertam e não sejam perdoados\". 13 E lhes disse: \"Vós não compreendeis esta parábola? Então, como compreendereis todas as outras parábolas? 14 O semeador semeia a Palavra. 15 Os que estão à beira do caminho são aqueles nos quais a Palavra foi semeada; logo que a escutam, chega Satanás e tira a Palavra que neles foi semeada. 16 Do mesmo modo, os que receberam a semente em terreno pedregoso, são aqueles que ouvem a Palavra e logo a recebem com alegria, 17 mas não têm raiz em si mesmos, são inconstantes; quando chega uma tribulação ou perseguição, por causa da Palavra, logo desistem. 18 Outros recebem a semente entre os espinhos: são aqueles que ouvem a Palavra; 19 mas quando surgem as preocupações do mundo, a ilusão da riqueza e todos os outros desejos, sufocam a Palavra, e ela não produz fruto. 20 Por fim, aqueles que recebem a semente em terreno bom, são os que ouvem a Palavra, a recebem e dão fruto; um dá trinta, outro sessenta e outro cem por um\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

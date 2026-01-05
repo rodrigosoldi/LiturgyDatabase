@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "17/01/26",
+      "liturgy": "Santo Antão, abade, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 9, 1-4.17-19; 10,1a",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "1 Havia um homem de Benjamin, chamado Cis, filho de Abiel, filho de Seror, filho de Becorat, filho de Afia, um benjaminita, homem forte e valente. 2 Ele tinha um filho chamado Saul, de boa apresentação. Entre os filhos de Israel não havia outro melhor do que ele: dos ombros para cima sobressaía a todo o povo. 3 Ora, aconteceu que se perderam umas jumentas de Cis, pai de Saul. E Cis disse a seu filho Saul: \"Toma contigo um dos criados, põe-te a caminho e vai procurar as jumentas\". Eles atravessaram a montanha de Efraim 4 e a região de Salisa, mas não as encontraram. Passaram também pela região de Salim, sem encontrar nada; e, ainda pela terra de Benjamin, sem resultado algum. 17 Quando Samuel avistou Saul, o Senhor lhe disse: \"Este é o homem de quem te falei. Ele reinará sobre o meu povo\". 18 Saul aproximou-se de Samuel, na soleira da porta, e disse-lhe: \"Peço-te que me informes onde é a casa do vidente\". 19 Samuel respondeu a Saul: \"Sou eu mesmo o vidente. Sobe na minha frente ao santuário da colina. Hoje comereis comigo, e amanhã de manhã te deixarei partir, depois de te ter revelado tudo o que tens no coração\". 10,1a Na manhã seguinte, Samuel tomou um pequeno frasco de azeite, derramou-o sobre a cabeça de Saul e beijou-o, dizendo: \"Com isto o Senhor te ungiu como chefe do seu povo, Israel. Tu governarás o povo do Senhor e o livrarás das mãos de seus inimigos, que estão ao seu redor\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 20(21),2-3.4-5.6-7",
+              "chorus": "<<!R.!>> Ó Senhor, em vossa força o rei se alegra.",
+              "verses": [
+                "Ó Senhor, em vossa força o rei se alegra; *\nquanto exulta de alegria em vosso auxílio!\nO que sonhou seu coração, lhe concedestes; *\nnão recusastes os pedidos de seus lábios. <<!R.!>>",
+                "Com bênção generosa o preparastes; *\nde ouro puro coroastes sua fronte.\nA vida ele pediu e vós lhe destes, *\nlongos dias, vida longa pelos séculos. <<!R.!>>",
+                "É grande a sua glória em vosso auxílio; *\nde esplendor e majestade o revestistes.\nTransformastes o seu nome numa bênção, *\ne o cobristes de alegria em vossa face. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O Espírito do Senhor repousa sobre mim e enviou-me a anunciar aos pobres o Evangelho."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 2,13-17",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 13 Jesus saiu de novo para a beira do mar. Toda a multidão ia ao seu encontro e Jesus os ensinava. 14 Enquanto passava, Jesus viu Levi, o filho de Alfeu, sentado na coletoria de impostos, e disse-lhe: \"Segue-me!\" Levi se levantou e o seguiu. 15 E aconteceu que, estando à mesa na casa de Levi, muitos cobradores de impostos e pecadores também estavam à mesa com Jesus e seus discípulos. Com efeito, eram muitos os que o seguiam. 16 Alguns doutores da Lei, que eram fariseus, viram que Jesus estava comendo com pecadores e cobradores de impostos. Então eles perguntaram aos discípulos: \"Por que ele come com os cobradores de impostos e pecadores?\" 17 Tendo ouvido, Jesus respondeu-lhes: \"Não são as pessoas sadias que precisam de médico, mas as doentes. Eu não vim para chamar justos, mas sim pecadores\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

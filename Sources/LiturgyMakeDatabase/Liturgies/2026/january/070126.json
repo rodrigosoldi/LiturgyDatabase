@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "07/01/26",
+      "liturgy": "Tempo do Natal depois da Epifania",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Jo 4,11-18",
+              "title": "Leitura da Primeira Carta de São João",
+              "text": "11 Caríssimos, se Deus nos amou assim, nós também devemos amar-nos uns aos outros. 12 Ninguém jamais viu a Deus. Se nos amamos uns aos outros, Deus permanece conosco e seu amor é plenamente realizado entre nós. 13 A prova de que permanecemos com ele, e ele conosco, é que ele nos deu o seu Espírito. 14 E nós vimos, e damos testemunho, que o Pai enviou o seu Filho como Salvador do mundo. Todo aquele que proclama 15 que Jesus é o Filho de Deus, Deus permanece com ele, e ele com Deus. 16 E nós conhecemos o amor que Deus tem para conosco, e acreditamos nele. Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele. 17 Nisto se realiza plenamente o seu amor para conosco: em nós termos plena confiança no dia do julgamento, porque, tal como Jesus, nós somos neste mundo. 18 No amor não há temor. Ao contrário, o perfeito amor lança fora o temor, pois o temor implica castigo, e aquele que teme não chegou à perfeição do amor."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 71(72),1-2. 10-11. 12-13",
+              "chorus": "<<!R.!>> As nações de toda a terra, hão de adorar-vos, ó Senhor!",
+              "verses": [
+                "Dai ao Rei vossos poderes, Senhor Deus, *\nvossa justiça ao descendente da realeza!\nCom justiça ele governe o vosso povo, *\ncom equidade ele julgue os vossos pobres. <<!R.!>>",
+                "Os reis de Társis e das ilhas hão de vir *\ne oferecer-lhes seus presentes e seus dons;\ne também os reis de Seba e de Sabá *\nhão de trazer-lhe oferendas e tributos.\nOs reis de toda a terra hão de adorá-lo, *\ne todas as nações hão de servi-lo. <<!R.!>>",
+                "Libertará o indigente que suplica, *\ne o pobre ao qual ninguém quer ajudar.\nTerá pena do indigente e do infeliz, *\ne a vida dos humildes salvará. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Louvai o Senhor Jesus, todos os povos, aceito pela fé no mundo inteiro!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 6,45-52",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Depois de saciar os cinco mil homens, 45 Jesus obrigou os discípulos a entrarem na barca e irem na frente para Betsaida, na outra margem, enquanto ele despedia a multidão. 46 Logo depois de se despedir deles, subiu ao monte para rezar. 47 Ao anoitecer, a barca estava no meio do mar e Jesus sozinho em terra. 48 Ele viu os discípulos cansados de remar, porque o vento era contrário. Então, pelas três da madrugada, Jesus foi até eles andando sobre as águas, e queria passar na frente deles. 49 Quando os discípulos o viram andando sobre o mar, pensaram que era um fantasma e começaram a gritar. 50 Com efeito, todos o tinham visto e ficaram assustados. Mas Jesus logo falou: \"Coragem, sou eu! Não tenhais medo!\" 51 Então subiu com eles na barca. E o vento cessou. Mas os discípulos ficaram ainda mais espantados, 52 porque não tinham compreendido nada a respeito dos pães. O coração deles estava endurecido."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "22/01/26",
+      "liturgy": "2ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 18,6-9.19,1-7",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 6 quando Davi voltou, depois de ter matado o filisteu, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, dançando e cantando alegremente ao som de tamborins e címbalos. 7 E, enquanto dançavam, diziam em coro: \"Saul matou mil, mas Davi matou dez mil\". 8 Saul ficou muito encolerizado com isto e não gostou nada da canção, dizendo: \"A Davi deram dez mil, e a mim somente mil. Que lhe falta ainda, senão a realeza?\" 9 E, a partir daquele dia, não olhou mais para Davi com bons olhos. 19,1 Saul falou a Jônatas, seu filho, e a todos os seus servos sobre sua intenção de matar Davi. Mas Jônatas, filho de Saul, amava profundamente Davi, 2 e preveniu-o a respeito disso, dizendo: \"Saul, meu pai, procura matar-te; portanto, toma cuidado amanhã de manhã, e fica oculto em um esconderijo. 3 Eu mesmo sairei em companhia de meu pai, no campo, onde estiveres, e lhe falarei de ti, para ver o que ele diz, e depois te avisarei de tudo o que eu souber\". 4 Então Jônatas falou bem de Davi a Saul, seu pai, e acrescentou: \"Não faças mal algum ao teu servo Davi, porque ele nunca te ofendeu. Ao contrário, o que ele tem feito foi muito proveitoso para ti. 5 Arriscou a sua vida, matando o filisteu, e o Senhor deu uma grande vitória a todo o Israel. Tu mesmo foste testemunha e te alegraste. Por que, então, pecarias, derramando sangue inocente e mandando matar Davi sem motivo?\" 6 Saul, ouvindo isto, e aplacado com as razões de Jônatas, jurou: \"Pela vida do Senhor, ele não será morto!\" 7 Então Jônatas chamou Davi e contou-lhe tudo isto. Levou-o em seguida a Saul, para que ele retomasse o seu lugar, como antes."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 55(56),2-3.9-10.11-13",
+              "chorus": "<<!R.!>> É no Senhor que eu confio e nada temo.",
+              "verses": [
+                "Tende pena e compaixão de mim, ó Deus, †\npois há tantos que me calcam sob os pés, *\ne agressores me oprimem todo dia!\nMeus inimigos de contínuo me espezinham, *\nsão numerosos os que lutam contra mim! <<!R.!>>",
+                "Do meu exílio registrastes cada passo, †\nem vosso odre recolhestes cada lágrima, *\ne anotastes tudo isso em vosso livro.\nMeus inimigos haverão de recuar †\nem qualquer dia em que eu vos invocar;\ntenho certeza: o Senhor está comigo! <<!R.!>>",
+                "Confio em Deus e louvarei sua promessa. †\nÉ no Senhor que eu confio e nada temo: *\nque poderia contra mim um ser mortal?\nDevo cumprir, ó Deus, os votos que vos fiz, *\ne vos oferto um sacrifício de louvor, <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus Cristo salvador destruiu o mal e a morte; fez brilhar pelo Evangelho a luz e a vida imperecíveis."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 3,7-12",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 7 Jesus se retirou para a beira do mar, junto com seus discípulos. Muita gente da Galileia o seguia. 8 E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia, foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia. 9 Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse. 10 Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo. 11 Vendo Jesus, os espíritos maus caíam a seus pés, gritando: \"Tu és o Filho de Deus!\" 12 Mas Jesus ordenava severamente para não dizerem quem ele era."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "24/01/26",
+      "liturgy": "São Francisco de Sales, bispo e doutor da Igreja, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 1,1-4.11-12.19.23-27",
+              "title": "Início do Segundo Livro de Samuel",
+              "text": "Naqueles dias, 1 Davi regressou da derrota que infligiu aos amalecitas, e esteve dois dias em Siceleg. 2 No terceiro dia, apareceu um homem, que vinha do acampamento de Saul, com as vestes rasgadas e a cabeça coberta de pó. Ao chegar perto de Davi, prostrou-se por terra e fez-lhe uma profunda reverência. 3 Davi perguntou-lhe: \"Donde vens?\" Ele respondeu: \"Salvei-me do acampamento de Israel\". 4 \"Que aconteceu?\", perguntou-lhe Davi. \"Conta-me tudo!\" Ele respondeu: \"As tropas fugiram da batalha, e muitos do povo caíram mortos. Até Saul e o seu filho Jônatas pereceram!\" 11 Então Davi tomou suas próprias vestes e rasgou-as, e todos os que estavam com ele fizeram o mesmo. 12 Lamentaram-se, choraram e jejuaram até à tarde, por Saul e por seu filho Jônatas, e por causa do povo do Senhor e da casa de Israel, porque haviam tombado pela espada. 19 E Davi disse: \"Tua glória, ó Israel, jaz ferida de morte sobre os teus montes. Como tombaram os fortes! 23 Saul e Jônatas, amados e belos, nem vida nem morte os puderam separar, mais velozes que as águias, mais fortes que os leões. 24 Filhas de Israel, chorai sobre Saul. Ele vos vestia de púrpura suntuosa e ornava de ouro os vossos vestidos. 25 Como tombaram os fortes em plena batalha! Jônatas foi morto sobre as tuas alturas. 26 Choro por ti, meu irmão Jônatas. Tu me eras tão querido; tua amizade me era mais cara que o amor das mulheres. 27 Como tombaram os fortes, como pereceram as armas de guerra!\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 79(80),2-3.5-7 ",
+              "chorus": "<<!R.!>> Resplandecei a vossa face, e nós seremos salvos!.",
+              "verses": [
+                "Ó Pastor de Israel, prestai ouvidos. *\nVós, que a José apascentais qual um rebanho!\nVós, que sobre os querubins vos assentais, †\naparecei cheio de glória e esplendor *\nante Efraim e Benjamim e Manassés!\nDespertai vosso poder, ó nosso Deus, *\ne vinde logo nos trazer a salvação! <<!R.!>>",
+                "Até quando, ó Senhor, vos irritais, *\napesar da oração do vosso povo?\nVós nos destes a comer o pão das lágrimas, *\ne a beber destes um pranto copioso.\nPara os vizinhos somos causa de contenda, *\nde zombaria para os nossos inimigos. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Abri-nos, ó Senhor, o coração, para ouvirmos a palavra de Jesus!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 3,20-21",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 20 Jesus voltou para casa com os discípulos. E de novo se reuniu tanta gente que eles nem sequer podiam comer. 21 Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

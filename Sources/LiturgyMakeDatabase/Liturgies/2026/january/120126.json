@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "12/01/26",
+      "liturgy": "1ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 1,1-8",
+              "title": "Início do Primeiro Livro de Samuel",
+              "text": "1 Havia um homem sufita, oriundo de Ramá, no monte Efraim, que se chamava Elcana, filho de Jeroam, filho de Eliú, filho de Tou, filho de Suf, efraimita. 2 Elcana tinha duas mulheres; uma chamava-se Ana e a outra Fenena. Fenena tinha filhos; Ana, porém, não tinha. 3 Todos os anos, esse homem subia da sua cidade para adorar e oferecer sacrifícios ao Senhor Todo-poderoso, em Silo. Os dois filhos de Eli, Hofni e Fineias, eram sacerdotes do Senhor naquele santuário. 4 Quando oferecia sacrifício, Elcana dava à sua mulher Fenena e a todos os seus filhos e filhas as porções que lhes cabiam. 5 A Ana, embora a amasse, dava apenas uma porção escolhida, pois o Senhor a tinha deixado estéril. 6 Sua rival também a magoava e atormentava, humilhando-a pelo fato de o Senhor a ter tornado estéril. 7 E isso acontecia todos os anos. Sempre que subiam à casa do Senhor, ela a provocava do mesmo modo. E Ana chorava e não comia. 8 Então, Elcana, seu marido, lhe disse: \"Ana, por que estás chorando e não te alimentas? E por que se aflige o teu coração? Acaso não sou eu melhor para ti do que dez filhos?\""
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 115(116),12-13.14.17.18-19",
+              "chorus": "<<!R.!>> Oferto ao Senhor um sacrifício de louvor.\n\nOu: Aleluia, Aleluia, Aleluia.",
+              "verses": [
+                "Que poderei retribuir ao Senhor Deus *\npor tudo aquilo que ele fez em meu favor?\nElevo o cálice da minha salvação, *\ninvocando o nome santo do Senhor. <<!R.!>>",
+                "Vou cumprir minhas promessas ao Senhor *\nna presença de seu povo reunido.\nPor isso oferto um sacrifício de louvor, *\ninvocando o nome santo do Senhor. <<!R.!>>",
+                "Vou cumprir minhas promessas ao Senhor *\nna presença de seu povo reunido;\nnos átrios da casa do Senhor, *\nem teu meio, ó cidade de Sião! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Convertei-vos e crede no Evangelho, pois, o Reino de Deus está chegando!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 1,14-20",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "14 Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o Evangelho de Deus e dizendo: 15 \"O tempo já se completou e o Reino de Deus está próximo. Convertei-vos e crede no Evangelho!\" 16 E, passando à beira do mar da Galileia, Jesus viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores. 17 Jesus lhes disse: \"Segui-me e eu farei de vós pescadores de homens\". 18 E eles, deixando imediatamente as redes, seguiram a Jesus. 19 Caminhando mais um pouco, viu também Tiago e João, filhos de Zebedeu. Estavam na barca, consertando as redes; 20 e logo os chamou. Eles deixaram seu pai Zebedeu na barca com os empregados, e partiram, seguindo Jesus."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

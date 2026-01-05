@@ -1,13 +1,22 @@
 {
-  "originHash" : "452a25ac96648c9f3dd6be7555cfec1d9010e0c9591d76b67a22cffe2432dfa1",
+  "originHash" : "5100113b84f51784535afc78dc6c2f99eccb48c5e43fa98a50aaaa0cbf49095c",
   "pins" : [
     {
-      "identity" : "ldrealm",
+      "identity" : "realm-core",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/rodrigosoldi/LDRealm.git",
+      "location" : "https://github.com/realm/realm-core.git",
       "state" : {
-        "revision" : "601c3093dfc25806082bff856a4af02e71a6bfbd",
-        "version" : "1.0.1"
+        "revision" : "cccb3ca9e26ec452a29f2f0d4050d1e38b8a3d43",
+        "version" : "14.14.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "1c105d34f25af7851c5a3ff146be006de247a6b4",
+        "version" : "10.54.6"
       }
     },
     {

@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "19/01/26",
+      "liturgy": "2ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 15,16-23",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 16 Samuel disse a Saul: \"Basta! Deixa-me dizer-te o que o Senhor me revelou esta noite\". Saul disse: \"Fala!\" 17 Então Samuel começou: \"Por menor que sejas aos teus próprios olhos, acaso não és o chefe das tribos de Israel? O Senhor ungiu-te rei sobre Israel 18 e te enviou em expedição, com a ordem de eliminar os amalecitas, esses malfeitores, combatendo-os até que fossem exterminados. 19 Por que não ouviste a voz do Senhor, e te precipitaste sobre os despojos e fizeste o que desagrada ao Senhor?\" 20 Saul respondeu a Samuel: \"Mas eu obedeci ao Senhor! Realizei a expedição a que ele me enviou. Trouxe Agag, rei de Amalec, para cá, e exterminei os amalecitas. 21 Quanto aos despojos, o povo reteve, das ovelhas e dos bois, o melhor do que devia ser eliminado, para sacrificar ao Senhor teu Deus em Guilgal\". 22 Mas Samuel replicou: \"O Senhor quer holocaustos e sacrifícios, ou quer a obediência à sua palavra? A obediência vale mais que o sacrifício, a docilidade mais que oferecer gordura de carneiros. 23 A rebelião é um verdadeiro pecado de magia, um crime de idolatria, uma obstinação. Assim, porque rejeitaste a palavra do Senhor, ele te rejeitou: tu não és mais rei\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 49(50),8-9.16bc-17.21.23",
+              "chorus": "<<!R.!>> A todo homem que procede retamente,\n eu mostrarei a salvação que vem de Deus.",
+              "verses": [
+                "Eu não venho censurar teus sacrifícios, *\npois sempre estão perante mim teus holocaustos;\nnão preciso dos novilhos de tua casa *\nnem dos carneiros que estão nos teus rebanhos. <<!R.!>>",
+                "Como ousas repetir os meus preceitos *\ne trazer minha Aliança em tua boca?\nTu que odiaste minhas leis e meus conselhos *\ne deste as costas às palavras dos meus lábios! <<!R.!>>",
+                "Diante disso que fizeste, eu calarei? *\nAcaso pensas que eu sou igual a ti?\nÉ disso que te acuso e repreendo *\ne manifesto essas coisas aos teus olhos. <<!R.!>>",
+                "Quem me oferece um sacrício de louvor, *\neste sim é que me honra de verdade.\nA todo homem que procede retamente, *\neu mostrarei a salvação que vem de Deus. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A palavra do Senhor é viva e eficaz: ela julga os pensamentos e as intenções do coração."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 2,18-22",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 18 os discípulos de João Batista e os fariseus estavam jejuando. Então, vieram dizer a Jesus: \"Por que os discípulos de João e os discípulos dos fariseus jejuam, e os teus discípulos não jejuam?\" 19 Jesus respondeu: \"Os convidados de um casamento poderiam, por acaso, fazer jejum, enquanto o noivo está com eles? Enquanto o noivo está com eles, os convidados não podem jejuar. 20 Mas vai chegar o tempo em que o noivo será tirado do meio deles; aí, então, eles vão jejuar. 21 Ninguém põe um remendo de pano novo numa roupa velha; porque o remendo novo repuxa o pano velho e o rasgão fica maior ainda. 22 Ninguém põe vinho novo em odres velhos; porque o vinho novo arrebenta os odres velhos e o vinho e os odres se perdem. Por isso, vinho novo em odres novos\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

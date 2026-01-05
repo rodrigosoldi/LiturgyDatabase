@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "26/01/26",
+      "liturgy": "Santos Timóteo e Tito, bispos, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Tm 1,1-8",
+              "title": "Início da Segunda Carta de São Paulo a Timóteo",
+              "text": "1 Paulo, Apóstolo de Jesus Cristo pelo desígnio de Deus referente à promessa de vida que temos em Cristo Jesus, 2 a Timóteo, meu querido filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor! 3 Dou graças a Deus, - a quem sirvo com a consciência pura, como aprendi dos meus antepassados -, quando me lembro de ti, dia e noite, nas minhas orações. 4 Lembrando-me das tuas lágrimas, sinto grande desejo de rever-te, e assim ficar cheio de alegria. 5 Recordo-me da fé sincera que tens, aquela mesma fé que antes tiveram tua avó Loide e tua mãe Eunice. Sem dúvida, assim é também a tua. 6 Por este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos. 7 Pois Deus não nos deu um espírito de timidez mas de fortaleza, de amor e sobriedade. 8 Não te envergonhes do testemunho de Nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo Evangelho, fortificado pelo poder de Deus."
+            },
+            {
+              "obs": "",
+              "reference": "Tt 1,1-5",
+              "title": "Início da Carta de São Paulo a Tito",
+              "text": "1 Paulo, servo de Deus e apóstolo de Jesus Cristo, para levar os eleitos de Deus à fé e a conhecerem a verdade da piedade 2 que se apoia na esperança da vida eterna. Deus, que não mente, havia prometido esta vida desde os tempos antigos, 3 e, no tempo marcado, manifestou a sua palavra por meio do anúncio que me foi confiado por ordem de Deus nosso salvador. 4 A Tito, meu legítimo filho na fé comum, graça e paz da parte de Deus Pai e de Jesus Cristo nosso Salvador. 5 Eu deixei-te em Creta, para organizares o que ainda falta e constituíres presbíteros em cada cidade, conforme o que te ordenei."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 95(96),1-2a.2b-3.7-8a.10",
+              "chorus": "<<!R.!>> Anunciai entre as nações os grandes feitos do Senhor!",
+              "verses": [
+                "Cantai ao Senhor Deus um canto novo, †\ncantai ao Senhor Deus, ó terra inteira! *\nCantai e bendizei seu santo nome! <<!R.!>>",
+                "Dia após dia anunciai sua salvação, †\nmanifestai a sua glória entre as nações, *\ne entre os povos do universo seus prodígios! <<!R.!>>",
+                "Ó família das nações, dai ao Senhor, †\nó nações, dai ao Senhor poder e glória, *\ndai-lhe a glória que é devida ao seu nome! <<!R.!>>",
+                "Publicai entre as nações: \"Reina o Senhor! †\nEle firmou o universo inabalável, *\ne os povos ele julga com justiça. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "O Espírito do Senhor repousa sobre mim e enviou-me a anunciar aos pobres o Evangelho"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 10,1-9",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "Naquele tempo, 1 o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. 2 E dizia-lhes: \"A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. 3 Eis que vos envio como cordeiros para o meio de lobos. 4 Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! 5 Em qualquer casa em que entrardes, dizei primeiro: 'A paz esteja nesta casa!' 6 Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. 7 Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. 8 Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, 9 curai os doentes que nela houver e dizei ao povo: 'O Reino de Deus está próximo de vós'\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

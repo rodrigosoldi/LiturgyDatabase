@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "31/01/26",
+      "liturgy": "São João Bosco, presbítero, Memória",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 12,1-7a.10-17",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "Naqueles dias, 1 o Senhor mandou o profeta Natã a Davi. Ele foi ter com o rei e lhe disse-lhe: \"Numa cidade havia dois homens, um rico e outro pobre. 2 O rico possuía ovelhas e bois em grande número. 3 O pobre só possuía uma ovelha pequenina, que tinha comprado e criado. Ela crescera em sua casa junto com seus filhos, comendo do seu pão, bebendo do mesmo copo, dormindo no seu regaço. Era para ele como uma filha. 4 Veio um hóspede à casa do homem rico, e este não quis tomar uma das suas ovelhas ou um dos seus bois para preparar um banquete e dar de comer ao hóspede que chegara. Mas foi, apoderou-se da ovelhinha do pobre e preparou-a para o visitante\". 5 Davi ficou indignado contra esse homem e disse a Natã: \"Pela vida do Senhor, o homem que fez isso merece a morte! 6 Pagará quatro vezes o valor da ovelha, por ter feito o que fez e não ter tido compaixão\". 7a Natã disse a Davi: \"Esse homem és tu! Assim diz o Senhor, o Deus de Israel: 10 'Por isso, a espada jamais se afastará de tua casa, porque me desprezaste e tomaste a mulher do hitita Urias para fazer dela a tua esposa'. 11 Assim diz o Senhor: 'Da tua própria casa farei surgir o mal contra ti e tomarei as tuas mulheres, sob os teus olhos, e as darei a um outro, e ele se aproximará das tuas mulheres à luz deste sol. 12 Tu fizeste tudo às escondidas. Eu, porém, farei o que digo diante de todo o Israel e à luz do sol'\". 13 Davi disse a Natã: \"Pequei contra o Senhor\". Natã respondeu-lhe: \"De sua parte, o Senhor perdoou o teu pecado. de modo que não morrerás! 14 Entretanto, por teres ultrajado o Senhor com teu procedimento o filho que te nasceu morrerá\". 15 E Natã voltou para a sua casa. O Senhor feriu o filho que a mulher de Urias tinha dado a Davi e ele adoeceu gravemente. 16 Davi implorou a Deus pelo menino e fez um grande jejum. E, voltando para casa, passou a noite deitado no chão. 17 Os anciãos do palácio insistiam com ele para que se levantasse do chão; mas ele não o quis fazer nem tomar com eles alimento algum."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 50(51),12-13.14-15.16-17",
+              "chorus": "<<!R.!>> Criai em mim um coração que seja puro!",
+              "verses": [
+                "Criai em mim um coração que seja puro, *\ndai-me de novo um espírito decidido.\nÓ Senhor, não me afasteis de vossa face, *\nnem retireis de mim o vosso Santo Espírito! <<!R.!>>",
+                "Dai-me de novo a alegria de ser salvo *\ne confirmai-me com espírito generoso!\nEnsinarei vosso caminho aos pecadores, *\ne para vós se voltarão os transviados. <<!R.!>>",
+                "Da morte como pena, libertai-me, *\ne minha língua exaltará vossa justiça!\nAbri meus lábios, ó Senhor, para cantar, *\ne minha boca anunciará vosso louvor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Deus o mundo tanto amou, que lhe deu seu próprio Filho, para todo o que nele crer, encontre a vida eterna."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 4,35-41",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "35 Naquele dia, ao cair da tarde, Jesus disse a seus discípulos: \"Vamos para a outra margem!\" 36 Eles despediram a multidão e levaram Jesus consigo, assim como estava na barca. Havia ainda outras barcas com ele. 37 Começou a soprar uma ventania muito forte e as ondas se lançavam dentro da barca, de modo que a barca já começava a se encher. 38 Jesus estava na parte de trás, dormindo sobre um travesseiro. Os discípulos o acordaram e disseram: \"Mestre, estamos perecendo e tu não te importas?\" 39 Ele se levantou e ordenou ao vento e ao mar: \"Silêncio! Cala-te!\" O vento cessou e houve uma grande calmaria. 40 Então Jesus perguntou aos discípulos: \"Por que sois tão medrosos? Ainda não tendes fé?\" 41 Eles sentiram um grande medo e diziam uns aos outros: \"Quem é este, a quem até o vento e o mar obedecem?\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

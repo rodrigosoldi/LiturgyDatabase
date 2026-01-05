@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "29/01/26",
+      "liturgy": "3ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "2Sm 7,18-19.24-29",
+              "title": "Leitura do Segundo Livro de Samuel",
+              "text": "Depois que Natan falara a Davi, o rei entrou no tabernáculo 18 foi assentar-se diante do Senhor, e disse: \"Quem sou eu, Senhor Deus, e o que é a minha família, para que me tenhas conduzido até aqui? 19 Mas, como isto te parecia pouco, Senhor Deus, ainda fizeste promessas à casa do teu servo para um futuro distante. Porque esta é a lei do homem, Senhor Deus! 24 Estabeleceste o teu povo, Israel, para que ele seja para sempre o teu povo; e tu, Senhor, te tornaste o seu Deus. 25 Agora, Senhor Deus, cumpre para sempre a promessa que fizeste ao teu servo e à sua casa, e faze como disseste! 26 Então o teu nome será exaltado para sempre, e dirão: \"O Senhor Todo-poderoso é o Deus de Israel\". E a casa do teu servo Davi permanecerá estável na tua presença. 27 Pois tu, Senhor Todo-poderoso, Deus de Israel, fizeste esta revelação ao teu servo: 'Eu te construirei uma casa'. Por isso o teu servo se animou a dirigir-te esta oração. 28 Agora, Senhor Deus, tu és Deus e tuas palavras são verdadeiras. Pois que fizeste esta bela promessa ao teu servo, 29 abençoa, então, a casa do teu servo, para que ela permaneça para sempre na tua presença. Porque és tu, Senhor Deus, que falaste, e é graças à tua bênção que a casa do teu servo será abençoada para sempre\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 131(132),1-2.3-5.11.12.13-14",
+              "chorus": "<<!R.!>> O Senhor vai dar-lhe o trono\nde seu pai, o rei Davi.",
+              "verses": [
+                "Recordai-vos, ó Senhor, do rei Davi *\ne de quanto vos foi ele dedicado;\ndo juramento que ao Senhor havia feito *\ne de seu voto ao Poderoso de Jacó: <<!R.!>>",
+                "\"Não entrarei na minha tenda, minha casa, *\nnem subirei à minha cama em que repouso,\nnão deixarei adormecerem os meus olhos, *\nnem cochilarem em descanso minhas pálpebras,\naté que eu ache um lugar para o Senhor, *\numa casa para o Forte de Jacó!\" <<!R.!>>",
+                "O Senhor fez a Davi um juramento, *\numa promessa que jamais renegará:\n\"Um herdeiro que é fruto do teu ventre *\ncolocarei sobre o trono em teu lugar! <<!R.!>>",
+                "Se teus filhos conservarem minha Aliança *\ne os preceitos que lhes dei a conhecer,\nos filhos deles igualmente hão de sentar-se *\neternamente sobre o trono que te dei!\" <<!R.!>>",
+                "Pois o Senhor quis para si Jerusalém *\ne a desejou para que fosse sua morada:\n\"Eis o lugar do meu repouso para sempre, *\neu fico aqui: este é o lugar que preferi!\" <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Vossa palavra é uma luz para os meus passos, e uma lâmpada luzente em meu caminho."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 4,21-25",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, Jesus disse à multidão: 21 \"Quem é que traz uma lâmpada para colocá-la debaixo de um caixote, ou debaixo da cama? Ao contrário, não a coloca num candeeiro? 22 Assim, tudo o que está escondido deverá tornar-se manifesto, e tudo o que está em segredo deverá ser descoberto. 23 Se alguém tem ouvidos para ouvir, ouça\". 24 Jesus dizia ainda: \"Prestai atenção no que ouvis: com a mesma medida com que medirdes, também vós sereis medidos; e vos será dado ainda mais. 25 Ao que tem alguma coisa, será dado ainda mais; do que não tem, será tirado até mesmo o que ele tem\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "05/01/26",
+      "liturgy": "Tempo do Natal depois da Epifania",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Jo 3,22-4,6",
+              "title": "Leitura da Primeira Carta de São João",
+              "text": "Caríssimos, 22 qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado. 23 Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu. 24 Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele. Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu. 4,1 Caríssimos, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus, pois muitos falsos profetas vieram ao mundo. 2 Este é o critério para saber se uma inspiração vem de Deus: todo espírito que leva a professar que Jesus Cristo veio na carne é de Deus; 3 e todo espírito que não professa a fé em Jesus não é de Deus; é o espírito do Anticristo. Ouvistes dizer que o Anticristo virá; pois bem, ele já está no mundo. 4 Filhinhos, vós sois de Deus e vós vencestes o Anticristo. Pois convosco está quem é maior do que aquele que está no mundo. 5 Os vossos adversários são do mundo; por isso, agem conforme o mundo, e o mundo lhes presta ouvidos. 6 Nós somos de Deus. Quem conhece a Deus, escuta-nos; quem não é de Deus não nos escuta. Nisto reconhecemos o espírito da verdade e o espírito do erro."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 2,7-8.10-11",
+              "chorus": "<<!R.!>> Eu te darei por tua herança os povos todos.",
+              "verses": [
+                "O decreto do Senhor promulgarei, †\nfoi assim que me falou o Senhor Deus: *\n\"Tu és meu Filho, e eu hoje te gerei!\nPodes pedir-me, e em resposta eu te darei †\npor tua herança os povos todos e as nações, *\ne há de ser a terra inteira o teu domínio. <<!R.!>>",
+                "E agora, poderosos, entendei; *\nsoberanos, aprendei esta lição:\nCom temor servi a Deus, rendei-lhe glória *\ne prestai-lhe homenagem com respeito! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus pregava a Boa-Nova, o Reino anunciando, e curava toda espécie de doenças entre o povo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 4,12-17.23-25",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 12 ao saber que João tinha sido preso, Jesus voltou para a Galileia. 13 Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, 14 no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías: 15 \"Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos! 16 O povo que vivia nas trevas viu uma grande luz; e para os que viviam na região escura da morte brilhou uma luz\". 17 Daí em diante, Jesus começou a pregar, dizendo: \"Convertei-vos, porque o Reino dos Céus está próximo\". 23 Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo. 24 E sua fama espalhou-se por toda a Síria. Levavam-lhe todos os doentes, que sofriam diversas enfermidades e tormentos: endemoninhados, epiléticos e paralíticos. E Jesus os curava. 25 Numerosas multidões o seguiam, vindas da Galileia, da Decápole, de Jerusalém, da Judeia, e da região além do Jordão."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

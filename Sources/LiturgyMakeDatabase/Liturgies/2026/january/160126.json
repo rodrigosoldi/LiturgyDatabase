@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "16/01/26",
+      "liturgy": "1ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 8,4-7.10-22a",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 4 todos os anciãos de Israel se reuniram, foram procurar Samuel em Ramá, 5 e disseram-lhe: \"Olha, tu estás velho, e teus filhos não seguem os teus caminhos. Por isso, estabelece sobre nós um rei, para que exerça a justiça entre nós, como se faz em todos os povos\". 6 Samuel não gostou, quando lhe disseram: \"Dá-nos um rei, para que nos julgue\". E invocou o Senhor. 7 O Senhor disse a Samuel: \"Atende a tudo o que o povo te diz. Porque não é a ti que eles rejeitam, mas a mim, para que eu não reine mais sobre eles\". 10 Samuel transmitiu todas as palavras do Senhor ao povo, que lhe pedira um rei, 11 e disse: \"Estes serão os direitos do rei que reinará sobre vós: Tomará vossos filhos e os encarregará dos seus carros de guerra e dos seus cavalos e os fará correr à frente do seu carro. 12 Fará deles chefes de mil, e de cinquenta homens, e os empregará em suas lavouras e em suas colheitas, na fabricação de suas armas e de seus carros. 13 Fará de vossas filhas suas perfumistas, cozinheiras e padeiras. 14 Tirará os vossos melhores campos, vinhas e olivais e os dará aos seus funcionários. 15 Das vossas colheitas e das vossas vinhas ele cobrará o dízimo, e o destinará aos seus eunucos e aos seus criados. 16 Tomará também vossos servos e servas, vossos melhores bois e jumentos, e os fará trabalhar para ele. 17 Exigirá o dízimo de vossos rebanhos, e vós sereis seus escravos. 18 Naquele dia, clamareis ao Senhor por causa do rei que vós mesmos escolhestes, mas o Senhor não vos ouvirá\". 19 Porém, o povo não quis dar ouvidos às razões de Samuel, e disse: \"Não importa! Queremos um rei, 20 pois queremos ser como todas as outras nações. O nosso rei administrará a justiça, marchará à nossa frente e combaterá por nós em todas as guerras\". 21 Samuel ouviu todas as palavras do povo e repetiu-as aos ouvidos do Senhor. 22a Mas o Senhor disse-lhe: \"Faze-lhes a vontade, e dá-lhes um rei\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 88(89),16-17.18-19 ",
+              "chorus": "<<!R.!>> Ó Senhor eu cantarei eternamente o vosso amor.",
+              "verses": [
+                "Quão feliz é aquele povo que conhece a alegria; *\nseguirá pelo caminho, sempre à luz de vossa face!\nExultará de alegria em vosso nome dia a dia, *\ne com grande entusiasmo exaltará vossa justiça. <<!R.!>>",
+                "Pois sois vós, ó Senhor Deus, a sua força e sua glória, *\né por vossa proteção que exaltais nossa cabeça.\nDo Senhor é o nosso escudo, ele é nossa proteção, *\nele reina sobre nós, é o Santo de Israel! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Um grande profeta surgiu entre nós e Deus visitou o seu povo, aleluia."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 2,1-12",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "1 Alguns dias depois, Jesus entrou de novo em Cafarnaum. Logo se espalhou a notícia de que ele estava em casa. 2 E reuniram-se ali tantas pessoas, que já não havia lugar, nem mesmo diante da porta. E Jesus anunciava-lhes a Palavra. 3 Trouxeram-lhe, então, um paralítico, carregado por quatro homens. 4 Mas não conseguindo chegar até Jesus, por causa da multidão, abriram então o teto, bem em cima do lugar onde ele se encontrava. Por essa abertura desceram a cama em que o paralítico estava deitado. 5 Quando viu a fé daqueles homens, Jesus disse ao paralítico: \"Filho, os teus pecados estão perdoados\". 6 Ora, alguns mestres da Lei, que estavam ali sentados, refletiam em seus corações: 7 \"Como este homem pode falar assim? Ele está blasfemando: ninguém pode perdoar pecados, a não ser Deus\". 8 Jesus percebeu logo o que eles estavam pensando no seu íntimo, e disse: \"Por que pensais assim em vossos corações? 9 O que é mais fácil: dizer ao paralítico: 'Os teus pecados estão perdoados', ou dizer: 'Levanta-te, pega a tua cama e anda'? 10 Pois bem, para que saibais que o Filho do Homem tem, na terra, poder de perdoar pecados, — disse ele ao paralítico: — 11 eu te ordeno: levanta-te, pega tua cama, e vai para tua casa!\" 12 O paralítico então se levantou e, carregando a sua cama, saiu diante de todos. E ficaram todos admirados e louvavam a Deus, dizendo: \"Nunca vimos uma coisa assim\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

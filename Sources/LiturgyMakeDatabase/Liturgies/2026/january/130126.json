@@ -1,0 +1,64 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "13/01/26",
+      "liturgy": "1ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 1,9-20",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 9 Ana levantou-se, depois de ter comido e bebido em Silo. Ora, o sacerdote Eli estava sentado em sua cadeira à porta do templo do Senhor. 10 Ana, com o coração cheio de amargura, orou ao Senhor, derramando copiosas lágrimas. 11 E fez a seguinte promessa, dizendo: \"Senhor Todo-poderoso, se olhares para a aflição de tua serva e te lembrares de mim, se não te esqueceres da tua escrava e lhe deres um filho homem, eu o oferecerei a ti por todos os dias de sua vida, e não passará navalha sobre a sua cabeça\". 12 Como ela se demorasse nas preces diante do Senhor, Eli observava o movimento de seus lábios. 13 Ana, porém, apenas murmurava; os seus lábios se moviam, mas não se podia ouvir palavra alguma. Eli julgou que ela estivesse embriagada; 14 por isso lhe disse: \"Até quando estarás bêbada? Vai tirar essa bebedeira!\" 15 Ana, porém, respondeu: \"Não é isso, meu senhor! Sou apenas uma mulher muito infeliz; não bebi vinho, nem outra coisa que possa embebedar, mas desafoguei a minha alma na presença do Senhor. 16 Não julgues a tua serva como uma mulher perdida, pois foi pelo excesso da minha dor e da minha aflição que falei até agora\". 17 Eli então lhe disse: \"Vai em paz, e que o Deus de Israel te conceda o que lhe pediste\". 18 Ela respondeu: \"Que tua serva encontre graça diante dos teus olhos\". E a mulher foi embora, comeu e o seu semblante não era mais o mesmo. 19 Na manhã seguinte, ela e seu marido levantaram-se muito cedo e, depois de terem adorado o Senhor, voltaram para sua casa em Ramá. Elcana uniu-se a Ana, sua mulher, e o Senhor lembrou-se dela. 20 Ana concebeu e, no devido tempo, deu à luz um filho e chamou-o Samuel, porque — disse ela — \"eu o pedi ao Senhor\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 2,1.4-5.6-7.8abcd",
+              "chorus": "<<!R.!>> Meu coração se alegrou em Deus, meu Salvador.",
+              "verses": [
+                "Exulta no Senhor meu coração, *\ne se eleva a minha fronte no meu Deus;\nMinha boca desafia os meus rivais *\nporque me alegro com a vossa salvação. <<!R.!>>",
+                "O arco dos fortes foi dobrado, foi quebrado, *\nmas os fracos se vestiram de vigor.\nOs saciados se empregaram por um pão, *\nmas os pobres e os famintos se fartaram.\nMuitas vezes deu à luz a que era estéril, *\nmas a mãe de muitos filhos definhou. <<!R.!>>",
+                "É o Senhor quem dá a morte e dá a vida, *\nfaz descer à sepultura e faz voltar;\né o Senhor quem faz o pobre e faz o rico, *\né o Senhor quem nos humilha e nos exalta. <<!R.!>>",
+                "O Senhor ergue do pó o homem fraco, *\ne do lixo ele retira o indigente,\npara fazê-Ios assentar-se com os nobres *\nnum lugar de muita honra e distinção. <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Acolhei a palavra de Deus não como palavra humana, mas como mensagem de Deus, o que ela é, em verdade!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 1,21b-28",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "21b Estando com seus discípulos em Cafarnaum, Jesus, num dia de sábado, entrou na sinagoga e começou a ensinar. 22 Todos ficavam admirados com o seu ensinamento, pois ensinava como quem tem autoridade, não como os mestres da Lei. 23 Estava então na sinagoga um homem possuído por um espírito mau. Ele gritou: 24 \"Que queres de nós, Jesus Nazareno? Vieste para nos destruir? Eu sei quem tu és: tu és o Santo de Deus\". 25 Jesus o intimou: \"Cala-te e sai dele!\" 26 Então o espírito mau sacudiu o homem com violência, deu um grande grito e saiu. 27 E todos ficaram muito espantados e perguntavam uns aos outros: \"O que é isto? Um ensinamento novo dado com autoridade: Ele manda até nos espíritos maus, e eles obedecem!\" 28 E a fama de Jesus logo se espalhou por toda a parte, em toda a região da Galileia."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

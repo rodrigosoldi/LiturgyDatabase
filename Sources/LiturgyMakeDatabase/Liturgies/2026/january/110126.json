@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "11/01/26",
+      "liturgy": "Batismo do Senhor, Festa",
+      "liturgicalColor": "BRANCO",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 42,1-4.6-7",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "Assim fala o Senhor: 1 \"Eis o meu servo - eu o recebo; eis o meu eleito - nele se compraz minh'alma; pus meu espírito sobre ele, ele promoverá o julgamento das nações. 2 Ele não clama nem levanta a voz, nem se faz ouvir pelas ruas. 3 Não quebra uma cana rachada nem apaga um pavio que ainda fumega; mas promoverá o julgamento para obter a verdade. 4 Não esmorecerá nem se deixará abater, enquanto não estabelecer a justiça na terra; os países distantes esperam seus ensinamentos. 6 Eu, o Senhor, te chamei para a justiça e te tomei pela mão; eu te formei e te constituí como o centro de aliança do povo, luz das nações, 7 para abrires os olhos dos cegos, tirar os cativos da prisão, livrar do cárcere os que vivem nas trevas\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 28(29),1a.2.3ac-4.3b.9b-10",
+              "chorus": "<<!R.!>> Que o Senhor abençoe, com a paz, o seu povo!",
+              "verses": [
+                "Filhos de Deus, tributai ao Senhor, *\ntributai-lhe a glória e o poder!\nDai-lhe a glória devida ao seu nome; *\nadorai-o com santo ornamento! <<!R.!>>",
+                "Eis a voz do Senhor sobre as águas, *\nsua voz sobre as águas imensas!\nEis a voz do Senhor com poder! *\nEis a voz do Senhor majestosa. <<!R.!>>",
+                "Sua voz no trovão reboando! *\nNo seu templo os fiéis bradam: \"Glória!\"\nÉ o Senhor que domina os dilúvios, *\no Senhor reinará para sempre! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "At 10,34-38",
+              "title": "Leitura dos Atos dos Apóstolos",
+              "text": "Naqueles dias, 34 Pedro tomou a palavra e disse: \"De fato, estou compreendendo que Deus não faz distinção entre as pessoas. 35 Pelo contrário, ele aceita quem o teme e pratica a justiça, qualquer que seja a nação a que pertença. 36 Deus enviou sua palavra aos israelitas e lhes anunciou a Boa-Nova da paz, por meio de Jesus Cristo, que é o Senhor de todos. 37 Vós sabeis o que aconteceu em toda a Judeia, a começar pela Galileia, depois do batismo pregado por João: 38 como Jesus de Nazaré foi ungido por Deus com o Espírito Santo e com poder. Ele andou por toda a parte, fazendo o bem e curando a todos os que estavam dominados pelo demônio; porque Deus estava com ele\"."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Abriram-se os céus e fez-se ouvir a voz do Pai: Eis meu filho muito amado; escutai-o, todos vós!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 3,13-17",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "Naquele tempo, 13 Jesus veio da Galileia para o rio Jordão, a fim de se encontrar com João e ser batizado por ele. 14 Mas João protestou, dizendo: \"Eu preciso ser batizado por ti, e tu vens a mim?\" 15 Jesus, porém, respondeu-lhe: \"Por enquanto deixa como está, porque nós devemos cumprir toda a justiça!\" E João concordou. 16 Depois de ser batizado, Jesus saiu logo da água. Então o céu se abriu e Jesus viu o Espírito de Deus, descendo como pomba e vindo pousar sobre ele. 17 E do céu veio uma voz que dizia: \"Este é o meu Filho amado, no qual eu pus o meu agrado\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "15/01/26",
+      "liturgy": "1ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 4,1-11",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "1 Naqueles dias os filisteus reuniram-se para fazer guerra a Israel. Israel saiu ao encontro dos filisteus, acampando perto de Eben-Ezer, enquanto os filisteus, de sua parte, avançaram até Afec 2 e puseram-se em linha de combate diante de Israel. Travada a batalha, Israel foi derrotado pelos filisteus. E morreram naquele combate, em campo aberto, cerca de quatro mil homens. 3 O povo voltou ao acampamento e os anciãos de Israel disseram: \"Por que fez o Senhor que hoje fôssemos vencidos pelos filisteus? Vamos a Silo buscar a arca da aliança do Senhor, para que ela esteja no meio de nós e nos salve das mãos dos nossos inimigos\". 4 Então o povo mandou trazer de Silo a arca da aliança do Senhor Todo-poderoso, que se senta sobre querubins. Os dois filhos de Eli, Hofni e Fineias, acompanhavam a arca. 5 Quando a arca da aliança do Senhor chegou ao acampamento, todo Israel rompeu num grande clamor, que ressoou por toda a terra. 6 Os filisteus, ouvindo isso, diziam: \"Que gritaria é essa tão grande no campo dos hebreus?\" E souberam que a arca do Senhor tinha chegado ao acampamento. 7 Os filisteus tiveram medo e disseram: \"Deus chegou ao acampamento!\" E lamentavam-se: 8 \"Ai de nós! Porque os hebreus não estavam com essa alegria nem ontem nem ante-ontem. Ai de nós! Quem nos salvará da mão desses deuses tão poderosos? Foram eles que afligiram o Egito com toda espécie de pragas no deserto. 9 Mas coragem, filisteus, portai-vos como homens, para que não vos torneis escravos dos hebreus como eles o foram de vós! Sede homens e combatei!\" 10 Então os filisteus lançaram-se à luta, Israel foi derrotado e cada um fugiu para a sua tenda. O massacre foi grande: do lado de Israel tombaram trinta mil homens. 11 A arca de Deus foi capturada e morreram os dois filhos de Eli, Hofni e Fineias."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 43(44),10-11.14-15.24-25",
+              "chorus": "<<!R.!>> Libertai-nos, Senhor, pela vossa compaixão!",
+              "verses": [
+                "Porém, agora nos deixastes e humilhastes, *\njá não saís com nossas tropas para a guerra!\nVós nos fizestes recuar ante o inimigo, *\nos adversários nos pilharam à vontade. <<!R.!>>",
+                "De nós fizestes o escárnio dos vizinhos, *\nzombaria e gozação dos que nos cercam;\npara os pagãos somos motivo de anedotas, *\nzombam de nós a sacudir sua cabeça. <<!R.!>>",
+                "Levantai-vos, ó Senhor, por que dormis? *\nDespertai! Não nos deixeis eternamente!\nPor que nos escondeis a vossa face *\ne esqueceis nossa opressão, nossa miséria? <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Jesus pregava a Boa-Nova, o Reino anunciando, e curava toda espécie de doenças entre o povo."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 1,40-45",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 40 um leproso chegou perto de Jesus, e de joelhos pediu: \"Se queres tens o poder de curar-me\". 41 Jesus, cheio de compaixão, estendeu a mão, tocou nele, e disse: \"Eu quero: fica curado!\" 42 No mesmo instante a lepra desapareceu e ele ficou curado. 43 Então Jesus o mandou logo embora, 44 falando com firmeza: \"Não contes nada disso a ninguém! Vai, mostra-te ao sacerdote e oferece, pela tua purificação, o que Moisés ordenou, como prova para eles!\" 45 Ele foi e começou a contar e a divulgar muito o fato. Por isso Jesus não podia mais entrar publicamente numa cidade: ficava fora, em lugares desertos. E de toda parte vinham procurá-lo."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

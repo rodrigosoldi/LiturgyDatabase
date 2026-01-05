@@ -1,0 +1,76 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "25/01/26",
+      "liturgy": "3º Domingo do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 8,23b-9,3",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "23b No tempo passado o Senhor humilhou a terra de Zabulon e a terra de Neftali; mas recentemente cobriu de glória o caminho do mar, do além-Jordão e da Galileia das nações. 9,1 O povo, que andava na escuridão, viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. 2 Fizeste crescer a alegria, e aumentaste a felicidade; todos se regozijam em tua presença como alegres ceifeiros na colheita, ou como exaltados guerreiros ao dividirem os despojos. 3 Pois o jugo que oprimia o povo, - a carga sobre os ombros, o orgulho dos fiscais - tu os abateste como na jornada de Madiã."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 26(27),1.4.13-14",
+              "chorus": "<<!R.!>> O Senhor é minha luz e salvação.\n O Senhor é a proteção da minha vida.",
+              "verses": [
+                "O Senhor é minha luz e salvação;*\nde quem eu terei medo?\nO Senhor é a proteção da minha vida;*\nperante quem eu tremerei? <<!R.!>>",
+                "Ao Senhor eu peço apenas uma coisa,*\ne é só isto que eu desejo:\nhabitar no santuário do Senhor*\npor toda a minha vida;\nsaborear a suavidade do Senhor*\ne contemplá-lo no seu templo. <<!R.!>>",
+                "Sei que a bondade do Senhor eu hei de ver*\nna terra dos viventes.\nEspera no Senhor e tem coragem,*\nespera no Senhor! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Cor 1,10-13.17",
+              "title": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+              "text": "10 Irmãos, eu vos exorto, pelo nome do Senhor nosso, Jesus Cristo, a que sejais todos concordes uns com os outros e não admitais divisões entre vós. Pelo contrário, sede bem unidos e concordes no pensar e no falar. 11 Com efeito, pessoas da família de Cloé informaram-me a vosso respeito, meus irmãos, que está havendo contendas entre vós. 12 Digo isto, porque cada um de vós afirma: \"Eu sou de Paulo\"; ou: \"Eu sou de Apolo\"; ou: \"Eu sou de Cefas\"; ou: \"Eu sou de Cristo!\" 13 Será que Cristo está dividido? Acaso Paulo é que foi crucificado por amor de vós? Ou é no nome de Paulo que fostes batizados? 17 De fato, Cristo não me enviou para batizar, mas para pregar a boa nova da salvação, sem me valer dos recursos da oratória, para não privar a cruz de Cristo da sua força própria."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Pois do Reino a Boa Nova Jesus Cristo anunciava e as dores do seu povo, com poder, Jesus curava."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mt 4,12-23",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+                "text": "12 Ao saber que João tinha sido preso, Jesus voltou para a Galileia. 13 Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, 14 no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías: 15 \"Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos! 16 O povo que vivia nas trevas viu uma grande luz e para os que viviam na região escura da morte brilhou uma luz\". 17 Daí em diante Jesus começou a pregar dizendo: \"Convertei-vos, porque o Reino dos Céus está próximo\". 18 Quando Jesus andava à beira do mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André. Estavam lançando a rede ao mar, pois eram pescadores. 19 Jesus disse a eles: \"Segui-me, e eu farei de vós pescadores de homens\". 20 Eles, imediatamente deixaram as redes e o seguiram. 21 Caminhando um pouco mais, Jesus viu outros dois irmãos: Tiago, filho de Zebedeu, e seu irmão João. Estavam na barca com seu pai Zebedeu consertando as redes. Jesus os chamou. 22 Eles, imediatamente deixaram a barca e o pai, e o seguiram. 23 Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

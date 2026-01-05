@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "20/01/26",
+      "liturgy": "2ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 16,1-13",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 1 o Senhor disse a Samuel: \"Até quando ficarás chorando por causa de Saul, se eu mesmo o rejeitei para que não reine mais sobre Israel? Enche o chifre de óleo e vem, para que eu te envie à casa de Jessé de Belém, pois escolhi um rei para mim entre os seus filhos\". 2 Samuel ponderou: \"Como posso ir? Se Saul o souber, vai-me matar\". O Senhor respondeu: \"Tomarás contigo uma novilha da manada, e dirás: 'Vim para oferecer um sacrifício ao Senhor'. 3 Convidarás Jessé para o sacrifício. Eu te mostrarei o que deves fazer, e tu ungirás a quem eu te designar\". 4 Samuel fez o que o Senhor lhe disse, e foi a Belém. Os anciãos da cidade vieram-lhe ao encontro, e perguntaram: \"É de paz a tua vinda?\" 5 \"Sim, é de paz\", respondeu Samuel. \"Vim para fazer um sacrifício ao Senhor. Purificai-vos e vinde comigo, para que eu ofereça a vítima\". Ele purificou então Jessé e seu filhos e convidou-os para o sacrifício. 6 Assim que chegaram, Samuel viu a Eliab, e disse consigo: \"Certamente é este o ungido do Senhor!\" 7 Mas o Senhor disse-lhe: \"Não olhes para a sua aparência nem para a sua grande estatura, porque eu o rejeitei. Não julgo segundo os critérios do homem: o homem vê as aparências, mas o senhor olha o coração\". 8 Então Jessé chamou Abinadab e apresentou-o a Samuel, que disse: \"Também não é este que o Senhor escolheu\". 9 Jessé trouxe-lhe depois Sama, e Samuel disse: \"A este tampouco o Senhor escolheu\". 10 Jessé fez vir seus sete filhos à presença de Samuel, mas Samuel disse: \"O Senhor não escolheu a nenhum deles\". 11 E acrescentou: \"Estão aqui todos os teus filhos?\" Jessé respondeu: \"Resta ainda o mais novo, que está apascentando as ovelhas\". E Samuel ordenou a Jessé: \"Manda buscá-lo, pois não nos sentaremos à mesa, enquanto ele não chegar\". 12 Jessé mandou buscá-lo. Era ruivo, de belos olhos e de formosa aparência. E o Senhor disse: \"Levanta-te, unge-o: é este!\" 13 Samuel tomou o chifre com óleo e ungiu Davi na presença de seus irmãos. E a partir daquele dia, o espírito do Senhor se apoderou de Davi. A seguir, Samuel se pôs a caminho e voltou para Ramá."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 88(89),20.21-22.27-28",
+              "chorus": "<<!R.!>> Encontrei e escolhi a Davi, meu servidor.",
+              "verses": [
+                "Outrora vós falastes em visões a vossos santos: †\n\"Coloquei uma coroa na cabeça de um herói *\ne do meio deste povo escolhi o meu Eleito. <<!R.!>>",
+                "Encontrei e escolhi a Davi, meu servidor, *\ne o ungi, para ser rei, com meu óleo consagrado.\nEstará sempre com ele minha mão onipotente, *\ne meu braço poderoso há de ser a sua força. <<!R.!>>",
+                "Ele, então, me invocará: 'Ó Senhor, vós sois meu Pai, *\nsois meu Deus, sois meu Rochedo onde encontro a salvação!'\nE por isso farei dele o meu filho primogênito, *\nsobre os reis de toda a terra farei dele o Rei altíssimo\". <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Que o Pai do Senhor Jesus Cristo vos dê do saber o Espírito; para que conheçais a esperança, reservada para vós como herança!"
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 2,23-28",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "23 Jesus estava passando por uns campos de trigo, em dia de sábado. Seus discípulos começaram a arrancar espigas, enquanto caminhavam. 24 Então os fariseus disseram a Jesus: \"Olha! Por que eles fazem em dia de sábado o que não é permitido?\" 25 Jesus lhes disse: \"Por acaso, nunca lestes o que Davi e seus companheiros fizeram quando passaram necessidade e tiveram fome? 26 Como ele entrou na casa de Deus, no tempo em que Abiatar era sumo sacerdote, comeu os pães oferecidos a Deus, e os deu também aos seus companheiros? No entanto, só aos sacerdotes é permitido comer esses pães\". 27 E acrescentou: \"O sábado foi feito para o homem, e não o homem para o sábado. 28 Portanto, o Filho do Homem é senhor também do sábado\"."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

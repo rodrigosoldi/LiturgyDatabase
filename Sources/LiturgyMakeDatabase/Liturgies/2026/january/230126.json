@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "23/01/26",
+      "liturgy": "2ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Sm 24,3-21",
+              "title": "Leitura do Primeiro Livro de Samuel",
+              "text": "Naqueles dias, 3 Saul tomou consigo três mil homens escolhidos em todo o Israel e saiu em busca de Davi e de seus homens, até aos rochedos das cabras monteses. 4 E chegou aos currais de ovelhas que encontrou no caminho. Havia ali uma gruta, onde Saul entrou para satisfazer suas necessidades. Davi e seus homens achavam-se no fundo da gruta, 5 e os homens de Davi disseram-lhe: \"Este certamente é o dia do qual o Senhor te falou: 'Eu te entregarei o teu inimigo, para que faças dele o que quiseres'\". Então Davi aproximou-se de mansinho e cortou a ponta do manto de Saul. 6 Mas logo o seu coração se encheu de remorsos por ter feito aquilo, 7 e disse aos seus homens: \"Que o Senhor me livre de fazer uma coisa dessas ao ungido do Senhor, levantando a minha mão contra ele, o ungido do Senhor\". 8 Com essas palavras, Davi conteve os seus homens, e não permitiu que se lançassem sobre Saul. Este deixou a gruta e seguiu seu caminho. 9 Davi levantou-se a seguir, saiu da gruta e gritou atrás dele: \"Senhor, meu rei!\" Saul voltou-se e Davi inclinou-se até o chão e prostrou-se. 10 E disse a Saul: \"Por que dás ouvidos às palavras dos que te dizem que Davi procura fazer-te mal? 11 Viste hoje com teus próprios olhos que o Senhor te entregou em minhas mãos, na gruta. Renunciando a matar-te! poupei-te a vida, porque pensei: Não levantarei a mão contra o meu senhor, pois ele é o ungido do Senhor, 12 e meu pai. Presta atenção, e vê em minha mão a ponta do teu manto. Se eu cortei este pedaço do teu manto e não te matei, reconhece que não há maldade nem crime em mim, que não pequei contra ti. Tu, porém, andas procurando tirar-me a vida. 13 Que o Senhor seja nosso juiz e que ele me vingue de ti. Mas eu nunca levantarei a minha mão contra ti. 14 'Dos ímpios sairá a impiedade', diz o antigo provérbio; por isso, a minha mão não te tocará. 15 A quem persegues tu, ó rei de Israel? A quem persegues? Um cão morto! E uma pulga! 16 Pois bem! O senhor seja juiz e julgue entre mim e ti. Que ele examine e defenda a minha causa, e me livre das tuas mãos\". 17 Quando Davi terminou de falar, Saul lhe disse: \"É esta a tua voz, ó meu filho Davi?\" E começou a clamar e a chorar 18 Depois disse a Davi: \"Tu és mais justo do que eu, porque me tens feito bem e eu só te tenho feito mal. 19 Hoje me revelaste a tua bondade para comigo, pois o Senhor me entregou em tuas mãos e não me mataste. 20 Qual é o homem que, encontrando o seu inimigo, o deixa ir embora tranquilamente? Que o Senhor te recompense pelo bem que hoje me fizeste. 21 Agora, eu sei com certeza que tu serás rei, e que terás em tua mão o reino de Israel\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 56(57),2.3-4.6 e 11",
+              "chorus": "<<!R.!>> Piedade, Senhor, tende piedade.",
+              "verses": [
+                "Piedade, Senhor, piedade, *\npois em vós se abriga a minh'alma!\nDe vossas asas, à sombra, me achego, *\naté que passe a tormenta, Senhor! <<!R.!>>",
+                "Lanço um grito ao Senhor Deus Altíssimo, *\na este Deus que me dá todo o bem.\nQue me envie do céu sua ajuda †\ne confunda os meus opressores! *\nDeus me envie sua graça e verdade! <<!R.!>>",
+                "Elevai-vos, ó Deus, sobre os céus, *\nvossa glória refulja na terra!\nVosso amor é mais alto que os céus, *\nmais que as nuvens a vossa verdade! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Em Cristo, Deus reconciliou consigo mesmo a humanidade; e a nós ele entregou esta reconciliação."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Mc 3,13-19",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+                "text": "Naquele tempo, 13 Jesus subiu ao monte e chamou os que ele quis. E foram até ele. 14 Então Jesus designou Doze, para que ficassem com ele e para enviá-los a pregar, 15 com autoridade para expulsar os demônios. 16 Designou, pois, os Doze: Simão, a quem deu o nome de Pedro; 17 Tiago e João, filhos de Zebedeu, aos quais deu o nome de Boanerges, que quer dizer \"filhos do trovão\"; 18 André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o cananeu, 19 e Judas Iscariotes, aquele que depois o traiu."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

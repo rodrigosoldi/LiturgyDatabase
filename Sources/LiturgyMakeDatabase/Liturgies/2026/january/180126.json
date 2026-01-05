@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "18/01/26",
+      "liturgy": "2º Domingo do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Is 49,3.5-6",
+              "title": "Leitura do Livro do Profeta Isaías",
+              "text": "3 O Senhor me disse: \"Tu és o meu Servo, Israel, em quem serei glorificado\". 5 E agora diz-me o Senhor - ele que me preparou desde o nascimento para ser seu Servo - que eu recupere Jacó para ele e faça Israel unir-se a ele; aos olhos do Senhor esta é a minha glória. 6 Disse ele: \"Não basta seres meu Servo para restaurar as tribos de Jacó e reconduzir os remanescentes de Israel: eu te farei luz das nações, para que minha salvação chegue até aos confins da terra\"."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 39(40),2.4ab.7-8a.8b-9.10",
+              "chorus": "<<!R.!>> Eu disse: Eis que venho, Senhor,\n com prazer faço a vossa vontade!",
+              "verses": [
+                "Esperando, esperei no Senhor,*\ne inclinando-se, ouviu meu clamor.\nCanto novo ele pôs em meus lábios,*\num poema em louvor ao Senhor. <<!R.!>>",
+                "Sacrifício e oblação não quisestes,*\nmas abristes, Senhor, meus ouvidos;\nnão pedistes ofertas nem vítimas,*\nholocaustos por nossos pecados. <<!R.!>>",
+                "E então eu vos disse: \"Eis que venho!\"*\nSobre mim está escrito no livro:\n\"Com prazer faço a vossa vontade,*\nguardo em meu coração vossa lei!\" <<!R.!>>",
+                "Boas-novas de vossa justiça †\nanunciei numa grande assembleia;*\nvós sabeis: não fechei os meus lábios! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "title": "2ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "1Cor 1,1-3",
+              "title": "Início da Primeira Carta de São Paulo aos Coríntios",
+              "text": "1 Paulo, chamado a ser apóstolo de Jesus Cristo, por vontade de Deus, e o irmão Sóstenes, 2 à Igreja de Deus que está em Corinto: aos que foram santificados em Cristo Jesus, chamados a ser santos junto com todos que, em qualquer lugar, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso. 3 Para vós, graça e paz, da parte de Deus, nosso Pai, e do Senhor Jesus Cristo."
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "A Palavra se fez carne, entre nós ela acampou; todo aquele que a acolheu, de Deus filho se tornou."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Jo 1,29-34",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo João",
+                "text": "Naquele tempo, 29 João viu Jesus aproximar-se dele e disse: \"Eis o Cordeiro de Deus, que tira o pecado do mundo. 30 Dele é que eu disse: 'Depois de mim vem um homem que passou à minha frente, porque existia antes de mim'. 31 Também eu não o conhecia, mas se eu vim batizar com água, foi para que ele fosse manifestado a Israel\". 32 E João deu testemunho, dizendo: \"Eu vi o Espírito descer, como uma pomba do céu, e permanecer sobre ele. 33 Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: 'Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo'. 34 Eu vi e dou testemunho: Este é o Filho de Deus!\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,7 +8,6 @@
 import Foundation
 
 struct FileUtil {
-
 	private let packageName = "LiturgyDatabase"
 	private let productName = "LiturgyMakeDatabase"
 
@@ -23,7 +22,7 @@ struct FileUtil {
 		var isDirectory: ObjCBool = false
 
 		if FileManager.default.fileExists(atPath: filePath, isDirectory: &isDirectory), isDirectory.boolValue {
-			return filePath			
+			return filePath
 		} else {
 			let filePath = (bundle?.bundlePath ?? "") + "/Contents/Resources/Liturgies" // if run using xcode
 			if FileManager.default.fileExists(atPath: filePath, isDirectory: &isDirectory), isDirectory.boolValue {
@@ -46,5 +45,4 @@ struct FileUtil {
 
 		return fileData
 	}
-
 }

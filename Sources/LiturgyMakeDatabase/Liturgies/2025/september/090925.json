@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "liturgies": [
+    {
+      "date": "09/09/25",
+      "liturgy": "23ª Semana do Tempo Comum",
+      "liturgicalColor": "VERDE",
+      "obs": "",
+      "readings": [
+        {
+          "type": "reading",
+          "title": "1ª Leitura",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Cl 2,6-15",
+              "title": "Leitura da Carta de São Paulo aos Colossenses",
+              "text": "Irmãos, assim como aceitastes a Cristo Jesus como Senhor, assim continuai a guiar-vos por ele: 7 enraizados nele e edificados sobre ele, apoiados na fé que vos foi ensinada, dando-lhe muitas ações de graças. 8 Estai alerta, para que ninguém vos enrede com sua filosofia e com doutrina falsa, baseando-se em tradição humana e remontando às forças elementares do mundo, sem se fundamentar em Cristo. 9 Pois nele habita corporalmente toda a plenitude da divindade. 10 Dele também vós estais repletos, pois ele é a Cabeça de todas as forças e de todos os poderes. 11 Nele, vós também recebestes uma circuncisão, não feita por mão humana, mas uma circuncisão que é de Cristo, pela qual renunciais ao corpo perecível. 12 Com Cristo fostes sepultados no batismo; com ele também fostes ressuscitados por meio da fé no poder de Deus, que ressuscitou a Cristo dentre os mortos. 13 Ora, vós estáveis mortos por causa dos vossos pecados, e vossos corpos não tinham recebido a circuncisão, até que Deus vos trouxe para a vida, junto com Cristo, e a todos nós perdoou os pecados. 14 Existia contra nós uma conta a ser paga, mas ele a cancelou, apesar das obrigações legais, e a eliminou, pregando-a na cruz; 15 Ele despojou as autoridades e os poderes sobre-humanos e os expôs publicamente em espetáculo, levando-os em cortejo triunfal."
+            }
+          ]
+        },
+        {
+          "type": "psalm",
+          "title": "Salmo",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "reference": "Sl 144(145),1-2.8-9.10-11 (R. 9a)",
+              "chorus": "<<!R.!>> O Senhor é muito bom para com todos.",
+              "verses": [
+                "Ó meu Deus, quero exaltar-vos, ó meu Rei, *\ne bendizer o vosso nome pelos séculos.\nTodos os dias haverei de bendizer-vos, *\nhei de louvar o vosso nome para sempre. <<!R.!>>",
+                "Misericórdia e piedade é o Senhor, *\nele é amor, é paciência, é compaixão.\nO Senhor é muito bom para com todos, *\nsua ternura abraça toda criatura. <<!R.!>>",
+                "Que vossas obras, ó Senhor, vos glorifiquem, *\ne os vossos santos com louvores vos bendigam!\nNarrem a glória e o esplendor do vosso reino *\ne saibam proclamar vosso poder! <<!R.!>>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "gospel",
+          "title": "Evangelho",
+          "obs": "",
+          "readings": [
+            {
+              "obs": "",
+              "gospelAcclamation": {
+                "chorus": "Aleluia, Aleluia, Aleluia.",
+                "text": "Eu vos escolhi a fim de que deis, no meio do mundo, um fruto que dure."
+              },
+              "reading": {
+                "obs": "",
+                "reference": "Lc 6,12-19",
+                "title": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+                "text": "12 Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. 13 Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: 14 Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; 15 Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; 16 Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. 17 Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 18 Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. 19 A multidão toda procurava tocar em Jesus, porque uma força saía dele, e curava a todos."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
